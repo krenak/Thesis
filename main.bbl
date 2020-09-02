@@ -257,6 +257,7 @@
       \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -306,6 +307,42 @@
       \verb ::
       \endverb
       \keyw{development strategy,privatization,regulatory agencies,the electricity sector}
+    \endentry
+    \entry{U.S.DepartmentofEnergy-USDOE2012}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {US Department of Energy}%
+      }
+      \list{location}{1}{%
+        {Washington - DC}%
+      }
+      \strng{namehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{fullhash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{bibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Specifically, this guide leverages NREL's recent campus expansion (which will be almost complete by the end of 2012) to provide best practices and lessons learned so other building owners can replicate these experiences to construct market-viable, world-class, energy-efficient buildings. The guide identifies and explains in detail the following five steps to Energy-Performance-Based Procurement:}
+      \field{title}{{How-To Guide for Energy-Performance-Based Procurement: An Integrated Approach for Whole Building High Performance Specifications in Commercial Buildings}}
+      \field{type}{techreport}
+      \field{year}{2012}
+      \field{pages}{80}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{2012,DOE,NZEB}
     \endentry
     \entry{Didone2014}{thesis}{}
       \name{author}{1}{}{%
@@ -529,6 +566,48 @@
       \verb 10.1080/09613218.2014.960783
       \endverb
       \keyw{cost,energy efficiency,net-zero,passive design,project management,sustainable design,systems approach}
+    \endentry
+    \entry{U.S.DepartmentofEnergy-USDOE2015}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Department of Energy - DOE}%
+      }
+      \list{location}{1}{%
+        {Washington, D.C.}%
+      }
+      \strng{namehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{fullhash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{bibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This report describes the modeling methodology and results for testing done of building thermal envelope and fabric tests designated as Cases 195 through 960 of ANSI/ASHRAE Standard 140-2011 titled Standard Method of Test for the Evaluation of Building Energy Analysis Computer Programs with the EnergyPlus Version 8.3.0-b45b06b780. The results of EnergyPlus are also compared with results from several other whole building energy analysis programs that simulated the same test cases.}
+      \field{title}{{Testing with Building Thermal Envelope and Fabric Load Tests from ANSI/ASHRAE Standard 140-2011}}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \field{pages}{58}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.gard.com
+      \endverb
+      \verb{url}
+      \verb www.gard.com
+      \endverb
+      \keyw{140-2011,ASHRAE,EnergyPlus}
     \endentry
     \entry{Conejero2016}{article}{}
       \name{author}{3}{}{%
