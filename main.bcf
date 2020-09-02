@@ -2276,8 +2276,22 @@
     <bcf:citekey order="4">UnitedNationsEnvironmentProgramme-UNEP2019</bcf:citekey>
     <bcf:citekey order="5">Pikas2014</bcf:citekey>
     <bcf:citekey order="5">Pikas2017</bcf:citekey>
-    <bcf:citekey order="6">Chen2019</bcf:citekey>
-    <bcf:citekey order="7">U.S.DepartmentofEnergy-USDOE2011</bcf:citekey>
+    <bcf:citekey order="6">AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2019</bcf:citekey>
+    <bcf:citekey order="6">Didone2014</bcf:citekey>
+    <bcf:citekey order="6">InternationalEnergyAgency-IEA2018</bcf:citekey>
+    <bcf:citekey order="7">EmpresadePesquisaEnergetica-EPE2017</bcf:citekey>
+    <bcf:citekey order="8">Leme2012</bcf:citekey>
+    <bcf:citekey order="9">Conejero2016</bcf:citekey>
+    <bcf:citekey order="9">Tolmasquim2000</bcf:citekey>
+    <bcf:citekey order="10">Pinto2017</bcf:citekey>
+    <bcf:citekey order="11">EmpresadePesquisaEnergetica-EPE2017a</bcf:citekey>
+    <bcf:citekey order="12">AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2019</bcf:citekey>
+    <bcf:citekey order="12">EnergiasdePortugal-EDP2017</bcf:citekey>
+    <bcf:citekey order="13">AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2018</bcf:citekey>
+    <bcf:citekey order="13">AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2019</bcf:citekey>
+    <bcf:citekey order="13">EmpresadePesquisaEnergetica-EPE2018</bcf:citekey>
+    <bcf:citekey order="14">Chen2019</bcf:citekey>
+    <bcf:citekey order="15">U.S.DepartmentofEnergy-USDOE2011</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">
