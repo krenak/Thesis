@@ -1,20 +1,11 @@
 # Fdb version 3
-<<<<<<< HEAD
 ["biber main"] 1599009828 "main.bcf" "main.bbl" "main" 1599068535
   "main.bcf" 1599068535 106699 2682700eb165d415ba6ae7857b8dec3b "pdflatex"
-=======
-["biber main"] 1599071604 "main.bcf" "main.bbl" "main" 1599074825
-  "main.bcf" 1599074825 107754 a121a22cb7fc19fc85a2a6d97ccb612b "pdflatex"
->>>>>>> intro
   "ref.bib" 1598991756 562034 106b2896c436c095cbeca486e45aaf7e ""
   (generated)
   "main.bbl"
   "main.blg"
-<<<<<<< HEAD
 ["pdflatex"] 1599068532 "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex" "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.pdf" "main" 1599068535
-=======
-["pdflatex"] 1599074822 "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex" "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.pdf" "main" 1599074825
->>>>>>> intro
   "C:/Users/aaa_l/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1598478754 10050466 8568016b8a220c0ceb96ba6e8cb6d29d ""
   "C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1598494327 109051 726152ee9fb026e0830ec135d74683e2 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc" 1458473887 4993 80dc9bab7f31fb78a000ccfed0e27cab ""
@@ -115,7 +106,6 @@
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/tex/latex/xpatch/xpatch.sty" 1585221260 8510 7803f78066c4f9d008405191a4b43073 ""
-<<<<<<< HEAD
   "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.aux" 1599068535 4452 efa2a4fed1cd03a3c998abcf69dbe4dd ""
   "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex" 1599068529 2592 543f77554537046b33ab84d83d75cbfc ""
   "main.aux" 1599068535 4452 efa2a4fed1cd03a3c998abcf69dbe4dd "pdflatex"
@@ -126,21 +116,6 @@
   "sections/abstract.tex" 1598984041 2827 14f877b3baf0d0962ed545e3d17f5d2c ""
   "sections/definicoes.tex" 1598988718 326 d6f5625e028f7540a17368ad05d76c0a ""
   "sections/intro.tex" 1599068529 7263 1e80c5a11b0573888110ec3f8374ba16 ""
-=======
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.aux" 1599074825 7542 4540ca158e809c814f8014f3d96fed54 ""
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex" 1599074759 2870 37806ac016014494e40b41f420f36a16 ""
-  "main.aux" 1599074825 7542 4540ca158e809c814f8014f3d96fed54 "pdflatex"
-  "main.bbl" 1599071608 72612 0cfe2a8d24a5569f97cb99bc71a4f096 "biber main"
-  "main.lof" 1599074825 126 6ff73d4f1b51cd91ce3254382096fb44 "pdflatex"
-  "main.lot" 1599074825 126 6ff73d4f1b51cd91ce3254382096fb44 "pdflatex"
-  "main.run.xml" 1599074825 2436 582523b4f180ddef01de8fbe0b0f7416 "pdflatex"
-  "main.tex" 1599074759 2870 37806ac016014494e40b41f420f36a16 ""
-  "main.toc" 1599074825 782 8d9214ce98f1176fc4c11eca47de7798 "pdflatex"
-  "sections/abrev.tex" 1599072910 1417 7bf4316145e1e4f0ee1e9a79431245f2 ""
-  "sections/abstract.tex" 1599074271 2647 c56a890e963b0b103c05cb8b82c6a193 ""
-  "sections/definicoes.tex" 1598988718 326 d6f5625e028f7540a17368ad05d76c0a ""
-  "sections/intro.tex" 1599071244 7458 c799be46e0aa66b1ac02e6996fdd5519 ""
->>>>>>> intro
   "sections/metodo.tex" 1598983917 2003 7f7fdfc594ac0328d7d6b2a3fd78800f ""
   "sections/objetivos.tex" 1599074793 1447 26def01ff0c2bf3a75939761da901870 ""
   "sections/question.tex" 1599074818 1447 56b3195cecd61557c2323c96af8c74d7 ""
@@ -148,25 +123,12 @@
   "sections/resumo.tex" 1599073156 2796 3eb8b192b812255fab644359970e502b ""
   "sections/zeroenergy.tex" 1598983875 538 fad8596eed8ccba1fb6e32d8a605649f ""
   (generated)
-<<<<<<< HEAD
   "main.toc"
   "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.log"
   "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.pdf"
   "main.log"
   "main.aux"
   "main.run.xml"
-=======
-  "main.run.xml"
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.log"
-  "main.lof"
-  "main.toc"
-  "main.aux"
-  "main.lot"
->>>>>>> intro
   "main.pdf"
   "main.log"
   "main.bcf"
-<<<<<<< HEAD
-=======
-  "f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.pdf"
->>>>>>> intro
