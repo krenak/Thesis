@@ -23,6 +23,7 @@
 \usepackage[singlespacing]{setspace} % pacote de formatação de espaçamento entre linhas
 %\usepackage{blindtext} % pacote de inserção de texto randomizado - lorem ipsum
 
+%-------cabeçalho e rodapé-------%
 \pagestyle{fancy} % estilo do cabeçalho e rodapé
 \fancyhf{}
 \rhead{FRAGA, Anderson A.}
@@ -34,7 +35,7 @@
 %\setlenght{\parindent}{1.3cm}
 %\setlenght{\parskip}{0.2cm}
 
-%-------início do artigo-------%
+%-------início da dissertação-------%
 \begin{document}
 \title{Potencial de Adoção do Conceito Zero Energy para Edifícios Comerciais 
 em Vitória-ES}
@@ -42,7 +43,12 @@ em Vitória-ES}
 \date{Setembro de 2020}
 \maketitle
 \thispagestyle{empty} % limpa cabeçalho, rodapé e número de página
+
+\input{sections/resumo.tex}
 \input{sections/abstract.tex}
+\input{sections/abrev.tex}
+\listoffigures\pagebreak
+\listoftables\pagebreak
 \tableofcontents\pagebreak
 
 \input{sections/intro.tex}
