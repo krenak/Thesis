@@ -19,6 +19,38 @@
 
 \refsection{0}
   \datalist[entry]{ynt/global//global/global}
+    \entry{Tolmasquim2000}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6b9b4ce65b073f9838023d332417b9c6}{%
+           family={Tolmasquim},
+           familyi={T\bibinitperiod},
+           given={Mauricio},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6b9b4ce65b073f9838023d332417b9c6}
+      \strng{fullhash}{6b9b4ce65b073f9838023d332417b9c6}
+      \strng{bibnamehash}{6b9b4ce65b073f9838023d332417b9c6}
+      \strng{authorbibnamehash}{6b9b4ce65b073f9838023d332417b9c6}
+      \strng{authornamehash}{6b9b4ce65b073f9838023d332417b9c6}
+      \strng{authorfullhash}{6b9b4ce65b073f9838023d332417b9c6}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O ano de 2001 certamente vai ficar marcado na mem{ó}ria dos brasileiros n{ã}o apenas pelo impacto econ{ô}mico que o racionamento de energia causar{á}, tais como a redu{ç}{ã}o do crescimento econ{ô}mico, aumento do desemprego, aumento do d{é}ficit da balan{ç}a comercial, perda de arrecada{ç}{ã}o de impostos e efeito inflacion{á}rio, mas tamb{é}m, pelos grandes inc{ô}modos que a priva{ç}{ã}o de energia causar{á} {à} popula{ç}{ã}o.}
+      \field{journaltitle}{Ambiente {\&} Sociedade}
+      \field{number}{6/7}
+      \field{title}{{As Origens da Crise Energ{é}tica Brasileira}}
+      \field{year}{2000}
+      \field{pages}{179\bibrangedash 183}
+      \range{pages}{5}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{Torcellini2006}{article}{}
       \name{author}{4}{ul=3}{%
         {{un=0,uniquepart=base,hash=f4d6658dabe52d3dd748b59ae616130e}{%
@@ -241,6 +273,76 @@
       \verb ::
       \endverb
     \endentry
+    \entry{Leme2012}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=58f8f25051e96386a6fe8e4b5764a847}{%
+           family={Leme},
+           familyi={L\bibinitperiod},
+           given={Alessandro\bibnamedelima Andre},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{58f8f25051e96386a6fe8e4b5764a847}
+      \strng{fullhash}{58f8f25051e96386a6fe8e4b5764a847}
+      \strng{bibnamehash}{58f8f25051e96386a6fe8e4b5764a847}
+      \strng{authorbibnamehash}{58f8f25051e96386a6fe8e4b5764a847}
+      \strng{authornamehash}{58f8f25051e96386a6fe8e4b5764a847}
+      \strng{authorfullhash}{58f8f25051e96386a6fe8e4b5764a847}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Since the debate with strong influence from Economic Commission for Latin America and Caribbean - ECLAC in the 1950s in Brazil, the theme of choices and strategies for national development were on the agenda. In part, this debate has characterized clashes between nationalists and pro openness to foreign capital, but also between statists and privatizing. Nearly 50 years after the questions about the type of development strategy are still on the agenda and once again, focused on different theoretical and methodological perspectives and practical- political. Within this discussion we intend to confront the gap between the implementation of the privatization of the Brazilian electric sector and the creation of mechanisms and Regulatory Agency (ANEEL) needed for this new type of industry, because ANEEL is created with the privatization process has underway. With this we aim to show that the transformations are the dual interest between global (foreign) interests and national (local). The discussion, even if modest, on these two questions is our purpose in this paper.}
+      \field{journaltitle}{International Journal of Social Science Tomorrow}
+      \field{number}{2}
+      \field{title}{{State and Electricity Sector in Brazil: Privatization and Reform in Perspective}}
+      \field{volume}{1}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 8}
+      \range{pages}{8}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{development strategy,privatization,regulatory agencies,the electricity sector}
+    \endentry
+    \entry{Didone2014}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d07d939c0ca371ea8b32d0a99c00997f}{%
+           family={Didon{é}},
+           familyi={D\bibinitperiod},
+           given={Evelise\bibnamedelima Leite},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Karlsruhe Institute of Technology – KIT}%
+      }
+      \strng{namehash}{d07d939c0ca371ea8b32d0a99c00997f}
+      \strng{fullhash}{d07d939c0ca371ea8b32d0a99c00997f}
+      \strng{bibnamehash}{d07d939c0ca371ea8b32d0a99c00997f}
+      \strng{authorbibnamehash}{d07d939c0ca371ea8b32d0a99c00997f}
+      \strng{authornamehash}{d07d939c0ca371ea8b32d0a99c00997f}
+      \strng{authorfullhash}{d07d939c0ca371ea8b32d0a99c00997f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{grown significantly due to the rising amount of electrical devices used. As one of the main energy consumers, the building sector has an unrealized potential for significant energy savings. The main objective of this work is to develop strategies to transform typical Brazilian office buildings, built in different climatic zones into zero energy buildings (ZEB). Special emphasis is placed on photovoltaic (PV) application, especially the new technology of semitransparent PV windows. PV modules play an important role in achieving a Brazilian zero energy building scenario, due to their energy generation char}
+      \field{bookpagination}{sheet}
+      \field{title}{{Parametric study for net zero energy building strategies in Brazil considering semi-transparent PV windows}}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+      \field{pages}{230}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Didon{\'{e}} - 2014 - Parametric study for net zero energy building strategies in Brazil considering semi-transparent PV windows.pdf:pdf
+      \endverb
+      \keyw{(sub)tropical climate,computer simulation,office building type,semi-transparent PV windows,zero energy buildings (ZEB)}
+    \endentry
     \entry{Pikas2014}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=9ac3458cd9e64a18ad5c5a34364edb99}{%
@@ -428,6 +530,58 @@
       \endverb
       \keyw{cost,energy efficiency,net-zero,passive design,project management,sustainable design,systems approach}
     \endentry
+    \entry{Conejero2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=f5843905d1e7c81270350cb049bfa850}{%
+           family={Conejero},
+           familyi={C\bibinitperiod},
+           given={Maria\bibnamedelima Carolina},
+           giveni={M\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b382c994638693344ac86b2f014b1b25}{%
+           family={Calia},
+           familyi={C\bibinitperiod},
+           given={Rog{é}rio\bibnamedelima Cer{á}volo},
+           giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=91dbf7ce48d2f300cd8c22adf2467274}{%
+           family={Sauaia},
+           familyi={S\bibinitperiod},
+           given={Antonio\bibnamedelimb Carlos\bibnamedelima Aidar},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Universidade de Sao Paulo Sistema Integrado de Bibliotecas - SIBiUSP}%
+      }
+      \strng{namehash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
+      \strng{fullhash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
+      \strng{bibnamehash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
+      \strng{authorbibnamehash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
+      \strng{authornamehash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
+      \strng{authorfullhash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Este estudo tem como objetivo responder ao seguinte problema central de pesquisa: de que forma a gest{ã}o de relacionamentos em redes interorganizacionais da Soletrol favoreceu a cria{ç}{ã}o de processos inovativos para o desenvolvimento de aquecedores solares de {á}gua como proposta de substitui{ç}{ã}o ao chuveiro el{é}trico? Trata-se de uma pesquisa descritiva e qualitativa, por meio de um estudo de caso. O profissional-chave da Soletrol foi entrevistado para identificar e descrever as estruturas de relacionamentos interorganizacionais que resultaram em uma contribui{ç}{ã}o inovativa para a sustentabilidade ambiental. O estudo mostra os impactos ambientais da energia el{é}trica no Brasil, enfatizando que a redu{ç}{ã}o do uso do chuveiro el{é}trico pode ajudar a amenizar os problemas na rede de distribui{ç}{ã}o de energia, causados pela sobrecarga deste sistema nos hor{á}rios de pico, trazendo uma revis{ã}o da literatura acad{ê}mica sobre a inova{ç}{ã}o tecnol{ó}gica ambiental e as redes de inova{ç}{ã}o. Por fim, mostra a import{â}ncia da gest{ã}o de relacionamentos interorganizacionais para o desenvolvimento de um produto sustent{á}vel com uso da tecnologia solar no Brasil.}
+      \field{journaltitle}{RAI - Revista de Administra{ç}{ã}o e Inova{ç}{ã}o}
+      \field{month}{10}
+      \field{number}{2}
+      \field{title}{{REDES DE INOVA{Ç}{Ã}O E A DIFUS{Ã}O DA TECNOLOGIA SOLAR NO BRASIL}}
+      \field{volume}{12}
+      \field{year}{2016}
+      \field{pages}{90}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.11606/rai.v12i2.100334
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{Fonseca2016}{report}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=fd8ee53000378060f31493e697e3ca27}{%
@@ -505,6 +659,124 @@
       \endverb
       \keyw{Edifica{ç}{õ}es de escrit{ó}rios,Efici{ê}ncia energ{é}tica,{Í}ndices m{í}nimos}
     \endentry
+    \entry{EmpresadePesquisaEnergetica-EPE2017a}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
+           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Empresa de Pesquisa Energ{é}tica (EPE)}%
+      }
+      \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{bibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorbibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authornamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A Empresa de Pesquisa Energ{é}tica apresenta o Anu{á}rio Estat{í}stico de Energia El{é}trica 2017, onde s{ã}o apresentados os dados relacionados ao consumo de energia el{é}trica na rede de distribui{ç}{ã}o nos {ú}ltimos cinco anos, com {ê}nfase no ano de 2016 (ano base). Vale notar que os dados aqui apresentados n{ã}o contemplam a parcela consumida em unidades autoprodutoras de energia el{é}trica.}
+      \field{title}{{Anu{á}rio Estat{í}stico de Energia El{é}trica 2017}}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \field{pages}{232}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-160/ topico-168/Anuario2017vf.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.epe.gov.br/sites-pt/publicacoes-dados-abertos/publicacoes/PublicacoesArquivos/publicacao-160/%20topico-168/Anuario2017vf.pdf
+      \endverb
+    \endentry
+    \entry{EmpresadePesquisaEnergetica-EPE2017}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
+           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Empresa de Pesquisa Energ{é}tica}%
+      }
+      \list{location}{1}{%
+        {Bras{í}lia, Distrito Federal}%
+      }
+      \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{bibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorbibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authornamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O Plano Decenal de Expans{ã}o de Energia (PDE) {é} um documento informativo elaborado anualmente pela EPE sob as diretrizes e o apoio da equipe da Secretaria de Planejamento e Desenvolvimento Energ{é}tico (SPE/MME) e da Secretaria de Petr{ó}leo, G{á}s Natural e Combust{í}veis Renov{á}veis (SPG/MME). Seu objetivo primordial {é} indicar, e n{ã}o propriamente determinar, as perspectivas, sob a {ó}tica do Governo da expans{ã}o do setor de energia no horizonte de dez anos, dentro de uma vis{ã}o integrada para os diversos energ{é}ticos. Tal vis{ã}o permite extrair importantes elementos para o planejamento do setor de energia, com benef{í}cios em termos de aumento de confiabilidade, redu{ç}{ã}o de custos de produ{ç}{ã}o e redu{ç}{ã}o de impactos ambientais.}
+      \field{title}{{Plano Decenal de Expans{ã}o de Energia}}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \field{pages}{345}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/plano-decenal-de-expansao-de-energia-2027
+      \endverb
+      \verb{url}
+      \verb http://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/plano-decenal-de-expansao-de-energia-2027
+      \endverb
+      \keyw{EPE,Plano Decenal de Expans{ã}o de Energia}
+    \endentry
+    \entry{EnergiasdePortugal-EDP2017}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9e9e331c29300dfc6ab1a91c0e2b3bcd}{%
+           family={{Energias de Portugal - EDP}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {EDP}%
+      }
+      \list{location}{1}{%
+        {Vit{ó}ria}%
+      }
+      \strng{namehash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
+      \strng{fullhash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
+      \strng{bibnamehash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
+      \strng{authorbibnamehash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
+      \strng{authornamehash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
+      \strng{authorfullhash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{De acordo com o Balan{ç}o Energ{é}tico Nacional (BEN) 2017 – ano base 2016, publicado pela Empresa de Pes- quisa Energ{é}tica (EPE), a oferta interna de energia no Brasil atingiu 288,3 toneladas equivalentes de petr{ó}leo (Mtep), com redu{ç}{ã}o de 3,8{\%} em rela{ç}{ã}o a 2015. O movimento reflete o enfraquecimento da atividade eco- n{ô}mica, per{í}odo em que o Produto Interno Bruto (PIB) nacional retraiu 3,6{\%}, segundo o Instituto Brasileiro de Geografia e Estat{í}stica (IBGE). O recuo da oferta in- terna de petr{ó}leo e derivados (5,6{\%}) e do g{á}s natural (13,2{\%}) tamb{é}m contribuiu para a retra{ç}{ã}o da disponi- bilidade energ{é}tica no Brasil.}
+      \field{annotation}{Dados importantes sobre a comercializa{ç}{ã}o de energia el{é}trica no Brasil e no Estado.}
+      \field{title}{{Living Energy Book by EDP: Relat{ó}rio Anual 2017}}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \field{pages}{196}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://www.edp.com.br/conheca-edp/relatorios/Documents/RA{\_}2017{\_}Vf.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.edp.com.br/conheca-edp/relatorios/Documents/RA%7B%5C_%7D2017%7B%5C_%7DVf.pdf
+      \endverb
+      \keyw{Distribui{ç}{ã}o,EDP,ES,Efici{ê}ncia energ{é}tica,Energia el{é}trica,Gera{ç}{ã}o,Transmiss{ã}o}
+    \endentry
     \entry{Pikas2017}{article}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=db661f12775e81435c0b4a3836c9d608}{%
@@ -569,6 +841,61 @@
       \endverb
       \keyw{Government subsidy,Job generation,Nearly zero energy buildings (nZEB),Solar photovoltaic,Tax revenue}
     \endentry
+    \entry{Pinto2017}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2eb4dd3ba98564ed0382a12c7bca92cf}{%
+           family={Pinto},
+           familyi={P\bibinitperiod},
+           given={Luc{í}a\bibnamedelimb Iracema\bibnamedelima Chipponelli},
+           giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50915dbbdac25a157900dfb04ebe82cc}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Fernando\bibnamedelima Ramos},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d6ca9d68050d1e243e3936202efef7f}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Enio\bibnamedelima Bueno},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{964ddc3c3bab3411cb2742a84277172d}
+      \strng{fullhash}{964ddc3c3bab3411cb2742a84277172d}
+      \strng{bibnamehash}{964ddc3c3bab3411cb2742a84277172d}
+      \strng{authorbibnamehash}{964ddc3c3bab3411cb2742a84277172d}
+      \strng{authornamehash}{964ddc3c3bab3411cb2742a84277172d}
+      \strng{authorfullhash}{964ddc3c3bab3411cb2742a84277172d}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Atualmente a energia e{ó}lica est{á} mostrando destaque no cen{á}rio energ{é}tico brasileiro por ser uma fonte energ{é}tica renov{á}vel que apresenta elevada disponibilidade no territ{ó}rio e cujo aproveitamento baixos n{í}veis de emiss{ã}o de gases de efeito estufa. Em raz{ã}o desses aspectos, a energia e{ó}lica {é} uma promissora alternativa para ajudar a reverter o quadro atual de crise energ{é}tica decorrente da escassez do recurso h{í}drico e o crescimento da emiss{ã}o de gases de efeito estufa decorrente do crescimento da participa{ç}{ã}o de combust{í}veis f{ó}sseis na matriz el{é}trica brasileira. Na perspectiva econ{ô}mica, a gera{ç}{ã}o e{ó}lica est{á} apresentando custos competitivos com as fontes convencionais de energia. Entretanto, como qualquer outra atividade econ{ô}mica, pode causar impactos sociais e ambientais que devem ser analisados e mitigados. Essas dimens{õ}es controversas da energia e{ó}lica tornam a quest{ã}o da localiza{ç}{ã}o de parques e{ó}licos um problema bastante complexo, dado a incompatibilidade entre esses impactos de car{á}ter localizado e o grande benef{í}cio p{ú}blico associado {à} seguran{ç}a energ{é}tica do pa{í}s. Este artigo apresenta uma revis{ã}o dos estudos e publica{ç}{õ}es sobre o aproveitamento e{ó}lico no Brasil com o intuito de promover uma discuss{ã}o sobre aspectos relacionados aos impactos socioambientais. Em raz{ã}o da curta hist{ó}ria do aproveitamento e{ó}lico no Brasil, estudos para avalia{ç}{ã}o mais aprofundada dos impactos socioambientais devem ser realizados com apoio de recursos do pr{ó}prio setor energ{é}tico a fim de promover um crescimento sustent{á}vel da participa{ç}{ã}o desta fonte energ{é}tica na matriz el{é}trica nacional.}
+      \field{journaltitle}{Revista Ambiente {\&} {Á}gua}
+      \field{number}{6}
+      \field{title}{{O mercado brasileiro da energia e{ó}lica, impactos sociais e ambientais}}
+      \field{volume}{12}
+      \field{year}{2017}
+      \field{pages}{1082\bibrangedash 1100}
+      \range{pages}{19}
+      \verb{doi}
+      \verb https://doi.org/10.4136/ambi-agua.2064
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.4136/ambi-agua.2064
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.4136/ambi-agua.2064
+      \endverb
+      \keyw{2017,Energia}
+    \endentry
     \entry{UnitedNations2017}{inproceedings}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
@@ -607,6 +934,151 @@
       \verb{file}
       \verb ::
       \endverb
+    \endentry
+    \entry{AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2018}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=005f9005fe1b2c3d055907a64a3c14c4}{%
+           family={{Ag{ê}ncia\bibnamedelimb de\bibnamedelimb Regula{ç}{ã}o\bibnamedelimb de\bibnamedelimb Servi{ç}os\bibnamedelimb P{ú}blicos\bibnamedelimb do\bibnamedelimb Esp{í}rito\bibnamedelimb Santo\bibnamedelimb -\bibnamedelimb ARSP}},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo}%
+      }
+      \list{location}{1}{%
+        {Vit{ó}ria}%
+      }
+      \strng{namehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{fullhash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{bibnamehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{authorbibnamehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{authornamehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{authorfullhash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Balan{ç}o Energ{é}tico do Esp{í}rito Santo}}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \field{pages}{75}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{EmpresadePesquisaEnergetica-EPE2018}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
+           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Empresa de Pesquisa Energ{é}tica - EPE}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro}%
+      }
+      \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{bibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorbibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authornamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \field{extraname}{3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Balan{ç}o Energ{é}tico Nacional 2018: Ano base 2017 - Relat{ó}rio s{í}ntese}}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \field{pages}{62}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{InternationalEnergyAgency-IEA2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
+           family={{International Energy Agency - IEA}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {France}%
+      }
+      \list{publisher}{1}{%
+        {IEA Publications}%
+      }
+      \strng{namehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{fullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{bibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The World Energy Outlook (WEO)-2018 provides a framework for thinking about the future of global energy. It does not make predictions about the future. Instead, it sets out what the future could look like on the basis of different scenarios or pathways, with the aim of providing insights to inform decision making by governments, companies and others concerned with energy.}
+      \field{isbn}{9789264306776}
+      \field{title}{{World Energy Outlook 2018}}
+      \field{year}{2018}
+      \field{pages}{661}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.iea.org/weo
+      \endverb
+      \verb{url}
+      \verb www.iea.org/weo
+      \endverb
+      \keyw{2018,Electricity,Energy projections,IEA,Investment,Oil,Sustainable development,WEO,World Energy Outlook}
+    \endentry
+    \entry{AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2019}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=005f9005fe1b2c3d055907a64a3c14c4}{%
+           family={{Ag{ê}ncia\bibnamedelimb de\bibnamedelimb Regula{ç}{ã}o\bibnamedelimb de\bibnamedelimb Servi{ç}os\bibnamedelimb P{ú}blicos\bibnamedelimb do\bibnamedelimb Esp{í}rito\bibnamedelimb Santo\bibnamedelimb -\bibnamedelimb ARSP}},
+           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ag{ê}ncia de Regula{ç}{ã}o de Servi{ç}os P{ú}blicos do Esp{í}rito Santo}%
+      }
+      \list{location}{1}{%
+        {Vit{ó}ria}%
+      }
+      \strng{namehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{fullhash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{bibnamehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{authorbibnamehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{authornamehash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \strng{authorfullhash}{005f9005fe1b2c3d055907a64a3c14c4}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Informa{ç}{õ}es Energ{é}ticas do Estado do Esp{í}rto Santo}}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{40}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{ARSP}
     \endentry
     \entry{Chen2019}{article}{}
       \name{author}{3}{}{%
@@ -679,6 +1151,7 @@
       \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}

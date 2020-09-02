@@ -20,9 +20,10 @@
 \addbibresource{ref.bib}
 \usepackage{csquotes}
 \usepackage[at]{easylist} % pacote mais fácil pra editar listas e enumerações
-\usepackage[singlespacing]{setspace} % pacote de formatação e inserção de figuras
+\usepackage[singlespacing]{setspace} % pacote de formatação de espaçamento entre linhas
 %\usepackage{blindtext} % pacote de inserção de texto randomizado - lorem ipsum
 
+%-------cabeçalho e rodapé-------%
 \pagestyle{fancy} % estilo do cabeçalho e rodapé
 \fancyhf{}
 \rhead{FRAGA, Anderson A.}
@@ -34,19 +35,48 @@
 %\setlenght{\parindent}{1.3cm}
 %\setlenght{\parskip}{0.2cm}
 
-%-------início do artigo-------%
-\begin{document}
-\title{Potencial de Adoção do Conceito Zero Energy para Edifícios Comerciais 
-em Vitória-ES}
-\author{Anderson Azevedo Fraga}
-\date{Setembro de 2020}
+%-------início da dissertação-------%
+\begin{document} %capas
+\begin{titlepage}
+    \begin{center}
+        \begin{figure}
+            \centering
+            \includegraphics[scale=0.7]{F:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\figures\brasao-rep-br.png}
+        \end{figure}
+        \vspace*{3cm}
+        \textbf{Universidade Federal do Espírito Santo}
+        \vspace*{0.5cm}
+        Centro de Artes\\
+        Programa de Pós-Graduação em Arquitetura e Urbanismo
+        \vspace*{1.5cm}
+        \textbf{Anderson Azevedo Fraga}
+        \vfill
+        Potencial de Adoção do Conceito Zero Energy para Edifícios Comerciais em Vitória-ES
+        \vspace*{0.8cm}
+
+    \end{center}
+\end{titlepage}
+
+%\title{Potencial de Adoção do Conceito Zero Energy para Edifícios Comerciais 
+%em Vitória-ES}
+%\author{Anderson Azevedo Fraga}
+%\date{Setembro de 2020}
+
 \maketitle
-\thispagestyle{empty} % limpa cabeçalho e rodapé
+\thispagestyle{empty} % limpa cabeçalho, rodapé e número de página
+\pagebreak
+
+\input{sections/resumo.tex} % preâmbulo e listas
 \input{sections/abstract.tex}
+\input{sections/abrev.tex}
+\listoffigures\pagebreak
+\listoftables\pagebreak
 \tableofcontents\pagebreak
 
-\input{sections/intro.tex}
+\input{sections/intro.tex} % corpo da dissertação
 \input{sections/question.tex}
+\input{sections/objetivos.tex}
+\input{sections/referencial.tex}
 \input{sections/definicoes.tex}
 \input{sections/zeroenergy.tex}
 \input{sections/metodo.tex}
