@@ -1,0 +1,112 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global}
+    \entry{U.S.DepartmentofEnergy-USDOE2011}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Energy}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \strng{namehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{fullhash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{bibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 2007, as part of its Advanced Codes Initiative, DOE signed a memorandum of understanding (MOU) with ASHRAE to develop advanced commercial standards and included an agreement that 90.1-2010 would result in 30{\%} energy savings relative to 90.1-2004. This MOU initiated the effort by BECP and ASHRAE which culminated in the release of 90.1-2010 in October 2010. This signed MOU introduced a new element and significant challenges for developing 90.1-2010. For the first time in the history of Standard 90.1, an energy goal was established for developing the new edition, 90.1-2010. The 30{\%} energy efficiency goal led to a dramatic increase in the level of activity and enhancement of Standard 90.1 as reflected in the quantity of changes, called addenda, proposed and approved.}
+      \field{title}{{Achieving the 30{\%} Goal Energy and Cost Savings Analysis of ASHRAE Standard 90-1-2010}}
+      \field{type}{techreport}
+      \field{year}{2011}
+      \field{pages}{370}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{Chen2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=c6649d02b24225ca4c9012cee6c790de}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Xi},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c9389fd27816fc8a622c41814860f8c}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Hongxing},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=af2b470a8cf86bdb778bfb280f5212bf}{%
+           family={Peng},
+           familyi={P\bibinitperiod},
+           given={Jinqing},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{d695dc87f585ff1e124e3f9d4c08520e}
+      \strng{fullhash}{d695dc87f585ff1e124e3f9d4c08520e}
+      \strng{bibnamehash}{d695dc87f585ff1e124e3f9d4c08520e}
+      \strng{authorbibnamehash}{d695dc87f585ff1e124e3f9d4c08520e}
+      \strng{authornamehash}{d695dc87f585ff1e124e3f9d4c08520e}
+      \strng{authorfullhash}{d695dc87f585ff1e124e3f9d4c08520e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This research thoroughly explored the impact of archetypes and confounding factors on a proposed holistic design optimization approach for high-rise office buildings with integrated photovoltaic (PV) facades. The design optimization adopts the hybrid generalized pattern search particle swarm optimization (HGPSPSO) algorithm, which is incorporated with qualitative and quantitative sensitivity analyses for factor prioritizing and fixing. Different archetypes are modelled by changing floor plan sizes and shapes, while diverse urban contexts and internal load (heat gain) levels are investigated as major confounding factors beyond designers' control. Variation of these four simulation scenarios are then used to examine the uncertainty of sensitivity indices and optimization potential for passive architectural design parameters. The window geometry, thermal and optical properties are proved to be most important to the reference PV envelope design. The building plan shape is found to have little impact on the weighting of different design parameters, while the shape coefficient (SC) is determined to be almost linearly correlated with the HVAC (heating, ventilation and air-conditioning) demand. The office design with the highest shape coefficient can therefore achieve a net energy demand reduction up to 48.77{\%}. The floor plan size also has minor impact on the sensitivity index for each design factor, but the energy-saving potential grows with decreasing floor sizes. On the contrary, confounding factors can greatly change the sensitivity analysis (SA) result. The window U-value becomes more important with an increasing internal load level and urban context density whereas the impact of the window light-to-solar gain ratio is reduced by peripheral shading. Furthermore, varying confounding factors can even change the dimension of optimization problems based on different factor fixing results. This research can provide early-stage design guidance for energy efficient buildings with a comprehensive analysis of pragmatic building archetypes, background contexts and operation scenarios.}
+      \field{issn}{03605442}
+      \field{journaltitle}{Energy}
+      \field{month}{4}
+      \field{title}{{Energy optimization of high-rise commercial buildings integrated with photovoltaic facades in urban context}}
+      \field{volume}{172}
+      \field{year}{2019}
+      \field{pages}{1\bibrangedash 17}
+      \range{pages}{17}
+      \verb{doi}
+      \verb 10.1016/j.energy.2019.01.112
+      \endverb
+      \verb{file}
+      \verb :F$\backslash$:/Root Files/Academic/masters/{\_}desenvolvimento/{\_}regular/{\_}eventos/{\_}lucas/{\_}referencias/CHEN - Energy optimization of high-rise commercial buildings integrated with photovoltaic facades in urban context.pdf:pdf
+      \endverb
+      \keyw{Archetype,Confounding factor,Energy demand,Optimization,Passive architectural design,Photovoltaic facade}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
