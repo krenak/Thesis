@@ -19,6 +19,194 @@
 
 \refsection{0}
   \datalist[entry]{ynt/global//global/global}
+    \entry{Torcellini2006}{article}{}
+      \name{author}{4}{ul=3}{%
+        {{un=0,uniquepart=base,hash=f4d6658dabe52d3dd748b59ae616130e}{%
+           family={Torcellini},
+           familyi={T\bibinitperiod},
+           given={P},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c6af75aa4e93664e910f5eb7ee43189e}{%
+           family={Pless},
+           familyi={P\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=27993da58d16c377f4f9fafc68ae3bde}{%
+           family={Deru},
+           familyi={D\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c9d69f8fc7637a7404e778fe76997279}{%
+           family={Crawley},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{42dd345db06e46980f13a027527068d8}
+      \strng{fullhash}{e769b3ca02974f7c8e02ec967c72efe9}
+      \strng{bibnamehash}{42dd345db06e46980f13a027527068d8}
+      \strng{authorbibnamehash}{42dd345db06e46980f13a027527068d8}
+      \strng{authornamehash}{42dd345db06e46980f13a027527068d8}
+      \strng{authorfullhash}{e769b3ca02974f7c8e02ec967c72efe9}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A net zero-energy building (ZEB) is a residential or commercial building with greatly reduced energy needs through efficiency gains such that the balance of energy needs can be supplied with renewable technologies. Despite the excitement over the phrase “zero energy,” we lack a common definition, or even a common understanding, of what it means. In this paper, we use a sample of current generation low-energy buildings to explore the concept of zero energy: what it means, why a clear and measurable definition is needed, and how we have progressed toward the ZEB goal. The way the zero energy goal is defined affects the choices designers make to achieve this goal and whether they can claim success. The ZEB definition can emphasize demand-side or supply strategies and whether fuel switching and conversion accounting are appropriate to meet a ZEB goal. Four well-documented definitions—net-zero site energy, net-zero source energy, net-zero energy costs, and net-zero energy emissions—are studied; pluses and minuses of each are discussed. These definitions are applied to a set of low-energy buildings for which extensive energy data are available. This study shows the design impacts of the definition used for ZEB and the large difference between definitions. It also looks at sample utility rate structures and their impact on the zero energy scenarios.}
+      \field{isbn}{NREL/CP-550-39833}
+      \field{issn}{14710846}
+      \field{journaltitle}{ACEEE Summer Study Pacific Grove}
+      \field{number}{August}
+      \field{title}{{Zero Energy Buildings: A Critical Look at the Definition}}
+      \field{year}{2006}
+      \field{pages}{15}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/S1471-0846(02)80045-2
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Torcellini et al. - 2006 - Zero Energy Buildings A Critical Look at the Definition.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.nrel.gov/docs/fy06osti/39833.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.nrel.gov/docs/fy06osti/39833.pdf
+      \endverb
+      \keyw{commercial building,low-energy building,zeb,zero energy building}
+    \endentry
+    \entry{Crawley2009}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=88c80d4536693eeb15b7cadb670ed4f2}{%
+           family={Crawley},
+           familyi={C\bibinitperiod},
+           given={Drury},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3dc4020ab60580bcef4d12b7a4f521}{%
+           family={Pless},
+           familyi={P\bibinitperiod},
+           given={Shanti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=930765f20b42fa9d947335b26d51b951}{%
+           family={Torcellini},
+           familyi={T\bibinitperiod},
+           given={Shanti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{7e2bf6ac4853a56d9ed53e24a5015f44}
+      \strng{fullhash}{7e2bf6ac4853a56d9ed53e24a5015f44}
+      \strng{bibnamehash}{7e2bf6ac4853a56d9ed53e24a5015f44}
+      \strng{authorbibnamehash}{7e2bf6ac4853a56d9ed53e24a5015f44}
+      \strng{authornamehash}{7e2bf6ac4853a56d9ed53e24a5015f44}
+      \strng{authorfullhash}{7e2bf6ac4853a56d9ed53e24a5015f44}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AHSRAE Journal}
+      \field{number}{September}
+      \field{title}{{Getting to Net Zero Energy Buildings}}
+      \field{year}{2009}
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Crawley, Pless, Torcellini - 2009 - Getting to Net Zero Energy Buildings.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://www.google.com/url?sa=t{\&}source=web{\&}ct=res{\&}cd=2{\&}url=http://www.stanford.edu/group/peec/cgi-bin/docs/home/events/2009/public{\_}discussions/presentation{\_}Selkowitz.pdf{\&}ei=DlJGSvimPIHaNaCF3aIB{\&}usg=AFQjCNGQgaTzt2zJXfRxbcdGcd2lE-J6WQ
+      \endverb
+      \verb{url}
+      \verb http://www.google.com/url?sa=t%7B%5C&%7Dsource=web%7B%5C&%7Dct=res%7B%5C&%7Dcd=2%7B%5C&%7Durl=http://www.stanford.edu/group/peec/cgi-bin/docs/home/events/2009/public%7B%5C_%7Ddiscussions/presentation%7B%5C_%7DSelkowitz.pdf%7B%5C&%7Dei=DlJGSvimPIHaNaCF3aIB%7B%5C&%7Dusg=AFQjCNGQgaTzt2zJXfRxbcdGcd2lE-J6WQ
+      \endverb
+      \keyw{NREL/JA-500-46382,September 2009,building,energy,net-zero energy building,nzeb}
+    \endentry
+    \entry{Kurnitski2011}{article}{}
+      \name{author}{6}{ul=2}{%
+        {{un=0,uniquepart=base,hash=9bbc27f3f27a71432ad925347961b68b}{%
+           family={Kurnitski},
+           familyi={K\bibinitperiod},
+           given={Jarek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4ed2690eca3b44630288aa430f6b722}{%
+           family={Saari},
+           familyi={S\bibinitperiod},
+           given={Arto},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3e6c3de243357d62af148927ab52bf8a}{%
+           family={Kalamees},
+           familyi={K\bibinitperiod},
+           given={Targo},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8dfa1820001ebafa066798eeb9a3b71}{%
+           family={Vuolle},
+           familyi={V\bibinitperiod},
+           given={Mika},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c5b4c099bf0bda8b5d9552eab52604c}{%
+           family={Niemel{ä}},
+           familyi={N\bibinitperiod},
+           given={Jouko},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=10d5c42e31d1aa1378a1b9ec9003db6b}{%
+           family={Tark},
+           familyi={T\bibinitperiod},
+           given={Teet},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{a81acf48a4a74fbcb49daa2b3c2e9645}
+      \strng{fullhash}{ab95bedff592b64e3eb8492542b1a5e3}
+      \strng{bibnamehash}{a81acf48a4a74fbcb49daa2b3c2e9645}
+      \strng{authorbibnamehash}{a81acf48a4a74fbcb49daa2b3c2e9645}
+      \strng{authornamehash}{a81acf48a4a74fbcb49daa2b3c2e9645}
+      \strng{authorfullhash}{ab95bedff592b64e3eb8492542b1a5e3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This study determined cost optimal and nearly zero energy building (nZEB) energy performance levels following the REHVA definition and energy calculation methodology for nZEB national implementation. Cost optimal performance levels - meaning the energy performance leading to minimum life cycle cost - were calculated with net present value method according to the cost optimal draft regulation. The seven-step procedure was developed to conduct cost optimal and nZEB energy performance levels calculations in systematic and robust scientific fashion. It was shown that cost optimal primary energy use can be calculated with limited number of energy simulations as only four construction concepts were simulated and cost calculated. The procedure includes the specification of building envelope components based on specific heat loss coefficient and systems calculation with post processing of energy simulation results, without the need to use iterative approach or optimization algorithm. Model calculations were conducted for Estonian reference detached house to analyse the difference between the cost optimal and nZEB energy performance levels. Cost optimal energy performance level of Estonian reference detached house was 110 kW h/(m2a) primary energy including all energy use with domestic appliances and it was significantly lower than the current minimum requirement of 180 kW h/(m2a). © 2011 Elsevier B.V. All rights reserved.}
+      \field{isbn}{0378-7788}
+      \field{issn}{03787788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{number}{11}
+      \field{title}{{Cost optimal and nearly zero (nZEB) energy performance calculations for residential buildings with REHVA definition for nZEB national implementation}}
+      \field{volume}{43}
+      \field{year}{2011}
+      \field{pages}{3279\bibrangedash 3288}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2011.08.033
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.enbuild.2011.08.033
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.enbuild.2011.08.033
+      \endverb
+      \keyw{Cost optimal,EPBD recast,Energy performance,Global cost,Nearly zero energy buildings,REHVA nZEB technical definition,nZEB}
+    \endentry
     \entry{U.S.DepartmentofEnergy-USDOE2011}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
@@ -49,6 +237,373 @@
       \field{year}{2011}
       \field{pages}{370}
       \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{Pikas2014}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9ac3458cd9e64a18ad5c5a34364edb99}{%
+           family={Pikas},
+           familyi={P\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=56786d7268d8c21e6d880149b608a4db}{%
+           family={Thalfeldt},
+           familyi={T\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e5b41ea5445bacaf230c6a5801814736}{%
+           family={Kurnitski},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dfd5d86184b5b245abc92bb7a6c60b10}
+      \strng{fullhash}{dfd5d86184b5b245abc92bb7a6c60b10}
+      \strng{bibnamehash}{dfd5d86184b5b245abc92bb7a6c60b10}
+      \strng{authorbibnamehash}{dfd5d86184b5b245abc92bb7a6c60b10}
+      \strng{authornamehash}{dfd5d86184b5b245abc92bb7a6c60b10}
+      \strng{authorfullhash}{dfd5d86184b5b245abc92bb7a6c60b10}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{European Union (EU) has established directives and guidelines that soon require building industry to comply with nearly zero energy building (nZEB) targets in their daily work. This will necessitate new design solutions based on new knowledge. At a high performance level, it is a multifaceted problem, while solutions must be both energy and cost efficient. Most studies have focused on energy efficiency issues and neglected to analyze the cost optimality of technical solutions. This paper considers possible office building fenestration design solutions which take into account both energy efficiency and cost optimality. The analysis also looks at alternative measures to achieve the nZEB level. It was observed that for the cold Estonian climate, triple glazed argon filled windows with a small window to wall ratio and walls with 200 mm thick insulation are energy efficient and cost optimal within 20 years. Achieving nZEB required the use of photovoltaic panels for generating electricity. Existing nZEB solutions are not cost optimal, but this should change in the near future. In conclusion, the paper proposes design guidelines for high performance office building facades. © 2014 Elsevier B.V.}
+      \field{issn}{03787788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{5}
+      \field{title}{{Cost optimal and nearly zero energy building solutions for office buildings}}
+      \field{volume}{74}
+      \field{year}{2014}
+      \field{pages}{30\bibrangedash 42}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2014.01.039
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Cost optimality,Daylight,Energy simulations,Facade design,Fenestration,Load matching,Nearly zero energy buildings (nZEB),Photovoltaic (PV) generation,Windows}
+    \endentry
+    \entry{Kurnitski2015}{article}{}
+      \name{author}{12}{ul=2}{%
+        {{un=0,uniquepart=base,hash=9bbc27f3f27a71432ad925347961b68b}{%
+           family={Kurnitski},
+           familyi={K\bibinitperiod},
+           given={Jarek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb616cfe4e447b8de1719c865875062e}{%
+           family={Allard},
+           familyi={A\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=479c76f9109fcb0a7bcc1814d3669643}{%
+           family={Braham},
+           familyi={B\bibinitperiod},
+           given={Derrick},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a68315846acf79ead384ad5b5f81b3cd}{%
+           family={Goeders},
+           familyi={G\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d0b574ed249859a47f6685d1e204bee1}{%
+           family={Heiselberg},
+           familyi={H\bibinitperiod},
+           given={Per},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a16502d075dbca7df97350b0beaec30}{%
+           family={Jagemar},
+           familyi={J\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfa30a6a3f182bb953a6f07dadb430a5}{%
+           family={Kosonen},
+           familyi={K\bibinitperiod},
+           given={Risto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3ae664327c823e16cc27f756f56a40f}{%
+           family={Lebrun},
+           familyi={L\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57df7ff68fabde863c8ce1028ad52737}{%
+           family={Mazzarella},
+           familyi={M\bibinitperiod},
+           given={Livio},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=469b6413169d3b75c7b5724ded323270}{%
+           family={Railio},
+           familyi={R\bibinitperiod},
+           given={Jorma},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7047d212f80975d90e11f6931e965e13}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6a81b17ca3b00695e927875fd4ae549}{%
+           family={Virta},
+           familyi={V\bibinitperiod},
+           given={Maija},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{fullhash}{1e5fde79a23288102690fca1ac7fbd00}
+      \strng{bibnamehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{authorbibnamehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{authornamehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{authorfullhash}{1e5fde79a23288102690fca1ac7fbd00}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{May 2011}
+      \field{title}{{How to define nearly net zero energy buildings nZEB}}
+      \field{year}{2015}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{Torcellini2015}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5cee1fe397051d6d8e63b6dcbb020c78}{%
+           family={Torcellini},
+           familyi={T\bibinitperiod},
+           given={Paul},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4f3dc4020ab60580bcef4d12b7a4f521}{%
+           family={Pless},
+           familyi={P\bibinitperiod},
+           given={Shanti},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ff48de4566c53c22636e727799ad3ed6}{%
+           family={Leach},
+           familyi={L\bibinitperiod},
+           given={Matt},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1d4425631ab1b058a6ef60eb856ab049}
+      \strng{fullhash}{1d4425631ab1b058a6ef60eb856ab049}
+      \strng{bibnamehash}{1d4425631ab1b058a6ef60eb856ab049}
+      \strng{authorbibnamehash}{1d4425631ab1b058a6ef60eb856ab049}
+      \strng{authornamehash}{1d4425631ab1b058a6ef60eb856ab049}
+      \strng{authorfullhash}{1d4425631ab1b058a6ef60eb856ab049}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{To have market relevance and gain widespread market adoption, zero energy buildings (ZEBs) will need to be designed and constructed cost-effectively, and preferably without additional costs. An approach was developed to create low-energy buildings without additional construction costs such that it yielded innovation in building technology and integration by the market. A case study of the implementation of this method is presented to provide a data point that ZEBs can be built with zero cost increase. Documenting cost-control best practices and packaging those strategies for adoption by the commercial building sector will help make the business case for ZEBs for mainstream construction and promote market uptake of the innovative technologies and design approaches needed. The holistic implementation of cost-control strategies will enable ZEBs to be designed and constructed on a typical budget. The current state of ZEB economics is evaluated and a path forward is proposed for greater market penetration of ZEBs. By demonstrating how to combine ZEB technologies and design approaches into an overall efficiency package that can be implemented at minimal (zero, in certain cases) incremental capital cost, the domain of ZEB design and construction can be expanded from a niche market to the commercial construction mainstream. [ABSTRACT FROM AUTHOR]}
+      \field{issn}{14664321}
+      \field{journaltitle}{Building Research and Information}
+      \field{title}{{A pathway for net-zero energy buildings: Creating a case for zero cost increase}}
+      \field{year}{2015}
+      \verb{doi}
+      \verb 10.1080/09613218.2014.960783
+      \endverb
+      \keyw{cost,energy efficiency,net-zero,passive design,project management,sustainable design,systems approach}
+    \endentry
+    \entry{Fonseca2016}{report}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=fd8ee53000378060f31493e697e3ca27}{%
+           family={Fonseca},
+           familyi={F\bibinitperiod},
+           given={Raphaela\bibnamedelima Walger},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=c55734cc6dcb0c4a9d8a1c80dd7cedda}{%
+           family={Rupp},
+           familyi={R\bibinitperiod},
+           given={Ricardo\bibnamedelima Forgiarini},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24e4ef163db0d3eb3d8b13bb9292ff5d}{%
+           family={Beck},
+           familyi={B\bibinitperiod},
+           given={Elisa},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bca5d0f6f6766c9c5cb0336589b209f7}{%
+           family={Eli},
+           familyi={E\bibinitperiod},
+           given={Let{í}cia\bibnamedelima Gabriela},
+           giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0993b3fb9f55f40954e8aa27bb5bfa06}{%
+           family={Scalco},
+           familyi={S\bibinitperiod},
+           given={Veridiana},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17e5b74cc5fca2cd3447de567b3d768f}{%
+           family={Lamberts},
+           familyi={L\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {XVI ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRU{Í}DO}%
+      }
+      \list{location}{1}{%
+        {S{ã}o Paulo}%
+      }
+      \strng{namehash}{00a095d017bb8bd016c048f7a540522d}
+      \strng{fullhash}{89c708c1f6a723ccae310936c31a6e5a}
+      \strng{bibnamehash}{00a095d017bb8bd016c048f7a540522d}
+      \strng{authorbibnamehash}{00a095d017bb8bd016c048f7a540522d}
+      \strng{authornamehash}{00a095d017bb8bd016c048f7a540522d}
+      \strng{authorfullhash}{89c708c1f6a723ccae310936c31a6e5a}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A ado{ç}{ã}o de normas que regulamentam a aplica{ç}{ã}o de medidas de conserva{ç}{ã}o em edifica{ç}{õ}es {é} uma das medidas que mais proporcionam economia de energia nesse setor. No Brasil, as edifica{ç}{õ}es residenciais disp{õ}em da Norma ABNT NBR 15575 - Desempenho de Edifica{ç}{õ}es Habitacionais, que regulamenta o seu desempenho m{í}nimo. Entretanto, as edifica{ç}{õ}es comerciais n{ã}o possuem documento regulador semelhante. Apesar do Regulamento T{é}cnico da Qualidade para o N{í}vel de Efici{ê}ncia Energ{é}tica de Edifica{ç}{õ}es Comerciais, de Servi{ç}os e P{ú}blicas (RTQ-C) atuar como um instrumento de avalia{ç}{ã}o de efici{ê}ncia energ{é}tica, atualmente n{ã}o existe uma defini{ç}{ã}o de qual seria o desempenho energ{é}tico m{í}nimo dessas edifica{ç}{õ}es. Neste sentido, o presente trabalho visou levantar tipologias de edif{í}cios de escrit{ó}rio e estimar o seu desempenho energ{é}tico de acordo com o m{é}todo da etiqueta PBE Edifica. O levantamento contemplou diferentes fontes de pesquisa e permitiu a elabora{ç}{ã}o de modelos de refer{ê}ncia fundamentados nas caracter{í}sticas construtivas predominantes e nas que resultariam em edif{í}cios menos e mais eficientes quanto ao desempenho termoenerg{é}tico. Estes modelos foram avaliados pelo m{é}todo prescritivo do RTQ-C. Dessa forma p{ô}de-se estimar o desempenho de edifica{ç}{õ}es comumente encontradas no parque edificado nacional. Estes resultados devem servir de subs{í}dio para o desenvolvimento de {í}ndices m{í}nimos de edifica{ç}{õ}es comerciais no Brasil.}
+      \field{title}{{Avalia{ç}{ã}o do desempenho termoenerg{é}tico de modelos de refer{ê}ncia de escrit{ó}rios elaborados com base em levantamento de caracter{í}sticas construtivas nacionais}}
+      \field{type}{techreport}
+      \field{year}{2016}
+      \field{pages}{1853\bibrangedash 1866}
+      \range{pages}{14}
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Fonseca et al. - 2016 - Avalia{\c{c}}{\~{a}}o do desempenho termoenerg{\'{e}}tico de modelos de refer{\^{e}}ncia de escrit{\'{o}}rios elaborados com base em levantame.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/308698471
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/308698471
+      \endverb
+      \keyw{Edifica{ç}{õ}es de escrit{ó}rios,Efici{ê}ncia energ{é}tica,{Í}ndices m{í}nimos}
+    \endentry
+    \entry{Pikas2017}{article}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=db661f12775e81435c0b4a3836c9d608}{%
+           family={Pikas},
+           familyi={P\bibinitperiod},
+           given={Ergo},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9bbc27f3f27a71432ad925347961b68b}{%
+           family={Kurnitski},
+           familyi={K\bibinitperiod},
+           given={Jarek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4df93c3cb000ab53977d527dd6be6207}{%
+           family={Thalfeldt},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3cc98823645c2043905d62ea7a286028}{%
+           family={Koskela},
+           familyi={K\bibinitperiod},
+           given={Lauri},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{1eadd8b25beb6674c4b78d8b5db40ee7}
+      \strng{fullhash}{7ea76d12890ee5234a99f63502993621}
+      \strng{bibnamehash}{1eadd8b25beb6674c4b78d8b5db40ee7}
+      \strng{authorbibnamehash}{1eadd8b25beb6674c4b78d8b5db40ee7}
+      \strng{authornamehash}{1eadd8b25beb6674c4b78d8b5db40ee7}
+      \strng{authorfullhash}{7ea76d12890ee5234a99f63502993621}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Many studies on the deployment of and investment in renewable energy (RE) technologies have focused on job creation associated with energy production at the macroeconomic level and across renewable energy technologies. We propose another perspective, the use of solar photovoltaic (PV) technology to attain a nearly zero-energy building (nZEB) class. The aim of this research is to investigate the costs and benefits for private and public entities when constructing nZEB or adopting nZEB policies. A quantitative research approach is taken when modelling required PV capacities, net present cash flows, subsidies, and job generation. Findings show that at current electricity tariffs and solar PV system capacities and production levels, single family houses, apartment buildings, and other building types require 0.044 €/kWh, 0.037 €/kWh, and 0.024 €/kWh, respectively, in government subsidies on energy sold back to the grid. Office buildings were profitable without the subsidy. In this study, we argue that investments in RE, specifically, PV technology, will bring in approximately 2.1 M€ of additional revenue to the Estonian government over a 20 years period as tax return overruns subsidies. However, nZEB investments are expected to become cost-optimal without subsidies, due to the increasing efficiency and decreasing costs of PV systems.}
+      \field{issn}{03605442}
+      \field{journaltitle}{Energy}
+      \field{title}{{Cost-benefit analysis of nZEB energy efficiency strategies with on-site photovoltaic generation}}
+      \field{volume}{128}
+      \field{year}{2017}
+      \field{pages}{291\bibrangedash 301}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.energy.2017.03.158
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.energy.2017.03.158
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.energy.2017.03.158
+      \endverb
+      \keyw{Government subsidy,Job generation,Nearly zero energy buildings (nZEB),Solar photovoltaic,Tax revenue}
+    \endentry
+    \entry{UnitedNations2017}{inproceedings}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
+           family={{United Nations}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Quito, Equador}%
+      }
+      \list{publisher}{1}{%
+        {Habitat III Secretariat}%
+      }
+      \strng{namehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{fullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{bibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorbibnamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The New Urban Agenda represents a shared vision for a better and more sustainable future – one in which all people have equal rights and access to the benefits and opportunities that cities can offer, and in which the international community reconsiders the urban systems and physical form of our urban spaces to achieve this.}
+      \field{booktitle}{United Nations Conference on Housing and Sustainable Urban Development (Habitat III)}
+      \field{isbn}{978-92-1-132731-1}
+      \field{issn}{00179140}
+      \field{title}{{New Urban Agenda}}
+      \field{year}{2017}
+      \field{pages}{66}
+      \range{pages}{1}
+      \verb{doi}
+      \verb ISBN: 978-92-1-132757-1
+      \endverb
       \verb{file}
       \verb ::
       \endverb
@@ -105,6 +660,128 @@
       \verb :F$\backslash$:/Root Files/Academic/masters/{\_}desenvolvimento/{\_}regular/{\_}eventos/{\_}lucas/{\_}referencias/CHEN - Energy optimization of high-rise commercial buildings integrated with photovoltaic facades in urban context.pdf:pdf
       \endverb
       \keyw{Archetype,Confounding factor,Energy demand,Optimization,Passive architectural design,Photovoltaic facade}
+    \endentry
+    \entry{InternationalEnergyAgency-IEA2019a}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
+           family={{International Energy Agency - IEA}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Energy Agency}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{fullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{bibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This section presents an overview of global electricity trends up to 2017, along with provisional data for 2018 from OECD members and other countries for which official data are available.}
+      \field{title}{{Electricity Information - Overview}}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{10}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{InternationalEnergyAgency-IEA2019}{report}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
+           family={{International Energy Agency - IEA}},
+           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=e711be7537944a5c87953730907a5d6d}{%
+           family={{United Nations Environment Programme - UNEP}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Energy Agency}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{72f2667665a386120abd20c464f870fc}
+      \strng{fullhash}{72f2667665a386120abd20c464f870fc}
+      \strng{bibnamehash}{72f2667665a386120abd20c464f870fc}
+      \strng{authorbibnamehash}{72f2667665a386120abd20c464f870fc}
+      \strng{authornamehash}{72f2667665a386120abd20c464f870fc}
+      \strng{authorfullhash}{72f2667665a386120abd20c464f870fc}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The 2019 Global Status Report for Buildings and Construction was prepared by the International Energy Agency (IEA) for the Global Alliance for Buildings and Construction (GlobalABC). The report was co-ordinated by the United Nations Environment Programme and was made possible by the generous support of the governments of Canada, France, Germany and Switzerland.}
+      \field{isbn}{9789280737684}
+      \field{title}{{2019 Global Status Report for Buildings and Construction: Towards a zero-emissions, efficient and resilient buildings and construction sector}}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{41}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.iea.org
+      \endverb
+      \verb{url}
+      \verb www.iea.org
+      \endverb
+      \keyw{buildings,cetp,climate change,cooling,energy efficiency}
+    \endentry
+    \entry{UnitedNationsEnvironmentProgramme-UNEP2019}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e711be7537944a5c87953730907a5d6d}{%
+           family={{United Nations Environment Programme - UNEP}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {United Nations Environmental Programme}%
+      }
+      \list{location}{1}{%
+        {Paris}%
+      }
+      \strng{namehash}{e711be7537944a5c87953730907a5d6d}
+      \strng{fullhash}{e711be7537944a5c87953730907a5d6d}
+      \strng{bibnamehash}{e711be7537944a5c87953730907a5d6d}
+      \strng{authorbibnamehash}{e711be7537944a5c87953730907a5d6d}
+      \strng{authornamehash}{e711be7537944a5c87953730907a5d6d}
+      \strng{authorfullhash}{e711be7537944a5c87953730907a5d6d}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Good decisions require good information. REN21's Renewables Global Status Report (GSR) tracks the annual development of renewables using the most up-to-date information and data available. Its neutral, fact-based approach documents in detail the annual developments in market, industry and policy. The report is a collaborative effort, drawing on an international network of more than 1,500 authors, contributors and reviewers from over 155 countries. Now in its 15th year, the GSR is the most frequently referenced report on renewable energy market, industry and policy trends.}
+      \field{title}{{The Renewables in Cities: 2019 Global Status Report}}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{174}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 978-3-9818911-9-5
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.ren21.net
+      \endverb
+      \verb{url}
+      \verb www.ren21.net
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
