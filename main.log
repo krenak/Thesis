@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  2 SEP 2020 21:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  2 SEP 2020 21:54
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
@@ -768,15 +768,21 @@ Package biblatex Info: ... file 'main.bbl' found.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.bbl")
 Package biblatex Info: Reference section=0 on input line 39.
 Package biblatex Info: Reference segment=0 on input line 39.
+ ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/capa.tex"
 <F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png, id=35, 82.782pt x 82.125pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png Graphic file (type png)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png>
-Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png  used on input line 44.
+Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png  used on input line 5.
 (pdftex.def)             Requested size: 95.19853pt x 94.443pt.
  [1
 
-{C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png>] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resumo.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 2--30
+{C:/Users/aaa_l/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png>]
+File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png Graphic file (type png)
+<use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png>
+Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png  used on input line 22.
+(pdftex.def)             Requested size: 95.19853pt x 94.443pt.
+ [2]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resumo.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 3--31
 
  []
 
@@ -785,11 +791,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--30
                    \relax 
 l.1 \section
             *{Abstract} [1]
-Underfull \hbox (badness 10000) in paragraph at lines 2--33
+Underfull \hbox (badness 10000) in paragraph at lines 3--34
 
  []
 
-) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/abrev.tex" [2]) [3] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof")
+) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/abrev.tex"pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \section
+            *{Lista de Abreviaturas} [2]) [3] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof")
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -813,31 +823,31 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [12] [13]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 88.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 61.
  [14]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 88.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 61.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 88.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 88.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 61.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 61.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 12318884B04B79A6135EB6540C37FAAE;474.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 88.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 61.
  ) 
 Here is how much of TeX's memory you used:
- 18277 strings out of 481212
- 327944 string characters out of 2905973
+ 18281 strings out of 481212
+ 328205 string characters out of 2905973
  1093815 words of memory out of 3000000
- 33351 multiletter control sequences out of 15000+200000
+ 33352 multiletter control sequences out of 15000+200000
  559119 words of font info for 135 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,65p,2321b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,11n,65p,2333b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (15 pages, 227493 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (16 pages, 227330 bytes).
 PDF statistics:
- 275 PDF objects out of 1000 (max. 8388607)
+ 278 PDF objects out of 1000 (max. 8388607)
  58 named destinations out of 1000 (max. 500000)
  12870 words of extra memory for PDF output out of 14400 (max. 10000000)
 
