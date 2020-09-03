@@ -1,23 +1,23 @@
-[0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is 'main.blg'
-[78] biber-MSWIN64:322> INFO - === 
-[101] Biber.pm:415> INFO - Reading 'main.bcf'
-[208] Biber.pm:943> INFO - Found 28 citekeys in bib section 0
-[224] Biber.pm:4256> INFO - Processing section 0
-[224] Utils.pm:75> INFO - Globbing data source 'ref.bib'
-[233] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
-[248] Biber.pm:4455> INFO - Looking for bibtex format file 'ref.bib' for section 0
-[301] bibtex.pm:1653> INFO - LaTeX decoding ...
-[1830] bibtex.pm:1471> INFO - Found BibTeX data source 'ref.bib'
-[1950] Utils.pm:304> WARN - ISBN 'NREL/CP-550-39833' in entry 'Torcellini2006' is invalid - run biber with '--validate_datamodel' for details.
-[1961] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Kurnitski2011' is invalid - run biber with '--validate_datamodel' for details.
-[2000] Utils.pm:304> WARN - month field 'may' in entry 'Pikas2014' is not an integer - this will probably not sort properly.
-[2034] Utils.pm:304> WARN - month field 'oct' in entry 'Conejero2016' is not an integer - this will probably not sort properly.
-[2068] Utils.pm:304> WARN - month field 'apr' in entry 'Chen2019' is not an integer - this will probably not sort properly.
-[2135] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2135] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2135] Biber.pm:4084> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'pt-BR'
-[2135] Biber.pm:4090> INFO - No sort tailoring available for locale 'pt-BR'
-[2178] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[2206] bbl.pm:755> INFO - Output to main.bbl
-[2215] Biber.pm:128> INFO - WARNINGS: 5
+[1] Config.pm:304> INFO - This is Biber 2.14
+[1] Config.pm:307> INFO - Logfile is 'main.blg'
+[168] biber-MSWIN64:322> INFO - === 
+[279] Biber.pm:415> INFO - Reading 'main.bcf'
+[571] Biber.pm:943> INFO - Found 28 citekeys in bib section 0
+[610] Biber.pm:4256> INFO - Processing section 0
+[611] Utils.pm:75> INFO - Globbing data source 'ref.bib'
+[671] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
+[728] Biber.pm:4455> INFO - Looking for bibtex format file 'ref.bib' for section 0
+[854] bibtex.pm:1653> INFO - LaTeX decoding ...
+[4085] bibtex.pm:1471> INFO - Found BibTeX data source 'ref.bib'
+[4425] Utils.pm:304> WARN - ISBN 'NREL/CP-550-39833' in entry 'Torcellini2006' is invalid - run biber with '--validate_datamodel' for details.
+[4444] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Kurnitski2011' is invalid - run biber with '--validate_datamodel' for details.
+[4498] Utils.pm:304> WARN - month field 'may' in entry 'Pikas2014' is not an integer - this will probably not sort properly.
+[4556] Utils.pm:304> WARN - month field 'oct' in entry 'Conejero2016' is not an integer - this will probably not sort properly.
+[4646] Utils.pm:304> WARN - month field 'apr' in entry 'Chen2019' is not an integer - this will probably not sort properly.
+[4799] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[4799] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[4799] Biber.pm:4084> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'pt-BR'
+[4799] Biber.pm:4090> INFO - No sort tailoring available for locale 'pt-BR'
+[4991] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[5050] bbl.pm:755> INFO - Output to main.bbl
+[5073] Biber.pm:128> INFO - WARNINGS: 5

@@ -2293,8 +2293,10 @@
     <bcf:citekey order="14">Torcellini2006</bcf:citekey>
     <bcf:citekey order="14">U.S.DepartmentofEnergy-USDOE2012</bcf:citekey>
     <bcf:citekey order="14">U.S.DepartmentofEnergy-USDOE2015</bcf:citekey>
-    <bcf:citekey order="15">Chen2019</bcf:citekey>
-    <bcf:citekey order="16">U.S.DepartmentofEnergy-USDOE2011</bcf:citekey>
+    <bcf:citekey order="15">U.S.DepartmentofEnergy-USDOE2015</bcf:citekey>
+    <bcf:citekey order="16">U.S.DepartmentofEnergy-USDOE2015</bcf:citekey>
+    <bcf:citekey order="17">Chen2019</bcf:citekey>
+    <bcf:citekey order="18">U.S.DepartmentofEnergy-USDOE2011</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">
