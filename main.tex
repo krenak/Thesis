@@ -5,7 +5,7 @@
                     %\usepackage[nf]{coelacanth}% fontes alternativas
                     %\usepackage[T1]{fontenc} % fontes alternativas
 \usepackage[utf8]{inputenc} % indicação de caracteres especiais - contidos no pt
-\usepackage{microtype} %server para formatação de espaçamento e indentação
+\usepackage{microtype} %server para melhorar a justificação
 \usepackage{graphicx} % pacote de formatação e inserção de figuras
 \usepackage{wrapfig} % pacote de formatação e inserção de figuras
 %\usepackage{enumitem} % pacote de formatação e inserção listas enumeradas
@@ -15,7 +15,7 @@
 %\usepackage{index} % pacote de formatação de sumário
 \usepackage{booktabs} % pacote de formatação e inserção de tabelas
 \usepackage{hyperref} % pacote para uso de hyperlinks
-%\usepackage{abntex2cite} % Citações padrão ABNT
+%\usepackage{natbib} % pacote de auxílio para citação autor, ano
 \usepackage[style=abnt, sorting=ynt]{biblatex} % formatação e configuração das referências
 \addbibresource{ref.bib}
 \usepackage{csquotes}
@@ -28,11 +28,11 @@
 \pagestyle{fancy} % estilo do cabeçalho e rodapé
 \fancyhf{}
 \rhead{FRAGA, Anderson A.}
-\lhead{Zero Energy para Edifícios Comerciais em Vitória-ES}
+\lhead{\leftmark}
 \rfoot{Página \thepage}
 \renewcommand{\headrulewidth}{2pt}
 \renewcommand{\footrulewidth}{1pt}
-\setlength{\headheight}{15pt} % formatando o headheight, eliminamos o conflito com o pacote fancyhdr
+\setlength{\headheight}{15.5pt} % formatando o headheight, eliminamos o conflito com o pacote fancyhdr
 %\setlenght{\parindent}{1.3cm}
 %\setlenght{\parskip}{0.2cm}
 
@@ -51,7 +51,6 @@
 \input{sections/question.tex}
 \input{sections/objetivos.tex}
 \input{sections/referencial.tex}
-\input{sections/definicoes.tex}
 \input{sections/zeroenergy.tex}
 \input{sections/metodo.tex}
 \input{sections/resultados.tex}

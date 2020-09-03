@@ -161,6 +161,136 @@
       \endverb
       \keyw{NREL/JA-500-46382,September 2009,building,energy,net-zero energy building,nzeb}
     \endentry
+    \entry{Abramovay2010}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=59e9ffe00dc9ca36ceaa4281c9e336ab}{%
+           family={Abramovay},
+           familyi={A\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{fullhash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{bibnamehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{authorbibnamehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{authornamehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{authorfullhash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O sucesso brasileiro em reduzir as queimadas na Amaz{ô}nia e o trunfo de sua matriz energ{é}tica s{ã}o importantes, mas nem de longe caracterizam uma din{â}mica pr{ó}pria ao desenvolvimento sustent{á}vel. {É} verdade que o Brasil passou, nos {ú}ltimos anos, por um processo expressivo de redu{ç}{ã}o simult{â}nea e in{é}dita da pobreza e da desigualdade de renda. Os avan{ç}os nesta dire{ç}{ã}o, entretanto, n{ã}o se ap{ó}iam hoje em formas de crescimento econ{ô}mico voltadas explicitamente a menor uso de energia e de materiais. O crescimento industrial brasileiro corre fortemente o risco de dissociar-se do que de mais avan{ç}ado se faz hoje em termos internacionais.}
+      \field{journaltitle}{Novos Estudos - CEBRAP}
+      \field{number}{87}
+      \field{title}{{Desnvolvimento sustent{á}vel: Qual a estrat{é}gia para o Brasil?}}
+      \field{year}{2010}
+      \field{pages}{97\bibrangedash 113}
+      \range{pages}{17}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{2010,matriz energetica brasileira,matriz energ{é}tica}
+    \endentry
+    \entry{Kurnitski2011a}{report}{}
+      \name{author}{12}{ul=2}{%
+        {{un=0,uniquepart=base,hash=9bbc27f3f27a71432ad925347961b68b}{%
+           family={Kurnitski},
+           familyi={K\bibinitperiod},
+           given={Jarek},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb616cfe4e447b8de1719c865875062e}{%
+           family={Allard},
+           familyi={A\bibinitperiod},
+           given={Francis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=479c76f9109fcb0a7bcc1814d3669643}{%
+           family={Braham},
+           familyi={B\bibinitperiod},
+           given={Derrick},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a68315846acf79ead384ad5b5f81b3cd}{%
+           family={Goeders},
+           familyi={G\bibinitperiod},
+           given={Guillaume},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1a16502d075dbca7df97350b0beaec30}{%
+           family={Jagemar},
+           familyi={J\bibinitperiod},
+           given={Lennart},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cfa30a6a3f182bb953a6f07dadb430a5}{%
+           family={Kosonen},
+           familyi={K\bibinitperiod},
+           given={Risto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c3ae664327c823e16cc27f756f56a40f}{%
+           family={Lebrun},
+           familyi={L\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57df7ff68fabde863c8ce1028ad52737}{%
+           family={Mazzarella},
+           familyi={M\bibinitperiod},
+           given={Livio},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=469b6413169d3b75c7b5724ded323270}{%
+           family={Railio},
+           familyi={R\bibinitperiod},
+           given={Jorma},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=23a88a950a7c5c2929becfdb00c221bf}{%
+           family={Sepp{ä}nen},
+           familyi={S\bibinitperiod},
+           given={Olli},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7047d212f80975d90e11f6931e965e13}{%
+           family={Schmidt},
+           familyi={S\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e6a81b17ca3b00695e927875fd4ae549}{%
+           family={Virta},
+           familyi={V\bibinitperiod},
+           given={Maija},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{fullhash}{f4b72456596bc12e3e80ddf8cf585aba}
+      \strng{bibnamehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{authorbibnamehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{authornamehash}{778f93c8ea365cc3c4694b46acb57bad}
+      \strng{authorfullhash}{f4b72456596bc12e3e80ddf8cf585aba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{1. Background T he Energy performance of buildings directive recast (EPBD recast) came into force on 9 July 2010. Member States shall adopt and publish, by 9 July 2012 at the latest, the laws, regulations and administrative provisions necessary to comply with most of the articles. According to the Directive the Member States shall ensure that by 31 December 2020, all new buildings are nearly zero-energy buildings; and after 31 December 2018, new buildings occupied and owned by public authorities are nearly zero-energy buildings. National roadmaps towards nearly zero energy buildings are needed for all member states. Member States shall draw up national plans for increasing the number of nearly zero energy buildings. The national plans shall include, inter alia, the following elements: (a) the Member State's detailed application in practice of the definition of nearly zero-energy buildings, reflecting their national, regional or local conditions, and including a numerical indicator of primary energy use expressed in kWh/m² per year. Primary energy factors used for the determination of the primary energy use may be based on national or regional yearly average values and may take into account relevant European standards; (b) intermediate targets for improving the energy performance of new buildings, by 2015, (c) information on the policies and financial or other measures adopted in the context of for the promotion of nearly zero-energy buildings. Summary This REHVA Task Force proposes a technical definition for nearly zero energy buildings required in the implementation of the Energy performance of buildings directive recast. Energy calculation framework and system boundaries associated with the definition are provided to specify which energy flows in which way are taken into account in the energy performance assessment. The intention of the Task Force is to help the experts in the Member States in defining the nearly zero energy buildings in a uniform way. The directive requires nearly zero energy buildings, but since it does not give minimum or maximum harmonized requirements as well as details of energy performance calculation framework, it will be up to the Member States to define what these for them exactly constitute. In the definition local conditions are to be obviously taken into account, but the uniform methodology can be used in all Member States. The directive defines nearly zero energy building as a building that has a very high energy performance and requires the calculation of primary energy indicator. The nearly zero or very low amount of energy required should be covered to a very significant extent by energy from renewable sources, including energy from renewable sources produced on-site or nearby. Based on the directive's definition, nearly zero energy building is technically defined through the net zero energy building , which is a building using 0 kWh/(m² a) primary energy. Following the cost-optimality principle of the directive, nearly net zero energy building definition is proposed as national cost optimal energy use of > 0 kWh/(m² a) primary energy. In order to end up with proposed general definition, it was needed to clarify which energy flows shall be included in energy performance assessment and how the primary energy factors should be used for primary energy indicator calculation. For the uniform methodology, a general system boundary definition was established with inclusion of active solar and wind energy, as well as the guidance for technical meaning of "nearby" in the directive.}
+      \field{booktitle}{REHVA Journal}
+      \field{title}{{How to define nearly net zero energy buildings nZEB-REHVA proposal for uniformed national implementation of EPBD recast}}
+      \field{type}{techreport}
+      \field{year}{2011}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{Kurnitski2011}{article}{}
       \name{author}{6}{ul=2}{%
         {{un=0,uniquepart=base,hash=9bbc27f3f27a71432ad925347961b68b}{%
@@ -239,41 +369,6 @@
       \endverb
       \keyw{Cost optimal,EPBD recast,Energy performance,Global cost,Nearly zero energy buildings,REHVA nZEB technical definition,nZEB}
     \endentry
-    \entry{U.S.DepartmentofEnergy-USDOE2011}{report}{}
-      \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
-           family={{U.S. Department of Energy - USDOE}},
-           familyi={U\bibinitperiod}}}%
-      }
-      \list{institution}{1}{%
-        {U.S. Department of Energy}%
-      }
-      \list{location}{1}{%
-        {Washington}%
-      }
-      \strng{namehash}{18c396e79b611e988471fe6b837a80e8}
-      \strng{fullhash}{18c396e79b611e988471fe6b837a80e8}
-      \strng{bibnamehash}{18c396e79b611e988471fe6b837a80e8}
-      \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
-      \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
-      \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
-      \field{extraname}{1}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{year}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{abstract}{In 2007, as part of its Advanced Codes Initiative, DOE signed a memorandum of understanding (MOU) with ASHRAE to develop advanced commercial standards and included an agreement that 90.1-2010 would result in 30{\%} energy savings relative to 90.1-2004. This MOU initiated the effort by BECP and ASHRAE which culminated in the release of 90.1-2010 in October 2010. This signed MOU introduced a new element and significant challenges for developing 90.1-2010. For the first time in the history of Standard 90.1, an energy goal was established for developing the new edition, 90.1-2010. The 30{\%} energy efficiency goal led to a dramatic increase in the level of activity and enhancement of Standard 90.1 as reflected in the quantity of changes, called addenda, proposed and approved.}
-      \field{title}{{Achieving the 30{\%} Goal Energy and Cost Savings Analysis of ASHRAE Standard 90-1-2010}}
-      \field{type}{techreport}
-      \field{year}{2011}
-      \field{pages}{370}
-      \range{pages}{1}
-      \verb{file}
-      \verb ::
-      \endverb
-    \endentry
     \entry{Leme2012}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=58f8f25051e96386a6fe8e4b5764a847}{%
@@ -326,7 +421,7 @@
       \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
-      \field{extraname}{2}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -343,6 +438,47 @@
       \verb ::
       \endverb
       \keyw{2012,DOE,NZEB}
+    \endentry
+    \entry{Abramovay2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=59e9ffe00dc9ca36ceaa4281c9e336ab}{%
+           family={Abramovay},
+           familyi={A\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{fullhash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{bibnamehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{authorbibnamehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{authornamehash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \strng{authorfullhash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Third Industrial Revolution (Rifkin, 2014; Heck e Rogers, 2014) offers oppor-tunities for transformations not only in the energy matrix but also in the way the goods and services that constitute global wealth are conceived, produced and used. However, for those opportunities to become actual realizations disruptive changes will have to be made to the current business models, to the protagonists of economic growth and to the rules that drive goods and services supply is organized. Unlike the features that marked the technical progress of the first and second industrial revolutions, the large scale use of digital media is already opening the way not only for a dizzying drop in the prices of renewable sources of energy but also to the emergence of collaborative forms of economic organization that may make it feasible for countries whose populations live in poverty or even destitution to gain access to those goods and services that form the base of what Amartya Sen (1999) considers development to be. The increase in efficient energy production using renewable sources and on the basis of self-production is such that it is beginning to threaten the business model that has indelibly marked the electricity sup-ply since the day when Thomas Edison began to implant the American electricity grid. That is shown by the recent document of the Rocky Mountain Institute (2014) with its suggestive title “Grid Defection”. Recent conquests in the capacity to offer goods and services coupled to energy saving (rather than increased energy use) are so promising and have already brought in results with such a strong impact that Lovins (2014) does not hesitate to refer to them as the “secret revolution”.}
+      \field{journaltitle}{Ambiente e Sociedade}
+      \field{number}{3}
+      \field{title}{{Innovations to democratize energy access without boosting emissions}}
+      \field{volume}{XVII}
+      \field{year}{2014}
+      \field{pages}{1\bibrangedash 18}
+      \range{pages}{18}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://www.redalyc.org/articulo.oa?id=31732525002
+      \endverb
+      \verb{url}
+      \verb http://www.redalyc.org/articulo.oa?id=31732525002
+      \endverb
+      \keyw{matriz energ{é}tica,matriz energ{é}tica brasileira}
     \endentry
     \entry{Didone2014}{thesis}{}
       \name{author}{1}{}{%
@@ -379,6 +515,155 @@
       \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Didon{\'{e}} - 2014 - Parametric study for net zero energy building strategies in Brazil considering semi-transparent PV windows.pdf:pdf
       \endverb
       \keyw{(sub)tropical climate,computer simulation,office building type,semi-transparent PV windows,zero energy buildings (ZEB)}
+    \endentry
+    \entry{Didone2014a}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d07d939c0ca371ea8b32d0a99c00997f}{%
+           family={Didon{é}},
+           familyi={D\bibinitperiod},
+           given={Evelise\bibnamedelima Leite},
+           giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fd3a8379cbda9c60f92e446330e16fb}{%
+           family={Wagner},
+           familyi={W\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ce2e6c3029e29f39f93cccc316c7bf2d}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Fernando\bibnamedelimb Oscar\bibnamedelima Ruttkay},
+           giveni={F\bibinitperiod\bibinitdelim O\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
+      \strng{fullhash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
+      \strng{bibnamehash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
+      \strng{authorbibnamehash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
+      \strng{authornamehash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
+      \strng{authorfullhash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Esta pesquisa tem o objetivo de avaliar o potencial de transforma{ç}{ã}o de edif{í}cios de escrit{ó}rio brasileiros em edif{í}cios energia zero (EEZ) em diferentes climas. O estudo foi baseado em simula{ç}{õ}es computacionais, e o desenvolvimento do modelo foi dividido em tr{ê}s etapas. A primeira etapa consistiu na avalia{ç}{ã}o do caso prot{ó}tipo (edif{í}cio referencial), que representa uma tipologia de edif{í}cios de escrit{ó}rios no Brasil. A segunda etapa consistiu no desenvolvimento do caso otimizado (edif{í}cio com baixo consumo de energia) de acordo com o regulamento de efici{ê}ncia energ{é}tica brasileiro. O comportamento dos dois casos foi determinado e comparado com o c{á}lculo do balan{ç}o t{é}rmico e energ{é}tico do edif{í}cio. Finalmente, o caso energia zero foi obtido por meio da aplica{ç}{ã}o de tecnologias solares (BIPV) na edifica{ç}{ã}o. As simula{ç}{õ}es computacionais foram realizadas atrav{é}s dos programas EnergyPlus e Daysim para Fortaleza, CE, e Florian{ó}polis, SC, cidades localizadas em diferentes zonas clim{á}ticas do Brasil. Os resultados mostraram que, em Fortaleza, mais m{ó}dulos fotovoltaicos foram necess{á}rios devido ao maior consumo de energia, principalmente com refrigera{ç}{ã}o. O uso do regulamento de efici{ê}ncia energ{é}tica proporcionou redu{ç}{ã}o no consumo de aproximadamente 50{\%}. Por{é}m, com o uso da janela fotovoltaica, outras estrat{é}gias foram necess{á}rias para atingir o EEZ.}
+      \field{issn}{1678-8621}
+      \field{journaltitle}{Ambiente Constru{í}do}
+      \field{number}{3}
+      \field{title}{{Estrat{é}gias para edif{í}cios de escrit{ó}rios energia zero no Brasil com {ê}nfase em BIPV}}
+      \field{volume}{14}
+      \field{year}{2014}
+      \field{pages}{27\bibrangedash 42}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1590/S1678-86212014000300003
+      \endverb
+      \keyw{Efici{ê}ncia energ{é}tica,edif{í}cios energia zero,fotovoltaicos semitransparente em janelas,simula{ç}{ã}o computacional}
+    \endentry
+    \entry{Domingos2014}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=a979a9adb23ca99696fb9054a7214888}{%
+           family={Domingos},
+           familyi={D\bibinitperiod},
+           given={Lucas},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=87d19559bc73921137b528fbfd5fcedb}{%
+           family={Kalz},
+           familyi={K\bibinitperiod},
+           given={Doreen},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=15dd1d1fdbbc253229fca44a267f2391}{%
+           family={Dinkel},
+           familyi={D\bibinitperiod},
+           given={Arnulf},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3919faf6455f54d90fcfa16f08ab55af}{%
+           family={Lomardo},
+           familyi={L\bibinitperiod},
+           given={Louise},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c51803ef7abcbb8e14c8844e7c5a8569}{%
+           family={{Gomes Da Silva}},
+           familyi={G\bibinitperiod},
+           given={Vanessa},
+           giveni={V\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6cf1ea424b40432cbdd94b2d20525bcf}
+      \strng{fullhash}{6e25d6ab653d79d8484acb035f30e091}
+      \strng{bibnamehash}{6cf1ea424b40432cbdd94b2d20525bcf}
+      \strng{authorbibnamehash}{6cf1ea424b40432cbdd94b2d20525bcf}
+      \strng{authornamehash}{6cf1ea424b40432cbdd94b2d20525bcf}
+      \strng{authorfullhash}{6e25d6ab653d79d8484acb035f30e091}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{number}{1}
+      \field{title}{{Defini{ç}{ã}o de uma classifica{ç}{ã}o clim{á}tica para o estudo de edifica{ç}{õ}es com balan{ç}o anual zero de energia no Brasil}}
+      \field{year}{2014}
+      \field{pages}{213\bibrangedash 222}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.17012/entac2014.143
+      \endverb
+      \verb{urlraw}
+      \verb http://www.infohab.org.br/entac2014/artigos/paper{\_}143.pdf
+      \endverb
+      \verb{url}
+      \verb http://www.infohab.org.br/entac2014/artigos/paper%7B%5C_%7D143.pdf
+      \endverb
+      \keyw{climate classification,climate indicators,clustering,idw- inverse distance weighting,zero energy building}
+    \endentry
+    \entry{InternationalEnergyAgency-IEA2014}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
+           family={{International Energy Agency - IEA}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {University of Reunion Island, ESIROI/PIMENT}%
+      }
+      \list{location}{1}{%
+        {Le Tampon}%
+      }
+      \strng{namehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{fullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{bibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{This technical report gives a review of 30 fully documented net ZEBs case studies that have been identified by the Sub Task C participants. It reports a compilation of all technical and non-technical information of the 30 case studies that formed the foundation on which the analysis of Volume 3 of the Source Book was based.}
+      \field{title}{{IEA SHC Task 40 / EBC Annex 52 Towards Net Zero Energy Solar Buildings: A review of 30 Net ZEBs case studies}}
+      \field{type}{techreport}
+      \field{year}{2014}
+      \field{pages}{130}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://www.enob.info/en/net-zero-energy-buildings/map/
+      \endverb
+      \verb{url}
+      \verb http://www.enob.info/en/net-zero-energy-buildings/map/
+      \endverb
     \endentry
     \entry{Pikas2014}{article}{}
       \name{author}{3}{}{%
@@ -430,96 +715,61 @@
       \endverb
       \keyw{Cost optimality,Daylight,Energy simulations,Facade design,Fenestration,Load matching,Nearly zero energy buildings (nZEB),Photovoltaic (PV) generation,Windows}
     \endentry
-    \entry{Kurnitski2015}{article}{}
-      \name{author}{12}{ul=2}{%
-        {{un=0,uniquepart=base,hash=9bbc27f3f27a71432ad925347961b68b}{%
-           family={Kurnitski},
-           familyi={K\bibinitperiod},
-           given={Jarek},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bb616cfe4e447b8de1719c865875062e}{%
-           family={Allard},
+    \entry{Athienitis2015}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=86e92b40a401f40005fa61b89b2f6a3d}{%
+           family={Athienitis},
            familyi={A\bibinitperiod},
-           given={Francis},
-           giveni={F\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
            givenun=0}}%
-        {{un=0,uniquepart=base,hash=479c76f9109fcb0a7bcc1814d3669643}{%
-           family={Braham},
-           familyi={B\bibinitperiod},
-           given={Derrick},
-           giveni={D\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=a68315846acf79ead384ad5b5f81b3cd}{%
-           family={Goeders},
-           familyi={G\bibinitperiod},
-           given={Guillaume},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=d0b574ed249859a47f6685d1e204bee1}{%
-           family={Heiselberg},
-           familyi={H\bibinitperiod},
-           given={Per},
-           giveni={P\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=1a16502d075dbca7df97350b0beaec30}{%
-           family={Jagemar},
-           familyi={J\bibinitperiod},
-           given={Lennart},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=cfa30a6a3f182bb953a6f07dadb430a5}{%
-           family={Kosonen},
-           familyi={K\bibinitperiod},
-           given={Risto},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c3ae664327c823e16cc27f756f56a40f}{%
-           family={Lebrun},
-           familyi={L\bibinitperiod},
-           given={Jean},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=57df7ff68fabde863c8ce1028ad52737}{%
-           family={Mazzarella},
-           familyi={M\bibinitperiod},
-           given={Livio},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=469b6413169d3b75c7b5724ded323270}{%
-           family={Railio},
-           familyi={R\bibinitperiod},
-           given={Jorma},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=7047d212f80975d90e11f6931e965e13}{%
-           family={Schmidt},
-           familyi={S\bibinitperiod},
-           given={Michael},
-           giveni={M\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e6a81b17ca3b00695e927875fd4ae549}{%
-           family={Virta},
-           familyi={V\bibinitperiod},
-           given={Maija},
-           giveni={M\bibinitperiod},
+        {{un=0,uniquepart=base,hash=177e52d88ceb3eb8920588809b0aee2e}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod},
            givenun=0}}%
       }
-      \strng{namehash}{778f93c8ea365cc3c4694b46acb57bad}
-      \strng{fullhash}{1e5fde79a23288102690fca1ac7fbd00}
-      \strng{bibnamehash}{778f93c8ea365cc3c4694b46acb57bad}
-      \strng{authorbibnamehash}{778f93c8ea365cc3c4694b46acb57bad}
-      \strng{authornamehash}{778f93c8ea365cc3c4694b46acb57bad}
-      \strng{authorfullhash}{1e5fde79a23288102690fca1ac7fbd00}
+      \name{editor}{2}{}{%
+        {{hash=86e92b40a401f40005fa61b89b2f6a3d}{%
+           family={Athienitis},
+           familyi={A\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod}}}%
+        {{hash=177e52d88ceb3eb8920588809b0aee2e}{%
+           family={O'Brien},
+           familyi={O\bibinitperiod},
+           given={William},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {The Deutsche Nationalbibliothek}%
+      }
+      \strng{namehash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{fullhash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{bibnamehash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{authorbibnamehash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{authornamehash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{authorfullhash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{editorbibnamehash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{editornamehash}{5c65dcd76e8268e055953d3af4306721}
+      \strng{editorfullhash}{5c65dcd76e8268e055953d3af4306721}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{number}{May 2011}
-      \field{title}{{How to define nearly net zero energy buildings nZEB}}
+      \field{abstract}{This book was produced in the context of the collaboration between approximately 75 national experts from 19 nations in Europe, North America, Oceania, and Southeast Asia of the International Energy Agency (IEA), in the framework of the programs on Solar Heating and Cooling (SHC Task 40) and Energy in Buildings and Communities (EBC Annex 52), under the title “Towards Net-Zero Energy Solar Buildings.” T40A52 sought to study current net-zero, near-net-zero and very low energy buildings and to develop a common understanding of a harmonized international deﬁnitions framework, tools, innovative solutions, and industry guidelines to support the conversion of the Net ZEB concept from an idea into practical reality in the marketplace.}
+      \field{edition}{1{ª} ed.}
+      \field{isbn}{9783433030400}
+      \field{title}{{Modeling, Design, and Optimization of Net-Zero Energy Buildings}}
       \field{year}{2015}
+      \field{pages}{375}
+      \range{pages}{1}
       \verb{file}
       \verb ::
       \endverb
@@ -567,6 +817,43 @@
       \endverb
       \keyw{cost,energy efficiency,net-zero,passive design,project management,sustainable design,systems approach}
     \endentry
+    \entry{U.S.DepartmentofEnergy-USDOE2015a}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {US Department of Energy}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \strng{namehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{fullhash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{bibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A zero energy building (ZEB) produces enough renewable energy to meet its own annual energy consumption requirements, thereby reducing the use of non-renewable energy in the building sector. ZEBs use all cost-effective measures to reduce energy usage through energy efficiency and include renewable energy systems that produce enough energy to meet remaining energy needs. There are a number of long-term advantages of moving toward ZEBs, including lower environmental impacts, lower operating and maintenance costs, better resiliency to power outages and natural disasters, and improved energy security. Reducing building energy consumption in new building construction or renovation can be accomplished through various means, including integrated design, energy efficiency retrofits, reduced plug loads and energy conservation programs. Reduced energy consumption makes it simpler and less expensive to meet the building's energy needs with renewable sources of energy. ZEBs have a tremendous potential to transform the way buildings use energy and there are an increasing number of building owners who want to meet this target. Private commercial property owners are interested in developing ZEBs to meet their corporate goals, and some have already constructed buildings designed to be zero energy. In response to regulatory mandates, federal government agencies and many state and local governments are beginning to move toward targets for ZEBs. However, definitions differ from region to region and from organization to organization, leading to confusion and uncertainty around what constitutes a ZEB.}
+      \field{number}{September}
+      \field{title}{{A Common Definition for Zero Energy Buildings}}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \field{pages}{22}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/U.S. Department of Energy - USDOE - 2015 - A Common Definition for Zero Energy Buildings.pdf:pdf
+      \endverb
+    \endentry
     \entry{U.S.DepartmentofEnergy-USDOE2015}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
@@ -588,6 +875,7 @@
       \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1048,6 +1336,43 @@
       \verb ::
       \endverb
     \endentry
+    \entry{BancoMundial2018}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=081c29fc27b70573aca57b57327d4b03}{%
+           family={{Banco Mundial}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Banco Mundial}%
+      }
+      \list{location}{1}{%
+        {Washington, DC}%
+      }
+      \strng{namehash}{081c29fc27b70573aca57b57327d4b03}
+      \strng{fullhash}{081c29fc27b70573aca57b57327d4b03}
+      \strng{bibnamehash}{081c29fc27b70573aca57b57327d4b03}
+      \strng{authorbibnamehash}{081c29fc27b70573aca57b57327d4b03}
+      \strng{authornamehash}{081c29fc27b70573aca57b57327d4b03}
+      \strng{authorfullhash}{081c29fc27b70573aca57b57327d4b03}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Este Relat{ó}rio Anual, que abrange o per{í}odo de 1{º} de julho de 2017 a 30 de junho de 2018, foi elaborado pelas Diretorias Executivas do Banco Internacional de Reconstru{ç}{ã}o e Desenvolvimento (BIRD) e da Associa{ç}{ã}o Internacional de Desenvolvimento (AID) — conhecidos coletivamente como Banco Mundial — em conformidade com os estatutos das duas institui{ç}{õ}es. O Dr. Jim Yong Kim, Presidente do Grupo Banco Mundial e Presidente da Diretoria Executiva, apresentou este relat{ó}rio, juntamente com os respectivos or{ç}amentos administrativos e demonstrativos financeiros auditados que o acompanham, {à} Assembleia de Governadores.}
+      \field{title}{{Relat{ó}rio Anual 2018 do Banco Mundial}}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \field{pages}{97}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1596/978-1-4648-1310-8
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{EmpresadePesquisaEnergetica-EPE2018}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
@@ -1082,6 +1407,80 @@
       \verb ::
       \endverb
     \endentry
+    \entry{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018a}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb8bdd3fbafa352c3b2f7c626596783d}{%
+           family={{Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Metrologia\bibnamedelimb Normaliza{ç}{ã}o\bibnamedelimb e\bibnamedelimb Qualidade\bibnamedelimb Industrial\bibnamedelimb -\bibnamedelimb INMETRO}},
+           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Instituto Nacional de Metrologia, Qualidade e Tecnologia}%
+      }
+      \list{location}{1}{%
+        {Bras{í}lia}%
+      }
+      \strng{namehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{fullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{bibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authorbibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authornamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{EFICI{Ê}NCIA ENERG{É}TICA - CONDICIONADORES DE AR SPLIT HI-WALL COM ROTA{Ç}{Ã}O FIXA}}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \field{pages}{29}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.eletrobras.com/procel.
+      \endverb
+      \verb{url}
+      \verb www.eletrobras.com/procel.
+      \endverb
+    \endentry
+    \entry{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb8bdd3fbafa352c3b2f7c626596783d}{%
+           family={{Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Metrologia\bibnamedelimb Normaliza{ç}{ã}o\bibnamedelimb e\bibnamedelimb Qualidade\bibnamedelimb Industrial\bibnamedelimb -\bibnamedelimb INMETRO}},
+           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Nacional de Metrologia Normaliza{ç}{ã}o e Qualidade Industrial}%
+      }
+      \strng{namehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{fullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{bibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authorbibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authornamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O presente RTQ especifica requisitos t{é}cnicos, bem como os m{é}todos para classifica{ç}{ã}o de edif{í}cios comerciais, de servi{ç}os e p{ú}blicos quanto {à} efici{ê}ncia energ{é}tica. Os edif{í}cios submetidos a este RTQ devem atender {à}s normas da Associa{ç}{ã}o Brasileira de Normas T{é}cnicas (ABNT) vigentes e aplic{á}veis. Cabe ressaltar que a vis{ã}o deste RTQ {é} a efici{ê}ncia energ{é}tica da edifica{ç}{ã}o e que este, os organismos de inspe{ç}{ã}o acreditados e o Inmetro se eximem dos problemas que porventura possam ser causados {à} edifica{ç}{ã}o pela n{ã}o observ{â}ncia das normas da ABNT, que s{ã}o de exclusiva atribui{ç}{ã}o do projetista.}
+      \field{booktitle}{10 de jul}
+      \field{title}{{Regulamento T{é}cnico da Qualidade para o N{í}vel de Efici{ê}ncia Energ{é}tica de Edifica{ç}{õ}es Comerciais, de Servi{ç}os e P{ú}blicas}}
+      \field{year}{2018}
+      \field{pages}{122}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{InternationalEnergyAgency-IEA2018}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
@@ -1100,7 +1499,7 @@
       \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -1159,58 +1558,58 @@
       \endverb
       \keyw{ARSP}
     \endentry
-    \entry{Chen2019}{article}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=c6649d02b24225ca4c9012cee6c790de}{%
-           family={Chen},
-           familyi={C\bibinitperiod},
-           given={Xi},
-           giveni={X\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=3c9389fd27816fc8a622c41814860f8c}{%
-           family={Yang},
-           familyi={Y\bibinitperiod},
-           given={Hongxing},
-           giveni={H\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=af2b470a8cf86bdb778bfb280f5212bf}{%
-           family={Peng},
-           familyi={P\bibinitperiod},
-           given={Jinqing},
-           giveni={J\bibinitperiod},
-           givenun=0}}%
+    \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2019}{book}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=9c1dec0acda417acff08cb866a9d4c25}{%
+           family={{American Society of Heating Refrigerating and Air-Conditioning Engineers - ASHRAE}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7689a78e4196d02a6bcf94e2d3e6c1f7}{%
+           family={{The American Institute of Architects - AIA}},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f05a81572a1a5768cb367cc4afc5de40}{%
+           family={{Illuminating Engineers Society - IES}},
+           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ff81ffbd8e960caa9a7ccaf189d18e90}{%
+           family={{U.S. Green Building Society - USGBS}},
+           familyi={U\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Washington}%
       }
       \list{publisher}{1}{%
-        {Elsevier Ltd}%
+        {ASHRAE}%
       }
-      \strng{namehash}{d695dc87f585ff1e124e3f9d4c08520e}
-      \strng{fullhash}{d695dc87f585ff1e124e3f9d4c08520e}
-      \strng{bibnamehash}{d695dc87f585ff1e124e3f9d4c08520e}
-      \strng{authorbibnamehash}{d695dc87f585ff1e124e3f9d4c08520e}
-      \strng{authornamehash}{d695dc87f585ff1e124e3f9d4c08520e}
-      \strng{authorfullhash}{d695dc87f585ff1e124e3f9d4c08520e}
+      \strng{namehash}{903c3fd08d534103c97a46826bf15ff0}
+      \strng{fullhash}{7b2215a22c281891b12a7e68712a5484}
+      \strng{bibnamehash}{903c3fd08d534103c97a46826bf15ff0}
+      \strng{authorbibnamehash}{903c3fd08d534103c97a46826bf15ff0}
+      \strng{authornamehash}{903c3fd08d534103c97a46826bf15ff0}
+      \strng{authorfullhash}{7b2215a22c281891b12a7e68712a5484}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This research thoroughly explored the impact of archetypes and confounding factors on a proposed holistic design optimization approach for high-rise office buildings with integrated photovoltaic (PV) facades. The design optimization adopts the hybrid generalized pattern search particle swarm optimization (HGPSPSO) algorithm, which is incorporated with qualitative and quantitative sensitivity analyses for factor prioritizing and fixing. Different archetypes are modelled by changing floor plan sizes and shapes, while diverse urban contexts and internal load (heat gain) levels are investigated as major confounding factors beyond designers' control. Variation of these four simulation scenarios are then used to examine the uncertainty of sensitivity indices and optimization potential for passive architectural design parameters. The window geometry, thermal and optical properties are proved to be most important to the reference PV envelope design. The building plan shape is found to have little impact on the weighting of different design parameters, while the shape coefficient (SC) is determined to be almost linearly correlated with the HVAC (heating, ventilation and air-conditioning) demand. The office design with the highest shape coefficient can therefore achieve a net energy demand reduction up to 48.77{\%}. The floor plan size also has minor impact on the sensitivity index for each design factor, but the energy-saving potential grows with decreasing floor sizes. On the contrary, confounding factors can greatly change the sensitivity analysis (SA) result. The window U-value becomes more important with an increasing internal load level and urban context density whereas the impact of the window light-to-solar gain ratio is reduced by peripheral shading. Furthermore, varying confounding factors can even change the dimension of optimization problems based on different factor fixing results. This research can provide early-stage design guidance for energy efficient buildings with a comprehensive analysis of pragmatic building archetypes, background contexts and operation scenarios.}
-      \field{issn}{03605442}
-      \field{journaltitle}{Energy}
-      \field{month}{4}
-      \field{title}{{Energy optimization of high-rise commercial buildings integrated with photovoltaic facades in urban context}}
-      \field{volume}{172}
+      \field{abstract}{Earlier edition produced by American Society of Heating, Refrigerating and Air-Conditioning Engineers. 2011. "Provides recommendations for achieving a net zero energy small or medium office building; allows contractors, consulting engineers, architects, and designers to easily achieve advanced levels of energy savings without resorting to detailed calculations or analyses".}
+      \field{edition}{1{ª} ed.}
+      \field{isbn}{9781947192232}
+      \field{title}{{Advanced Energy Design Guide for Small to Medium Office Buildings: achieving zero energy}}
       \field{year}{2019}
-      \field{pages}{1\bibrangedash 17}
-      \range{pages}{17}
-      \verb{doi}
-      \verb 10.1016/j.energy.2019.01.112
-      \endverb
+      \field{pages}{240}
+      \range{pages}{1}
       \verb{file}
-      \verb :F$\backslash$:/Root Files/Academic/masters/{\_}desenvolvimento/{\_}regular/{\_}eventos/{\_}lucas/{\_}referencias/CHEN - Energy optimization of high-rise commercial buildings integrated with photovoltaic facades in urban context.pdf:pdf
+      \verb ::
       \endverb
-      \keyw{Archetype,Confounding factor,Energy demand,Optimization,Passive architectural design,Photovoltaic facade}
+      \verb{urlraw}
+      \verb www.ashrae.org
+      \endverb
+      \verb{url}
+      \verb www.ashrae.org
+      \endverb
     \endentry
     \entry{InternationalEnergyAgency-IEA2019a}{report}{}
       \name{author}{1}{}{%
@@ -1230,9 +1629,10 @@
       \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1242,6 +1642,41 @@
       \field{type}{techreport}
       \field{year}{2019}
       \field{pages}{10}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{InternationalEnergyAgency-IEA2019b}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
+           family={{International Energy Agency - IEA}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {International Energy Agency}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro}%
+      }
+      \strng{namehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{fullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{bibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Energy Efficiency Market Report 2019}}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{22}
       \range{pages}{1}
       \verb{file}
       \verb ::

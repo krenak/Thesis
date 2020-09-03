@@ -314,6 +314,9 @@ INPUT F:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase
 INPUT F:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\ficha.pdf
 INPUT F:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\ficha.pdf
 INPUT F:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\ficha.pdf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchri7t.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchri7t.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchri8r.tfm
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\agrad.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\agrad.tex
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
@@ -329,14 +332,7 @@ INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
-OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof
-INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lot
-INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lot
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
-OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lot
-INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.toc
-INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.toc
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
@@ -348,9 +344,22 @@ INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lot
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lot
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lot
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.toc
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.toc
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchri7t.tfm
 OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.toc
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchb7t.vf
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8r.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchri7t.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchri8r.tfm
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\intro.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\intro.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\question.tex
@@ -361,8 +370,24 @@ INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\referencial.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\introzeb.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\introzeb.tex
-INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\definicoes.tex
-INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\definicoes.tex
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchbi7t.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchbi7t.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchbi8r.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchbi7t.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchbi7t.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchbi8r.tfm
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_kurnitski _2011.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_kurnitski _2011.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_kurnitski _2011.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_kurnitski _2011.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_kurnitski _2011.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_iea_2014-2.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_iea_2014-2.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_iea_2014-2.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_iea_2014-2.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\figures\esquema_iea_2014-2.png
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\cenarios.tex
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\cenarios.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\zeroenergy.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\zeroenergy.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\metodo.tex
@@ -379,7 +404,11 @@ OUTPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fas
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\enc\dvips\base\8r.enc
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchb8a.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchb8a.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchbi8a.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchbi8a.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
