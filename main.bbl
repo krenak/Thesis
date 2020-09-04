@@ -369,6 +369,61 @@
       \endverb
       \keyw{Cost optimal,EPBD recast,Energy performance,Global cost,Nearly zero energy buildings,REHVA nZEB technical definition,nZEB}
     \endentry
+    \entry{Cronemberger2012}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=ca843ba992ad743e1ff5af58a1818ed0}{%
+           family={Cronemberger},
+           familyi={C\bibinitperiod},
+           given={Joara},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8fb05fa24ae45e7c007d799fd7ba5655}{%
+           family={Caama{ñ}o-Mart{í}n},
+           familyi={C\bibinithyphendelim M\bibinitperiod},
+           given={Estefan{í}a},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa85a92531267e2b63df567ab0a6179c}{%
+           family={S{á}nchez},
+           familyi={S\bibinitperiod},
+           given={Sergio\bibnamedelima Vega},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a4dae26738abd02b74e87be643b12368}
+      \strng{fullhash}{a4dae26738abd02b74e87be643b12368}
+      \strng{bibnamehash}{a4dae26738abd02b74e87be643b12368}
+      \strng{authorbibnamehash}{a4dae26738abd02b74e87be643b12368}
+      \strng{authornamehash}{a4dae26738abd02b74e87be643b12368}
+      \strng{authorfullhash}{a4dae26738abd02b74e87be643b12368}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In Brazil, a low-latitude country characterized by its high availability and uniformity of solar radiation, the use of PV solar energy integrated in buildings is still incipient. However, at the moment there are several initiatives which give some hints that lead to think that there will be a change shortly. In countries where this technology is already a daily reality, such as Germany, Japan or Spain, the recommendations and basic criteria to avoid losses due to orientation and tilt are widespread. Extrapolating those measures used in high latitudes to all regions, without a previous deeper analysis, is standard practice. They do not always correspond to reality, what frequently leads to false assumptions and may become an obstacle in a country which is taking the first step in this area. In this paper, the solar potential yield for different surfaces in Brazilian cities (located at latitudes between 0° and 30°S) are analyzed with the aim of providing the necessary tools to evaluate the suitability of the buildings' envelopes for photovoltaic use.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{12}
+      \field{title}{{Assessing the solar irradiation potential for solar photovoltaic applications in buildings at low latitudes – Making the case for Brazil}}
+      \field{volume}{55}
+      \field{year}{2012}
+      \field{pages}{264\bibrangedash 272}
+      \range{pages}{9}
+      \verb{doi}
+      \verb 10.1016/J.ENBUILD.2012.08.044
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778812004483
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778812004483
+      \endverb
+    \endentry
     \entry{Leme2012}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=58f8f25051e96386a6fe8e4b5764a847}{%
@@ -438,6 +493,41 @@
       \verb ::
       \endverb
       \keyw{2012,DOE,NZEB}
+    \endentry
+    \entry{AgenciadeServicosPublicosdeEnergiadoEstadodoEspiritoSanto-ASPE2013}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f51ac6893ff4522ffd35797a6ff33868}{%
+           family={{Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo - ASPE}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo}%
+      }
+      \list{location}{1}{%
+        {Vit{ó}ria}%
+      }
+      \strng{namehash}{f51ac6893ff4522ffd35797a6ff33868}
+      \strng{fullhash}{f51ac6893ff4522ffd35797a6ff33868}
+      \strng{bibnamehash}{f51ac6893ff4522ffd35797a6ff33868}
+      \strng{authorbibnamehash}{f51ac6893ff4522ffd35797a6ff33868}
+      \strng{authornamehash}{f51ac6893ff4522ffd35797a6ff33868}
+      \strng{authorfullhash}{f51ac6893ff4522ffd35797a6ff33868}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Num mundo cada vez mais sedento de energia, um dos nossos maiores desafios {é} identificar fontes capazes de suprir as necessidades atuais de consumo dos seres humanos, sem comprometer a qualidade de vida, a seguran{ç}a e a pr{ó}pria sobreviv{ê}ncia das pr{ó}ximas gera{ç}{õ}es. A consci{ê}ncia de que os recursos naturais, em sua maioria, n{ã}o s{ã}o infinitos, tem levado os pa{í}ses do mundo inteiro a buscar solu{ç}{õ}es alternativas, que garantam uma explora{ç}{ã}o planejada, confi{á}vel e de baixo custo e, ao mesmo tempo, uma conviv{ê}ncia n{ã}o destrutiva com os recursos do planeta. Afinal, o desenvolvimento econ{ô}mico de estados e regi{õ}es depende hoje, mais que nunca, da identifica{ç}{ã}o e correta explora{ç}{ã}o de recursos que permitam a produ{ç}{ã}o de energia limpa, a partir de fontes renov{á}veis. Por isso, nos {ú}ltimos anos, os investimentos em pesquisas nesse campo cresceram muito e t{ê}m apresentado excelentes resultados.}
+      \field{title}{{Energia Solar no Esp{í}rito Santo - Tecnologias, Aplica{ç}{õ}es e Oportunidades}}
+      \field{type}{techreport}
+      \field{year}{2013}
+      \field{pages}{120}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Energia Solar,Energias renov{á}veis,Esp{í}rito Santo,Fotovoltaica,Micro e Minigera{ç}{ã}o}
     \endentry
     \entry{Abramovay2014}{article}{}
       \name{author}{1}{}{%
@@ -1144,6 +1234,98 @@
       \endverb
       \keyw{Distribui{ç}{ã}o,EDP,ES,Efici{ê}ncia energ{é}tica,Energia el{é}trica,Gera{ç}{ã}o,Transmiss{ã}o}
     \endentry
+    \entry{Pereira2017}{book}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=3d6ca9d68050d1e243e3936202efef7f}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Enio\bibnamedelima Bueno},
+           giveni={E\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=50915dbbdac25a157900dfb04ebe82cc}{%
+           family={Martins},
+           familyi={M\bibinitperiod},
+           given={Fernando\bibnamedelima Ramos},
+           giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cb7d6c284c187ebf7b2666b6182d2e67}{%
+           family={Gon{ç}alves},
+           familyi={G\bibinitperiod},
+           given={Andr{é}\bibnamedelima Rodrigues},
+           giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=440043635edeb72d38af8f0473e3a4b4}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Rodrigo\bibnamedelima Santos},
+           giveni={R\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c02c85f3d8dce5594224b49ebfdd96f7}{%
+           family={Lima},
+           familyi={L\bibinitperiod},
+           given={Francisco\bibnamedelimb J.\bibnamedelimi Lopes\bibnamedelima de},
+           giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3d4b774e9884d4f69d937ca24dec9d3f}{%
+           family={R{ü}ther},
+           familyi={R\bibinitperiod},
+           given={Ricardo},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3c9ef7f64413683eb777c8b4c51c064e}{%
+           family={Abreu},
+           familyi={A\bibinitperiod},
+           given={Samuel\bibnamedelimb Luna\bibnamedelima de},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e9070155d891a6a34623d1d0be24c8c}{%
+           family={Tiepolo},
+           familyi={T\bibinitperiod},
+           given={Gerson\bibnamedelima M{á}ximo},
+           giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=234ab5b0358139cf4296a9b6399a6973}{%
+           family={Pereira},
+           familyi={P\bibinitperiod},
+           given={Silvia\bibnamedelima Vitorino},
+           giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e87c8ac3cef8d8c1485e56842800c3d7}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Jeﬀerson\bibnamedelimb Gon{ç}alves\bibnamedelima de},
+           giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim d\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {S{ã}o Jos{é} dos Campos}%
+      }
+      \list{publisher}{1}{%
+        {INPE}%
+      }
+      \strng{namehash}{19b0343676bc2bfed803badaa08de47d}
+      \strng{fullhash}{786db174e7c115e55dd7ded3261c4391}
+      \strng{bibnamehash}{19b0343676bc2bfed803badaa08de47d}
+      \strng{authorbibnamehash}{19b0343676bc2bfed803badaa08de47d}
+      \strng{authornamehash}{19b0343676bc2bfed803badaa08de47d}
+      \strng{authorfullhash}{786db174e7c115e55dd7ded3261c4391}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A primeira edi{ç}{ã}o do Atlas Brasileiro de Energia Solar foi lan{ç}ada em 2006 com base em 10 anos de dados dos sat{é}lites da s{é}rie GOES e no modelo f{í}sico de transfer{ê}ncia  radiativa BRASIL‐SR, validado com dados observados em 98  esta{ç}{õ}es  meteorol{ó}gicas  operadas  pelo  INMET  (Instituto  Nacional de Meteorologia) e espalhadas por todo territ{ó}rio  nacional. Na {é}poca do lan{ç}amento, a rede SONDA (Sistema  de  Organiza{ç}{ã}o  Nacional  de  Dados  Ambientais),  operada  pelo INPE, havia rec{é}m entrado em opera{ç}{ã}o e contribuiu  no processo de valida{ç}{ã}o com apenas tr{ê}s anos de dados  solarim{é}tricos  das  3  componentes  da  irradia{ç}{ã}o  solar  na  superf{í}cie:  global  horizontal,  direta  normal  e  difusa.  Essa  edi{ç}{ã}o pioneira do Atlas constituiu um marco importante no  hist{ó}rico  da  energia  solar  no  Brasil  e  {é},  ainda  hoje, empregada por v{á}rios investigadores e empreendedores da  {á}rea de energia solar.}
+      \field{edition}{2a}
+      \field{isbn}{978‐85‐17‐00089‐8}
+      \field{title}{{Atlas brasileiro de energia solar}}
+      \field{year}{2017}
+      \field{pages}{88}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{Pikas2017}{article}{}
       \name{author}{4}{ul=2}{%
         {{un=0,uniquepart=base,hash=db661f12775e81435c0b4a3836c9d608}{%
@@ -1300,6 +1482,47 @@
       \endverb
       \verb{file}
       \verb ::
+      \endverb
+    \endentry
+    \entry{Veloso2017}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9238382726be077d43da65f3c7372e8f}{%
+           family={Veloso},
+           familyi={V\bibinitperiod},
+           given={Ana\bibnamedelimb Carolina\bibnamedelimb De\bibnamedelima Oliveira},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal de Minas Gerais}%
+      }
+      \strng{namehash}{9238382726be077d43da65f3c7372e8f}
+      \strng{fullhash}{9238382726be077d43da65f3c7372e8f}
+      \strng{bibnamehash}{9238382726be077d43da65f3c7372e8f}
+      \strng{authorbibnamehash}{9238382726be077d43da65f3c7372e8f}
+      \strng{authornamehash}{9238382726be077d43da65f3c7372e8f}
+      \strng{authorfullhash}{9238382726be077d43da65f3c7372e8f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Em pa{í}ses cujas regulamenta{ç}{õ}es de efici{ê}ncia energ{é}tica j{á} se mostram consolidadas ou em fase de consolida{ç}{ã}o, um importante par{â}metro a ser verificado {é} o padr{ã}o de consumo relativo de energia el{é}trica dos edif{í}cios existentes de acordo com faixas estabelecidas para diferentes tipologias. Este tipo de verifica{ç}{ã}o {é} chamado de marco de consumo ou “benchmarking”. No Brasil, ap{ó}s a implementa{ç}{ã}o, em 2010, do Regulamento T{é}cnico da Qualidade para Efici{ê}ncia Energ{é}tica de Edif{í}cios Comerciais, de Servi{ç}os e P{ú}blicos – RTQC, considera-se que o pr{ó}ximo passo a ser dado em termos regulat{ó}rios seja analisar o padr{ã}o de consumo de energia dos edif{í}cios. Infere-se que parte deste consumo esteja relacionado a decis{õ}es tomadas ainda na fase de projeto da edifica{ç}{ã}o. Com isso, o objetivo principal dessa pesquisa foi estabelecer, atrav{é}s de dados reais de consumo de 101 edifica{ç}{õ}es, a influ{ê}ncia das decis{õ}es de projeto no consumo de energia das torres de edif{í}cios de escrit{ó}rios na cidade de Belo Horizonte – MG. Para alcan{ç}ar esse objetivo, foi necess{á}rio o levantamento do consumo de energia el{é}trica desta tipologia de edifica{ç}{õ}es bem como de suas caracter{í}sticas construtivas e do tipo de sistemas de condicionamento nela instalados. Para a classifica{ç}{ã}o das edifica{ç}{õ}es de acordo com seu consumo foi desenvolvida metodologia para isolar o consumo anual por {á}rea das torres a partir de dados de consumo anual por {á}rea das edifica{ç}{õ}es como um todo e foram levantados dados construtivos atrav{é}s de levantamento feito pela internet e por levantamentos feitos in loco. Obtido o consumo anual por {á}rea das torres foi feita uma classifica{ç}{ã}o deste consumo por faixas de acordo com metodologia proposta pela EN 15217 e posteriormente foi feita uma an{á}lise de sensibilidade das vari{á}veis de projeto (modo de condicionamento de ar, absort{â}ncia solar das paredes, presen{ç}a de prote{ç}{ã}o solar, fator solar dos vidros, propor{ç}{ã}o entre paredes e vidros - WWR (Window-to-wall ratio), volume, {á}rea de proje{ç}{ã}o da cobertura, {á}rea da envolt{ó}ria, fator de forma e fator de altura) em rela{ç}{ã}o {à} classifica{ç}{ã}o proposta. Verificou-se que as seguintes vari{á}veis: modo de condicionamento de ar, absort{â}ncia solar das paredes, fator solar dos vidros e WWR - tiveram correla{ç}{ã}o com o consumo anual de energia el{é}trica por {á}rea das torres. A {ú}ltima etapa do trabalho foi ent{ã}o o desenvolvimento de uma equa{ç}{ã}o de regress{ã}o linear multivariada para a previs{ã}o da intensidade de uso de energia (EUI, energy use intensity) - feita em fun{ç}{ã}o das vari{á}veis anteriormente citadas.}
+      \field{bookpagination}{sheet}
+      \field{title}{{Avalia{ç}{ã}o do Consumo de Energia El{é}trica de Edifica{ç}{õ}es de Escrit{ó}rio e sua Correla{ç}{ã}o com as Decis{õ}es de Projeto}}
+      \field{type}{phdthesis}
+      \field{year}{2017}
+      \field{pages}{125}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Veloso - 2017 - Avalia{\c{c}}{\~{a}}o do Consumo de Energia El{\'{e}}trica de Edifica{\c{c}}{\~{o}}es de Escrit{\'{o}}rio e sua Correla{\c{c}}{\~{a}}o com as Decis{\~{o}}es de Projeto.pdf:pdf
+      \endverb
+      \verb{urlraw}
+      \verb http://hdl.handle.net/1843/BUOS-ASFEMQ
+      \endverb
+      \verb{url}
+      \verb http://hdl.handle.net/1843/BUOS-ASFEMQ
       \endverb
     \endentry
     \entry{AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2018}{report}{}
@@ -1523,6 +1746,59 @@
       \endverb
       \keyw{2018,Electricity,Energy projections,IEA,Investment,Oil,Sustainable development,WEO,World Energy Outlook}
     \endentry
+    \entry{Sorgato2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e7a4c067304b4de550dd6527c920c947}{%
+           family={Sorgato},
+           familyi={S\bibinitperiod},
+           given={M.\bibnamedelimi J.},
+           giveni={M\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c0c170d27883740fcdb45bdef4366553}{%
+           family={Schneider},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=581e1fc12788d41db858ffb066e3da03}{%
+           family={R{ü}ther},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
+      \strng{fullhash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
+      \strng{bibnamehash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
+      \strng{authorbibnamehash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
+      \strng{authornamehash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
+      \strng{authorfullhash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A great challenge and trend for sustainable buildings is to reduce electricity consumption, and at the same time try to supply their own energy demand with self-generation. The project should be development focused on sustainability, explore the passive strategies and the energy generation potential of fa{ç}ades and roof. In this paper we analyze for the first time in Brazil and under current solar photovoltaic (PV) module prices, the technical and economic potential of integrating state-of-the-art, frameless, glass-glass thin-film cadmium telluride (CdTe) PV modules on a commercial building fa{ç}ade and roof, and evaluate the economic feasibility of replacing traditional fa{ç}ade materials like architectural glass and aluminum composite material with sleek black PV modules in six Brazilian cities. The technical analysis consisted in evaluating the energy performance of a four-storey office building for each of the six cities under analysis. The technical analysis showed that it is possible to fully meet the energy demand of the office building with PV integration in all the Brazilian cities evaluated. While the local climate has a significant impact on the energy consumption due mostly to air conditioning loads, PV energy production follows the same trend. Most importantly, the economic analysis showed that with the declining costs of photovoltaics, replacing conventional fa{ç}ade building materials with PV modules is not only an innovative approach but also of economic benefit.}
+      \field{issn}{18790682}
+      \field{journaltitle}{Renewable Energy}
+      \field{month}{4}
+      \field{title}{{Technical and economic evaluation of thin-film CdTe building-integrated photovoltaics (BIPV) replacing fa{ç}ade and rooftop materials in office buildings in a warm and sunny climate}}
+      \field{volume}{118}
+      \field{year}{2018}
+      \field{pages}{84\bibrangedash 98}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1016/j.renene.2017.10.091
+      \endverb
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Sorgato, Schneider, R{\"{u}}ther - 2018 - Technical and economic evaluation of thin-film CdTe building-integrated photovoltaics (BIPV) repl(2).pdf:pdf
+      \endverb
+      \keyw{Building integrated photovoltaics (BIPV),Energy efficiency in buildings,Photovoltaics,Positive energy buildings (PEB),Zero energy building (ZEB)}
+    \endentry
     \entry{AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2019}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=005f9005fe1b2c3d055907a64a3c14c4}{%
@@ -1632,14 +1908,55 @@
       \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Balan{ç}o Energ{é}tico Nacional 2019: Ano base 2018 - Relat{ó}rio s{í}ntese}}
+      \field{abstract}{Contendo a contabilidade relativa {à} oferta e consumo de energia no Brasil, bem como dos processos de convers{ã}o de produtos energ{é}ticos e de com{é}rcio exterior, o BEN re{ú}ne em um {ú}nico documento as s{é}ries hist{ó}ricas dessas opera{ç}{õ}es, al{é}m das informa{ç}{õ}es sobre reservas, capacidades instaladas e importantes dados estaduais.}
+      \field{title}{{Balan{ç}o Energ{é}tico Nacional 2019: Ano base 2018}}
       \field{type}{techreport}
       \field{year}{2019}
-      \field{pages}{67}
+      \field{pages}{303}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 620.9:553.04(81)
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{EmpresadePesquisaEnergetica-EPE2019a}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
+           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Empresa de Pesquisa Energ{é}tica}%
+      }
+      \list{location}{1}{%
+        {Bras{í}lia}%
+      }
+      \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{bibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorbibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authornamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Atlas da Efici{ê}ncia Energ{é}tica do Brasil - Relat{ó}rio de indicadores}
+      \field{title}{{Status e benef{í}cios da efici{ê}ncia energ{é}tica: perspectivas brasileiras e globais}}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{55}
       \range{pages}{1}
       \verb{file}
       \verb ::
@@ -1760,6 +2077,64 @@
       \verb www.iea.org
       \endverb
       \keyw{buildings,cetp,climate change,cooling,energy efficiency}
+    \endentry
+    \entry{Sudhakar2019}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=1f75a74124efe03dff6308c8ca9220d4}{%
+           family={Sudhakar},
+           familyi={S\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd555603642f2367c508bf11ffc75d8b}{%
+           family={Winderl},
+           familyi={W\bibinitperiod},
+           given={Maximilian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d2bd32e5fc278ed00cd046c853b80fd5}{%
+           family={Priya},
+           familyi={P\bibinitperiod},
+           given={S.\bibnamedelimi Shanmuga},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{49da46f61e9bf04f7afea7af999e43b1}
+      \strng{fullhash}{49da46f61e9bf04f7afea7af999e43b1}
+      \strng{bibnamehash}{49da46f61e9bf04f7afea7af999e43b1}
+      \strng{authorbibnamehash}{49da46f61e9bf04f7afea7af999e43b1}
+      \strng{authornamehash}{49da46f61e9bf04f7afea7af999e43b1}
+      \strng{authorfullhash}{49da46f61e9bf04f7afea7af999e43b1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Net Zero building is becoming a global trend as a strategy to reduce the carbon footprint. In order to achieve Net-Zero building design in hot and humid climates, efforts must be put to reduce the overall energy use to the maximum extent by integrating appropriate building technologies into the architectural designs. In this paper, the latest ideas dealing with building performances and net-zero building design projects, are reviewed and an outlook is given including new concepts of combined systems in hot and humid climate regions. The paper is structured in the following manner which includes basic guidelines, natural ventilation systems, cooling and dehumidification, insulation and construction materials, reviews of several net-zero energy building projects. The paper also proposes novel wind tower dehumidification design and ventilated attic building design for the hot and humid region. Thus the state of art review is presented for net-zero buildings in a hot and humid climate.}
+      \field{issn}{2214-157X}
+      \field{journaltitle}{Case Studies in Thermal Engineering}
+      \field{month}{3}
+      \field{title}{{Net-zero building designs in hot and humid climates: A state-of-art}}
+      \field{volume}{13}
+      \field{year}{2019}
+      \field{pages}{100400}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/J.CSITE.2019.100400
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214157X18304131
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S2214157X18304131
+      \endverb
     \endentry
     \entry{UnitedNationsEnvironmentProgramme-UNEP2019}{report}{}
       \name{author}{1}{}{%
