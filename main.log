@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  3 SEP 2020 21:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  3 SEP 2020 21:16
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
@@ -978,11 +978,7 @@ File: graphs/graph1.png Graphic file (type png)
 <use graphs/graph1.png>
 Package pdftex.def Info: graphs/graph1.png  used on input line 37.
 (pdftex.def)             Requested size: 364.19667pt x 183.49464pt.
- [16 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_kurnitski _2011.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_iea_2014-2.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-)) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/zeroenergy.tex") ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/metodo.tex" [17] [18 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph1.png>]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resultados.tex") [19]
+ [16 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_kurnitski _2011.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_iea_2014-2.png>])) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/zeroenergy.tex") ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/metodo.tex" [17] [18 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph1.png>]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resultados.tex") [19]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
