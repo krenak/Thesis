@@ -32,7 +32,7 @@
 \rfoot{Página \thepage}
 \renewcommand{\headrulewidth}{2pt}
 \renewcommand{\footrulewidth}{1pt}
-\setlength{\headheight}{15.5pt} % formatando o headheight, eliminamos o conflito com o pacote fancyhdr
+\setlength{\headheight}{15.7pt} % formatando o headheight, eliminamos o conflito com o pacote fancyhdr
 %\setlenght{\parindent}{1.3cm}
 %\setlenght{\parskip}{0.2cm}
 
@@ -44,6 +44,7 @@
 \input{sections/abstract.tex}
 \input{sections/abrev.tex}
 \listoffigures \thispagestyle{empty} \pagebreak
+\input{sections/graphs.tex}\pagebreak
 \listoftables \thispagestyle{empty} \pagebreak
 \tableofcontents \thispagestyle{empty} \pagebreak
 
@@ -56,6 +57,7 @@
 \input{sections/resultados.tex}
 
 %\bibliography{ref.bib}
+\pagebreak
 \printbibliography
 
 \end{document}

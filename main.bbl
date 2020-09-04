@@ -1611,6 +1611,40 @@
       \verb www.ashrae.org
       \endverb
     \endentry
+    \entry{EmpresadePesquisaEnergetica-EPE2019}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
+           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           familyi={E\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Empresa de Pesquisa Energ{é}tica}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro}%
+      }
+      \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{bibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorbibnamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authornamehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Balan{ç}o Energ{é}tico Nacional 2019: Ano base 2018 - Relat{ó}rio s{í}ntese}}
+      \field{type}{techreport}
+      \field{year}{2019}
+      \field{pages}{67}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{InternationalEnergyAgency-IEA2019a}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
