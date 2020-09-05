@@ -1,25 +1,25 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
 [0] Config.pm:307> INFO - Logfile is 'main.blg'
-[84] biber-MSWIN64:322> INFO - === 
-[109] Biber.pm:415> INFO - Reading 'main.bcf'
-[275] Biber.pm:943> INFO - Found 46 citekeys in bib section 0
-[299] Biber.pm:4256> INFO - Processing section 0
-[300] Utils.pm:75> INFO - Globbing data source 'ref.bib'
-[309] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
-[326] Biber.pm:4455> INFO - Looking for bibtex format file 'ref.bib' for section 0
-[388] bibtex.pm:1653> INFO - LaTeX decoding ...
-[2031] bibtex.pm:1471> INFO - Found BibTeX data source 'ref.bib'
-[2153] Utils.pm:304> WARN - ISBN 'NREL/CP-550-39833' in entry 'Torcellini2006' is invalid - run biber with '--validate_datamodel' for details.
-[2162] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Kurnitski2011' is invalid - run biber with '--validate_datamodel' for details.
-[2194] Utils.pm:304> WARN - month field 'may' in entry 'Pikas2014' is not an integer - this will probably not sort properly.
-[2227] Utils.pm:304> WARN - month field 'oct' in entry 'Conejero2016' is not an integer - this will probably not sort properly.
-[2353] Utils.pm:304> WARN - month field 'dec' in entry 'Cronemberger2012' is not an integer - this will probably not sort properly.
-[2360] Utils.pm:304> WARN - month field 'apr' in entry 'Sorgato2018' is not an integer - this will probably not sort properly.
-[2366] Utils.pm:304> WARN - month field 'mar' in entry 'Sudhakar2019' is not an integer - this will probably not sort properly.
-[2482] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2482] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2482] Biber.pm:4084> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'pt-BR'
-[2482] Biber.pm:4090> INFO - No sort tailoring available for locale 'pt-BR'
-[2564] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[2610] bbl.pm:755> INFO - Output to main.bbl
-[2619] Biber.pm:128> INFO - WARNINGS: 7
+[85] biber-MSWIN64:322> INFO - === 
+[120] Biber.pm:415> INFO - Reading 'main.bcf'
+[290] Biber.pm:943> INFO - Found 46 citekeys in bib section 0
+[318] Biber.pm:4256> INFO - Processing section 0
+[319] Utils.pm:75> INFO - Globbing data source 'ref.bib'
+[332] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
+[350] Biber.pm:4455> INFO - Looking for bibtex format file 'ref.bib' for section 0
+[403] bibtex.pm:1653> INFO - LaTeX decoding ...
+[2166] bibtex.pm:1471> INFO - Found BibTeX data source 'ref.bib'
+[2294] Utils.pm:304> WARN - ISBN 'NREL/CP-550-39833' in entry 'Torcellini2006' is invalid - run biber with '--validate_datamodel' for details.
+[2303] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Kurnitski2011' is invalid - run biber with '--validate_datamodel' for details.
+[2331] Utils.pm:304> WARN - month field 'may' in entry 'Pikas2014' is not an integer - this will probably not sort properly.
+[2362] Utils.pm:304> WARN - month field 'oct' in entry 'Conejero2016' is not an integer - this will probably not sort properly.
+[2482] Utils.pm:304> WARN - month field 'dec' in entry 'Cronemberger2012' is not an integer - this will probably not sort properly.
+[2489] Utils.pm:304> WARN - month field 'apr' in entry 'Sorgato2018' is not an integer - this will probably not sort properly.
+[2495] Utils.pm:304> WARN - month field 'mar' in entry 'Sudhakar2019' is not an integer - this will probably not sort properly.
+[2589] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2589] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2589] Biber.pm:4084> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'pt-BR'
+[2589] Biber.pm:4090> INFO - No sort tailoring available for locale 'pt-BR'
+[2687] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2730] bbl.pm:755> INFO - Output to main.bbl
+[2735] Biber.pm:128> INFO - WARNINGS: 7
