@@ -1704,6 +1704,49 @@
       \verb ::
       \endverb
     \endentry
+    \entry{InternationalEnergyAgency-IEA2018a}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
+           family={{International Energy Agency - IEA}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{institution}{2}{%
+        {Organisation for Economic Co-operation}%
+        {Development / International Energy agency}%
+      }
+      \list{location}{1}{%
+        {Paris, France}%
+      }
+      \strng{namehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{fullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{bibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
+      \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Energy Efficiency 2018 is the annual global tracker of energy efficiency trends and indicators. This year's report is the most comprehensive analysis of current and future energy efficiency trends produced by the International Energy Agency (IEA). It incorporates a new Efficient World Scenario based on analysis from the IEA World Energy Outlook. This scenario answers the question of what would happen if countries realised all the available cost-effective energy efficiency potential between now and 2040.}
+      \field{title}{{Energy efficiency 2018: Analysis and outlooks to 2040}}
+      \field{type}{techreport}
+      \field{year}{2018}
+      \field{pages}{1\bibrangedash 174}
+      \range{pages}{174}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.oecd.org/about/publishing/corrigenda.htm
+      \endverb
+      \verb{url}
+      \verb www.oecd.org/about/publishing/corrigenda.htm
+      \endverb
+    \endentry
     \entry{InternationalEnergyAgency-IEA2018}{book}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0c6a52282f88116aa0b35d9c2450a043}{%
@@ -1722,9 +1765,10 @@
       \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1745,6 +1789,39 @@
       \verb www.iea.org/weo
       \endverb
       \keyw{2018,Electricity,Energy projections,IEA,Investment,Oil,Sustainable development,WEO,World Energy Outlook}
+    \endentry
+    \entry{InternationalMonetaryFund-IMF2018}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c29d607f7102301785225d56ae6b8a1e}{%
+           family={{International Monetary Fund - IMF}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{c29d607f7102301785225d56ae6b8a1e}
+      \strng{fullhash}{c29d607f7102301785225d56ae6b8a1e}
+      \strng{bibnamehash}{c29d607f7102301785225d56ae6b8a1e}
+      \strng{authorbibnamehash}{c29d607f7102301785225d56ae6b8a1e}
+      \strng{authornamehash}{c29d607f7102301785225d56ae6b8a1e}
+      \strng{authorfullhash}{c29d607f7102301785225d56ae6b8a1e}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{1. In Panama, abandoned agricultural lands that supported tropical rain forest are invaded by the exotic invasive grass Saccharum spontaneum, which precludes native forest regeneration. This study aimed to evaluate the importance of several barriers to forest regeneration and highlight mitigation opportunities. 2. We examined four barriers to natural regeneration: Saccharum competition, seed dispersal limitation, fire and soil nutrient deficiency. Tree and shrub regeneration was measured in a factorial experiment combining Saccharum cutting treatments, distances from adjacent forest and a prescribed burn to assess the first three barriers, respectively. We compared soil nutrients in Saccharum plots with those from adjacent forest. Additionally, we determined the importance of distance to remnant vegetation (large-leaved monocots, shrubs and isolated trees) on forest regeneration. 3. Fire significantly decreased plant species richness of forest regeneration. Fire inhibited the germination of most species; the effect was exacerbated by cutting the Saccharum. 4. Grass competition significantly decreased seedling growth, while soil nutrient deficiency did not affect forest regeneration. 5. Seed dispersal limitation affected density and species richness. Significantly more species (3x) regenerated at 10 m compared with 35 m from the forest. Mean seedling densities were, respectively, four, three and two times higher under large-leaved monocots, isolated trees and shrubs than in open Saccharum. When seed input was experimentally equalized, large-seeded species had the highest establishment rate, suggesting that if their propagules were dispersed to the site they would regenerate in high proportions. However, under natural conditions they regenerated poorly and represented the most dispersal-limited species group. 6. Synthesis and applications. Our results suggest that facilitation of natural regeneration may be a feasible, low-cost management option for restoring native forest cover to large areas. Firebreaks must be established to promote biodiversity of forest regeneration. We do not recommend Saccharum cutting or fertilization as site treatments. Shading effectively eliminates Saccharum. Planting a variety of tree species in clumps throughout the Saccharum may overcome dispersal limitations and catalyse natural regeneration. Trees that attract different frugivores are recommended, especially large-seeded forest species.}
+      \field{booktitle}{International Monetary Fund}
+      \field{isbn}{978-1-48434-971-7}
+      \field{number}{m}
+      \field{title}{{World Economic Outlook: Cyclical Upswing, Structural Change}}
+      \field{year}{2018}
+      \field{pages}{302}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.imf.org/external/pubs/ft/weo/2009/01/pdf/text.pdf
+      \endverb
+      \verb{url}
+      \verb https://www.imf.org/external/pubs/ft/weo/2009/01/pdf/text.pdf
+      \endverb
     \endentry
     \entry{Sorgato2018}{article}{}
       \name{author}{3}{}{%
@@ -1980,7 +2057,7 @@
       \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{1}
@@ -2016,7 +2093,7 @@
       \strng{authorbibnamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authornamehash}{0c6a52282f88116aa0b35d9c2450a043}
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
-      \field{extraname}{4}
+      \field{extraname}{5}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{2}
