@@ -432,15 +432,24 @@ INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\conceitos.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\param.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\param.tex
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr7t.tfm
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\passivas.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\passivas.tex
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchr7t.vf
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchr8r.tfm
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\ativas.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\ativas.tex
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\clima.tex
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\clima.tex
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\tipol.tex
+INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec\tipol.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\metodo.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\metodo.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\resultados.tex
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections\resultados.tex
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\bitstrea\charter\bchb8c.tfm
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\vf\bitstrea\charter\bchb8c.vf
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex-abnt\lbx\brazil-abnt.lbx
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.out
@@ -456,5 +465,17 @@ INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchr8a.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\bitstrea\charter\bchri8a.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi12.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi8.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt12.pfb

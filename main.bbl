@@ -51,6 +51,237 @@
       \verb ::
       \endverb
     \endentry
+    \entry{Brasil2001}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5bc4bed74922db6227c5adbfed6fc8e5}{%
+           family={Brasil},
+           familyi={B\bibinitperiod},
+           given={Rep{ú}blica\bibnamedelima Federativa},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0,
+           prefix={do},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Rep{ú}blica Federativa do Brasil}%
+      }
+      \strng{namehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{fullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{bibnamehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{authorbibnamehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{authornamehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{authorfullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Disp{õ}e sobre medidas emergenciais de racionaliza{ç}{ã}o, visando a redu{ç}{ã}o de consumo e aumento da oferta de energia el{é}trica, e d{á} outras provid{ê}ncias.}
+      \field{title}{{DECRETO N{º} 3.789, DE 18 DE ABRIL DE 2001}}
+      \field{year}{2001}
+      \field{pages}{2}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb https://www.planalto.gov.br/ccivil{\_}03/decreto/2001/d3789.htm
+      \endverb
+      \verb{url}
+      \verb https://www.planalto.gov.br/ccivil%7B%5C_%7D03/decreto/2001/d3789.htm
+      \endverb
+      \keyw{(MME),AUMENTO,COMISS{Ã}O,CONSUMO,CRIA{Ç}{Ã}O,ENERGIA EL{É}TRICA,OBJETIVO,OFERTA,PROCEDIMENTO,PROPOSI{Ç}{Ã}O,REDU{Ç}{Ã}O,dec 3789,decreto,{Â}MBITO}
+    \endentry
+    \entry{Brasil2001a}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=5bc4bed74922db6227c5adbfed6fc8e5}{%
+           family={Brasil},
+           familyi={B\bibinitperiod},
+           given={Rep{ú}blica\bibnamedelima Federativa},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0,
+           prefix={do},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Rep{ú}blica Federativa do Brasil}%
+      }
+      \strng{namehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{fullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{bibnamehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{authorbibnamehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{authornamehash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \strng{authorfullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Regulamenta a Lei no 10.295, de 17 de outubro de 2001, que disp{õ}e sobre a Pol{í}tica Nacional de Conserva{ç}{ã}o e Uso Racional de Energia, e d{á} outras provid{ê}ncias.}
+      \field{title}{{DECRETO N{º} 4.059, DE 19 DE DEZEMBRO DE 2001}}
+      \field{year}{2001}
+      \field{pages}{3}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb https://www.planalto.gov.br/ccivil{\_}03/decreto/2001/d4059.htm
+      \endverb
+      \verb{url}
+      \verb https://www.planalto.gov.br/ccivil%7B%5C_%7D03/decreto/2001/d4059.htm
+      \endverb
+      \keyw{COMIT{Ê},CONSERVA{Ç}{Ã}O,CONSUMO,CRIA{Ç}{Ã}O,EFICI{Ê}NCIA,ENERGIA EL{É}TRICA.,ENERGIA EL{É}TRICA. CRIA{Ç}{Ã}O,GEST{Ã}O,INDICA{Ç}{Ã}O,NORMAS,POL{Í}TICA NACIONAL,RACIONALIZA{Ç}{Ã}O,REGULAMENTA{Ç}{Ã}O,UTILIZA{Ç}{Ã}O,dec 4059,decreto}
+    \endentry
+    \entry{Shaviv2001}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=38a96450b6d266a384521b349318a1cb}{%
+           family={Shaviv},
+           familyi={S\bibinitperiod},
+           given={Edna},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a3d01165e92d79edbf3a81808d929553}{%
+           family={Yezioro},
+           familyi={Y\bibinitperiod},
+           given={Abraham},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45f9ff3eb2829e8e4c8026780db53771}{%
+           family={Capeluto},
+           familyi={C\bibinitperiod},
+           given={Isaac\bibnamedelima G},
+           giveni={I\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Pergamon}%
+      }
+      \strng{namehash}{41fd45d694eda9a566ee1593237f5470}
+      \strng{fullhash}{41fd45d694eda9a566ee1593237f5470}
+      \strng{bibnamehash}{41fd45d694eda9a566ee1593237f5470}
+      \strng{authorbibnamehash}{41fd45d694eda9a566ee1593237f5470}
+      \strng{authornamehash}{41fd45d694eda9a566ee1593237f5470}
+      \strng{authorfullhash}{41fd45d694eda9a566ee1593237f5470}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{We calculated the influence of thermal mass and night ventilation on the maximum indoor temperature in summer. The results for different locations in the hot humid climate of Israel are presented and analyzed. The maximum indoor temperature depends linearly on the temperature difference between day and night at the site. The fit can be applied as a tool to predict from the temperature swing of the location the maximum indoor temperature decrease due to the thermal mass and night ventilation. Consequently, the fit can be implemented as a simple design tool to present the reduction in indoor temperature due to the amount of the thermal mass and the rate of night ventilation, without using an hourly simulation model. Moreover, this design tool is able to provide for the designer in the early design stages the conditions when night ventilation and thermal mass are effective as passive cooling design strategy.}
+      \field{issn}{0960-1481}
+      \field{journaltitle}{Renewable Energy}
+      \field{month}{11}
+      \field{number}{3-4}
+      \field{title}{{Thermal mass and night ventilation as passive cooling design strategy}}
+      \field{volume}{24}
+      \field{year}{2001}
+      \field{pages}{445\bibrangedash 452}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/S0960-1481(01)00027-1
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0960148101000271
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0960148101000271
+      \endverb
+    \endentry
+    \entry{AssociacaoBrasileiradeNormasTecnicas-ABNT2003}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36c09e886ddb573505393a7d19be5c31}{%
+           family={{Associa{ç}{ã}o\bibnamedelimb Brasileira\bibnamedelimb de\bibnamedelimb Normas\bibnamedelimb T{é}cnicas\bibnamedelimb -\bibnamedelimb ABNT}},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim T\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Associa{ç}{ã}o Brasileira de Normas T{é}cnicas}%
+      }
+      \list{location}{1}{%
+        {Rio de Janeiro}%
+      }
+      \strng{namehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{fullhash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{bibnamehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{authorbibnamehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{authornamehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{authorfullhash}{36c09e886ddb573505393a7d19be5c31}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A ABNT - Associa{ç}{ã}o Brasileira de Normas T{é}cnicas - {é} o F{ó}rum Nacional de Normaliza{ç}{ã}o. As Normas Brasileiras, cujo conte{ú}do {é} de responsabilidade dos Comit{ê}s Brasileiros (ABNT/CB) e dos Organismos de Normaliza{ç}{ã}o Setorial (ABNT/ONS), s{ã}o elaboradas por Comiss{õ}es de Estudo (CE), formadas por representantes dos setores envolvidos, delas fazendo parte: produtores, consumidores e neutros (universidades, laborat{ó}rios e outros).}
+      \field{title}{{NBR 15220: Desempenho t{é}rmico de edifica{ç}{õ}es}}
+      \field{type}{techreport}
+      \field{year}{2003}
+      \field{pages}{66}
+      \range{pages}{1}
+      \verb{file}
+      \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Associa{\c{c}}{\~{a}}o Brasileira de Normas T{\'{e}}cnicas - ABNT - 2005 - NBR 15220 - Desempenho t{\'{e}}rmico de edifica{\c{c}}{\~{o}}es.pdf:pdf
+      \endverb
+      \keyw{15220,Desempenho t{é}rmico,NBR}
+    \endentry
+    \entry{Lamberts2006}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=17e5b74cc5fca2cd3447de567b3d768f}{%
+           family={Lamberts},
+           familyi={L\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe53e1ae3ddf8086e91ab6ac5a74e54c}{%
+           family={Ghisi},
+           familyi={G\bibinitperiod},
+           given={Enedir},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d7c0b71e96f0734ff4041540c964bcf1}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Greici},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal de Santa Catarina}%
+      }
+      \list{location}{1}{%
+        {Florian{ó}polis}%
+      }
+      \strng{namehash}{d95f0b9766d2229d8fdc13bb37bee098}
+      \strng{fullhash}{d95f0b9766d2229d8fdc13bb37bee098}
+      \strng{bibnamehash}{d95f0b9766d2229d8fdc13bb37bee098}
+      \strng{authorbibnamehash}{d95f0b9766d2229d8fdc13bb37bee098}
+      \strng{authornamehash}{d95f0b9766d2229d8fdc13bb37bee098}
+      \strng{authorfullhash}{d95f0b9766d2229d8fdc13bb37bee098}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Durante um longo per{í}odo a energia foi utilizada de forma intensa e sem limites, o que provocou o desencadeamento de crises energ{é}ticas sentidas globalmente (CRUZ et al., 2004). Em rela{ç}{ã}o a este cen{á}rio, o consumo de energia el{é}trica tem crescido substancialmente no Brasil, assim como em outros pa{í}ses em desenvolvimento. Nas {ú}ltimas tr{ê}s d{é}cadas, aumentou 7,5{\%} ao ano, ao passo que a popula{ç}{ã}o brasileira cresceu 2{\%} ao ano e a economia e o consumo final de energia, 4{\%} ao ano. Desse modo, a participa{ç}{ã}o da eletricidade no consumo final de energia passou de 16{\%}, em 1970, para 39,5{\%}, em 1999 (BEN, 2002). Assim, construir considerando as vari{á}veis clim{á}ticas aliadas {à}s t{é}cnicas renov{á}veis e energeticamente compat{í}veis, {é} uma necessidade quando analisado o panorama mundial e local da evolu{ç}{ã}o do consumo em rela{ç}{ã}o {à} disponibilidade de energia.}
+      \field{title}{{Impactos da Adequa{ç}{ã}o Clim{á}tica Sobre a Efici{ê}ncia Energ{é}tica e o Conforto T{é}rmico de Edif{í}cios de Escrit{ó}rios no Brasil}}
+      \field{type}{techreport}
+      \field{year}{2006}
+      \field{pages}{56}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Padr{ã}o de ocup,Padr{ã}o de uso,RTQ-C}
+    \endentry
     \entry{Torcellini2006}{article}{}
       \name{author}{4}{ul=3}{%
         {{un=0,uniquepart=base,hash=f4d6658dabe52d3dd748b59ae616130e}{%
@@ -112,6 +343,49 @@
       \verb http://www.nrel.gov/docs/fy06osti/39833.pdf
       \endverb
       \keyw{commercial building,low-energy building,zeb,zero energy building}
+    \endentry
+    \entry{Amarante2009}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d606def5505527d59d30100fe7df406}{%
+           family={Amarante},
+           familyi={A\bibinitperiod},
+           given={Odilon\bibnamedelimb A.\bibnamedelimi Camargo},
+           giveni={O\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={do},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \list{institution}{1}{%
+        {Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo (ASPE)}%
+      }
+      \list{location}{1}{%
+        {Vit{ó}ria, ES}%
+      }
+      \strng{namehash}{6d606def5505527d59d30100fe7df406}
+      \strng{fullhash}{6d606def5505527d59d30100fe7df406}
+      \strng{bibnamehash}{6d606def5505527d59d30100fe7df406}
+      \strng{authorbibnamehash}{6d606def5505527d59d30100fe7df406}
+      \strng{authornamehash}{6d606def5505527d59d30100fe7df406}
+      \strng{authorfullhash}{6d606def5505527d59d30100fe7df406}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A ind{ú}stria da gera{ç}{ã}o de energia el{é}trica a partir da for- {ç}a dos ventos {é} a que mais tem se expandido nas {ú}ltimas d{é}cadas, entre aquelas aptas {à} escala de gigawatts. Muitos pa{í}ses v{ê}m investindo intensamente nesta op{ç}{ã}o, estenden- do suas fazendas e{ó}licas desde sua por{ç}{ã}o terrestre ao seu mar territorial, num esfor{ç}o conjunto da comunidade global rumo ao crescimento sustent{á}vel.}
+      \field{isbn}{978-85-67342-00-9}
+      \field{title}{{Atlas e{ó}lico : Esp{í}rito Santo / Odilon A. Camargo do Amarante, Fabiano de Jesus Lima da Silva, Paulo Emiliano Pi{á} de Andrade}}
+      \field{type}{techreport}
+      \field{volume}{1}
+      \field{year}{2009}
+      \field{pages}{100}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{1. Energia e{ó}lica – Esp{í}rito Santo (Estado) – Mapa,Esp{í}rito Santo (Estado) – Medi{ç}{ã}o – Mapas}
     \endentry
     \entry{Crawley2009}{article}{}
       \name{author}{3}{}{%
@@ -194,6 +468,106 @@
       \verb ::
       \endverb
       \keyw{2010,matriz energetica brasileira,matriz energ{é}tica}
+    \endentry
+    \entry{Liu2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6026405c5af9112230e8ff8bf18dd043}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiaobing},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=62378f6c91ff4fcb95c7ca480df3d483}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Tianzhen},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{868d8777b8424257c48e06429d270bec}
+      \strng{fullhash}{868d8777b8424257c48e06429d270bec}
+      \strng{bibnamehash}{868d8777b8424257c48e06429d270bec}
+      \strng{authorbibnamehash}{868d8777b8424257c48e06429d270bec}
+      \strng{authornamehash}{868d8777b8424257c48e06429d270bec}
+      \strng{authorfullhash}{868d8777b8424257c48e06429d270bec}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With the current movement towards net zero energy buildings, many technologies are promoted with emphasis on their superior energy efficiency. The variable refrigerant flow (VRF) and ground source heat pump (GSHP) systems are probably the most competitive technologies among these. However, there are few studies reporting the energy efficiency of VRF systems compared with GSHP systems. In this article, a preliminary comparison of energy efficiency between the air-source VRF and GSHP systems is presented. The computer simulation results show that GSHP system is more energy efficient than the air-source VRF system for conditioning a small office building in two selected US climates. In general, GSHP system is more energy efficient than the air-source VRV system, especially when the building has significant heating loads. For buildings with less heating loads, the GSHP system could still perform better than the air-source VRF system in terms of energy efficiency, but the resulting energy savings may be marginal. © 2009 Elsevier B.V. All rights reserved.}
+      \field{issn}{03787788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{5}
+      \field{number}{5}
+      \field{title}{{Comparison of energy efficiency between variable refrigerant flow systems and ground source heat pump systems}}
+      \field{volume}{42}
+      \field{year}{2010}
+      \field{pages}{584\bibrangedash 589}
+      \range{pages}{6}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2009.10.028
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Building simulation,DOE-2,Energy efficiency,GSHP,VRF}
+    \endentry
+    \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2011}{book}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=9c1dec0acda417acff08cb866a9d4c25}{%
+           family={{American Society of Heating Refrigerating and Air-Conditioning Engineers - ASHRAE}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7689a78e4196d02a6bcf94e2d3e6c1f7}{%
+           family={{The American Institute of Architects - AIA}},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f05a81572a1a5768cb367cc4afc5de40}{%
+           family={{Illuminating Engineers Society - IES}},
+           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ff81ffbd8e960caa9a7ccaf189d18e90}{%
+           family={{U.S. Green Building Society - USGBS}},
+           familyi={U\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Atlanta}%
+      }
+      \list{publisher}{2}{%
+        {American Society of Heating, Refrigerating}%
+        {Air-Conditioning Engineers}%
+      }
+      \strng{namehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{fullhash}{7b2215a22c281891b12a7e68712a5484}
+      \strng{bibnamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authorbibnamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authornamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authorfullhash}{7b2215a22c281891b12a7e68712a5484}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The Advanced Energy Design Guide for Small Office Buildings (Guide) is intended to provide a simple approach for contractors and designers who create office buildings up to 20,000 ft2. Application of the recommendations in the Guide should result in small office buildings with 30{\%} energy savings when compared to those same office buildings designed to the minimum requirements of ANSI/ASHRAE/IESNA Standard 90.1-1999. This document contains recommendations and is not a minimum code or standard. It is intended to be used in addition to existing codes and standards and is not intended to circumvent them. This Guide represents a way, but not the only way, to build energyefficient small offices buildings that use significantly less energy than those built to minimum code requirements. The recommendations in this Guide provide benefits for the owner while maintaining quality and functionality of the space.}
+      \field{edition}{3{ª} ed.}
+      \field{isbn}{9781931862554}
+      \field{title}{{Advanced Energy Design Guide for Small Office Buildings: Achieving 30{\%} Energy Savings Toward a Net Zero Energy Building}}
+      \field{year}{2011}
+      \field{pages}{106}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.ashrae.org
+      \endverb
+      \verb{url}
+      \verb www.ashrae.org
+      \endverb
     \endentry
     \entry{Kurnitski2011a}{report}{}
       \name{author}{12}{ul=2}{%
@@ -369,6 +743,77 @@
       \endverb
       \keyw{Cost optimal,EPBD recast,Energy performance,Global cost,Nearly zero energy buildings,REHVA nZEB technical definition,nZEB}
     \endentry
+    \entry{U.S.DepartmentofEnergy-USDOE2011}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {U.S. Department of Energy}%
+      }
+      \list{location}{1}{%
+        {Washington}%
+      }
+      \strng{namehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{fullhash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{bibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
+      \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In 2007, as part of its Advanced Codes Initiative, DOE signed a memorandum of understanding (MOU) with ASHRAE to develop advanced commercial standards and included an agreement that 90.1-2010 would result in 30{\%} energy savings relative to 90.1-2004. This MOU initiated the effort by BECP and ASHRAE which culminated in the release of 90.1-2010 in October 2010. This signed MOU introduced a new element and significant challenges for developing 90.1-2010. For the first time in the history of Standard 90.1, an energy goal was established for developing the new edition, 90.1-2010. The 30{\%} energy efficiency goal led to a dramatic increase in the level of activity and enhancement of Standard 90.1 as reflected in the quantity of changes, called addenda, proposed and approved.}
+      \field{title}{{Achieving the 30{\%} Goal Energy and Cost Savings Analysis of ASHRAE Standard 90-1-2010}}
+      \field{type}{techreport}
+      \field{year}{2011}
+      \field{pages}{370}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{Bernabe2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fb927d79d4c691c5b50745b1d0ffea0}{%
+           family={Bernab{é}},
+           familyi={B\bibinitperiod},
+           given={Ana\bibnamedelimb Carolina\bibnamedelima Alves},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal do Esp{í}rito Santo}%
+      }
+      \strng{namehash}{9fb927d79d4c691c5b50745b1d0ffea0}
+      \strng{fullhash}{9fb927d79d4c691c5b50745b1d0ffea0}
+      \strng{bibnamehash}{9fb927d79d4c691c5b50745b1d0ffea0}
+      \strng{authorbibnamehash}{9fb927d79d4c691c5b50745b1d0ffea0}
+      \strng{authornamehash}{9fb927d79d4c691c5b50745b1d0ffea0}
+      \strng{authorfullhash}{9fb927d79d4c691c5b50745b1d0ffea0}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O desdobramento das cidades motivou a proposi{ç}{ã}o de edifica{ç}{õ}es cada vez mais verticalizadas, a fim de suprir as demandas do adensamento urbano. Ao longo do tempo, o desenvolvimento vertical esteve atrelado a novas tecnologias que, inicialmente convieram para que o arquiteto tivesse mais liberdade projetual. No entanto, a possibilidade de reproduzir modelos referenciados em um estilo moderno e internacional, fez com que alguns profissionais negligenciassem a estreita rela{ç}{ã}o entre a arquitetura e o meio em que se insere, deixando a cargo dos sistemas artificiais, a garantia de conforto t{é}rmico para os usu{á}rios. O novo cen{á}rio energ{é}tico, entretanto trouxe uma reflex{ã}o acerca da elevada demanda de consumo desse bem nas edifica{ç}{õ}es, culminando em discuss{õ}es, estudos e desenvolvimento de nova realidade, pautada nos conceitos de efici{ê}ncia energ{é}tica.}
+      \field{bookpagination}{sheet}
+      \field{title}{{A influ{ê}ncia da envolt{ó}ria no Consumo Energ{é}tico em Edif{í}cios Artificialmente Climatizados na Cidade de Vit{ó}ria ES}}
+      \field{type}{phdthesis}
+      \field{year}{2012}
+      \field{pages}{132}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Edif{í}cios comerciais,Energia el{é}trica - Consumo}
+    \endentry
     \entry{Cronemberger2012}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=ca843ba992ad743e1ff5af58a1818ed0}{%
@@ -424,6 +869,53 @@
       \verb https://www.sciencedirect.com/science/article/pii/S0378778812004483
       \endverb
     \endentry
+    \entry{Hensen2012}{book}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=5ea064664ff33c751575aa432ca76e56}{%
+           family={Hensen},
+           familyi={H\bibinitperiod},
+           given={Jan\bibnamedelima L.M.},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17e5b74cc5fca2cd3447de567b3d768f}{%
+           family={Lamberts},
+           familyi={L\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Taylor}%
+        {Francis}%
+      }
+      \strng{namehash}{38da266093e0de36bbf302b7e9d4bf68}
+      \strng{fullhash}{38da266093e0de36bbf302b7e9d4bf68}
+      \strng{bibnamehash}{38da266093e0de36bbf302b7e9d4bf68}
+      \strng{authorbibnamehash}{38da266093e0de36bbf302b7e9d4bf68}
+      \strng{authornamehash}{38da266093e0de36bbf302b7e9d4bf68}
+      \strng{authorfullhash}{38da266093e0de36bbf302b7e9d4bf68}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{© 2011 Jan L.M. Hensen and Roberto Lamberts. Building Performance Simulation for Design and Operation begins with an introduction to the concepts of performance indicators and targets, followed by a discussion on the role of building simulation in performance-based building design and operation. This sets the ground for in-depth discussion of performance prediction for energy demand, indoor environmental quality (including thermal, visual, indoor air quality and moisture phenomena), HVAC and renewable system performance, urban level modelling, building operational optimization and automation. Effective building performance simulation can reduce the environmental impact of the built environment, improve indoor quality and productivity, and facilitate future innovation and technological progress in construction. It draws on many disciplines, including physics, mathematics, material science, biophysics and human behavioural, environmental and computational sciences. The discipline itself is continuously evolving and maturing, and improvements in model robustness and fidelity are constantly being made. This has sparked a new agenda focusing on the effectiveness of simulation in building life-cycle processes. Produced in cooperation with the International Building Performance Simulation Association (IBPSA), and featuring contributions from fourteen internationally recognised experts in this field, this book provides a unique and comprehensive overview of building performance simulation for the complete building life-cycle from conception to demolition. It is primarily intended for advanced students in building services engineering, and in architectural, environmental or mechanical engineering; and will be useful for building and systems designers and operators.}
+      \field{booktitle}{Building Performance Simulating for Design and Operation}
+      \field{isbn}{9780203891612}
+      \field{month}{1}
+      \field{title}{{Building performance simulation for design and operation}}
+      \field{volume}{9780203891612}
+      \field{year}{2012}
+      \field{pages}{1\bibrangedash 512}
+      \range{pages}{512}
+      \verb{doi}
+      \verb 10.4324/9780203891612
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{Leme2012}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=58f8f25051e96386a6fe8e4b5764a847}{%
@@ -458,6 +950,41 @@
       \endverb
       \keyw{development strategy,privatization,regulatory agencies,the electricity sector}
     \endentry
+    \entry{PrefeituraMunicipaldeVitoria-PMV2012}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0dcd3a5336b4e6cfbc78bb4968ed7bd1}{%
+           family={{Prefeitura Municipal de Vit{ó}ria - PMV}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{fullhash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{bibnamehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{authorbibnamehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{authornamehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{authorfullhash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Evolu{ç}{ã}o das Atividades Econ{ô}micas por Setor Econ{ô}mico e Porte Empresarial - 2007 a 2012}}
+      \field{urlday}{17}
+      \field{urlmonth}{10}
+      \field{urlyear}{2018}
+      \field{year}{2012}
+      \field{urldateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://legado.vitoria.es.gov.br/regionais/economia{\_}financas/ativ{\_}tabelas/porte{\_}empr/tab1.asp
+      \endverb
+      \verb{url}
+      \verb http://legado.vitoria.es.gov.br/regionais/economia%7B%5C_%7Dfinancas/ativ%7B%5C_%7Dtabelas/porte%7B%5C_%7Dempr/tab1.asp
+      \endverb
+      \keyw{atividades economicas,crescimento economico,espirito santo}
+    \endentry
     \entry{U.S.DepartmentofEnergy-USDOE2012}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
@@ -476,7 +1003,7 @@
       \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -529,6 +1056,54 @@
       \endverb
       \keyw{Energia Solar,Energias renov{á}veis,Esp{í}rito Santo,Fotovoltaica,Micro e Minigera{ç}{ã}o}
     \endentry
+    \entry{Cacador2013}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=6c26d857cc4aa181eb2ac812d59f9155}{%
+           family={Ca{ç}ador},
+           familyi={C\bibinitperiod},
+           given={Savio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e102ca96bf20c4157afd3916bdb03769}{%
+           family={Grassi},
+           familyi={G\bibinitperiod},
+           given={Robson},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
+      \strng{fullhash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
+      \strng{bibnamehash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
+      \strng{authorbibnamehash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
+      \strng{authornamehash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
+      \strng{authorfullhash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O objetivo do artigo {é} mostrar o car{á}ter contradit{ó}rio da condi{ç}{ã}o da economia capixaba nos primeiros anos do presente s{é}culo: uma economia com indicadores que revelam ao mesmo tempo certo grau de desenvolvimento socioecon{ô}mico e inser{ç}{ã}o perif{é}rica na economia brasileira. Al{é}m disso, pretende discutir as perspectivas futuras do Esp{í}rito Santo, a partir do papel decisivo que pol{í}ticas p{ú}blicas nas {á}reas de ci{ê}ncia, tecnologia e inova{ç}{ã}o assumem nesse in{í}cio de s{é}culo e ao mesmo tempo em que ficam claros os limites ambientais e de ocupa{ç}{ã}o do espa{ç}o que o contempor{â}neo perfil produtivo do estado (voltado essencialmente para a produ{ç}{ã}o de commodities) significa.}
+      \field{journaltitle}{Geografares}
+      \field{title}{{A situa{ç}{ã}o da economia do Esp{í}rito Santo no in{í}cio do s{é}culo XXI: um estado desenvolvido e perif{é}rico?}}
+      \field{volume}{14}
+      \field{year}{2013}
+      \field{pages}{107\bibrangedash 132}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.7147/geo14.4105
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb https://ren.emnuvens.com.br/ren/article/download/368/316
+      \endverb
+      \verb{url}
+      \verb https://ren.emnuvens.com.br/ren/article/download/368/316
+      \endverb
+      \keyw{Esp{í}rito Santo,desenvolvimento regional,indicadores de ci{ê}ncia,indicadores socioecon{ô}micos,tecnologia e inova{ç}{ã}o}
+    \endentry
     \entry{Abramovay2014}{article}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=59e9ffe00dc9ca36ceaa4281c9e336ab}{%
@@ -569,6 +1144,62 @@
       \verb http://www.redalyc.org/articulo.oa?id=31732525002
       \endverb
       \keyw{matriz energ{é}tica,matriz energ{é}tica brasileira}
+    \endentry
+    \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2014}{book}{}
+      \name{author}{5}{ul=2}{%
+        {{un=0,uniquepart=base,hash=9c1dec0acda417acff08cb866a9d4c25}{%
+           family={{American Society of Heating Refrigerating and Air-Conditioning Engineers - ASHRAE}},
+           familyi={A\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=7689a78e4196d02a6bcf94e2d3e6c1f7}{%
+           family={{The American Institute of Architects - AIA}},
+           familyi={T\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=f05a81572a1a5768cb367cc4afc5de40}{%
+           family={{Illuminating Engineers Society - IES}},
+           familyi={I\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=ff81ffbd8e960caa9a7ccaf189d18e90}{%
+           family={{U.S. Green Building Society - USGBS}},
+           familyi={U\bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=18c396e79b611e988471fe6b837a80e8}{%
+           family={{U.S. Department of Energy - USDOE}},
+           familyi={U\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Atlanta}%
+      }
+      \list{publisher}{2}{%
+        {American Society of Heating, Refrigerating}%
+        {Air-Conditioning Engineers, Inc.}%
+      }
+      \strng{namehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{fullhash}{7b2215a22c281891b12a7e68712a5484}
+      \strng{bibnamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authorbibnamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authornamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authorfullhash}{7b2215a22c281891b12a7e68712a5484}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Advanced Energy Design Guide for Small to Medium Office Buildings (AEDG-SMO; the Guide) provides user-friendly, how-to design guidance and efficiency recommendations for small to medium office buildings up to 100,000 ft2. The intended audience of this Guide includes, but is not limited to, building owners, architects, design engineers, energy modelers, general contractors, facility managers, and building operations staff. Specially, Chapter 2 is written for a target audience of all design team members, whether they are design professionals, construction experts, owner representatives, or other stakeholders. Chapters 3 through 5 orient more toward design professionals to pursue sound design advice and identify interdisciplinary opportunities for significant energy reduction. Application of the recommendations in the Guide can be expected to result in small to medium size offices with at least 50{\%} site energy reductions when compared to those same facilities designed to meet the minimum code requirements of ANSI/ASHRAE/IESNA Standard 90.1-2004, Energy Standard for Buildings Except Low-Rise Residential Buildings (ASHRAE 2004a).}
+      \field{edition}{3{ª} ed.}
+      \field{isbn}{978-1-936504-05-3}
+      \field{title}{{Advance Energy Design Guide for Small to Medium Office Buildings: Achieving 50{\%} Energy Savings Toward a Net Zero Energy Building}}
+      \field{year}{2014}
+      \field{pages}{236}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.ashrae.org
+      \endverb
+      \verb{url}
+      \verb www.ashrae.org
+      \endverb
+      \keyw{American Society of Heating,Developed by:,Illuminating Engineering Society of North America,Refrigerating and Air-Conditioning Engineers,The American Institute of Architects,U.S. Department of Energy,U.S. Green Building Council}
     \endentry
     \entry{Didone2014}{thesis}{}
       \name{author}{1}{}{%
@@ -805,6 +1436,188 @@
       \endverb
       \keyw{Cost optimality,Daylight,Energy simulations,Facade design,Fenestration,Load matching,Nearly zero energy buildings (nZEB),Photovoltaic (PV) generation,Windows}
     \endentry
+    \entry{Teke2014}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0fd019b4917753c0e8acbcc039479d0d}{%
+           family={Teke},
+           familyi={T\bibinitperiod},
+           given={Ahmet},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fc3428022e8e5db0bbb111a60b5d2556}{%
+           family={Timur},
+           familyi={T\bibinitperiod},
+           given={Oǧuzhan},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{d042a2e9d04064905cd7a5fa3eccf04b}
+      \strng{fullhash}{d042a2e9d04064905cd7a5fa3eccf04b}
+      \strng{bibnamehash}{d042a2e9d04064905cd7a5fa3eccf04b}
+      \strng{authorbibnamehash}{d042a2e9d04064905cd7a5fa3eccf04b}
+      \strng{authornamehash}{d042a2e9d04064905cd7a5fa3eccf04b}
+      \strng{authorfullhash}{d042a2e9d04064905cd7a5fa3eccf04b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The energy use in the world is increasing significantly owing to increase in per capita consumption of energy and growing population. Due to increased energy demand and the depletion of existing fossil fuel based sources, it is required to use the energy more efficient. Researches show that, hospitals represent approximately 6{\%} of total energy consumption in the utility buildings sector. Heating, Ventilation and Air Conditioning (HVAC) systems are the major part of electrical energy consumption at the hospitals. In this paper, the research papers and practical studies on energy efficiency and energy saving potentials on HVAC systems at the hospitals are presented. Under the following sections, the latest literatures including research articles, conferences, e-books, handbooks and company reports interested in energy efficiency, energy saving and energy management HVAC systems are summarized. Variant Refrigerant Flow (VRF) technology enables greater energy efficiency and cost savings compared with traditional HVAC systems is also introduced. This detailed review also focuses on the payback periods of some projects on HVAC including the installation of cogeneration, trigeneration, chiller, new burners, heat exchangers and steam trap systems. © 2014 Elsevier Ltd.}
+      \field{booktitle}{Renewable and Sustainable Energy Reviews}
+      \field{issn}{13640321}
+      \field{title}{{Assessing the energy efficiency improvement potentials of HVAC systems considering economic and environmental aspects at the hospitals}}
+      \field{volume}{33}
+      \field{year}{2014}
+      \field{pages}{224\bibrangedash 235}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.1016/j.rser.2014.02.002
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Building energy efficiency,HVAC,Health-care facilities,Hospital building}
+    \endentry
+    \entry{Wang2014}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=85e08e4296bfd789d69a7f484c423241}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Shaojie},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{85e08e4296bfd789d69a7f484c423241}
+      \strng{fullhash}{85e08e4296bfd789d69a7f484c423241}
+      \strng{bibnamehash}{85e08e4296bfd789d69a7f484c423241}
+      \strng{authorbibnamehash}{85e08e4296bfd789d69a7f484c423241}
+      \strng{authornamehash}{85e08e4296bfd789d69a7f484c423241}
+      \strng{authorfullhash}{85e08e4296bfd789d69a7f484c423241}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The ground source heat pump (GSHP) and variable refrigerant flow (VRF) systems are the most competitive HVAC technologies in the current market. However, there are very few studies reporting the comparison of the annual energy consumptions and Electric Peak demand reductions between GSHP and VRF systems because of the limitation of the whole building energy simulation software. Current version of EnergyPlus can model both GSHP and air-source VRF. Therefore, three representative US climate zones including Chicago, Baltimore and Atlanta are selected for conducting this comparison study. The EnergyPlus simulation results show that the GSHP system not only saves more energy than the air-source VRF system but also significantly reduces the Electric Peak demand regardless the climate conditions. This makes the GSHP system a more desirable energy efficient HVAC technology for the utility companies and their clients. © 2014 Elsevier B.V. All rights reserved.}
+      \field{issn}{03787788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{4}
+      \field{title}{{Energy modeling of ground source heat pump vs. variable refrigerant flow systems in representative US climate zones}}
+      \field{volume}{72}
+      \field{year}{2014}
+      \field{pages}{222\bibrangedash 228}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2013.12.017
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Energy savings,Ground source heat pump,Peak demand,Variable refrigerant flow}
+    \endentry
+    \entry{Zhang2014}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=887046cb4aec7ab9a8db98ce1aee5c6c}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Rongpeng},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c63decbb3ae3a79ec0125558c8bc58ca}{%
+           family={Nie},
+           familyi={N\bibinitperiod},
+           given={Yisu},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=19f60ddb2cb75aec4cc964d15c891349}{%
+           family={Lam},
+           familyi={L\bibinitperiod},
+           given={Khee\bibnamedelima Poh},
+           giveni={K\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b4cf951e494c45f4de462df04ec3b5df}{%
+           family={Biegler},
+           familyi={B\bibinitperiod},
+           given={Lorenz\bibnamedelima T.},
+           giveni={L\bibinitperiod\bibinitdelim T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{a59126c6a9c7548d67dcc357a1e34eee}
+      \strng{fullhash}{dc3a416338208aa57685ef9ba523e078}
+      \strng{bibnamehash}{a59126c6a9c7548d67dcc357a1e34eee}
+      \strng{authorbibnamehash}{a59126c6a9c7548d67dcc357a1e34eee}
+      \strng{authornamehash}{a59126c6a9c7548d67dcc357a1e34eee}
+      \strng{authorfullhash}{dc3a416338208aa57685ef9ba523e078}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{As one form of passive cooling, night ventilation (NV) has been proven effective to improve the building energy performance. In previous studies, however, fixed NV operating strategies were usually pre-defined, ignoring the weather condition variations over the whole operation process, the influence of outdoor humidity on NV's efficiency, and NV's integrated performance with active air conditioning systems. Such strategies may have potentials for further improvements. This paper presents a systematic approach to address the dynamic optimization of integrated operation of NV and active building air conditioning using typical variable–air–volume (VAV) systems as the case. In the optimization scheme, the physical model is developed per differential algebraic equations (DAEs). The simultaneous collocation method is introduced to translate the dynamic optimization into a nonlinear program, which is then implemented in the GAMS platform and handled by IPOPT solver. The study results indicate that the optimized strategies lead to a remarkable energy saving of 23.19–49.31{\%} in different climate conditions compared to the traditional local control scheme without NV, and a saving of 14.97–39.70{\%} compared to that with pre-defined NV.}
+      \field{issn}{0378-7788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{12}
+      \field{title}{{Dynamic optimization based integrated operation strategy design for passive cooling ventilation and active building air conditioning}}
+      \field{volume}{85}
+      \field{year}{2014}
+      \field{pages}{126\bibrangedash 135}
+      \range{pages}{10}
+      \verb{doi}
+      \verb 10.1016/J.ENBUILD.2014.09.032
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778814007257
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778814007257
+      \endverb
+    \endentry
+    \entry{AgenciaNacionaldeEnergiaEletricaANEEL2015}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=48031d3754220c08327165b9e88930ea}{%
+           family={{Ag{ê}ncia Nacional de Energia El{é}trica – ANEEL}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Ag{ê}ncia Nacional de Energia El{é}trica}%
+      }
+      \strng{namehash}{48031d3754220c08327165b9e88930ea}
+      \strng{fullhash}{48031d3754220c08327165b9e88930ea}
+      \strng{bibnamehash}{48031d3754220c08327165b9e88930ea}
+      \strng{authorbibnamehash}{48031d3754220c08327165b9e88930ea}
+      \strng{authornamehash}{48031d3754220c08327165b9e88930ea}
+      \strng{authorfullhash}{48031d3754220c08327165b9e88930ea}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Altera a Resolu{ç}{ã}o Normativa n{º} 482, de 17 de abril de 2012, e os M{ó}dulos 1 e 3 dos Procedimentos de Distribui{ç}{ã}o – PRODIST.}
+      \field{booktitle}{ANEEL}
+      \field{title}{{RESOLU{Ç}{Ã}O NORMATIVA N{º} 687, DE 24 DE NOVEMBRO DE 2015}}
+      \field{year}{2015}
+      \field{pages}{25}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://www2.aneel.gov.br/cedoc/ren2015687.pdf
+      \endverb
+      \verb{url}
+      \verb http://www2.aneel.gov.br/cedoc/ren2015687.pdf
+      \endverb
+    \endentry
     \entry{Athienitis2015}{book}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=86e92b40a401f40005fa61b89b2f6a3d}{%
@@ -859,6 +1672,40 @@
       \field{title}{{Modeling, Design, and Optimization of Net-Zero Energy Buildings}}
       \field{year}{2015}
       \field{pages}{375}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015}{report}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c7c84e8e1adeee5c890aac6152ec1f9f}{%
+           family={{Conselho\bibnamedelimb Brasileiro\bibnamedelimb de\bibnamedelimb Constru{ç}{ã}o\bibnamedelimb Sustent{á}vel\bibnamedelimb -\bibnamedelimb CBCS}},
+           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Conselho Brasileiro de Constru{ç}{ã}o Sustent{á}vel}%
+      }
+      \list{location}{1}{%
+        {S{ã}o Paulo}%
+      }
+      \strng{namehash}{c7c84e8e1adeee5c890aac6152ec1f9f}
+      \strng{fullhash}{c7c84e8e1adeee5c890aac6152ec1f9f}
+      \strng{bibnamehash}{c7c84e8e1adeee5c890aac6152ec1f9f}
+      \strng{authorbibnamehash}{c7c84e8e1adeee5c890aac6152ec1f9f}
+      \strng{authornamehash}{c7c84e8e1adeee5c890aac6152ec1f9f}
+      \strng{authorfullhash}{c7c84e8e1adeee5c890aac6152ec1f9f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Este trabalho refere-se ao Produto 5 do projeto “Aplica{ç}{ã}o de conhecimento do Reino Unido para desenvolvimento de uma rede el{é}trica mais inteligente no Brasil” (Applying UK expertise to develop a smarter grid in Brazil), financiado pelo Minist{é}rio de Rela{ç}{õ}es Internacionais do Reino Unido (Foreign and Commonwealth Office). O projeto engloba cinco atividades diferentes que ser{ã}o integradas para maximizar o impacto do projeto e o benef{í}cio {à}s institui{ç}{õ}es envolvidas. O Produto 5 envolve o desenvolvimento de conhecimento nas {á}reas de medi{ç}{ã}o e verifica{ç}{ã}o e o relat{ó}rio de consumo energ{é}tico em edif{í}cios, investigando os potenciais impactos de medidores inteligentes e etiquetagem energ{é}tica e propondo a aplica{ç}{ã}o destas ferramentas em edif{í}cios p{ú}blicos e comerciais.}
+      \field{title}{{Desempenho energ{é}tigo operacional em edifica{ç}{õ}es - Relat{ó}rio final: Benchmarking de escrit{ó}rios corporativos e recomenda{ç}{õ}es para certifica{ç}{ã}o DEO no Brasil}}
+      \field{type}{techreport}
+      \field{year}{2015}
+      \field{pages}{110}
       \range{pages}{1}
       \verb{file}
       \verb ::
@@ -925,7 +1772,7 @@
       \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{1}
@@ -962,7 +1809,7 @@
       \strng{authorbibnamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authornamehash}{18c396e79b611e988471fe6b837a80e8}
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
-      \field{extraname}{3}
+      \field{extraname}{4}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{2}
@@ -986,6 +1833,65 @@
       \verb www.gard.com
       \endverb
       \keyw{140-2011,ASHRAE,EnergyPlus}
+    \endentry
+    \entry{Cao2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=34b100242211f4995a8a0d15e22eb090}{%
+           family={Cao},
+           familyi={C\bibinitperiod},
+           given={Xiaodong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=73d7a5dd6e264a959e052c3ce74dd30d}{%
+           family={Dai},
+           familyi={D\bibinitperiod},
+           given={Xilei},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f29d5f47839f5438acce0f0b4e67401c}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Junjie},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier B.V.}%
+      }
+      \strng{namehash}{3013a2968750696fafa3cb0162ec9b56}
+      \strng{fullhash}{3013a2968750696fafa3cb0162ec9b56}
+      \strng{bibnamehash}{3013a2968750696fafa3cb0162ec9b56}
+      \strng{authorbibnamehash}{3013a2968750696fafa3cb0162ec9b56}
+      \strng{authornamehash}{3013a2968750696fafa3cb0162ec9b56}
+      \strng{authorfullhash}{3013a2968750696fafa3cb0162ec9b56}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Energy consumption has dramatically increased in buildings over the past decade due to population growth, more time spent indoors, increased demand for building functions and indoor environmental quality, and global climate change. Building energy use currently accounts for over 40{\%} of total primary energy consumption in the U.S. and E.U. Nevertheless, significant energy savings can be achieved in buildings if they are properly designed, constructed and operated. For this reason, building energy efficiency can provide key solutions to energy shortages, carbon emissions and their serious threat to our living environment. This paper offers a brief overview of building energy-consumption situations, relevant energy-saving approaches, and the influence of global climate change. Building energy-consumption situations based on data derived from international energy reports are initially compared between the U.S., China and the E.U. Both similarities and differences are found in aspects of building energy end-uses and final energy fuel-types among these top three building energy consumers. We then introduce the current concept of the zero-energy building (ZEB). State-of-the-art approaches for ZEB technologies are summarized in three categories: passive energy-saving technologies, energy-efficient building service systems and renewable energy production technologies. The feasibility of these technologies is reviewed. In addition, we briefly discuss the influence of global climate change on the evolution of building energy use in the future. We find that climate change significantly impacts building energy performance, particularly in space heating and cooling. Improvements on building envelope and ventilation can play an important role in reducing space heating and cooling consumption levels. We also provide some suggestions for further developing ZEBs.}
+      \field{isbn}{0378-7788}
+      \field{issn}{03787788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{title}{{Building energy-consumption status worldwide and the state-of-the-art technologies for zero-energy buildings during the past decade}}
+      \field{volume}{128}
+      \field{year}{2016}
+      \field{pages}{198\bibrangedash 213}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2016.06.089
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://dx.doi.org/10.1016/j.enbuild.2016.06.089
+      \endverb
+      \verb{url}
+      \verb http://dx.doi.org/10.1016/j.enbuild.2016.06.089
+      \endverb
+      \keyw{Building energy,Climate change,Energy savings,Renewable energy,Zero-energy building (ZEB)}
     \endentry
     \entry{Conejero2016}{article}{}
       \name{author}{3}{}{%
@@ -1115,6 +2021,459 @@
       \verb https://www.researchgate.net/publication/308698471
       \endverb
       \keyw{Edifica{ç}{õ}es de escrit{ó}rios,Efici{ê}ncia energ{é}tica,{Í}ndices m{í}nimos}
+    \endentry
+    \entry{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2016}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fb8bdd3fbafa352c3b2f7c626596783d}{%
+           family={{Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Metrologia\bibnamedelimb Normaliza{ç}{ã}o\bibnamedelimb e\bibnamedelimb Qualidade\bibnamedelimb Industrial\bibnamedelimb -\bibnamedelimb INMETRO}},
+           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Florian{ó}polis}%
+      }
+      \list{publisher}{1}{%
+        {Centro Brasileiro de Efici{ê}ncia Energ{é}tica em Edifica{ç}{õ}es - CB3e-UFSC}%
+      }
+      \strng{namehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{fullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{bibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authorbibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authornamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Manual para Aplica{ç}{ã}o do RTQ-C. Vers{ã}o 4, publicada em junho de 2016, com base na Portaria n{º} 372 e complementares n{º} 17, 299 e 126.}
+      \field{edition}{4{ª}}
+      \field{title}{{Manual para Aplica{ç}{ã}o do RTQ-C}}
+      \field{year}{2016}
+      \field{pages}{213}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{Navarro2016}{article}{}
+      \name{author}{7}{}{%
+        {{un=0,uniquepart=base,hash=3bd0ba5269c07db85edd42a4a71f81f9}{%
+           family={Navarro},
+           familyi={N\bibinitperiod},
+           given={Lidia},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0c77059237386b2441bc350e0a67cc99}{%
+           family={Gracia},
+           familyi={G\bibinitperiod},
+           given={Alvaro},
+           giveni={A\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=dac446ba4227310776ae3e830f98b58a}{%
+           family={Colclough},
+           familyi={C\bibinitperiod},
+           given={Shane},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=94978a01c38311e19fdc1ab2a5a91028}{%
+           family={Browne},
+           familyi={B\bibinitperiod},
+           given={Maria},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a334a15044cc2729531417201a2d537a}{%
+           family={McCormack},
+           familyi={M\bibinitperiod},
+           given={Sarah\bibnamedelima J.},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a1cac9df3844949caa2e21d28675447}{%
+           family={Griffiths},
+           familyi={G\bibinitperiod},
+           given={Philip},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5c02240daa257cb2fa303d3a7858591}{%
+           family={Cabeza},
+           familyi={C\bibinitperiod},
+           given={Luisa\bibnamedelima F.},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3b1224569a096c192f613edc631025a9}
+      \strng{fullhash}{da4595abee84d48ac888b4e00c3609ce}
+      \strng{bibnamehash}{3b1224569a096c192f613edc631025a9}
+      \strng{authorbibnamehash}{3b1224569a096c192f613edc631025a9}
+      \strng{authornamehash}{3b1224569a096c192f613edc631025a9}
+      \strng{authorfullhash}{da4595abee84d48ac888b4e00c3609ce}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{09601481}
+      \field{journaltitle}{Renewable Energy}
+      \field{title}{{Thermal energy storage in building integrated thermal systems: A review. Part 1. active storage systems}}
+      \field{volume}{88}
+      \field{year}{2016}
+      \field{pages}{526\bibrangedash 547}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1016/j.renene.2015.11.040
+      \endverb
+      \verb{urlraw}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0960148115304584
+      \endverb
+      \verb{url}
+      \verb https://linkinghub.elsevier.com/retrieve/pii/S0960148115304584
+      \endverb
+      \keyw{building integration,tes,thermal energy storage}
+    \endentry
+    \entry{Noguchi2016}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=587449f0a5586ba7cbc9dbea7c166b5d}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Masa},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=587449f0a5586ba7cbc9dbea7c166b5d}{%
+           family={Noguchi},
+           familyi={N\bibinitperiod},
+           given={Masa},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Melbourne, Austr{á}lia}%
+      }
+      \list{publisher}{1}{%
+        {Springer International Publishing}%
+      }
+      \strng{namehash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{fullhash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{bibnamehash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{authorbibnamehash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{authornamehash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{authorfullhash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{editorbibnamehash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{editornamehash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \strng{editorfullhash}{587449f0a5586ba7cbc9dbea7c166b5d}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Housing needs and demands are dynamic having been changed in the course of time. The shifts in socio-demographics highlight the emergence of non-traditional households and influence housing configurations and performances. Homes need to be customisable in order to raise the level of social sustainability in accommodating users' individual requirements, desires and expectations. In the light of fuel poverty issues arising in various countries in which the drastic hike of energy cost is a serious concern, the notion of housing affordability has been extended to encom- pass both initial and operating costs. In view of economic sustainability at macro and micro levels, homes need to be affordable. Global warming accelerated with excessive carbon dioxide (CO2) emission is becoming conspicuous. Generally, a house consumes a significant amount of energy before and after occupancy, and the associated CO2 emission is contributing partially to the climate change. Towards securing environmental sustainability, housing needs to be net carbon neutral (or zero energy) in consideration of CO2 emission derived from the overall energy use. In response to market needs and demands for social, economic and environ- mental sustainability of housing in developed and developing countries, the zero energy mass custom home (ZEMCH) integrated lean design and construction concept was envisaged and discussed globally. Towards the ZEMCH delivery, an emerging notion of mass customisation was scrutinised initially. It emerged in the same year as the general concept of sustainable development was widespread in 1987. The oxymoron was recognised eventually as a means to lessen housing design and construction costs whilst achieving the customisability through econo- mies of scope rather than economies of scale.}
+      \field{isbn}{9780739124376}
+      \field{title}{{ZEMCH: Toward the Delivery of Zero Energy Mass Custom Homes}}
+      \field{year}{2016}
+      \field{pages}{1\bibrangedash 364}
+      \range{pages}{364}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Construction and Structural Mechanics Building Mat,Hydrology and Water Resources Engineering Environm,Steel and Timber Structures Geotechnical Engineeri,Ventilation and Air Conditioning (HVAC) Transporta}
+    \endentry
+    \entry{Rupp2016}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=c55734cc6dcb0c4a9d8a1c80dd7cedda}{%
+           family={Rupp},
+           familyi={R\bibinitperiod},
+           given={Ricardo\bibnamedelima Forgiarini},
+           giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c5a828ca729e8bc5829a78305d99ea77}{%
+           family={Vecchi},
+           familyi={V\bibinitperiod},
+           given={Renata\bibnamedelima De},
+           giveni={R\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92ff71b0074d82055c44fc3a48a8793c}{%
+           family={Asmus},
+           familyi={A\bibinitperiod},
+           given={Bernardo\bibnamedelima Farias},
+           giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffff138cd18bbda49bc4439d774ea25c}{%
+           family={C{â}ndido},
+           familyi={C\bibinitperiod},
+           given={Christhina},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fe53e1ae3ddf8086e91ab6ac5a74e54c}{%
+           family={Ghisi},
+           familyi={G\bibinitperiod},
+           given={Enedir},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {FapUNIFESP (SciELO)}%
+      }
+      \strng{namehash}{8a3337ccbc2e302cc187981f44e73f6c}
+      \strng{fullhash}{6825e4ca8a8e927769f41cf5db63d06f}
+      \strng{bibnamehash}{8a3337ccbc2e302cc187981f44e73f6c}
+      \strng{authorbibnamehash}{8a3337ccbc2e302cc187981f44e73f6c}
+      \strng{authornamehash}{8a3337ccbc2e302cc187981f44e73f6c}
+      \strng{authorfullhash}{6825e4ca8a8e927769f41cf5db63d06f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Resumo Quando se trata de conforto t{é}rmico em edifica{ç}{õ}es condicionadas artificialmente, o modelo predicted mean vote/predicted percentage of dissatisfied (PMV/PPD) de Fanger, publicado em 1970, {é} o mais utilizado para prever e avaliar as condi{ç}{õ}es t{é}rmicas internas. Este artigo apresenta dados de conforto t{é}rmico levantados em uma edifica{ç}{ã}o de escrit{ó}rios com sistema central de condicionamento de ar, localizada em Florian{ó}polis, uma cidade de clima subtropical {ú}mido. O objetivo da pesquisa {é} analisar e comparar os resultados de sensa{ç}{ã}o t{é}rmica obtidos em estudos de campo (284 participantes) com os valores calculados de PMV/PPD provenientes do m{é}todo anal{í}tico adotado pela ASHRAE 55 (2013). Question{á}rios eletr{ô}nicos foram aplicados simultaneamente {à}s medi{ç}{õ}es das vari{á}veis ambientais (temperatura do ar, umidade relativa, temperatura radiante m{é}dia e velocidade do ar) durante 2014. Observou-se que, embora 91{\%} dos ocupantes tenham avaliado o ambiente como confort{á}vel termicamente, o PPD m{é}dio apontou 16{\%} de insatisfeitos termicamente. Constatou-se certa inadequa{ç}{ã}o do modelo ao clima em quest{ã}o, principalmente quando se considera o restrito intervalo de PMV entre ± 0,50 delimitado como confort{á}vel pela ASHRAE 55 (2013).Abstract When it comes to thermal comfort in fully air conditioned buildings, Fanger's predictive mean vote/predicted percentage of dissatisfied (PMV/PPD) published in 1970 is the most widely used model to predict and analyse environments. This paper presents thermal comfort data from an office building that operates with a central air-conditioning system (HVAC) located in Florian{ó}polis, a city with humid subtropical climate on the southern coast of Brazil. This paper presents and compares thermal sensation results obtained from field studies (284 participants) against calculated PMV/PPD values based on the ASHRAE 55 (2013) analytical method. Electronic questionnaires were administered simultaneously to instrumental measurements (air temperature, radiant air temperature, air speed and humidity) during 2014. The results showed that, although 91{\%} of the occupants evaluated the environment as thermally comfortable, the mean PPD scored 16{\%} of dissatisfied people. Moreover, results suggested a certain inadequacy of this model to the climate in question, especially when the PMV ranges between ± 0.50, the interval determined as comfortable by ASHRAE 55 (2013).}
+      \field{journaltitle}{Ambiente Constru{í}do}
+      \field{month}{11}
+      \field{number}{1}
+      \field{title}{{Conforto t{é}rmico humano em escrit{ó}rios com sistema central de condicionamento artificial em clima subtropical {ú}mido: estudos de campo vs. abordagem anal{í}tica}}
+      \field{volume}{17}
+      \field{year}{2016}
+      \field{pages}{111\bibrangedash 123}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1590/s1678-86212017000100127
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c1dec0acda417acff08cb866a9d4c25}{%
+           family={{American Society of Heating Refrigerating and Air-Conditioning Engineers - ASHRAE}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{fullhash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{bibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authorbibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authornamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The core of the standard in Sections 4 and 5 specifies methods to determine thermal environmental conditions (temperature, humidity, air speed, and radiant effects) in buildings and other spaces that a significant proportion of the occupants will find acceptable at a certain metabolic rate and clothing level. The comprehensive analytical method to determine these conditions uses calculation algorithms included in the standard and appendices, all of which are implemented in the ASHRAE Thermal Comfort Tool.}
+      \field{title}{{ANSI/ASHRAE Standard 55-2017: Thermal Environmental Conditions for Human Occupancy}}
+      \field{year}{2017}
+      \field{pages}{67}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 1041-2336
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017a}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c1dec0acda417acff08cb866a9d4c25}{%
+           family={{American Society of Heating Refrigerating and Air-Conditioning Engineers - ASHRAE}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Georgia, Estados Unidos}%
+      }
+      \list{publisher}{1}{%
+        {ASHRAE}%
+      }
+      \strng{namehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{fullhash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{bibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authorbibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authornamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{ASHRAE is the world's foremost technical society in the fields of heating, ventilation, air conditioning, and refrigeration. Its mem- bers worldwide are individuals who share ideas, identify needs, sup- port research, and write the industry's standards for testing and practice. The result is that engineers are better able to keep indoor environments safe and productive while protecting and preserving the outdoors for generations to come.}
+      \field{edition}{2017}
+      \field{isbn}{6785392187}
+      \field{title}{{ASHRAE Handbook - Fundamentals}}
+      \field{year}{2017}
+      \field{pages}{1013}
+      \range{pages}{1}
+      \keyw{ASHRAE,fundamentals}
+    \endentry
+    \entry{Costa2017}{report}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=9e6a02d930fb63a4714131b3b1325800}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Joao},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b88dee88a341f1d6f3bd3c8a99670fea}{%
+           family={Oliveira},
+           familyi={O\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4591d9357643c7f89915372f81aadfb8}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Edinburgo}%
+      }
+      \strng{namehash}{53b989fe3055b2cbc36955ad561b0b23}
+      \strng{fullhash}{53b989fe3055b2cbc36955ad561b0b23}
+      \strng{bibnamehash}{53b989fe3055b2cbc36955ad561b0b23}
+      \strng{authorbibnamehash}{53b989fe3055b2cbc36955ad561b0b23}
+      \strng{authornamehash}{53b989fe3055b2cbc36955ad561b0b23}
+      \strng{authorfullhash}{53b989fe3055b2cbc36955ad561b0b23}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Building envelope and morphology have a direct influence on energy consumption because they can soften climate impacts and reduce the necessity of air conditioning and artificial lighting. Commercial and office buildings, in Brazil, demanded 14.8{\%} from Brazilian electric energy production in 2016, according to the National Ministry of Mines and Energy. In a planned city, such as Brasilia, understanding characteristics from urban codes and legislation may be the first step towards improvements and optimization of architectural shape and building envelope, especially in non-residential buildings. Therefore, this article focuses on morphological characterization and energy consumption of office buildings in the central area of Brasilia and seeks to characterize transformations in the envelope and building morphology between 2010 and 2017. The method consists of on-site visits and analysis through Google Street View tool of morphological features, envelope and energy consumption of 223 buildings. Simultaneously, energy consumption data were collected in the last three years. The results showed that, in 2017 little was made to follow the recommendation presented by International Energy Agency towards efficient envelopes. Almost 40{\%} of the studied buildings had almost entirely glazed facades and 70{\%} of the facades did not have any type of window shading.}
+      \field{title}{{Morphological characteristics and energy consumption of office buildings in the central area of Brasilia}}
+      \field{type}{techreport}
+      \field{year}{2017}
+      \field{pages}{1111\bibrangedash 1118}
+      \range{pages}{8}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb https://plea2017.net/{\#}programmes-container
+      \endverb
+      \verb{url}
+      \verb https://plea2017.net/%7B%5C#%7Dprogrammes-container
+      \endverb
+      \keyw{Brasilia,building morphology,energy consumption,offices,solar shading,window wall ratio}
+    \endentry
+    \entry{Dalbem2017}{article}{}
+      \name{author}{10}{}{%
+        {{un=0,uniquepart=base,hash=317322641fe378decaa595930dc1a7c8}{%
+           family={Dalbem},
+           familyi={D\bibinitperiod},
+           given={Renata},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fde1a4047d072970dbca78bc16a2dec5}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Eduardo\bibnamedelima Grala},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=92499fa72076a95c205b202e7e1f37d0}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={Romeu},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f92c07828235b225894cd5a6942c210}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={Ant{ó}nio\bibnamedelima Jos{é}},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3af5a363725aced0d66f6f903aa05c1e}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Ant{ô}nio\bibnamedelimb C{é}sar\bibnamedelimb Silveira\bibnamedelima Baptista},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=317322641fe378decaa595930dc1a7c8}{%
+           family={Dalbem},
+           familyi={D\bibinitperiod},
+           given={Renata},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fde1a4047d072970dbca78bc16a2dec5}{%
+           family={Cunha},
+           familyi={C\bibinitperiod},
+           given={Eduardo\bibnamedelima Grala},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=92499fa72076a95c205b202e7e1f37d0}{%
+           family={Vicente},
+           familyi={V\bibinitperiod},
+           given={Romeu},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0f92c07828235b225894cd5a6942c210}{%
+           family={Figueiredo},
+           familyi={F\bibinitperiod},
+           given={Ant{ó}nio\bibnamedelima Jos{é}},
+           giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3af5a363725aced0d66f6f903aa05c1e}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Ant{ô}nio\bibnamedelimb C{é}sar\bibnamedelimb Silveira\bibnamedelima Baptista},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0,
+           prefix={da},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{7f5794946365e4efba7bdb0b88286b14}
+      \strng{fullhash}{b8e1cbb67c9fe04af062aa3980354965}
+      \strng{bibnamehash}{7f5794946365e4efba7bdb0b88286b14}
+      \strng{authorbibnamehash}{7f5794946365e4efba7bdb0b88286b14}
+      \strng{authornamehash}{7f5794946365e4efba7bdb0b88286b14}
+      \strng{authorfullhash}{b8e1cbb67c9fe04af062aa3980354965}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{<p>Resumo O elevado consumo energ{é}tico do setor das edifica{ç}{õ}es e a consequente emiss{ã}o de gases de efeito estufa levou a Uni{ã}o Europeia a publicar, em 2010, a Diretiva 2010/31/EU, que estabelece que at{é} ao final de 2020 todas as novas edifica{ç}{õ}es dever{ã}o ser de balan{ç}o energ{é}tico quase nulo (nZEB). Um caminho poss{í}vel para alcan{ç}ar essa meta {é} a aplica{ç}{ã}o do conceito Passive House. O artigo tem o objetivo de analisar o n{í}vel de efici{ê}ncia da envolt{ó}ria de uma Passive House pelo m{é}todo de simula{ç}{ã}o do Regulamento T{é}cnico da Qualidade para o N{í}vel de Efici{ê}ncia Energ{é}tica de Edifica{ç}{õ}es Residenciais (RTQ-R). A an{á}lise {é} realizada para a edifica{ç}{ã}o configurada de acordo com o RTQ-R (ventilada naturalmente e condicionada artificialmente), que utiliza o sistema de ventila{ç}{ã}o mec{â}nica com recuperador de calor (MVHR). Na primeira situa{ç}{ã}o a edifica{ç}{ã}o obteve classifica{ç}{ã}o n{í}vel B, devido ao alto consumo do condicionador de ar para aquecimento, e quando utilizado o sistema MVHR a edifica{ç}{ã}o obteve classifica{ç}{ã}o n{í}vel A. Em uma an{á}lise comparativa do consumo de energia, o sistema MVHR apresentou economia de 56,63{\%} em rela{ç}{ã}o ao condicionador de ar. Assim, o estudo comprovou a aplica{ç}{ã}o, sob o enfoque energ{é}tico, do conceito Passive House para a Zona Bioclim{á}tica 2 (ZB2).</p>}
+      \field{isbn}{1678-8621 UL - http://www.scielo.br/scielo.php?script=sci{\_}arttext{\&}pid=S1678-86212017000100201{\&}nrm=iso}
+      \field{issn}{1678-8621}
+      \field{journaltitle}{Ambiente Constru{í}do}
+      \field{number}{1}
+      \field{title}{{Discuss{ã}o do desempenho da envolt{ó}ria de uma passive house adaptada {à} zona bioclim{á}tica 2 em acordo com o RTQ-R}}
+      \field{volume}{17}
+      \field{year}{2017}
+      \field{pages}{201\bibrangedash 222}
+      \range{pages}{22}
+      \verb{doi}
+      \verb 10.1590/s1678-86212017000100132
+      \endverb
+      \verb{urlraw}
+      \verb http://www.scielo.br/scielo.php?script=sci{\_}arttext{\&}pid=S1678-86212017000100201{\&}lng=pt{\&}tlng=pt
+      \endverb
+      \verb{url}
+      \verb http://www.scielo.br/scielo.php?script=sci%7B%5C_%7Darttext%7B%5C&%7Dpid=S1678-86212017000100201%7B%5C&%7Dlng=pt%7B%5C&%7Dtlng=pt
+      \endverb
+      \keyw{dynamic building,energy efficiency,heat recovery,passive house,rtq-r}
     \endentry
     \entry{EmpresadePesquisaEnergetica-EPE2017a}{report}{}
       \name{author}{1}{}{%
@@ -1445,6 +2804,45 @@
       \endverb
       \keyw{2017,Energia}
     \endentry
+    \entry{SindicatodaIndustriadaConstrucaoCivildoEspiritoSanto-SINDUSCON2017}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1b795d6c87fc85fef221a037a8a5b3ee}{%
+           family={{Sindicato\bibnamedelimb da\bibnamedelimb Ind{ú}stria\bibnamedelimb da\bibnamedelimb Constru{ç}{ã}o\bibnamedelimb Civil\bibnamedelimb do\bibnamedelimb Esp{í}rito\bibnamedelimb Santo\bibnamedelimb -\bibnamedelimb SINDUSCON}},
+           familyi={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Vit{ó}ria, ES}%
+      }
+      \strng{namehash}{1b795d6c87fc85fef221a037a8a5b3ee}
+      \strng{fullhash}{1b795d6c87fc85fef221a037a8a5b3ee}
+      \strng{bibnamehash}{1b795d6c87fc85fef221a037a8a5b3ee}
+      \strng{authorbibnamehash}{1b795d6c87fc85fef221a037a8a5b3ee}
+      \strng{authornamehash}{1b795d6c87fc85fef221a037a8a5b3ee}
+      \strng{authorfullhash}{1b795d6c87fc85fef221a037a8a5b3ee}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{SINDUSCON}
+      \field{number}{32}
+      \field{title}{{32{º} Censo Imobili{á}rio}}
+      \field{volume}{1}
+      \field{year}{2017}
+      \field{pages}{37}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://sinduscon-es.com.br/v2/upload/572018171542{\_}Apresentacao{\_}Censo{\_}JULHO{\_}2017.pdf
+      \endverb
+      \verb{url}
+      \verb http://sinduscon-es.com.br/v2/upload/572018171542%7B%5C_%7DApresentacao%7B%5C_%7DCenso%7B%5C_%7DJULHO%7B%5C_%7D2017.pdf
+      \endverb
+      \keyw{censo imobiliario,espirito santo}
+    \endentry
     \entry{UnitedNations2017}{inproceedings}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=3cc54e2c0d69c1b76b4d49edb22dd6d1}{%
@@ -1630,6 +3028,124 @@
       \verb ::
       \endverb
     \endentry
+    \entry{Guo2018}{article}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=4147df898a7c2346298daa1464f9dec4}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Yabin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b520fc965750bb8fa2e13243d81366c9}{%
+           family={Tan},
+           familyi={T\bibinitperiod},
+           given={Zehan},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8c80d30a8e4731b960c90ecb9cfb1e11}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Huanxin},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=dacaca0bcdea74435894b48126657b50}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Guannan},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e76f19b6ead1613befcba44c02401107}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Jiangyu},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f124534a733ac89687a62924f8f9647}{%
+           family={Huang},
+           familyi={H\bibinitperiod},
+           given={Ronggeng},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46c7a7abf118041b845b8b9e848a646d}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Jiangyan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1eba736f56f2042c353068b3fc48db6a}{%
+           family={Ahmad},
+           familyi={A\bibinitperiod},
+           given={Tanveer},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{a80b5de874e385710ab8a5e666c6ef4f}
+      \strng{fullhash}{e9190730f7ebe749b27f5759247a74ae}
+      \strng{bibnamehash}{a80b5de874e385710ab8a5e666c6ef4f}
+      \strng{authorbibnamehash}{a80b5de874e385710ab8a5e666c6ef4f}
+      \strng{authornamehash}{a80b5de874e385710ab8a5e666c6ef4f}
+      \strng{authorfullhash}{e9190730f7ebe749b27f5759247a74ae}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The fault diagnosis of air-conditioning systems is of great significance to the energy saving of buildings. This study proposes a novel fault diagnosis approach for building energy saving based on the deep learning method which is deep belief network, and its application potential in the air conditioning fault diagnosis field is investigated. Then, a parameter optimization selection strategy is developed for model optimization. Four kinds of faults of the variable flow refrigerant system under heating mode are used to evaluate the performance of the models. The fault diagnosis results show that the deep belief network model with initial parameters can be used to diagnose the faults of the variable flow refrigerant system. Through the parameter optimization selection strategy, the fault diagnosis correct rate of the optimized model is 97.7{\%}, which is improved by 5.05{\%} compared with the model with initial parameters. The number of hidden layers of the deep belief network model is selected to be 2 layers. This result indicates that the fault diagnosis for variable flow refrigerant systems may not require a very deep model. Additionally, the performance of the optimized deep belief network model is compared with that of the traditional back propagation neural network, and the former is better. This finding also shows that the unsupervised restricted Boltzmann machine layer for data feature reconstruction can improve the fault diagnosis performance.}
+      \field{issn}{03062619}
+      \field{journaltitle}{Applied Energy}
+      \field{month}{9}
+      \field{title}{{Deep learning-based fault diagnosis of variable refrigerant flow air-conditioning system for building energy saving}}
+      \field{volume}{225}
+      \field{year}{2018}
+      \field{pages}{732\bibrangedash 745}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.apenergy.2018.05.075
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Deep belief network,Deep learning,Energy saving,Fault diagnosis,Variable refrigerant flow air-conditioning system}
+    \endentry
+    \entry{InstitutoNacionaldeMetereologia-INMET2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=84f5192bcae1521458c60f30a7266344}{%
+           family={{Instituto Nacional de Metereologia - INMET}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Bras{í}lia}%
+      }
+      \list{publisher}{1}{%
+        {Instituto Nacional de Metereologia}%
+      }
+      \strng{namehash}{84f5192bcae1521458c60f30a7266344}
+      \strng{fullhash}{84f5192bcae1521458c60f30a7266344}
+      \strng{bibnamehash}{84f5192bcae1521458c60f30a7266344}
+      \strng{authorbibnamehash}{84f5192bcae1521458c60f30a7266344}
+      \strng{authornamehash}{84f5192bcae1521458c60f30a7266344}
+      \strng{authorfullhash}{84f5192bcae1521458c60f30a7266344}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Arquivo clim{á}tico de Vit{ó}ria}}
+      \field{year}{2018}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb http://climate.onebuilding.org/WMO{\_}Region{\_}3{\_}South{\_}America/BRA{\_}Brazil/ES{\_}Espirito{\_}Santo/BRA{\_}ES{\_}Vitoria.868300{\_}INMET.zip
+      \endverb
+      \verb{url}
+      \verb http://climate.onebuilding.org/WMO%7B%5C_%7DRegion%7B%5C_%7D3%7B%5C_%7DSouth%7B%5C_%7DAmerica/BRA%7B%5C_%7DBrazil/ES%7B%5C_%7DEspirito%7B%5C_%7DSanto/BRA%7B%5C_%7DES%7B%5C_%7DVitoria.868300%7B%5C_%7DINMET.zip
+      \endverb
+    \endentry
     \entry{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018a}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=fb8bdd3fbafa352c3b2f7c626596783d}{%
@@ -1648,7 +3164,7 @@
       \strng{authorbibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \strng{authornamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{1}
@@ -1686,7 +3202,7 @@
       \strng{authorbibnamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \strng{authornamehash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{2}
@@ -1823,6 +3339,96 @@
       \verb https://www.imf.org/external/pubs/ft/weo/2009/01/pdf/text.pdf
       \endverb
     \endentry
+    \entry{PrefeituraMunicipaldeVitoria-PMV2018}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0dcd3a5336b4e6cfbc78bb4968ed7bd1}{%
+           family={{Prefeitura Municipal de Vit{ó}ria - PMV}},
+           familyi={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{fullhash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{bibnamehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{authorbibnamehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{authornamehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \strng{authorfullhash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O Plano Diretor Urbano (PDU) {é} uma lei municipal, aprovada pela C{â}mara de Vereadores, que define como deve ser o crescimento e o funcionamento da cidade, buscando garantir a qualidade de vida de seus moradores. Para isso, estabelece os objetivos e as regras para controlar esse processo, definindo as {á}reas de prote{ç}{ã}o ambiental, as {á}reas que podem ser ocupadas por novas constru{ç}{õ}es e os crit{é}rios para a instala{ç}{ã}o de atividades econ{ô}micas ou para grandes empreendimentos. O primeiro PDU de Vit{ó}ria foi institu{í}do em 1984. Periodicamente ele {é} atualizado. Em 2001, a aprova{ç}{ã}o do Estatuto da Cidade (Lei Federal 10.257) estabeleceu novos instrumentos de planejamento e controle do crescimento das cidades, que foram inclu{í}dos no atual PDU. {Ú}ltima atualiza{ç}{ã}o em 13/12/2018}
+      \field{booktitle}{2018-12-13}
+      \field{title}{{PDU - Plano Diretor Urbano}}
+      \field{urlday}{31}
+      \field{urlmonth}{12}
+      \field{urlyear}{2019}
+      \field{year}{2018}
+      \field{urldateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://www.vitoria.es.gov.br/prefeitura/plano-diretor-urbano
+      \endverb
+      \verb{url}
+      \verb https://www.vitoria.es.gov.br/prefeitura/plano-diretor-urbano
+      \endverb
+    \endentry
+    \entry{SCHULZE2018}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d74f2df5438bb553da91c9dc77267334}{%
+           family={SCHULZE},
+           familyi={S\bibinitperiod},
+           given={Tobias},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=212b6e8f0ef1ab97b3dc5fdf41840383}{%
+           family={G{Ü}RLICH},
+           familyi={G\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=74f08d583115fe0495d6632c56326b3c}{%
+           family={EICKER},
+           familyi={E\bibinitperiod},
+           given={Ursula.},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{41574819233faec3d74afc3858021ac1}
+      \strng{fullhash}{41574819233faec3d74afc3858021ac1}
+      \strng{bibnamehash}{41574819233faec3d74afc3858021ac1}
+      \strng{authorbibnamehash}{41574819233faec3d74afc3858021ac1}
+      \strng{authornamehash}{41574819233faec3d74afc3858021ac1}
+      \strng{authorfullhash}{41574819233faec3d74afc3858021ac1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Natural ventilation has the potential of achieving high ventilation rates for fresh air supply and summer cooling, although without the possibility of air to air heat recovery in winter. This study aims to compare the overall energetic efficiency and comfort provision of controlled natural ventilation in energy efficient offices and in the non-refurbished building stock with the related mechanically ventilated reference. The goal is to determine the energy savings for modern offices with low heating demand and higher summer cooling loads compared to existing office buildings, where heating loads dominate. To make sure that the simulation assumptions match the reality, the air-flow modelling of a single-sided ventilation strategy is validated by comparing it with results from tracer-gas measurements. Simulation results indicate that properly designed and controlled natural ventilation shows a good functionality in both state-of-the-art buildings and in the stock. In the moderate climate of Stuttgart/Germany no mechanical cooling is necessary. For state-of-the-art buildings ventilation energy losses in the heating season are easily compensated by lower cooling demand in the warm period of the year. In the building stock the conclusions are less clear, especially for densely occupied offices. Energy losses in the heating season can be compensated in the warm period, but primary energy savings are dependent on primary energy factors and hence how heat, cold and electricity are generated.}
+      \field{journaltitle}{Energy and Buildings}
+      \field{number}{1}
+      \field{title}{{Performance assessment of controlled natural ventilation for air quality control and passive cooling in existing and new office type buildings}}
+      \field{volume}{172}
+      \field{year}{2018}
+      \field{pages}{265\bibrangedash 278}
+      \range{pages}{14}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.enbuild.2018.03.023
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778818307400
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378778818307400
+      \endverb
+    \endentry
     \entry{Sorgato2018}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=e7a4c067304b4de550dd6527c920c947}{%
@@ -1912,7 +3518,7 @@
       \keyw{ARSP}
     \endentry
     \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2019}{book}{}
-      \name{author}{5}{}{%
+      \name{author}{5}{ul=2}{%
         {{un=0,uniquepart=base,hash=9c1dec0acda417acff08cb866a9d4c25}{%
            family={{American Society of Heating Refrigerating and Air-Conditioning Engineers - ASHRAE}},
            familyi={A\bibinitperiod}}}%
@@ -1935,12 +3541,13 @@
       \list{publisher}{1}{%
         {ASHRAE}%
       }
-      \strng{namehash}{903c3fd08d534103c97a46826bf15ff0}
+      \strng{namehash}{2f2e6f67daf6a0818d2f225ae272ba18}
       \strng{fullhash}{7b2215a22c281891b12a7e68712a5484}
-      \strng{bibnamehash}{903c3fd08d534103c97a46826bf15ff0}
-      \strng{authorbibnamehash}{903c3fd08d534103c97a46826bf15ff0}
-      \strng{authornamehash}{903c3fd08d534103c97a46826bf15ff0}
+      \strng{bibnamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authorbibnamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
+      \strng{authornamehash}{2f2e6f67daf6a0818d2f225ae272ba18}
       \strng{authorfullhash}{7b2215a22c281891b12a7e68712a5484}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -2038,6 +3645,40 @@
       \verb{file}
       \verb ::
       \endverb
+    \endentry
+    \entry{InstitutoBrasileirodeGeografiaeEstatistica-IBGE2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=d2740f53726c59d44a72846489d73a2b}{%
+           family={{Instituto Brasileiro de Geografia e Estat{í}stica - IBGE}},
+           familyi={I\bibinitperiod}}}%
+      }
+      \strng{namehash}{d2740f53726c59d44a72846489d73a2b}
+      \strng{fullhash}{d2740f53726c59d44a72846489d73a2b}
+      \strng{bibnamehash}{d2740f53726c59d44a72846489d73a2b}
+      \strng{authorbibnamehash}{d2740f53726c59d44a72846489d73a2b}
+      \strng{authornamehash}{d2740f53726c59d44a72846489d73a2b}
+      \strng{authorfullhash}{d2740f53726c59d44a72846489d73a2b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{{Panorama de Vit{ó}ria}}
+      \field{urlday}{17}
+      \field{urlmonth}{1}
+      \field{urlyear}{2019}
+      \field{year}{2019}
+      \field{urldateera}{ce}
+      \field{pages}{1}
+      \range{pages}{1}
+      \verb{urlraw}
+      \verb https://cidades.ibge.gov.br/brasil/es/vitoria/panorama
+      \endverb
+      \verb{url}
+      \verb https://cidades.ibge.gov.br/brasil/es/vitoria/panorama
+      \endverb
+      \keyw{dados socioeconomicos,espirito santo}
     \endentry
     \entry{InternationalEnergyAgency-IEA2019a}{report}{}
       \name{author}{1}{}{%
@@ -2154,6 +3795,134 @@
       \verb www.iea.org
       \endverb
       \keyw{buildings,cetp,climate change,cooling,energy efficiency}
+    \endentry
+    \entry{Kamal2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=cb109fd8f832df966bc6ade6ad35f1e4}{%
+           family={Kamal},
+           familyi={K\bibinitperiod},
+           given={Rajeev},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e39346193a1c26e4b737fa2266774528}{%
+           family={Moloney},
+           familyi={M\bibinitperiod},
+           given={Francesca},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18d5c73cc10d5569608e73c6af8ab01a}{%
+           family={Wickramaratne},
+           familyi={W\bibinitperiod},
+           given={Chatura},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e911d48d5a5ee7a7a8332fe18a281b46}{%
+           family={Narasimhan},
+           familyi={N\bibinitperiod},
+           given={Arunkumar},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd7a95eba5a3f6bc4feae3bca5bbbe93}{%
+           family={Goswami},
+           familyi={G\bibinitperiod},
+           given={D.\bibnamedelimi Y.},
+           giveni={D\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{1d78cb78f34cae88ab66988e0b93a101}
+      \strng{fullhash}{09e1d9c0a11b865c1f7e6bb43174104b}
+      \strng{bibnamehash}{1d78cb78f34cae88ab66988e0b93a101}
+      \strng{authorbibnamehash}{1d78cb78f34cae88ab66988e0b93a101}
+      \strng{authornamehash}{1d78cb78f34cae88ab66988e0b93a101}
+      \strng{authorfullhash}{09e1d9c0a11b865c1f7e6bb43174104b}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{An operational strategy to optimize building operating energy costs for suppliers and consumers is an important challenge for electrical power utilities. There are various supply-side measures that utilities have to take to ensure continuous energy supply for building heating and air-conditioning. During peak energy demand, utilities are often forced to use more expensive and less efficient generation, thereby increasing the cost of energy. However, some demand-side management practices behind the consumer meter can help in meeting this challenge. One such measure is the use of thermal storage for heating, ventilation, and air-conditioning applications in commercial buildings. There is a gap of adequate knowledge of an optimal control strategy of cold storage operation in buildings adapting to applicable time of day tariffs to minimize annual energy use and annual energy cost of operation. There is also a need to use commercially available tools to avoid the use of complex mathematical models. This study demonstrates strategic controls with six operating modes for using thermal energy storage to shift peak electricity demand, using the time of day tariffs as a decision variable, and reducing operating costs, while also minimizing the size of the system. EnergyPlus was used to model a standard reference large office building for three thermal energy storage system cases: mixed chilled water storage, stratified chilled water storage, and ice storage. An annual average shifting of 25–78{\%} of peak electricity was achieved from the simulation results. The strategy was able to achieve an annual 10–17{\%} cost reduction for consumers using the time of use rates available from a local utility.}
+      \field{issn}{03062619}
+      \field{journaltitle}{Applied Energy}
+      \field{month}{7}
+      \field{title}{{Strategic control and cost optimization of thermal energy storage in buildings using EnergyPlus}}
+      \field{volume}{246}
+      \field{year}{2019}
+      \field{pages}{77\bibrangedash 90}
+      \range{pages}{14}
+      \verb{doi}
+      \verb 10.1016/j.apenergy.2019.04.017
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Commercial building,Cool thermal energy storage,EnergyPlus,HVAC control,Peak demand savings}
+    \endentry
+    \entry{Shin2019}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=bc68d12e013e212b7695d33ea5ce1573}{%
+           family={Shin},
+           familyi={S\bibinitperiod},
+           given={Minjae},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=41f20b96386cb4b26fec5815bb118778}{%
+           family={Baltazar},
+           familyi={B\bibinitperiod},
+           given={Juan\bibnamedelima Carlos},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=db010226204026a7ae63c86e706f45d1}{%
+           family={Haberl},
+           familyi={H\bibinitperiod},
+           given={Jeff\bibnamedelima S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b717ab71e733d9e689be759f794eba1a}{%
+           family={Frazier},
+           familyi={F\bibinitperiod},
+           given={Edwin},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8465a74e869b7cfe4eb11e1cfba502de}{%
+           family={Lynn},
+           familyi={L\bibinitperiod},
+           given={Bobby},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Ltd}%
+      }
+      \strng{namehash}{f5381d1a52504d5df5f68237faecbe84}
+      \strng{fullhash}{328f7bfd3c5e31eb47cf099dd4eaaef7}
+      \strng{bibnamehash}{f5381d1a52504d5df5f68237faecbe84}
+      \strng{authorbibnamehash}{f5381d1a52504d5df5f68237faecbe84}
+      \strng{authornamehash}{f5381d1a52504d5df5f68237faecbe84}
+      \strng{authorfullhash}{328f7bfd3c5e31eb47cf099dd4eaaef7}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the past 20 years, the U.S. Army has made significant progress in making their facilities more energy efficient. Currently, the Army is required by law to eliminate fossil fuel use in new and renovated facilities by 2030 and to reduce overall facility energy usage 30{\%} by 2030. As part of this on-going energy efficiency effort, the U.S. Army has designed and constructed a Net Zero Energy Building (NZEB) at the Fort Hood army base in Texas, which is currently being tested as a prototype. In order to achieve net zero performance and reduce the energy demand, several low-energy building technologies were designed and built including high-efficiency heating, ventilation, and air conditioning (HVAC) system, a high-performance building envelope, energy efficient lighting and a solar PV system. This paper presents the results of an evaluation of the net zero energy performance of the office building at the Fort Hood army base using measured data. The analysis methods applied to the building include: an un-adjusted, measured energy use comparison of both portions of the building; a weather-normalized, change-point linear regression to estimate annual energy savings; and calibrated building energy simulations with thermostat schedules and occupancy conditions of both portions in the building. The results show savings of 37–50{\%} for the renovated portion of the building (i.e., NZEB) compared to the un-renovated portion depending on the method of analysis.}
+      \field{issn}{03787788}
+      \field{journaltitle}{Energy and Buildings}
+      \field{month}{12}
+      \field{title}{{Evaluation of the energy performance of a net zero energy building in a hot and humid climate}}
+      \field{volume}{204}
+      \field{year}{2019}
+      \verb{doi}
+      \verb 10.1016/j.enbuild.2019.109531
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{Building energy simulation,Net zero energy building (NZEB),Regression analysis,Solar photovoltaic (PV) system,Variable refrigerant flow (VRF) system}
     \endentry
     \entry{Sudhakar2019}{article}{}
       \name{author}{3}{}{%

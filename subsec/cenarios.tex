@@ -227,23 +227,27 @@
     exemplifica a utilização de um sistema BIPV para geração de energia solar fotovoltaica em uma região de 
     alta latitude, com a utilização de painéis posicionados horizontal e verticalmente \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2019,Pereira2017}.
     Dentre as tecnologias de células fotovoltaicas disponíveis no mercado, destacam-se as tecnologias de 
-    silício cristalino e filmes finos. As caraterísticas gerais desses componentes são apresentadas na Tabela 1.
+    silício cristalino e filmes finos. As caraterísticas gerais desses componentes são apresentadas na Tabela \ref{tab:tabela1}.
+    \begin{table}[ht]\centering
+        \caption{\small - Tecnologias de células fotovoltaicas.}
+        \vspace*{0.2cm}
+        \label{tab:tabela1}
+        \begin{tabular}{lcc}
+        \hline
+        \textbf{Tecnologia}                     & \textbf{Média anual total}    & \textbf{Área/kWp} \\ \hline
+        \multicolumn{3}{l||}{Silício cristalino}                                                    \\ \hline
+        Monocristalino                          & 20,67                         & ~8m²              \\ \hline
+        Policristalino                          & 29,00                         & ~7m²              \\ \hline
+        \multicolumn{3}{l||}{Filmes finos}                                                          \\ \hline
+        Silício amorfo (a-SI)                   & 76,92\%                       & ~15m²             \\ \hline
+        Telureto de cadmio (Cd-Te)              & 181,04                        & ~10m²             \\ \hline
+        Disseleno de cobre-índio-gálio (CIGS)   & 2,05                          & ~10m²             \\ \hline
+        \end{tabular}
+        \begin{flushleft}
+            \par \small Fonte: ARSP (2013).
+        \end{flushleft}
+    \end{table}\vspace*{-0.3cm}
 
-    %\begin{tabular}{\textwidth}{ccc}
-    %    \toprule
-    %    Tecnologia    & Eficiência & Área/kWp \\
-    %    \multicolumn{2}{c}{Silício cristalino} \\
-    %    \cmidrule
-    %    Monocristalino & 13\%-19\% & ~7 m² \\
-
-    %    \midrule
-        
-    %              &    each     & 0.01       \\
-    %    Gnu       & stuffed     & 92.50      \\
-    %    Emu       & stuffed     & 33.33      \\
-    %    Armadillo & frozen      & 8.99       \\
-    %    \bottomrule
-    %\end{tabular}
 \subsubsection{Legislação para a eficiência energética}
 As políticas adotadas internacionalmente demonstram a urgência na busca de soluções relacionadas 
 à mitigação do consumo de energia e redução de emissão de GEE, além de buscar, também, a redução 
@@ -255,7 +259,7 @@ O Departamento definiu como meta alcançar o balanço energético nulo em edific
 até 2020 e edificações comerciais até 2025. Novas edificações comerciais, a partir de 2015, deveriam 
 apresentar um plano de redução de energia desde sua concepção.\vspace{0.3cm} \newline
 No Brasil, desde outubro de 2003 o Programa Nacional de Eficiência Energética em Edificações – 
-PROCEL EDIFICA (BRASIL, 2001a, b) atua de forma conjunta com o poder público, privado e a comunidade 
+PROCEL EDIFICA \cite{Brasil2001,Brasil2001a} atua de forma conjunta com o poder público, privado e a comunidade 
 acadêmica para promover o uso racional da energia elétrica e recursos naturais em edificações. 
 Nesta pesquisa, este marco legal foi utilizado como critério temporal de seleção para as edificações 
 em Vitória concluídas após o início do programa, sendo então estabelecido o recorte temporal de 
@@ -265,7 +269,7 @@ substituindo a resolução precedente nº 482 de 2012, que trata sobre micro e m
 elétrica. Este conceito consiste em uma central geradora de energia elétrica que utilize fontes 
 renováveis, com potência instalada superior a 75 kW e/ou capacidade instalada menor que 3 MW, 
 classificado como mini geração; e potência instalada menor ou igual a 75 kW, classificado como 
-micro geração (AGÊNCIA..., 2015).\vspace{0.3cm} \newline
+micro geração \cite{AgenciaNacionaldeEnergiaEletricaANEEL2015}.\vspace{0.3cm} \newline
 Com a regulamentação de micro e mini geração em território nacional, foi viabilizada a geração de 
 energia descentralizada, característica importante para a coprodução de energia para uma edificação 
 com balanço energético nulo.\vspace{0.3cm} \newline
@@ -274,11 +278,11 @@ públicas ao Programa Brasileiro de Etiquetagem – PBE EDIFICA. Da mesma forma,
 relacionadas à eficiência energética e à certificações de edifícios de uso comercial e residencial, 
 denominados Instrução Normativa Inmetro para a Classe de Eficiência Energética de Edificações Comerciais, 
 de Serviços e Públicas, INI-C, e Instrução Normativa Inmetro para a Classe de Eficiência Energética 
-de Edificações Residenciais, INI-R (DALBEM et al., 2017; INSTITUTO..., 2018).\vspace{0.3cm} \newline
+de Edificações Residenciais, INI-R \cite{Dalbem2017,InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018}.\vspace{0.3cm} \newline
 Os níveis de eficiência estabelecidos pelo regulamento partem do mais eficiente, classificado como 
 “A”, para o menos eficiente, classificado como nível “E”. O regulamento classifica por meio de uma 
 etiqueta indicativa do nível de eficiência energética da envoltória da edificação, dos sistemas de 
-iluminação artificial e de condicionamento de ar (INSTITUTO..., 2018).\vspace{0.3cm} \newline
+iluminação artificial e de condicionamento de ar \cite{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018a}.\vspace{0.3cm} \newline
 Dada a abrangência de cenários do regulamento e a utilização de referências como normas nacionais 
 e internacionais para o desenvolvimento dos parâmetros de avaliação, o INI-C foi adotado como 
 ferramenta de qualificação da eficiência energética e otimização dos modelos genéricos apresentados 
