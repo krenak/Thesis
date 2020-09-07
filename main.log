@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  6 SEP 2020 22:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  6 SEP 2020 22:52
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
@@ -639,11 +639,7 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
- ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux"
-
-LaTeX Warning: Label `tab:tabela1' multiply defined.
-
-)
+ ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux")
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -1081,27 +1077,23 @@ Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 63.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 63.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 1C2E197EA0932C292DCA21EB6DBB9EAC;1707.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 63.
  ) 
 Here is how much of TeX's memory you used:
- 20501 strings out of 481212
- 373389 string characters out of 2905973
- 1149578 words of memory out of 3000000
- 35266 multiletter control sequences out of 15000+200000
+ 20502 strings out of 481212
+ 373402 string characters out of 2905973
+ 1149601 words of memory out of 3000000
+ 35267 multiletter control sequences out of 15000+200000
  579260 words of font info for 212 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,20n,65p,3804b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (53 pages, 3695530 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (53 pages, 3695707 bytes).
 PDF statistics:
- 1062 PDF objects out of 1200 (max. 8388607)
+ 1063 PDF objects out of 1200 (max. 8388607)
  180 named destinations out of 1000 (max. 500000)
  26877 words of extra memory for PDF output out of 29859 (max. 10000000)
 
