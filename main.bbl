@@ -469,6 +469,41 @@
       \endverb
       \keyw{2010,matriz energetica brasileira,matriz energ{é}tica}
     \endentry
+    \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2010}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c1dec0acda417acff08cb866a9d4c25}{%
+           family={{American Society of Heating Refrigerating and Air-Conditioning Engineers - ASHRAE}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Atlanta}%
+      }
+      \list{publisher}{1}{%
+        {American Society of Heating,   Refrigerating and Air­Conditioning Engineers, Inc.}%
+      }
+      \strng{namehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{fullhash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{bibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authorbibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authornamehash}{9c1dec0acda417acff08cb866a9d4c25}
+      \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{The American Society of Heating, Refrigerating and Air Conditioning Engineers (ASHRAE) is the world's foremost technical society in the fields of heating, ventilation, air conditioning, and refrigeration. Its 55,000 members worldwide are individuals who share ideas, identify the need for and support research, and write the industry's standards for testing and practice.}
+      \field{edition}{5a.}
+      \field{title}{{90.1 User's Manual: ANSI/ASHRAE/IES Standard 90.1-2010 - Energy Standard for Buildings Except Low-Rise Residential Buildings}}
+      \field{year}{2010}
+      \field{pages}{469}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{Liu2010}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6026405c5af9112230e8ff8bf18dd043}{%
@@ -1103,6 +1138,176 @@
       \verb https://ren.emnuvens.com.br/ren/article/download/368/316
       \endverb
       \keyw{Esp{í}rito Santo,desenvolvimento regional,indicadores de ci{ê}ncia,indicadores socioecon{ô}micos,tecnologia e inova{ç}{ã}o}
+    \endentry
+    \entry{Ramos2013}{report}{}
+      \name{author}{23}{}{%
+        {{un=0,uniquepart=base,hash=d7c0b71e96f0734ff4041540c964bcf1}{%
+           family={Ramos},
+           familyi={R\bibinitperiod},
+           given={Greici},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17e5b74cc5fca2cd3447de567b3d768f}{%
+           family={Lamberts},
+           familyi={L\bibinitperiod},
+           given={Roberto},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d39a292f771ae2bbc30dc582ec29cd30}{%
+           family={Fossati},
+           familyi={F\bibinitperiod},
+           given={Michele},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa44c82f18684ba1be0f61ebdd0f0312}{%
+           family={Prado},
+           familyi={P\bibinitperiod},
+           given={Gustavo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=24f78bedecaa7c2a14f542039fff2419}{%
+           family={Rovy},
+           familyi={R\bibinitperiod},
+           given={Fontes},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bec463654a1ad3b9948f2262d6e98f09}{%
+           family={Pessoa},
+           familyi={P\bibinitperiod},
+           given={Pinheiro},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=49970346ec8cb1ab26ab9fb07081fd02}{%
+           family={Neoenergia},
+           familyi={N\bibinitperiod},
+           given={Ferreira},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d4ca2129d21bce9333d1233e711ff947}{%
+           family={Christina},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c832581d1fb0dde181bffba0874c22da}{%
+           family={Mascarenhas},
+           familyi={M\bibinitperiod},
+           given={Romano},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=edc53d03cbc883203de3d3b2072d5234}{%
+           family={Queiroz},
+           familyi={Q\bibinitperiod},
+           given={Natalia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bde5ce3dde800d05ac2d34e63426b353}{%
+           family={{Vieira Gon{ç}alves De Souza}},
+           familyi={V\bibinitperiod},
+           given={Roberta},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d6f24bd2af82c5c1517b454111625cf4}{%
+           family={Papa},
+           familyi={P\bibinitperiod},
+           given={Renata\bibnamedelima Pietra},
+           giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=02505cf3eaa0cb20a88843f65cc9d68d}{%
+           family={Patr{í}cia},
+           familyi={P\bibinitperiod},
+           given={Carla},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8354b48de793f24f4c011570f99a273a}{%
+           family={Soares},
+           familyi={S\bibinitperiod},
+           given={Santos},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=36fb537b95e662976092c8c66b3c73bd}{%
+           family={Naves},
+           familyi={N\bibinitperiod},
+           given={Cl{á}udia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=679b698e4d939ca9adfced415c7ad0f4}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ecf739dab8bb6534163a476d1fe35386}{%
+           family={Frederico},
+           familyi={F\bibinitperiod},
+           given={Caio},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8093f3ab512630a6c346f12ba695c38e}{%
+           family={Milena},
+           familyi={M\bibinitperiod},
+           given={Silva},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7c2c4b4a61ac1242fcb681b76dda303a}{%
+           family={Cintra},
+           familyi={C\bibinitperiod},
+           given={Sampaio},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2ce997ce434074d8121e0f6cc8e25a4f}{%
+           family={Ceres},
+           familyi={C\bibinitperiod},
+           given={Ana},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=be9348926220bf407a9e92b562263328}{%
+           family={Sabino},
+           familyi={S\bibinitperiod},
+           given={Belmont},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a5e4d37e315d96e689bb1c445f1e010}{%
+           family={Dos},
+           familyi={D\bibinitperiod},
+           given={Marina},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0ce67fcb9d96c97978c0b5669d68af85}{%
+           family={Monteiro},
+           familyi={M\bibinitperiod},
+           given={Santos},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal de Santa Catarina}%
+      }
+      \list{location}{1}{%
+        {Florian{ó}polis}%
+      }
+      \strng{namehash}{86af9dd625bd4ae48760881f60c86940}
+      \strng{fullhash}{012be44dc4717bdd4c6fc7a2daaff7a1}
+      \strng{bibnamehash}{86af9dd625bd4ae48760881f60c86940}
+      \strng{authorbibnamehash}{86af9dd625bd4ae48760881f60c86940}
+      \strng{authornamehash}{86af9dd625bd4ae48760881f60c86940}
+      \strng{authorfullhash}{012be44dc4717bdd4c6fc7a2daaff7a1}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O Regulamento T{é}cnico da Qualidade do N{í}vel de Efici{ê}ncia Energ{é}tica de Edif{í}cios Comerciais, de Servi{ç}os e P{ú}blicos (RTQ-C) teve sua primeira vers{ã}o regulamentada pela Portaria INMETRO n.{º} 53, de 27 de fevereiro de 2009, posteriormente sucedida pela Portaria INMETRO n.{º} 163, de 08 de junho de 2009. Nele s{ã}o especificados os requisitos t{é}cnicos e os m{é}todos para classifica{ç}{ã}o de edif{í}cios comerciais, de servi{ç}os e p{ú}blicos quanto {à} efici{ê}ncia energ{é}tica, criando condi{ç}{õ}es para a Etiquetagem do n{í}vel de efici{ê}ncia energ{é}tica desta tipologia de edif{í}cios. Tr{ê}s requisitos principais s{ã}o avaliados: a envolt{ó}ria do edif{í}cio, o sistema de ilumina{ç}{ã}o e o sistema de condicionamento do ar.}
+      \field{title}{{Relat{ó}rio t{é}cnico do m{é}todo de avalia{ç}{ã}o do sistema de ilumina{ç}{ã}o do RTQ-C}}
+      \field{type}{techreport}
+      \field{year}{2013}
+      \field{pages}{19}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{RTQ-C}
     \endentry
     \entry{Abramovay2014}{article}{}
       \name{author}{1}{}{%
@@ -2259,7 +2464,7 @@
       \strng{authorbibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
       \strng{authornamehash}{9c1dec0acda417acff08cb866a9d4c25}
       \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
-      \field{extraname}{1}
+      \field{extraname}{2}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{1}
@@ -2297,7 +2502,7 @@
       \strng{authorbibnamehash}{9c1dec0acda417acff08cb866a9d4c25}
       \strng{authornamehash}{9c1dec0acda417acff08cb866a9d4c25}
       \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
-      \field{extraname}{2}
+      \field{extraname}{3}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradate}{2}
@@ -2922,6 +3127,71 @@
       \verb{url}
       \verb http://hdl.handle.net/1843/BUOS-ASFEMQ
       \endverb
+    \endentry
+    \entry{Werneck2017}{inproceedings}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=daeb200f05d3db635f5a83ce6d683275}{%
+           family={Werneck},
+           familyi={W\bibinitperiod},
+           given={Daniela},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a94956ad3d0ff2b06999df6364b5e9d}{%
+           family={Costa},
+           familyi={C\bibinitperiod},
+           given={Jo{ã}o},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5c673faa0ee65585138d3ebea1bb7039}{%
+           family={Aguiar},
+           familyi={A\bibinitperiod},
+           given={Jo{ã}o},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1fd9504fd35790c561a95941dbe87639}{%
+           family={Sousa},
+           familyi={S\bibinitperiod},
+           given={Nat{á}lia},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7d99736462230d0d0306e7fc9396ce0f}{%
+           family={Lopes},
+           familyi={L\bibinitperiod},
+           given={Adriano},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4591d9357643c7f89915372f81aadfb8}{%
+           family={Amorim},
+           familyi={A\bibinitperiod},
+           given={Claudia},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Edinburgo}%
+      }
+      \strng{namehash}{fe741b1087530949b994feb94a2b2edb}
+      \strng{fullhash}{38aaf04d5b8a1ea407d0942d13abdde8}
+      \strng{bibnamehash}{fe741b1087530949b994feb94a2b2edb}
+      \strng{authorbibnamehash}{fe741b1087530949b994feb94a2b2edb}
+      \strng{authornamehash}{fe741b1087530949b994feb94a2b2edb}
+      \strng{authorfullhash}{38aaf04d5b8a1ea407d0942d13abdde8}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{With the commitment to improve the energy efficiency in office buildings and to reduce electric energy demand, many directives and goals were made to create zero energy buildings. According to International Energy Agency (2013), pilot projects could reduce energy consumption up to 60{\%} in lighting, 20{\%} in cooling and 26{\%} of the total electric energy consumption during peak hours. Studies made by Cronemberger (2012) pointed out that Brasilia showed high potential to generate electric energy through photovoltaic panels. Therefore, Chico Mendes Institute in Brasilia was chosen and the main purpose was to identify the potential of this office building to become a ZEB building. The research method consisted of on-site visits, energy consumption data and architectural and technical drawings analysis. After this step, thermal, energy and dynamic daylight simulations were made utilizing Energy Plus through Open Studio and Daysim to identify which of the passive strategies were effective in reducing energy consumption for cooling and lighting. The results showed a reduction up to 48{\%} of the total annual energy consumption if natural ventilation, thermal insulation and efficient shading devices were added in the existing building and could become a ZEB building after a retrofit process.}
+      \field{booktitle}{Passive and Low Energy Architecture 2017 - Design to Thrive}
+      \field{title}{{Studies on energy performance utilizing computer simulations towards a ZEB building: a case study in Chico Mendes Institute in Brasilia}}
+      \field{year}{2017}
+      \field{pages}{2720\bibrangedash 2727}
+      \range{pages}{8}
+      \verb{file}
+      \verb ::
+      \endverb
+      \keyw{NZEB,computer simulation,energy consumption,retrofit}
     \endentry
     \entry{AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2018}{report}{}
       \name{author}{1}{}{%

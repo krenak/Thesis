@@ -33,6 +33,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.4}Caracterização climática e socioeconômica da cidade de Vitória}{34}{subsection.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Caracterização da tipologia de referência}{36}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.5}Caracterização da tipologia de referência}{35}{subsection.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Metodologia}{38}{section.3}%
+\contentsline {section}{\numberline {3}Metodologia}{37}{section.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Levantamento das características dos edifícios de escritório de Vitória}{38}{subsection.3.1}%
