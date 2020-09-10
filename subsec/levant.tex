@@ -57,3 +57,102 @@ posteriormente, determinar os parâmetros de otimização e do consumo energéti
 aproximado para um edifício de escritório. Além disso, a quantidade de simulações necessárias 
 para determinar o consumo de energia dos modelos genéricos é identificada por meio da 
 organização dos dados coletados em campo e, assim, a resultante do número de variáveis.
+
+\subsubsection{Consumo de energia elétrica das edificações}
+O consumo de energia elétrica em edificações de escritório no Brasil é determinado 
+principalmente por sua tipologia. As configurações predominantes no Brasil compreendem, em 
+sua maioria, pequenas edificações, abaixo de 8 pavimentos, a edifícios grandes, acima de 
+15 pavimentos \cite{Carlo2008,Ramos2013,ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015,Fonseca2016}.\vspace*{0.3cm} \newline
+Correlacionado às tipologias arquitetônicas, os dados de consumo de energia, expressos em 
+Intensidade de Uso de Energia – IUE, kWh/m²/ano, foram necessários para validação das 
+simulações iniciais quanto ao consumo de energia esperado dos modelos. Visto que a calibração 
+dos modelos genéricos não foi possível, pois eles não dispunham de memorial de massa como 
+ferramenta de comparação ao consumo simulado computacionalmente, foram adotados como método 
+de comparação os valores médios registrados no Relatório Final do CBCS (2015), como mostra o 
+Histograma na Figura \ref{fig:figura9}. Foi relacionado o consumo de energia das edificações levantadas à 
+frequência de ocorrência da quantidade de pavimentos de edificações comerciais brasileiras e 
+suas respectivas áreas comuns.
+\begin{figure}[ht]
+    \centering
+    \caption{\small Consumo energético em edificações de escritório brasileiras.}
+    \includegraphics[width=0.85\textwidth]{figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png}
+    \begin{flushleft}
+        \par \small Fonte: adaptado de CBCS (2015).
+    \end{flushleft}
+    \label{fig:figura9}
+ \end{figure}
+
+\noindent Logo, os dados de IUE adotados para a comparação e avaliação inicial do consumo energético dos 
+modelos foram baseados nos valores máximo e mínimo estabelecidos pelo CBCS (2015). A média 
+entre o consumo em áreas comuns e total relacionado à frequência de quantidade de pavimentos 
+define a quantidade total de consumo de energia para cada tipologia.\vspace*{0.3cm} \newline
+Os autores do Relatório atribuem 133 kWh/m²/ano aos edifícios de pequeno porte, e 
+268 kWh/m²/ano às edificações de grande porte. Vale ressaltar que os dados de consumo 
+energético, assim como a média apontada no Relatório, de 191 kWh/m²/ano, desprezam as 
+distorções causadas por edificações com particularidades de consumo como datacenters ou erros 
+de cálculo de área útil.\vspace*{0.3cm} \newline
+Ao estabelecer as Intensidades de Uso de Energia equivalentes a cada modelo, assim como os 
+padrões de uso e ocupação, pode-se estimar o consumo de energia durante determinado período.
+
+\subsubsection{Padrões de uso e ocupação em edifícios de escritório}
+Os padrões de uso e ocupação da edificação foram baseados em normas, regulamentos, relatórios 
+técnicos e referências acadêmicas que consideraram os níveis de atividades desenvolvidas nos 
+ambientes, tratadas neste trabalho como zonas térmicas, como apresentado na Tabela \ref{tab:tabela5}.\vspace*{0.3cm} \newline
+Como o intuito do trabalho foi criar modelos genéricos que representassem minimamente o 
+cenário encontrado na cidade de Vitória, as características de uso e ocupação escolhidas 
+foram integradas como forma de aproximar as tipologias ao cenário observado. Dentre elas, 
+pode-se citar:
+\begin{itemize}
+    \item O nível metabólico apresentado em atividades de escritório;
+    \item O horário de funcionamento dos escritórios, determinando os intervalos de tempo de ocupação total e parcial, onde, respectivamente, a capacidade máxima e parcial de ocupação das zonas térmicas é atingida;
+    \item A densidade de pessoas por metro quadrado para cada zona térmica;
+    \item A temperatura de conforto em cada zona térmica, de acordo com as normas de conforto térmico consultadas; e
+    \item A umidade relativa do ar nos ambientes de escritório.
+\end{itemize}
+
+\noindent A obtenção dos dados acerca da atividade desempenhada nas edificações de escritório, além do 
+horário de funcionamento e densidade de ocupação serão utilizados para estimar o consumo de 
+energia elétrica do espaço utilizado por meio de simulação computacional.
+\begin{table}[ht]\centering
+    \caption{\small Padrões de uso e ocupação}
+    \vspace*{0.5cm}
+    \label{tab:tabela5}
+    \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lll}
+        \hline
+        \textbf{Parâmetro}                                & \textbf{Descrição} & \textbf{Referências} \\ \hline
+        Atividades                                        &                    & \makecell[l]{As salas de escritório da cidade\\
+                                                                                são utilizadas, em sua maioria,\\ para 
+                                                                                atividades especializadas de\\ âmbito 
+                                                                                jurídico, relacionadas à \\construção 
+                                                                                civil, a saúde e atividades\\ financeiras.} \\ \hline
+        Horário de funcionamento                          &                    & \makecell[l]{Segundo normas e pesquisas\\ 
+                                                                                sobre o horário de funcioname-\\nto de 
+                                                                                escritórios, o início da ocupação\\ se 
+                                                                                dá às 6h e pode se estender até\\ às 24h. 
+                                                                                Entretanto, visando a aproxima-\\ção às 
+                                                                                condições praticadas no mercado\\ brasileiro, 
+                                                                                adota-se a redução de ocupação\\ durante o 
+                                                                                horário de almoço, denominada\\ ocupação parcial.}  \\ \hline
+        \multicolumn{3}{c}{Continua}\\\hline
+    \end{tabular*}
+\end{table}\pagebreak
+\begin{table}[ht]\centering
+        \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lll}
+        \hline
+        \multicolumn{3}{c}{Conclusão}\\\hline
+        Densidade de ocupação                             & 0,14 pessoas/m²    & \makecell[l]{(CONSELHO BRASILEIRO\\ DE CONSTRUÇÃO 
+                                                                                SUSTENTÁVEL -\\ CBCS, 2015; LAMBERTS; 
+                                                                                GHISI; RAMOS,\\ 2006; MORAES; PEREIRA, 2014).} \\ \hline
+        Temperatura de controle                           & 24°C               & \makecell[l]{Temperatura limite de\\ acionamento
+                                                                                do sistema de condicionamento\\ de ar (ASHRAE, 
+                                                                                2010, 2017a;\\ INMETRO, 2010a).} \\ \hline
+        \makecell[l]{Nível de iluminância\\ de referência}& 500 lux            & \makecell[l]{Iluminância mínima (entorno\\ de 
+                                                                                trabalho) para atividades\\ visuais 
+                                                                                (ASHRAE, 2010;\\ ABNT, 2013).} \\ \hline
+        \makecell[l]{Umidade Relativa\\ Interna}          & 40\%-60\%          & \makecell[l]{Faixa recomentada pela\\
+                                                                                ASHRAE 55 (2017a).}\\ \hline
+    \end{tabular*}
+    \begin{flushleft}
+        \par \small Fonte: autor (2019).
+    \end{flushleft}
+\end{table}\newline

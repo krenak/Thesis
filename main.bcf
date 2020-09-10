@@ -2476,6 +2476,10 @@
     <bcf:citekey order="140">Fonseca2016</bcf:citekey>
     <bcf:citekey order="140">Werneck2017</bcf:citekey>
     <bcf:citekey order="140">InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018</bcf:citekey>
+    <bcf:citekey order="141">Carlo2008</bcf:citekey>
+    <bcf:citekey order="141">Ramos2013</bcf:citekey>
+    <bcf:citekey order="141">ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015</bcf:citekey>
+    <bcf:citekey order="141">Fonseca2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

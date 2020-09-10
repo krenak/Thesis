@@ -344,6 +344,41 @@
       \endverb
       \keyw{commercial building,low-energy building,zeb,zero energy building}
     \endentry
+    \entry{Carlo2008}{thesis}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72206679bb15764fe827db96b6e7b4bc}{%
+           family={Carlo},
+           familyi={C\bibinitperiod},
+           given={Joyce\bibnamedelima Correna},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{institution}{1}{%
+        {Universidade Federal de Santa Catarina}%
+      }
+      \strng{namehash}{72206679bb15764fe827db96b6e7b4bc}
+      \strng{fullhash}{72206679bb15764fe827db96b6e7b4bc}
+      \strng{bibnamehash}{72206679bb15764fe827db96b6e7b4bc}
+      \strng{authorbibnamehash}{72206679bb15764fe827db96b6e7b4bc}
+      \strng{authornamehash}{72206679bb15764fe827db96b6e7b4bc}
+      \strng{authorfullhash}{72206679bb15764fe827db96b6e7b4bc}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{O racionamento de energia ocorrido em 2001 foi o marco para promulga{ç}{ã}o da chamada lei de efici{ê}ncia energ{é}tica, a Lei no 10295 que disp{õ}e sobre a Pol{í}tica Nacional de Conserva{ç}{ã}o e Uso Racional de Energia. Ela foi regulamentada pelo Decreto no 4059 de 19 de dezembro de 2001 que estabeleceu que deveriam ser criados par{â}metros referenciais para a efici{ê}ncia energ{é}tica em edifica{ç}{õ}es, com “indicadores t{é}cnicos e regulamenta{ç}{ã}o espec{í}fica” para estabelecer a obrigatoriedade dos n{í}veis de efici{ê}ncia no pa{í}s. O decreto tamb{é}m criou o “Grupo T{é}cnico para Eficientiza{ç}{ã}o de Energia nas Edifica{ç}{õ}es no Pa{í}s” para propor uma forma de regulamentar as edifica{ç}{õ}es constru{í}das no Brasil visando o uso racional da energia el{é}trica. Em face destas condicionantes, esta tese tem por objetivo elaborar metodologia de avalia{ç}{ã}o da efici{ê}ncia energ{é}tica do envolt{ó}rio de edifica{ç}{õ}es comerciais e institucionais.}
+      \field{bookpagination}{sheet}
+      \field{title}{{Desenvolvimento de Metodologia de Avalia{ç}{ã}o da Efici{ê}ncia Energ{é}tica do Envolt{ó}rio de Edifica{ç}{õ}es N{ã}o-residenciais}}
+      \field{type}{phdthesis}
+      \field{year}{2008}
+      \field{pages}{215}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
     \entry{Amarante2009}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6d606def5505527d59d30100fe7df406}{%
