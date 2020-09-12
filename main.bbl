@@ -215,6 +215,7 @@
       \strng{authorbibnamehash}{36c09e886ddb573505393a7d19be5c31}
       \strng{authornamehash}{36c09e886ddb573505393a7d19be5c31}
       \strng{authorfullhash}{36c09e886ddb573505393a7d19be5c31}
+      \field{extraname}{1}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{extradatescope}{labelyear}
@@ -1126,6 +1127,47 @@
       \endverb
       \keyw{Energia Solar,Energias renov{á}veis,Esp{í}rito Santo,Fotovoltaica,Micro e Minigera{ç}{ã}o}
     \endentry
+    \entry{AssociacaoBrasileiradeNormasTecnicas-ABNT2013}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=36c09e886ddb573505393a7d19be5c31}{%
+           family={{Associa{ç}{ã}o\bibnamedelimb Brasileira\bibnamedelimb de\bibnamedelimb Normas\bibnamedelimb T{é}cnicas\bibnamedelimb -\bibnamedelimb ABNT}},
+           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim T\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {ABNT}%
+      }
+      \strng{namehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{fullhash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{bibnamehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{authorbibnamehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{authornamehash}{36c09e886ddb573505393a7d19be5c31}
+      \strng{authorfullhash}{36c09e886ddb573505393a7d19be5c31}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{A Associa{ç}{ã}o Brasileira de Normas T{é}cnicas (ABNT) {é} o Foro Nacional de Normaliza{ç}{ã}o. As Normas Brasileiras, cujo conte{ú}do {é} de responsabilidade dos Comit{ê}s Brasileiros (ABNT/CB), dos Organismos de Normaliza{ç}{ã}o Setorial (ABNT/ONS) e das Comiss{õ}es de Estudo Especiais (ABNT/CEE), s{ã}o elaboradas por Comiss{õ}es de Estudo (CE), formadas por representantes dos setores envolvidos, delas fazendo parte: produtores, consumidores e neutros (universidades, laborat{ó}rios e outros). Esta Norma {é} uma ado{ç}{ã}o id{ê}ntica, em conte{ú}do t{é}cnico, estrutura e reda{ç}{ã}o, {à} ISO/CIE 8995-1:2002 e Cor 1:2005, que foi elaborada conjuntamente pelo CIE-TC 3-21 e ISO/TC 159, Technical Committee Ergonomics, Subcommittee SC 5, Ergonomics of the Physical Environment, conforme ISO/IEC Guide 21-1:2005.}
+      \field{title}{{NBR ISO/CIE 8995-1: Ilumina{ç}{ã}o de ambientes de trabalho - Parte 1: Interior}}
+      \field{year}{2013}
+      \field{pages}{54}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 978-85-07-04141-2
+      \endverb
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb www.abnt.org.br
+      \endverb
+      \verb{url}
+      \verb www.abnt.org.br
+      \endverb
+      \keyw{Utilize o sistema para acessar a vers{ã}o atualizada}
+    \endentry
     \entry{Cacador2013}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6c26d857cc4aa181eb2ac812d59f9155}{%
@@ -1916,6 +1958,49 @@
       \verb{file}
       \verb ::
       \endverb
+    \endentry
+    \entry{CentroBrasileirodeEficienciaEnergeticaemEdificacoesCB3E2015}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=d090f7e819fa157871881f055fa58037}{%
+           family={{Centro\bibnamedelimb Brasileiro\bibnamedelimb de\bibnamedelimb Efici{ê}ncia\bibnamedelimb Energ{é}tica\bibnamedelimb em\bibnamedelimb Edifica{ç}{õ}es\bibnamedelimb –\bibnamedelimb CB3E}},
+           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+        {{un=0,uniquepart=base,hash=9dea6ba63d82c20337021d06279f99c9}{%
+           family={{Associa{ç}{ã}o\bibnamedelimb T{é}cnica\bibnamedelimb Brasileira\bibnamedelimb das\bibnamedelimb Ind{ú}strias\bibnamedelimb Autom{á}ticas\bibnamedelimb de\bibnamedelimb Vidro\bibnamedelimb –\bibnamedelimb ABIVIDRO}},
+           familyi={A\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim A\bibinithyphendelim  \bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Florian{ó}polis}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Federal de Santa Catarina - UFSC}%
+      }
+      \strng{namehash}{fa8fb602813199ea9e362febd58ce63f}
+      \strng{fullhash}{fa8fb602813199ea9e362febd58ce63f}
+      \strng{bibnamehash}{fa8fb602813199ea9e362febd58ce63f}
+      \strng{authorbibnamehash}{fa8fb602813199ea9e362febd58ce63f}
+      \strng{authornamehash}{fa8fb602813199ea9e362febd58ce63f}
+      \strng{authorfullhash}{fa8fb602813199ea9e362febd58ce63f}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Este documento foi desenvolvido a partir das discuss{õ}es realizadas durante o ano de 2013 dentro Subgrupo 6 – Vidros e esquadrias, no {â}mbito da CT (comiss{ã}o t{é}cnica) definida pelo Inmetro. As ATAs com o registro do conte{ú}do das reuni{õ}es dos subgrupos est{ã}o dispon{í}veis para acesso p{ú}blico no endere{ç}o eletr{ô}nico: www.pbeedifica.com.br}
+      \field{title}{{CAT{Á}LOGO DE PROPRIEDADES T{É}RMICAS E {Ó}TICAS DE VIDROS COMERCIALIZADOS NO BRASIL}}
+      \field{year}{2015}
+      \field{pages}{7}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+      \verb{urlraw}
+      \verb http://www.cb3e.ufsc.brhttp//www.eletrobras.gov.br/procelhttp://www.eletrobras.gov.brhttp://www.inmetro.gov.br
+      \endverb
+      \verb{url}
+      \verb http://www.cb3e.ufsc.brhttp//www.eletrobras.gov.br/procelhttp://www.eletrobras.gov.brhttp://www.inmetro.gov.br
+      \endverb
+      \keyw{eficiencia energetica,transmitancia,vidro}
     \endentry
     \entry{ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015}{report}{}
       \name{author}{1}{}{%

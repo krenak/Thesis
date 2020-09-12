@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  10 SEP 2020 20:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  11 SEP 2020 16:13
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
@@ -975,69 +975,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--15
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [8] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/intro.tex" [9] [10]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/question.tex") ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/objetivos.tex" [11]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/referencial.tex" ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/introzeb.tex" [12] [13] [14] [15] [16]
-<figures/esquema_kurnitski _2011.png, id=448, 529.98pt x 362.5545pt>
+ [8] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/intro.tex" [9] [10]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/question.tex") ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/objetivos.tex" [11]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/referencial.tex" ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/introzeb.tex" [12] [13] [14]
+<figures/esquema_kurnitski _2011.png, id=444, 529.98pt x 362.5545pt>
 File: figures/esquema_kurnitski _2011.png Graphic file (type png)
 <use figures/esquema_kurnitski _2011.png>
-Package pdftex.def Info: figures/esquema_kurnitski _2011.png  used on input line 119.
+Package pdftex.def Info: figures/esquema_kurnitski _2011.png  used on input line 118.
 (pdftex.def)             Requested size: 386.96027pt x 264.71791pt.
-<figures/esquema_iea_2014-2.png, id=453, 201.75375pt x 237.88875pt>
+<figures/esquema_iea_2014-2.png, id=449, 201.75375pt x 237.88875pt>
 File: figures/esquema_iea_2014-2.png Graphic file (type png)
 <use figures/esquema_iea_2014-2.png>
-Package pdftex.def Info: figures/esquema_iea_2014-2.png  used on input line 145.
+Package pdftex.def Info: figures/esquema_iea_2014-2.png  used on input line 135.
 (pdftex.def)             Requested size: 136.57462pt x 161.03622pt.
-) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/cenarios.tex"
-<graphs/graph1.png, id=468, 549.85425pt x 277.035pt>
+) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/cenarios.tex" [15] [16 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_kurnitski _2011.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_iea_2014-2.png>]
+<graphs/graph1.png, id=481, 549.85425pt x 277.035pt>
 File: graphs/graph1.png Graphic file (type png)
 <use graphs/graph1.png>
 Package pdftex.def Info: graphs/graph1.png  used on input line 31.
 (pdftex.def)             Requested size: 318.66948pt x 160.55782pt.
- [17 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_kurnitski _2011.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_iea_2014-2.png>] [18]
-<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=511, 802.79926pt x 421.575pt>
+ [17]
+<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=515, 802.79926pt x 421.575pt>
 File: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png Graphic file (type png)
 <use graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>
 Package pdftex.def Info: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png  used on input line 79.
 (pdftex.def)             Requested size: 364.19667pt x 191.25084pt.
- [19 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph1.png>] [20 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>]
-<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=538, 540.8205pt x 341.47575pt>
+ [18 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph1.png>] [19 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>]
+<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=541, 540.8205pt x 341.47575pt>
 File: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png Graphic file (type png)
 <use graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>
 Package pdftex.def Info: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png  used on input line 97.
 (pdftex.def)             Requested size: 318.66948pt x 201.20842pt.
- [21 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>]
-<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=564, 461.3235pt x 509.5035pt>
+ [20 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>]
+<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=568, 461.3235pt x 509.5035pt>
 File: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png Graphic file (type png)
 <use figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>
 Package pdftex.def Info: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png  used on input line 120.
 (pdftex.def)             Requested size: 409.71692pt x 452.51598pt.
-<figures/fig4-mapa2.png, id=570, 401.0985pt x 399.894pt>
+<figures/fig4-mapa2.png, id=574, 401.0985pt x 399.894pt>
 File: figures/fig4-mapa2.png Graphic file (type png)
 <use figures/fig4-mapa2.png>
 Package pdftex.def Info: figures/fig4-mapa2.png  used on input line 141.
 (pdftex.def)             Requested size: 386.96027pt x 385.79765pt.
- [22 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>]
-<figures/fig5-mapa3.jpg, id=585, 447.1104pt x 651.8754pt>
+ [21 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>]
+<figures/fig5-mapa3.jpg, id=589, 447.1104pt x 651.8754pt>
 File: figures/fig5-mapa3.jpg Graphic file (type jpg)
 <use figures/fig5-mapa3.jpg>
 Package pdftex.def Info: figures/fig5-mapa3.jpg  used on input line 164.
 (pdftex.def)             Requested size: 250.38564pt x 365.06763pt.
- [23 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig4-mapa2.png>] [24 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig5-mapa3.jpg>]
-<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=604, 513.117pt x 383.031pt>
+ [22 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig4-mapa2.png>] [23 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig5-mapa3.jpg>]
+<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=608, 513.117pt x 383.031pt>
 File: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png Graphic file (type png)
 <use figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>
 Package pdftex.def Info: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png  used on input line 186.
 (pdftex.def)             Requested size: 455.24411pt x 339.84448pt.
-<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=618, 536.0025pt x 478.78876pt>
+<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=622, 536.0025pt x 478.78876pt>
 File: figures/fig7_BIPV_ASHRAE_ZEB_2019.png Graphic file (type png)
 <use figures/fig7_BIPV_ASHRAE_ZEB_2019.png>
 Package pdftex.def Info: figures/fig7_BIPV_ASHRAE_ZEB_2019.png  used on input line 211.
 (pdftex.def)             Requested size: 341.43307pt x 304.98453pt.
- [25 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>] [26 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig7_BIPV_ASHRAE_ZEB_2019.png>] [27] [28]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/conceitos.tex" ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/param.tex" [29]
+ [24 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>] [25 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig7_BIPV_ASHRAE_ZEB_2019.png>] [26] [27]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/conceitos.tex" ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/param.tex" [28]
 Overfull \hbox (4.10095pt too wide) in paragraph at lines 29--41
 \OT1/bch/m/n/12 (-20) Contudo, a ventila[][]ao h[]brida n[]ao foi ob-ser-vada como solu[][]ao cor-rente en-tre as edifica[][]oes
  []
 
-) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/passivas.tex" [30] [31]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/ativas.tex" [32] [33] [34]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/clima.tex" [35]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/tipol.tex"
+) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/passivas.tex" [29] [30]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/ativas.tex" [31] [32] [33]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/clima.tex" [34]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/tipol.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []|\OT1/bch/m/n/12 (+20) Raz[]ao en-tre as []areas de aber-tura
  []
@@ -1052,8 +1052,8 @@ Overfull \hbox (11.92172pt too wide) in paragraph at lines 53--64
 [][] 
  []
 
-)) [36] [37]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/metodo.tex" [38]
-<figures/fig8_Fluxogramas_1.jpg, id=885, 1122.44344pt x 380.17032pt>
+)) [35] [36]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/metodo.tex" [37]
+<figures/fig8_Fluxogramas_1.jpg, id=888, 1122.44344pt x 380.17032pt>
 File: figures/fig8_Fluxogramas_1.jpg Graphic file (type jpg)
 <use figures/fig8_Fluxogramas_1.jpg>
 Package pdftex.def Info: figures/fig8_Fluxogramas_1.jpg  used on input line 33.
@@ -1063,13 +1063,13 @@ Overfull \hbox (0.86874pt too wide) in paragraph at lines 2--53
 \OT1/bch/m/n/12 (-20) Foram con-si-de-ra-dos para o le-van-ta-mento atri-bu-tos como ga-ba-rito, n[]umero de pavimentos-
  []
 
-[39 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig8_Fluxogramas_1.jpg>] [40]
-<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=931, 551.05875pt x 350.5095pt>
+[38 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig8_Fluxogramas_1.jpg>] [39]
+<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=935, 551.05875pt x 350.5095pt>
 File: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png Graphic file (type png)
 <use figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>
 Package pdftex.def Info: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png  used on input line 78.
 (pdftex.def)             Requested size: 386.96027pt x 246.14119pt.
- [41] [42 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>]
+ [40] [41 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>]
 Overfull \hbox (26.13544pt too wide) in alignment at lines 140--154
 [] [] [] 
  []
@@ -1079,26 +1079,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--1
 
  []
 
-[43] [44] [45]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/niveis.tex" [46] [47]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/defmodelos.tex"
-<figures/fig10_Fluxogramas-2.jpg, id=968, 834.11626pt x 639.13782pt>
+[42] [43] [44]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/niveis.tex" [45] [46]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/defmodelos.tex" [47]
+<figures/fig10_Fluxogramas-2.jpg, id=1015, 834.11626pt x 639.13782pt>
 File: figures/fig10_Fluxogramas-2.jpg Graphic file (type jpg)
 <use figures/fig10_Fluxogramas-2.jpg>
 Package pdftex.def Info: figures/fig10_Fluxogramas-2.jpg  used on input line 28.
-(pdftex.def)             Requested size: 409.71692pt x 313.95071pt.
- [48]
-<figures/fig11_8-19-2pav.png, id=974, 1580.90625pt x 1327.96124pt>
+(pdftex.def)             Requested size: 45.52718pt x 34.88449pt.
+<figures/fig11_8-19-2pav.png, id=1017, 1580.90625pt x 1327.96124pt>
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
 Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 41.
-(pdftex.def)             Requested size: 432.48051pt x 363.27562pt.
-)) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resultados.tex") [49 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig10_Fluxogramas-2.jpg>]
+(pdftex.def)             Requested size: 45.52718pt x 38.23633pt.
+<figures/fig12-base_torre-1.png, id=1026, 1580.90625pt x 1327.96124pt>
+File: figures/fig12-base_torre-1.png Graphic file (type png)
+<use figures/fig12-base_torre-1.png>
+Package pdftex.def Info: figures/fig12-base_torre-1.png  used on input line 103.
+(pdftex.def)             Requested size: 273.14923pt x 229.4383pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 35--43
+
+ []
+
+[48 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig10_Fluxogramas-2.jpg>] [49 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig11_8-19-2pav.png>]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resultados.tex") [50 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig12-base_torre-1.png>]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [50 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig11_8-19-2pav.png>] [51] [52] [53] [54] [55] [56]
+ [51] [52] [53] [54] [55] [56] [57]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 63.
- [57]
+ [58]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 63.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 63.
@@ -1111,17 +1120,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 63.
  ) 
 Here is how much of TeX's memory you used:
- 20582 strings out of 481212
- 375750 string characters out of 2905973
- 1149702 words of memory out of 3000000
- 35309 multiletter control sequences out of 15000+200000
- 579260 words of font info for 212 fonts, out of 3000000 for 9000
+ 20624 strings out of 481212
+ 376830 string characters out of 2905973
+ 1159374 words of memory out of 3000000
+ 35341 multiletter control sequences out of 15000+200000
+ 579508 words of font info for 214 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,20n,65p,3804b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (62 pages, 5509226 bytes).
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (63 pages, 6490944 bytes).
 PDF statistics:
- 1184 PDF objects out of 1200 (max. 8388607)
- 206 named destinations out of 1000 (max. 500000)
- 26980 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 1258 PDF objects out of 1440 (max. 8388607)
+ 212 named destinations out of 1000 (max. 500000)
+ 26985 words of extra memory for PDF output out of 29859 (max. 10000000)
 
