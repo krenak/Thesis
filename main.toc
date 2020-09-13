@@ -19,44 +19,44 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {2.2.1}Potencial de geração de energia solar no Brasil e no Espírito Santo}{20}{subsubsection.2.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.2}Energia solar fotovoltaica}{24}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.2}Energia solar fotovoltaica}{21}{subsubsection.2.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.2.3}Legislação para a eficiência energética}{26}{subsubsection.2.2.3}%
+\contentsline {subsubsection}{\numberline {2.2.3}Legislação para a eficiência energética}{23}{subsubsection.2.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3}Conceitos para a avaliação termoenergética}{28}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3}Conceitos para a avaliação termoenergética}{24}{subsection.2.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.1}Parâmetros de conforto térmico}{28}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.1}Parâmetros de conforto térmico}{25}{subsubsection.2.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.2}Estratégias passivas}{30}{subsubsection.2.3.2}%
+\contentsline {subsubsection}{\numberline {2.3.2}Estratégias passivas}{26}{subsubsection.2.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {2.3.3}Estratégias ativas}{31}{subsubsection.2.3.3}%
+\contentsline {subsubsection}{\numberline {2.3.3}Estratégias ativas}{28}{subsubsection.2.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.4}Caracterização climática e socioeconômica da cidade de Vitória}{34}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.4}Caracterização climática e socioeconômica da cidade de Vitória}{30}{subsection.2.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.5}Caracterização da tipologia de referência}{35}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.5}Caracterização da tipologia de referência}{32}{subsection.2.5}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3}Metodologia}{37}{section.3}%
+\contentsline {section}{\numberline {3}Metodologia}{34}{section.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.1}Levantamento das características dos edifícios de escritório de Vitória}{38}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.1}Levantamento das características dos edifícios de escritório de Vitória}{35}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1}Consumo de energia elétrica das edificações}{40}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Consumo de energia elétrica das edificações}{37}{subsubsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2}Padrões de uso e ocupação em edifícios de escritório}{42}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2}Padrões de uso e ocupação em edifícios de escritório}{38}{subsubsection.3.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Padrões de conforto}{43}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Padrões de conforto}{40}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Conforto térmico}{43}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1}Conforto térmico}{40}{subsubsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Conforto lumínico}{44}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2}Conforto lumínico}{41}{subsubsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Níveis de eficiência energética}{45}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Níveis de eficiência energética}{41}{subsection.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Determinação da classe de eficiência energética dos modelos genéricos}{45}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1}Determinação da classe de eficiência energética dos modelos genéricos}{42}{subsubsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Eficiência energética do sistema de condicionamento de ar}{46}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2}Eficiência energética do sistema de condicionamento de ar}{42}{subsubsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Eficiência energética do sistema iluminação artificial e equipamentos}{47}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3}Eficiência energética do sistema iluminação artificial e equipamentos}{43}{subsubsection.3.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Definição dos modelos genéricos}{47}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.4}Definição dos modelos genéricos}{44}{subsection.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1}Composição dos modelos genéricos}{48}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1}Composição dos modelos genéricos}{44}{subsubsection.3.4.1}%
