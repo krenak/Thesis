@@ -15,7 +15,6 @@
 %\usepackage{index} % pacote de formatação de sumário
 \usepackage{booktabs} % pacote de formatação e inserção de tabelas
 \usepackage{hyperref} % pacote para uso de hyperlinks e referências cruzadas
-\usepackage{cleveref} % pacote para criação de referências cruzadas
 %\usepackage{natbib} % pacote de auxílio para citação autor, ano
 \usepackage[style=abnt, sorting=ynt]{biblatex} % formatação e configuração das referências
 \addbibresource{ref.bib}
@@ -25,8 +24,9 @@
 \usepackage[at]{easylist} % pacote mais fácil pra editar listas e enumerações
 \usepackage[singlespacing]{setspace} % pacote de formatação de espaçamento entre linhas
 %\usepackage{blindtext} % pacote de inserção de texto randomizado - lorem ipsum
+\newenvironment{graph}{\centering}{\par} % novo ambiente para inserção de gráficos
 
-%-------cabeçalho e rodapé-------%
+%-----------cabeçalho e rodapé--------------%
 \pagestyle{fancy} % estilo do cabeçalho e rodapé
 \fancyhf{}
 \rhead{FRAGA, Anderson A.}
@@ -38,7 +38,7 @@
 %\setlenght{\parindent}{1.3cm}
 %\setlenght{\parskip}{0.2cm}
 
-%-------início da dissertação-------%
+%---------início da dissertação-------------%
 \begin{document} %capa e contracapa
 \input{sections/capa.tex}\pagebreak
 \input{sections/agrad.tex}\pagebreak

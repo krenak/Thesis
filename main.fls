@@ -108,8 +108,6 @@ INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\reru
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\rerunfilecheck\rerunfilecheck.sty
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\generic\uniquecounter\uniquecounter.sty
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
-INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\cleveref\cleveref.sty
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\biblatex\biblatex.sty
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex\latex\etoolbox\etoolbox.sty
@@ -399,6 +397,10 @@ INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\graphs\graph1.png
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\graphs\graph1.png
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\graphs\graph1.png
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmex10.tfm
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\graphs\graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\graphs\graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png
 INPUT f:\Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\graphs\graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png
