@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  26 SEP 2020 14:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.26)  26 SEP 2020 16:31
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 ("f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
@@ -186,6 +186,82 @@ Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@cntb=\count197
 \multirow@dima=\skip63
 \bigstrutjot=\dimen158
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/fdsymbol\fdsymbol.sty
+Package: fdsymbol 2011/11/01 v0.8 FdSymbol support package
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+)
+\XKV@depth=\count198
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+LaTeX Info: Redefining \dagger on input line 81.
+LaTeX Info: Redefining \ddagger on input line 82.
+LaTeX Info: Redefining \mathparagraph on input line 83.
+LaTeX Info: Redefining \mathsection on input line 84.
+LaTeX Info: Redefining \mathdollar on input line 85.
+LaTeX Info: Redefining \mathsterling on input line 86.
+LaTeX Info: Redefining \Re on input line 92.
+LaTeX Info: Redefining \Im on input line 93.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 180.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 180.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> U/FdSymbolA/m/n on input line 180.
+LaTeX Font Info:    Encoding `OMS' has changed to `U' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 180.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> U/FdSymbolA/m/n on input line 180.
+\symrelations=\mathgroup4
+\symarrows=\mathgroup5
+\symnarrows=\mathgroup6
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 184.
+LaTeX Font Info:    Encoding `OMX' has changed to `U' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 184.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> U/FdSymbolE/m/n on input line 184.
+LaTeX Font Info:    Encoding `OMX' has changed to `U' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 184.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> U/FdSymbolE/m/n on input line 184.
+\symdelimiters=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  U/FdSymbolA/m/n --> U/FdSymbolA/b/n on input line 186.
+LaTeX Font Info:    Overwriting symbol font `relations' in version `bold'
+(Font)                  U/FdSymbolB/m/n --> U/FdSymbolB/b/n on input line 187.
+LaTeX Font Info:    Overwriting symbol font `arrows' in version `bold'
+(Font)                  U/FdSymbolC/m/n --> U/FdSymbolC/b/n on input line 188.
+LaTeX Font Info:    Overwriting symbol font `narrows' in version `bold'
+(Font)                  U/FdSymbolD/m/n --> U/FdSymbolD/b/n on input line 189.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  U/FdSymbolE/m/n --> U/FdSymbolE/b/n on input line 190.
+LaTeX Font Info:    Overwriting symbol font `delimiters' in version `bold'
+(Font)                  U/FdSymbolF/m/n --> U/FdSymbolF/b/n on input line 191.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 192.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  OMS/cmsy/m/n --> OMS/cmsy/b/n on input line 193.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 196.
+LaTeX Info: Redefining \vdots on input line 221.
+LaTeX Info: Redefining \relbar on input line 1205.
+LaTeX Info: Redefining \Relbar on input line 1206.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 1796.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 1797.
+LaTeX Font Info:    Redeclaring math accent \vec on input line 1799.
+LaTeX Font Info:    Redeclaring math symbol \setminus on input line 1902.
+LaTeX Font Info:    Redeclaring math symbol \mid on input line 1907.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 1912.
+LaTeX Font Info:    Redeclaring math symbol \braceld on input line 1944.
+LaTeX Font Info:    Redeclaring math symbol \bracelu on input line 1945.
+LaTeX Font Info:    Redeclaring math symbol \bracerd on input line 1946.
+LaTeX Font Info:    Redeclaring math symbol \braceru on input line 1947.
+LaTeX Info: Redefining \overbrace on input line 1963.
+LaTeX Info: Redefining \underbrace on input line 1966.
+LaTeX Font Info:    Redeclaring math symbol \surd on input line 1980.
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
 Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \heavyrulewidth=\dimen159
@@ -198,12 +274,12 @@ Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
 \cmidrulesep=\dimen166
 \cmidrulekern=\dimen167
 \defaultaddspace=\dimen168
-\@cmidla=\count198
-\@cmidlb=\count199
+\@cmidla=\count199
+\@cmidlb=\count266
 \@aboverulesep=\dimen169
 \@belowrulesep=\dimen170
-\@thisruleclass=\count266
-\@lastruleclass=\count267
+\@thisruleclass=\count267
+\@lastruleclass=\count268
 \@thisrulewidth=\dimen171
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2020-05-15 v7.00e Hypertext links for LaTeX
@@ -233,8 +309,8 @@ Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 )
 \@linkdim=\dimen172
-\Hy@linkcounter=\count268
-\Hy@pagecounter=\count269
+\Hy@linkcounter=\count269
+\Hy@pagecounter=\count270
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2020-05-15 v7.00e Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -244,7 +320,7 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count270
+\Hy@SavedSpaceFactor=\count271
 Package hyperref Info: Hyper figures OFF on input line 4464.
 Package hyperref Info: Link nesting OFF on input line 4469.
 Package hyperref Info: Hyper index ON on input line 4472.
@@ -252,7 +328,7 @@ Package hyperref Info: Plain pages OFF on input line 4479.
 Package hyperref Info: Backreferencing OFF on input line 4484.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4717.
-\c@Hy@tempcnt=\count271
+\c@Hy@tempcnt=\count272
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -264,7 +340,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count272
+\Fld@menulength=\count273
 \Field@Width=\dimen174
 \Fld@charsize=\dimen175
 Package hyperref Info: Hyper figures OFF on input line 6347.
@@ -279,9 +355,9 @@ LaTeX Info: Redefining \pageref on input line 6421.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/atbegshi\atbegshi.sty
 Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
 )
-\Hy@abspage=\count273
-\c@Item=\count274
-\c@Hfootnote=\count275
+\Hy@abspage=\count274
+\c@Item=\count275
+\c@Hfootnote=\count276
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -290,8 +366,8 @@ File: hpdftex.def 2020-05-15 v7.00e Hyperref driver for pdfTeX
 Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\Fld@listcount=\count276
-\c@bookmark@seq@number=\count277
+\Fld@listcount=\count277
+\c@bookmark@seq@number=\count278
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -304,56 +380,56 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 Package: biblatex 2019/12/01 v3.14 programmable bibliographies (PK/MW)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count278
+\etb@tempcnta=\count279
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count279
+\lrq@indent=\count280
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 )) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\c@tabx@nest=\count280
-\c@listtotal=\count281
-\c@listcount=\count282
-\c@liststart=\count283
-\c@liststop=\count284
-\c@citecount=\count285
-\c@citetotal=\count286
-\c@multicitecount=\count287
-\c@multicitetotal=\count288
-\c@instcount=\count289
-\c@maxnames=\count290
-\c@minnames=\count291
-\c@maxitems=\count292
-\c@minitems=\count293
-\c@citecounter=\count294
-\c@maxcitecounter=\count295
-\c@savedcitecounter=\count296
-\c@uniquelist=\count297
-\c@uniquename=\count298
-\c@refsection=\count299
-\c@refsegment=\count300
-\c@maxextratitle=\count301
-\c@maxextratitleyear=\count302
-\c@maxextraname=\count303
-\c@maxextradate=\count304
-\c@maxextraalpha=\count305
-\c@abbrvpenalty=\count306
-\c@highnamepenalty=\count307
-\c@lownamepenalty=\count308
-\c@maxparens=\count309
-\c@parenlevel=\count310
-\blx@tempcnta=\count311
-\blx@tempcntb=\count312
-\blx@tempcntc=\count313
-\blx@maxsection=\count314
-\blx@maxsegment@0=\count315
-\blx@notetype=\count316
-\blx@parenlevel@text=\count317
-\blx@parenlevel@foot=\count318
-\blx@sectionciteorder@0=\count319
-\blx@entrysetcounter=\count320
+\c@tabx@nest=\count281
+\c@listtotal=\count282
+\c@listcount=\count283
+\c@liststart=\count284
+\c@liststop=\count285
+\c@citecount=\count286
+\c@citetotal=\count287
+\c@multicitecount=\count288
+\c@multicitetotal=\count289
+\c@instcount=\count290
+\c@maxnames=\count291
+\c@minnames=\count292
+\c@maxitems=\count293
+\c@minitems=\count294
+\c@citecounter=\count295
+\c@maxcitecounter=\count296
+\c@savedcitecounter=\count297
+\c@uniquelist=\count298
+\c@uniquename=\count299
+\c@refsection=\count300
+\c@refsegment=\count301
+\c@maxextratitle=\count302
+\c@maxextratitleyear=\count303
+\c@maxextraname=\count304
+\c@maxextradate=\count305
+\c@maxextraalpha=\count306
+\c@abbrvpenalty=\count307
+\c@highnamepenalty=\count308
+\c@lownamepenalty=\count309
+\c@maxparens=\count310
+\c@parenlevel=\count311
+\blx@tempcnta=\count312
+\blx@tempcntb=\count313
+\blx@tempcntc=\count314
+\blx@maxsection=\count315
+\blx@maxsegment@0=\count316
+\blx@notetype=\count317
+\blx@parenlevel@text=\count318
+\blx@parenlevel@foot=\count319
+\blx@sectionciteorder@0=\count320
+\blx@entrysetcounter=\count321
 \labelnumberwidth=\skip65
 \labelalphawidth=\skip66
 \biblabelsep=\skip67
@@ -365,9 +441,9 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language80
-\c@mincomprange=\count321
-\c@maxcomprange=\count322
-\c@mincompwidth=\count323
+\c@mincomprange=\count322
+\c@maxcomprange=\count323
+\c@mincompwidth=\count324
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
@@ -377,74 +453,74 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'abnt.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count324
-\c@savedafterword=\count325
-\c@annotator=\count326
-\c@savedannotator=\count327
-\c@author=\count328
-\c@savedauthor=\count329
-\c@bookauthor=\count330
-\c@savedbookauthor=\count331
-\c@commentator=\count332
-\c@savedcommentator=\count333
-\c@editor=\count334
-\c@savededitor=\count335
-\c@editora=\count336
-\c@savededitora=\count337
-\c@editorb=\count338
-\c@savededitorb=\count339
-\c@editorc=\count340
-\c@savededitorc=\count341
-\c@foreword=\count342
-\c@savedforeword=\count343
-\c@holder=\count344
-\c@savedholder=\count345
-\c@introduction=\count346
-\c@savedintroduction=\count347
-\c@namea=\count348
-\c@savednamea=\count349
-\c@nameb=\count350
-\c@savednameb=\count351
-\c@namec=\count352
-\c@savednamec=\count353
-\c@translator=\count354
-\c@savedtranslator=\count355
-\c@shortauthor=\count356
-\c@savedshortauthor=\count357
-\c@shorteditor=\count358
-\c@savedshorteditor=\count359
-\c@labelname=\count360
-\c@savedlabelname=\count361
-\c@institution=\count362
-\c@savedinstitution=\count363
-\c@lista=\count364
-\c@savedlista=\count365
-\c@listb=\count366
-\c@savedlistb=\count367
-\c@listc=\count368
-\c@savedlistc=\count369
-\c@listd=\count370
-\c@savedlistd=\count371
-\c@liste=\count372
-\c@savedliste=\count373
-\c@listf=\count374
-\c@savedlistf=\count375
-\c@location=\count376
-\c@savedlocation=\count377
-\c@organization=\count378
-\c@savedorganization=\count379
-\c@origlocation=\count380
-\c@savedoriglocation=\count381
-\c@origpublisher=\count382
-\c@savedorigpublisher=\count383
-\c@publisher=\count384
-\c@savedpublisher=\count385
-\c@language=\count386
-\c@savedlanguage=\count387
-\c@origlanguage=\count388
-\c@savedoriglanguage=\count389
-\c@pageref=\count390
-\c@savedpageref=\count391
+\c@afterword=\count325
+\c@savedafterword=\count326
+\c@annotator=\count327
+\c@savedannotator=\count328
+\c@author=\count329
+\c@savedauthor=\count330
+\c@bookauthor=\count331
+\c@savedbookauthor=\count332
+\c@commentator=\count333
+\c@savedcommentator=\count334
+\c@editor=\count335
+\c@savededitor=\count336
+\c@editora=\count337
+\c@savededitora=\count338
+\c@editorb=\count339
+\c@savededitorb=\count340
+\c@editorc=\count341
+\c@savededitorc=\count342
+\c@foreword=\count343
+\c@savedforeword=\count344
+\c@holder=\count345
+\c@savedholder=\count346
+\c@introduction=\count347
+\c@savedintroduction=\count348
+\c@namea=\count349
+\c@savednamea=\count350
+\c@nameb=\count351
+\c@savednameb=\count352
+\c@namec=\count353
+\c@savednamec=\count354
+\c@translator=\count355
+\c@savedtranslator=\count356
+\c@shortauthor=\count357
+\c@savedshortauthor=\count358
+\c@shorteditor=\count359
+\c@savedshorteditor=\count360
+\c@labelname=\count361
+\c@savedlabelname=\count362
+\c@institution=\count363
+\c@savedinstitution=\count364
+\c@lista=\count365
+\c@savedlista=\count366
+\c@listb=\count367
+\c@savedlistb=\count368
+\c@listc=\count369
+\c@savedlistc=\count370
+\c@listd=\count371
+\c@savedlistd=\count372
+\c@liste=\count373
+\c@savedliste=\count374
+\c@listf=\count375
+\c@savedlistf=\count376
+\c@location=\count377
+\c@savedlocation=\count378
+\c@organization=\count379
+\c@savedorganization=\count380
+\c@origlocation=\count381
+\c@savedoriglocation=\count382
+\c@origpublisher=\count383
+\c@savedorigpublisher=\count384
+\c@publisher=\count385
+\c@savedpublisher=\count386
+\c@language=\count387
+\c@savedlanguage=\count388
+\c@origlanguage=\count389
+\c@savedoriglanguage=\count390
+\c@pageref=\count391
+\c@savedpageref=\count392
 \shorthandwidth=\skip73
 \shortjournalwidth=\skip74
 \shortserieswidth=\skip75
@@ -468,19 +544,19 @@ Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2019/12/01 v3.14 biblatex compatibility (PK/MW)
-\c@textcitecount=\count392
-\c@textcitetotal=\count393
-\c@textcitemaxnames=\count394
-\c@biburlbigbreakpenalty=\count395
-\c@biburlbreakpenalty=\count396
-\c@biburlnumpenalty=\count397
-\c@biburlucpenalty=\count398
-\c@biburllcpenalty=\count399
+\c@textcitecount=\count393
+\c@textcitetotal=\count394
+\c@textcitemaxnames=\count395
+\c@biburlbigbreakpenalty=\count396
+\c@biburlbreakpenalty=\count397
+\c@biburlnumpenalty=\count398
+\c@biburlucpenalty=\count399
+\c@biburllcpenalty=\count400
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count400
+\c@smartand=\count401
 )
 Package biblatex Info: Trying to load bibliography style 'abnt'...
 Package biblatex Info: ... file 'abnt.bbx' found.
@@ -490,15 +566,15 @@ File: abnt.bbx 2018-11-17 v3.4 ABNT BibLaTeX citation style
 Package: expl3 2020-08-07 L3 programming layer (loader) 
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-08-07 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count401
+\l__kernel_color_stack_int=\count402
 \l__pdf_internal_box=\box50
 ))
 Package: xparse 2020-05-15 L3 Experimental document command parser
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse-generic.tex
-\l__xparse_current_arg_int=\count402
-\g__xparse_grabber_int=\count403
-\l__xparse_m_args_int=\count404
-\l__xparse_v_nesting_int=\count405
+\l__xparse_current_arg_int=\count403
+\g__xparse_grabber_int=\count404
+\l__xparse_m_args_int=\count405
+\l__xparse_v_nesting_int=\count406
 )) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/xpatch\xpatch.sty
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
 )
@@ -506,8 +582,8 @@ Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.bbx
 File: standard.bbx 2019/12/01 v3.14 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count406
-\c@bbx:relatedtotal=\count407
+\c@bbx:relatedcount=\count407
+\c@bbx:relatedtotal=\count408
 ))
 Package biblatex Info: Trying to load citation style 'abnt'...
 Package biblatex Info: ... file 'abnt.cbx' found.
@@ -545,13 +621,13 @@ Package biblatex Info: ... file 'biblatex.cfg' found.
 File: biblatex.cfg 
 )) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2019-12-06 v5.2j context-sensitive quotations (JAW)
-\csq@reset=\count408
-\csq@gtype=\count409
-\csq@glevel=\count410
-\csq@qlevel=\count411
-\csq@maxlvl=\count412
-\csq@tshold=\count413
-\csq@ltx@everypar=\toks28
+\csq@reset=\count409
+\csq@gtype=\count410
+\csq@glevel=\count411
+\csq@qlevel=\count412
+\csq@maxlvl=\count413
+\csq@tshold=\count414
+\csq@ltx@everypar=\toks30
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2019-12-06 v5.2j csquotes generic definitions (JAW)
 )
@@ -566,27 +642,27 @@ Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
 \col@sep=\dimen176
 \ar@mcellbox=\box51
 \extrarowheight=\dimen177
-\NC@list=\toks29
+\NC@list=\toks31
 \extratabsurround=\skip87
 \backup@length=\skip88
 \ar@cellbox=\box52
 )
 \rotheadsize=\dimen178
-\c@nlinenum=\count414
-\TeXr@lab=\toks30
+\c@nlinenum=\count415
+\TeXr@lab=\toks32
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2020/01/28 v0.5q Insert pages of external PDF documents (AM)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count415
-\calc@Bcount=\count416
+\calc@Acount=\count416
+\calc@Bcount=\count417
 \calc@Adimen=\dimen179
 \calc@Bdimen=\dimen180
 \calc@Askip=\skip89
 \calc@Bskip=\skip90
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count417
+\calc@Ccount=\count418
 \calc@Cskip=\skip91
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
@@ -612,27 +688,27 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 File: pppdftex.def 2020/01/28 v0.5q Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box53
-\AM@global@opts=\toks31
-\AM@pagecnt=\count418
-\AM@toc@title=\toks32
-\c@AM@survey=\count419
+\AM@global@opts=\toks33
+\AM@pagecnt=\count419
+\AM@toc@title=\toks34
+\c@AM@survey=\count420
 \AM@templatesizebox=\box54
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/easylist\easylist.sty
 Package: easylist 2014/01/11 v.1.4 Numbered items with a single command.
-\el@CounterTotal=\count420
-\el@Scratch=\count421
-\el@ControlCounter=\count422
-\el@CounterLevel=\count423
-\c@List1=\count424
-\c@List2=\count425
-\c@List3=\count426
-\c@List4=\count427
-\c@List5=\count428
-\c@List6=\count429
-\c@List7=\count430
-\c@List8=\count431
-\c@List9=\count432
-\c@List10=\count433
+\el@CounterTotal=\count421
+\el@Scratch=\count422
+\el@ControlCounter=\count423
+\el@CounterLevel=\count424
+\c@List1=\count425
+\c@List2=\count426
+\c@List3=\count427
+\c@List4=\count428
+\c@List5=\count429
+\c@List6=\count430
+\c@List7=\count431
+\c@List8=\count432
+\c@List9=\count433
+\c@List10=\count434
 \el@ProgressiveDimension=\dimen183
 \el@CounterBox=\box55
 \el@ControlBox=\box56
@@ -645,30 +721,26 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
- ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux"
-
-LaTeX Warning: Label `fig:figura8' multiply defined.
-
-)
+ ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux")
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
-LaTeX Font Info:    ... okay on input line 43.
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 43.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 44.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 )
@@ -706,14 +778,14 @@ File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 43.
+LaTeX Info: Redefining \microtypecontext on input line 44.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 43.
+LaTeX Info: Redefining \showhyphens on input line 44.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -721,17 +793,17 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count434
+\scratchcounter=\count435
 \scratchdimen=\dimen186
 \scratchbox=\box57
-\nofMPsegments=\count435
-\nofMParguments=\count436
-\everyMPshowfont=\toks33
-\MPscratchCnt=\count437
+\nofMPsegments=\count436
+\nofMParguments=\count437
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count438
 \MPscratchDim=\dimen187
-\MPnumerator=\count438
-\makeMPintoPDFobject=\count439
-\everyMPtoPDFconversion=\toks34
+\MPnumerator=\count439
+\makeMPintoPDFobject=\count440
+\everyMPtoPDFconversion=\toks36
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
@@ -743,7 +815,7 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 504.
 )
 \AtBeginShipoutBox=\box58
-Package hyperref Info: Link coloring OFF on input line 43.
+Package hyperref Info: Link coloring OFF on input line 44.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -751,11 +823,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count440
+\c@section@level=\count441
 )
-LaTeX Info: Redefining \ref on input line 43.
-LaTeX Info: Redefining \pageref on input line 43.
-LaTeX Info: Redefining \nameref on input line 43.
+LaTeX Info: Redefining \ref on input line 44.
+LaTeX Info: Redefining \pageref on input line 44.
+LaTeX Info: Redefining \nameref on input line 44.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.out") ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.out")
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -834,8 +906,8 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.bbl")
-Package biblatex Info: Reference section=0 on input line 43.
-Package biblatex Info: Reference segment=0 on input line 43.
+Package biblatex Info: Reference section=0 on input line 44.
+Package biblatex Info: Reference segment=0 on input line 44.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
@@ -860,7 +932,44 @@ LaTeX Font Info:    Trying to load font information for TS1+bch on input line 43
 File: ts1bch.fd 2004/10/18 font definitions for TS1/bch.
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
-) [2]
+)
+LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
+(Font)              scaled to size 14.4pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
+(Font)              scaled to size 10.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
+(Font)              scaled to size 7.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
+(Font)              scaled to size 14.4pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
+(Font)              scaled to size 10.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
+(Font)              scaled to size 7.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
+(Font)              scaled to size 14.4pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
+(Font)              scaled to size 10.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
+(Font)              scaled to size 7.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
+(Font)              scaled to size 14.4pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
+(Font)              scaled to size 10.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
+(Font)              scaled to size 7.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
+(Font)              scaled to size 14.4pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
+(Font)              scaled to size 10.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
+(Font)              scaled to size 7.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
+(Font)              scaled to size 14.4pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
+(Font)              scaled to size 10.0pt on input line 45.
+LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
+(Font)              scaled to size 7.0pt on input line 45.
+ [2]
 
 pdfTeX warning: pdflatex (file F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 <F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=137, 597.23125pt x 845.1575pt>
@@ -941,7 +1050,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--31
 )pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.46 \input
+l.47 \input
            {sections/resumo.tex} % preâmbulo e listas [1] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resumo.tex"
 Underfull \hbox (badness 10000) in paragraph at lines 5--33
 
@@ -964,16 +1073,53 @@ l.39     \end{onehalfspace}
 <to be read again> 
                    \relax 
 l.26     \end{onehalfspace}
-                            [4]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof")
+                            [4]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.lof"
+LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
+(Font)              scaled to size 12.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 4.
+LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.50 \input
+l.51 \input
            {sections/graphs.tex}\pagebreak [5] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/graphs.tex"
-Underfull \hbox (badness 10000) in paragraph at lines 5--16
+Underfull \hbox (badness 10000) in paragraph at lines 6--17
 
  []
 
@@ -986,58 +1132,70 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--16
 \openout7 = `main.toc'.
 
  [8] ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/intro.tex" [9] [10]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/question.tex") ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/objetivos.tex" [11]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/referencial.tex" ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/introzeb.tex" [12] [13] [14]
-<figures/esquema_kurnitski _2011.png, id=431, 529.98pt x 362.5545pt>
+<figures/esquema_kurnitski _2011.png, id=433, 529.98pt x 362.5545pt>
 File: figures/esquema_kurnitski _2011.png Graphic file (type png)
 <use figures/esquema_kurnitski _2011.png>
 Package pdftex.def Info: figures/esquema_kurnitski _2011.png  used on input line 118.
 (pdftex.def)             Requested size: 386.96027pt x 264.71791pt.
  [15]
-<figures/esquema_iea_2014-2.png, id=443, 201.75375pt x 237.88875pt>
+<figures/esquema_iea_2014-2.png, id=445, 201.75375pt x 237.88875pt>
 File: figures/esquema_iea_2014-2.png Graphic file (type png)
 <use figures/esquema_iea_2014-2.png>
 Package pdftex.def Info: figures/esquema_iea_2014-2.png  used on input line 138.
 (pdftex.def)             Requested size: 136.57462pt x 161.03622pt.
+LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
+(Font)              scaled to size 10.95pt on input line 139.
+LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
+(Font)              scaled to size 10.95pt on input line 139.
+LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
+(Font)              scaled to size 10.95pt on input line 139.
+LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
+(Font)              scaled to size 10.95pt on input line 139.
+LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
+(Font)              scaled to size 10.95pt on input line 139.
+LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 139.
 ) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/cenarios.tex" [16 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_kurnitski _2011.png> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/esquema_iea_2014-2.png>]
-<graphs/graph1.png, id=467, 549.85425pt x 277.035pt>
+<graphs/graph1.png, id=469, 549.85425pt x 277.035pt>
 File: graphs/graph1.png Graphic file (type png)
 <use graphs/graph1.png>
 Package pdftex.def Info: graphs/graph1.png  used on input line 32.
 (pdftex.def)             Requested size: 318.66948pt x 160.55782pt.
  [17 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph1.png>] [18]
-<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=511, 802.79926pt x 421.575pt>
+<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=513, 802.79926pt x 421.575pt>
 File: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png Graphic file (type png)
 <use graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>
 Package pdftex.def Info: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png  used on input line 82.
 (pdftex.def)             Requested size: 364.19667pt x 191.25084pt.
-<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=516, 540.8205pt x 341.47575pt>
+<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=518, 540.8205pt x 341.47575pt>
 File: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png Graphic file (type png)
 <use graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>
 Package pdftex.def Info: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png  used on input line 102.
 (pdftex.def)             Requested size: 318.66948pt x 201.20842pt.
  [19 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>] [20 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>]
-<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=553, 461.3235pt x 509.5035pt>
+<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=555, 461.3235pt x 509.5035pt>
 File: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png Graphic file (type png)
 <use figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>
 Package pdftex.def Info: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png  used on input line 127.
 (pdftex.def)             Requested size: 409.71692pt x 452.51598pt.
-<figures/fig4-mapa2.png, id=559, 401.0985pt x 399.894pt>
+<figures/fig4-mapa2.png, id=561, 401.0985pt x 399.894pt>
 File: figures/fig4-mapa2.png Graphic file (type png)
 <use figures/fig4-mapa2.png>
 Package pdftex.def Info: figures/fig4-mapa2.png  used on input line 148.
 (pdftex.def)             Requested size: 386.96027pt x 385.79765pt.
  [21 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>]
-<figures/fig5-mapa3.jpg, id=574, 447.1104pt x 651.8754pt>
+<figures/fig5-mapa3.jpg, id=576, 447.1104pt x 651.8754pt>
 File: figures/fig5-mapa3.jpg Graphic file (type jpg)
 <use figures/fig5-mapa3.jpg>
 Package pdftex.def Info: figures/fig5-mapa3.jpg  used on input line 171.
 (pdftex.def)             Requested size: 250.38564pt x 365.06763pt.
  [22 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig4-mapa2.png>] [23 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig5-mapa3.jpg>]
-<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=593, 513.117pt x 383.031pt>
+<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=595, 513.117pt x 383.031pt>
 File: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png Graphic file (type png)
 <use figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>
 Package pdftex.def Info: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png  used on input line 192.
 (pdftex.def)             Requested size: 455.24411pt x 339.84448pt.
-<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=607, 536.0025pt x 478.78876pt>
+<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=609, 536.0025pt x 478.78876pt>
 File: figures/fig7_BIPV_ASHRAE_ZEB_2019.png Graphic file (type png)
 <use figures/fig7_BIPV_ASHRAE_ZEB_2019.png>
 Package pdftex.def Info: figures/fig7_BIPV_ASHRAE_ZEB_2019.png  used on input line 217.
@@ -1068,10 +1226,10 @@ Overfull \hbox (11.92172pt too wide) in paragraph at lines 53--64
  []
 
 )) [34] [35]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/metodo.tex" [36]
-<figures/fig8_Fluxogramas_1.jpg, id=873, 1122.44344pt x 380.17032pt>
+<figures/fig8_Fluxogramas_1.jpg, id=876, 1122.44344pt x 380.17032pt>
 File: figures/fig8_Fluxogramas_1.jpg Graphic file (type jpg)
 <use figures/fig8_Fluxogramas_1.jpg>
-Package pdftex.def Info: figures/fig8_Fluxogramas_1.jpg  used on input line 33.
+Package pdftex.def Info: figures/fig8_Fluxogramas_1.jpg  used on input line 34.
 (pdftex.def)             Requested size: 455.24411pt x 154.18857pt.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/levant.tex"
 Overfull \hbox (15.69562pt too wide) in alignment at lines 35--48
@@ -1084,7 +1242,7 @@ Overfull \hbox (0.86874pt too wide) in paragraph at lines 2--53
  []
 
 [37 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig8_Fluxogramas_1.jpg>] [38] [39]
-<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=923, 551.05875pt x 350.5095pt>
+<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=926, 551.05875pt x 350.5095pt>
 File: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png Graphic file (type png)
 <use figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>
 Package pdftex.def Info: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png  used on input line 79.
@@ -1094,62 +1252,65 @@ Overfull \hbox (7.9076pt too wide) in alignment at lines 133--155
 [] [] [] [] 
  []
 
-) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/padroes.tex" [41] [42] [43]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/niveis.tex" [44] [45]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/defmodelos.tex" [46]
-<figures/fig10_Fluxogramas-2.jpg, id=995, 834.11626pt x 639.13782pt>
+) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/padroes.tex" [41] [42] [43]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/niveis.tex" [44]
+LaTeX Font Info:    Trying to load font information for OML+bch on input line 45.
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlbch.fd
+File: omlbch.fd 
+)
+LaTeX Font Info:    Font shape `OML/bch/m/n' in size <12> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 45.
+ [45]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\subsec/defmodelos.tex" [46]
+<figures/fig10_Fluxogramas-2.jpg, id=999, 834.11626pt x 639.13782pt>
 File: figures/fig10_Fluxogramas-2.jpg Graphic file (type jpg)
 <use figures/fig10_Fluxogramas-2.jpg>
 Package pdftex.def Info: figures/fig10_Fluxogramas-2.jpg  used on input line 29.
-(pdftex.def)             Requested size: 386.96027pt x 296.51334pt.
-<figures/fig11_8-19-2pav.png, id=997, 1580.90625pt x 1327.96124pt>
+(pdftex.def)             Requested size: 364.19667pt x 279.06622pt.
+<figures/fig11_8-19-2pav.png, id=1001, 1580.90625pt x 1327.96124pt>
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
 Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 42.
 (pdftex.def)             Requested size: 45.52718pt x 38.23633pt.
-<figures/fig12-base_torre-1.png, id=1006, 1580.90625pt x 1327.96124pt>
+<figures/fig12-base_torre-1.png, id=1010, 1580.90625pt x 1327.96124pt>
 File: figures/fig12-base_torre-1.png Graphic file (type png)
 <use figures/fig12-base_torre-1.png>
 Package pdftex.def Info: figures/fig12-base_torre-1.png  used on input line 104.
 (pdftex.def)             Requested size: 273.14923pt x 229.4383pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 36--43
+Underfull \hbox (badness 10000) in paragraph at lines 36--44
 
  []
 
-[47 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig10_Fluxogramas-2.jpg>] [48 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig11_8-19-2pav.png>] [49]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resultados.tex") [50 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig12-base_torre-1.png>]
+[47] [48 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig10_Fluxogramas-2.jpg> <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig11_8-19-2pav.png>] [49]) ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\sections/resultados.tex") [50 <f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/fig12-base_torre-1.png>]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [51] [52] [53] [54] [55] [56] [57]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 65.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 66.
  [58]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 65.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 66.
  ("f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 65.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 65.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 66.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 66.
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 989DE059D72FA888C24EA2049E3FEFED;2866.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 65.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 66.
  ) 
 Here is how much of TeX's memory you used:
- 20674 strings out of 481212
- 377754 string characters out of 2905973
- 1158021 words of memory out of 3000000
- 35393 multiletter control sequences out of 15000+200000
- 580569 words of font info for 217 fonts, out of 3000000 for 9000
+ 23895 strings out of 481212
+ 417664 string characters out of 2905973
+ 1164610 words of memory out of 3000000
+ 38572 multiletter control sequences out of 15000+200000
+ 593234 words of font info for 259 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,20n,65p,3804b,4021s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (63 pages, 6487415 bytes).
+ 77i,20n,117p,3804b,4155s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolB-Book.pk>{C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on "f:/Root Files\Academic\masters\_desenvolvimento\_regular\_dissertacao\fase final\_estrutura\_texto\tex\main.pdf" (63 pages, 6477841 bytes).
 PDF statistics:
- 1237 PDF objects out of 1440 (max. 8388607)
- 207 named destinations out of 1000 (max. 500000)
- 27497 words of extra memory for PDF output out of 29859 (max. 10000000)
+ 1258 PDF objects out of 1440 (max. 8388607)
+ 208 named destinations out of 1000 (max. 500000)
+ 31593 words of extra memory for PDF output out of 35830 (max. 10000000)
 

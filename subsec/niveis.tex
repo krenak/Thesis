@@ -36,17 +36,17 @@ expresso em W/W. O COP para equipamentos de ar condicionado é categorizado
 segundo uma Classe de Eficiência Energética – CEE, como apresentado na Tabela \ref{tab:tabela6}.
 
 \begin{table}[ht]\centering
-    \caption{\small Densidades de Potência de Iluminação definidas pelo INI-C e as Classes de Eficiência Energética.}
+    \caption{\small  Relação entre o COP e as Classes de Eficiência Energética de Condicionadores de ar.}
     \vspace*{0.3cm}
     \label{tab:tabela6}
-    \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}cc}
+    \begin{tabular}{cccc}
         \hline
-        \textbf{Classes}                & \textbf{Densidade de Potência de Iluminação (DPI – W/m²)}\\ \hline
-        A                               & 8,50                                                     \\ \hline
-        B                               & 10,40                                                    \\ \hline
-        C                               & 12,20                                                    \\ \hline
-        D                               & 14,10                                                    \\ \hline
-    \end{tabular*}
+        \textbf{Classes}     & \multicolumn{3}{c}{\textbf{Densidade de Potência de Iluminação (DPI – W/m²)}}        \\ \hline
+        A                    & \makecell[c]{3,23}       & \makecell[c]{\textless CEE}                  &            \\ \hline
+        B                    & \makecell[c]{3,02}       & \makecell[c]{\textless CEE =\textless} & 3,23       \\ \hline
+        C                    & \makecell[c]{2,81}       & \makecell[c]{\textless CEE =\textless} & 3,02       \\ \hline
+        D                    & \makecell[c]{2,60}       & \makecell[c]{\textless CEE =\textless} & 2,81       \\ \hline
+    \end{tabular}
     \begin{flushleft}
         \par \small Fonte: adaptado de INMETRO (2018).
     \end{flushleft}
@@ -75,9 +75,25 @@ expressa em W/m². O mesmo procedimento é aplicado aos equipamentos, definidos 
 de Potência de Equipamentos – DPE, expressa em W/m². A união das duas densidades é definida 
 pela Densidade de Carga Interna – DCI.\vspace*{0.3cm} \newline
 Após a avaliação do DPI, os equipamentos de iluminação artificial são classificados 
-segundo a classe de eficiência energética estabelecida pelo PBE/Inmetro, conforme a Tabela 6.
+segundo a classe de eficiência energética estabelecida pelo PBE/Inmetro, conforme a Tabela \ref{tab:tabela7}.
 
-Assim como o sistema de condicionamento de ar, a definição da DPI possibilita classificar o 
+\begin{table}[ht]\centering
+    \caption{\small Densidades de Potência de Iluminação definidas pelo INI-C e as Classes de Eficiência Energética.}
+    \vspace*{0.3cm}
+    \label{tab:tabela7}
+    \begin{tabular}{cc}
+        \hline
+        \textbf{Classes}                & \textbf{Densidade de Potência de Iluminação (DPI – W/m²)}\\ \hline
+        A                               & 8,50                                                     \\ \hline
+        B                               & 10,40                                                    \\ \hline
+        C                               & 12,20                                                    \\ \hline
+        D                               & 14,10                                                    \\ \hline
+    \end{tabular}
+    \begin{flushleft}
+        \par \small Fonte: adaptado de INMETRO (2018).
+    \end{flushleft}
+\end{table}
+\noindent Assim como o sistema de condicionamento de ar, a definição da DPI possibilita classificar o 
 sistema de iluminação artificial do modelo genérico segundo sua eficiência energética. 
 Para a determinação da classe de eficiência energética, o procedimento é o mesmo adotado 
 para definição do COP para a etapa de simulação, e neste caso, como os equipamentos 
