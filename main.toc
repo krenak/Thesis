@@ -39,24 +39,24 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Levantamento das características dos edifícios de escritório de Vitória}{38}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1}Consumo de energia elétrica das edificações}{40}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Consumo de energia elétrica das edificações}{39}{subsubsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.2}Padrões de uso e ocupação em edifícios de escritório}{42}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.2}Padrões de uso e ocupação em edifícios de escritório}{41}{subsubsection.3.1.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.2}Padrões de conforto}{43}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.2}Padrões de conforto}{42}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.1}Conforto térmico}{43}{subsubsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.2}Conforto lumínico}{44}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.2}Conforto lumínico}{43}{subsubsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.3}Níveis de eficiência energética}{45}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Níveis de eficiência energética}{44}{subsection.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.1}Determinação da classe de eficiência energética dos modelos genéricos}{45}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.1}Determinação da classe de eficiência energética dos modelos genéricos}{44}{subsubsection.3.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.2}Eficiência energética do sistema de condicionamento de ar}{46}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.2}Eficiência energética do sistema de condicionamento de ar}{45}{subsubsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Eficiência energética do sistema iluminação artificial e equipamentos}{47}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3}Eficiência energética do sistema iluminação artificial e equipamentos}{46}{subsubsection.3.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Definição dos modelos genéricos}{47}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.4}Definição dos modelos genéricos}{46}{subsection.3.4}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.4.1}Composição dos modelos genéricos}{48}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.1}Composição dos modelos genéricos}{47}{subsubsection.3.4.1}%

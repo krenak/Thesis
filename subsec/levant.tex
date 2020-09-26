@@ -16,7 +16,7 @@ ao material técnico disponibilizado pelas construtoras, visitas a campo e
 complementação de dados utilizando a ferramenta computacional \textit{Google Street View}.\vspace*{0.3cm} \newline
 Os trabalhos de \textcite{Lamberts2006,AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2010,Bernabe2012,Ramos2013,Didone2014,Didone2014a,ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015,Fonseca2016,Werneck2017,InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018},
 foram utilizados como principais fontes de informação para a análise de envoltória 
-e sistema de iluminação e condicionamento de ar.\vspace*{-0.3cm}
+e sistema de iluminação e condicionamento de ar.\vspace*{-0.6cm}
 \begin{table}[ht]\centering
     \caption{\small Características observadas em campo e em pesquisas anteriores.}
     \vspace*{0.2cm}
@@ -28,9 +28,6 @@ e sistema de iluminação e condicionamento de ar.\vspace*{-0.3cm}
     Altura do pavimento                                            & 3 m                                                                                   & Levantamento \textit{in loco}.                                                                                                                                         \\ \hline
     Planta-baixa (forma)                                           & Retangular                                                                            & \makecell[l]{Levantamento \textit{in loco} e referências\\ (FONSECA et al., 2016; INMETRO,\\ 2018).}                                                                   \\ \hline
     \makecell[l]{Dimensão das salas\\ por pav.-tipo}               & 40 m²                                                                                 & \makecell[l]{Foi fixado a área das salas \\(zonas térmicas) de acordo com a \\média de ofertas de salas observadas\\ em levantamento \textit{in loco}.}                  \\ \hline
-    Proteção solar                                                 & Sem proteção                                                                          & \makecell[l]{Levantamento \textit{in loco} e referências\\ (FONSECA et al., 2016; WERNECK \\et al., 2017).}                                                            \\ \hline
-    \makecell[l]{Componentes da\\ parede}                          & \makecell[l]{Bloco cerâmico,\\ 8 furos; \\14x19x29 cm; \\argamassa de\\ assentamento} & Levantamento \textit{in loco}.                                                                                                                                         \\ \hline
-    Cobertura                                                      & \makecell[l]{Laje impermeabilizada\\ com 20 cm de\\ espessura}                        & \makecell[l]{Levantamento \textit{in loco} e referências \\(CB3E; ABIVIDRO, 2015).}                                                                                    \\ \hline
     \multicolumn{3}{c}{Continua}\\\hline
     \end{tabular*}
 \end{table}\pagebreak
@@ -38,6 +35,9 @@ e sistema de iluminação e condicionamento de ar.\vspace*{-0.3cm}
     \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lll}
     \hline
     \multicolumn{3}{c}{Conclusão}\\\hline
+    \makecell[l]{Componentes da\\ parede}                          & \makecell[l]{Bloco cerâmico,\\ 8 furos; \\14x19x29 cm; \\argamassa de\\ assentamento} & Levantamento \textit{in loco}.                                                                                                                                         \\ \hline
+    Proteção solar                                                 & Sem proteção                                                                          & \makecell[l]{Levantamento \textit{in loco} e referências\\ (FONSECA et al., 2016; WERNECK \\et al., 2017).}                                                            \\ \hline
+    Cobertura                                                      & \makecell[l]{Laje impermeabilizada\\ com 20 cm de\\ espessura}                        & \makecell[l]{Levantamento \textit{in loco} e referências \\(CB3E; ABIVIDRO, 2015).}                                                                                    \\ \hline
     Vidros                                                         & \makecell[l]{Laminado; Reflexivo;\\ 8 mm; Verde}                                      & \makecell[l]{(FONSECA et al., 2016; \\INMETRO, 2018).}                                                                                                                   \\ \hline
     PAF\textsubscript{T}                                           & 30\%; 50\%; 80\%                                                                      & \makecell[l]{Levantamento \textit{in loco}\\ e referências.}                                                                                                             \\ \hline
     \makecell[l]{Orientação solar da \\fachada principal}          & Sul                                                                                   & \makecell[l]{Levantamento \textit{in loco}\\ e referências.}                                                                                                             \\ \hline
@@ -59,28 +59,29 @@ para determinar o consumo de energia dos modelos genéricos é identificada por 
 organização dos dados coletados em campo e, assim, a resultante do número de variáveis.
 
 \subsubsection{Consumo de energia elétrica das edificações}
-O consumo de energia elétrica em edificações de escritório no Brasil é determinado 
+\noindent O consumo de energia elétrica em edificações de escritório no Brasil é determinado 
 principalmente por sua tipologia. As configurações predominantes no Brasil compreendem, em 
 sua maioria, pequenas edificações, abaixo de 8 pavimentos, a edifícios grandes, acima de 
 15 pavimentos \cite{Carlo2008,Ramos2013,ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015,Fonseca2016}.\vspace*{0.3cm} \newline
-Correlacionado às tipologias arquitetônicas, os dados de consumo de energia, expressos em 
+\noindent Correlacionado às tipologias arquitetônicas, os dados de consumo de energia, expressos em 
 Intensidade de Uso de Energia – IUE, kWh/m²/ano, foram necessários para validação das 
 simulações iniciais quanto ao consumo de energia esperado dos modelos. Visto que a calibração 
 dos modelos genéricos não foi possível, pois eles não dispunham de memorial de massa como 
 ferramenta de comparação ao consumo simulado computacionalmente, foram adotados como método 
 de comparação os valores médios registrados no Relatório Final do CBCS (2015), como mostra o 
-Histograma na Figura \ref{fig:figura9}. Foi relacionado o consumo de energia das edificações levantadas à 
+Histograma no Gráfico 5. Foi relacionado o consumo de energia das edificações levantadas à 
 frequência de ocorrência da quantidade de pavimentos de edificações comerciais brasileiras e 
 suas respectivas áreas comuns.
-\begin{figure}[ht]
-    \centering
-    \caption{\small Consumo energético em edificações de escritório brasileiras.}
-    \includegraphics[width=0.85\textwidth]{figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png}
-    \begin{flushleft}
-        \par \small Fonte: adaptado de CBCS (2015).
-    \end{flushleft}
-    \label{fig:figura9}
- \end{figure}
+
+    \begin{graph}
+        \par \small Gráfico 5 - Consumo energético em edificações de escritório brasileiras.
+        \begin{minipage}[ht]{1\textwidth}\centering
+            \includegraphics[width=0.85\textwidth]{figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png}            
+        \end{minipage}
+        \begin{flushleft}
+            \par \small Fonte: adaptado de CBCS (2015).
+        \end{flushleft}
+    \end{graph}
 
 \noindent Logo, os dados de IUE adotados para a comparação e avaliação inicial do consumo energético dos 
 modelos foram baseados nos valores máximo e mínimo estabelecidos pelo CBCS (2015). A média 
@@ -115,44 +116,44 @@ horário de funcionamento e densidade de ocupação serão utilizados para estim
 energia elétrica do espaço utilizado por meio de simulação computacional.
 \begin{table}[ht]\centering
     \caption{\small Padrões de uso e ocupação}
-    \vspace*{0.5cm}
+    \vspace*{0.2cm}
     \label{tab:tabela5}
-    \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lll}
+    \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}llll}
         \hline
-        \textbf{Parâmetro}                                & \textbf{Descrição} & \textbf{Referências} \\ \hline
-        Atividades                                        &                    & \makecell[l]{As salas de escritório da cidade\\
-                                                                                são utilizadas, em sua maioria,\\ para 
-                                                                                atividades especializadas de\\ âmbito 
-                                                                                jurídico, relacionadas à \\construção 
-                                                                                civil, a saúde e atividades\\ financeiras.} \\ \hline
-        Horário de funcionamento                          &                    & \makecell[l]{Segundo normas e pesquisas\\ 
-                                                                                sobre o horário de funcioname-\\nto de 
-                                                                                escritórios, o início da ocupação\\ se 
-                                                                                dá às 6h e pode se estender até\\ às 24h. 
-                                                                                Entretanto, visando a aproxima-\\ção às 
-                                                                                condições praticadas no mercado\\ brasileiro, 
-                                                                                adota-se a redução de ocupação\\ durante o 
-                                                                                horário de almoço, denominada\\ ocupação parcial.}  \\ \hline
-        \multicolumn{3}{c}{Continua}\\\hline
+        \textbf{Parâmetro}                                & \multicolumn{2}{c}{\textbf{Descrição}}                                                                                             & \textbf{Referências} \\ \hline
+        \multirow{2}{*}{Atividades}                       & \makecell[l]{Escritório:\vspace*{0,2cm}\\Fator metabólico:\vspace*{0,2cm}} & \makecell[l]{Leve\vspace*{0,2cm}\\0,9 met}                  & \makecell[l]{As salas de escritório da cidade\\
+                                                                                                                                                                                        são utilizadas, em sua maioria,\\ para 
+                                                                                                                                                                                        atividades especializadas de\\ âmbito 
+                                                                                                                                                                                        jurídico, relacionadas à \\construção 
+                                                                                                                                                                                        civil, a saúde e atividades\\ financeiras.} \\ \hline
+        \multicolumn{4}{c}{Continua}\\\hline
     \end{tabular*}
 \end{table}\pagebreak
 \begin{table}[ht]\centering
-        \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}lll}
+        \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}llll}
         \hline
-        \multicolumn{3}{c}{Conclusão}\\\hline
-        Densidade de ocupação                             & 0,14 pessoas/m²    & \makecell[l]{(CONSELHO BRASILEIRO\\ DE CONSTRUÇÃO 
-                                                                                SUSTENTÁVEL -\\ CBCS, 2015; LAMBERTS; 
-                                                                                GHISI; RAMOS,\\ 2006; MORAES; PEREIRA, 2014).} \\ \hline
-        Temperatura de controle                           & 24°C               & \makecell[l]{Temperatura limite de\\ acionamento
-                                                                                do sistema de condicionamento\\ de ar (ASHRAE, 
-                                                                                2010, 2017a;\\ INMETRO, 2010a).} \\ \hline
-        \makecell[l]{Nível de iluminância\\ de referência}& 500 lux            & \makecell[l]{Iluminância mínima (entorno\\ de 
-                                                                                trabalho) para atividades\\ visuais 
-                                                                                (ASHRAE, 2010;\\ ABNT, 2013).} \\ \hline
-        \makecell[l]{Umidade Relativa\\ Interna}          & 40\%-60\%          & \makecell[l]{Faixa recomentada pela\\
-                                                                                ASHRAE 55 (2017a).}\\ \hline
+        \multicolumn{4}{c}{Conclusão}\\\hline
+        \multirow{2}{*}{Horário de funcionamento}                          & \makecell[l]{Ocupação\\ total:\vspace*{0,2cm}\\Ocupação \\parcial (50\%):\vspace*{0,6cm}}  & \makecell[l]{8h às 12h; \\13h às 18h \vspace*{0,6cm}\\12h às 13h} & \makecell[l]{Segundo normas e pes-\\quisas
+                                                                                                                                                                                                                                                sobre o horário de\\ funcionamento de 
+                                                                                                                                                                                                                                                escri-\\tórios, o início da ocupa-\\ção se 
+                                                                                                                                                                                                                                                dá às 6h e pode se\\ estender até às 24h.\\ 
+                                                                                                                                                                                                                                                Entretanto, visando a\\ aproximação às 
+                                                                                                                                                                                                                                                condi-\\ções praticadas no\\ mercado brasileiro,\\ 
+                                                                                                                                                                                                                                                adota-se a redução\\ de ocupação durante\\ o 
+                                                                                                                                                                                                                                                horário de almoço, \\denominada ocupação\\ parcial.}  \\ \hline
+        Densidade de ocupação                             & \multicolumn{2}{c}{0,14 pessoas/m²} & \makecell[l]{(CONSELHO BRASILEIRO\\ DE CONSTRUÇÃO 
+                                                                                                  SUS-\\TENTÁVEL - CBCS, 2015;\\ LAMBERTS; 
+                                                                                                  GHISI;\\ RAMOS, 2006; MORAES;\\ PEREIRA, 2014).} \\ \hline
+        Temperatura de controle                           & \multicolumn{2}{c}{24°C}            & \makecell[l]{Temperatura limite de\\ acionamento
+                                                                                                  do sistema de\\ condicionamento de\\ ar (ASHRAE, 
+                                                                                                  2010, 2017a;\\ INMETRO, 2010a).} \\ \hline
+        \makecell[l]{Nível de iluminância\\ de referência}& \multicolumn{2}{c}{500 lux}         & \makecell[l]{Iluminância mínima (entor-\\no de 
+                                                                                                  trabalho) para ativi-\\dades visuais 
+                                                                                                  (ASHRAE,\\ 2010; ABNT, 2013).} \\ \hline
+        \makecell[l]{Umidade Relativa\\ Interna}          & \multicolumn{2}{c}{40\%-60\%}       & \makecell[l]{Faixa recomentada pela\\
+                                                                                                  ASHRAE 55 (2017a).}\\ \hline
     \end{tabular*}
     \begin{flushleft}
         \par \small Fonte: autor (2019).
     \end{flushleft}
-\end{table}\newline
+\end{table}

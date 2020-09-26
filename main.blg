@@ -1,37 +1,37 @@
 [0] Config.pm:304> INFO - This is Biber 2.14
-[0] Config.pm:307> INFO - Logfile is 'main.blg'
-[73] biber-MSWIN64:322> INFO - === 
-[118] Biber.pm:415> INFO - Reading 'main.bcf'
-[294] Biber.pm:943> INFO - Found 90 citekeys in bib section 0
-[311] Biber.pm:4256> INFO - Processing section 0
-[311] Utils.pm:75> INFO - Globbing data source 'ref.bib'
-[321] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
-[337] Biber.pm:4455> INFO - Looking for bibtex format file 'ref.bib' for section 0
-[387] bibtex.pm:1653> INFO - LaTeX decoding ...
-[1961] bibtex.pm:1471> INFO - Found BibTeX data source 'ref.bib'
-[2080] Utils.pm:304> WARN - ISBN 'NREL/CP-550-39833' in entry 'Torcellini2006' is invalid - run biber with '--validate_datamodel' for details.
-[2089] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Kurnitski2011' is invalid - run biber with '--validate_datamodel' for details.
-[2115] Utils.pm:304> WARN - month field 'may' in entry 'Pikas2014' is not an integer - this will probably not sort properly.
-[2146] Utils.pm:304> WARN - month field 'oct' in entry 'Conejero2016' is not an integer - this will probably not sort properly.
-[2250] Utils.pm:304> WARN - month field 'dec' in entry 'Cronemberger2012' is not an integer - this will probably not sort properly.
-[2255] Utils.pm:304> WARN - month field 'apr' in entry 'Sorgato2018' is not an integer - this will probably not sort properly.
-[2261] Utils.pm:304> WARN - month field 'mar' in entry 'Sudhakar2019' is not an integer - this will probably not sort properly.
-[2296] Utils.pm:304> WARN - ISBN '1678-8621 UL - http://www.scielo.br/scielo.php?script=sci{\_}arttext{\&}pid=S1678-86212017000100201{\&}nrm=iso' in entry 'Dalbem2017' is invalid - run biber with '--validate_datamodel' for details.
-[2307] Utils.pm:304> WARN - month field 'nov' in entry 'Rupp2016' is not an integer - this will probably not sort properly.
-[2310] Utils.pm:304> WARN - ISBN '6785392187' in entry 'AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017a' is invalid - run biber with '--validate_datamodel' for details.
-[2316] Utils.pm:304> WARN - month field 'nov' in entry 'Shaviv2001' is not an integer - this will probably not sort properly.
-[2322] Utils.pm:304> WARN - month field 'dec' in entry 'Zhang2014' is not an integer - this will probably not sort properly.
-[2349] Utils.pm:304> WARN - month field 'jan' in entry 'Hensen2012' is not an integer - this will probably not sort properly.
-[2368] Utils.pm:304> WARN - month field 'jul' in entry 'Kamal2019' is not an integer - this will probably not sort properly.
-[2376] Utils.pm:304> WARN - month field 'dec' in entry 'Shin2019' is not an integer - this will probably not sort properly.
-[2385] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Cao2016' is invalid - run biber with '--validate_datamodel' for details.
-[2396] Utils.pm:304> WARN - month field 'sep' in entry 'Guo2018' is not an integer - this will probably not sort properly.
-[2402] Utils.pm:304> WARN - month field 'may' in entry 'Liu2010' is not an integer - this will probably not sort properly.
-[2410] Utils.pm:304> WARN - month field 'apr' in entry 'Wang2014' is not an integer - this will probably not sort properly.
-[2672] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
-[2672] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[2673] Biber.pm:4084> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'pt-BR'
-[2673] Biber.pm:4090> INFO - No sort tailoring available for locale 'pt-BR'
-[2802] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
-[2895] bbl.pm:755> INFO - Output to main.bbl
-[2929] Biber.pm:128> INFO - WARNINGS: 19
+[1] Config.pm:307> INFO - Logfile is 'main.blg'
+[148] biber-MSWIN64:322> INFO - === 
+[188] Biber.pm:415> INFO - Reading 'main.bcf'
+[523] Biber.pm:943> INFO - Found 90 citekeys in bib section 0
+[555] Biber.pm:4256> INFO - Processing section 0
+[556] Utils.pm:75> INFO - Globbing data source 'ref.bib'
+[584] Utils.pm:91> INFO - Globbed data source 'ref.bib' to ref.bib
+[613] Biber.pm:4455> INFO - Looking for bibtex format file 'ref.bib' for section 0
+[711] bibtex.pm:1653> INFO - LaTeX decoding ...
+[3549] bibtex.pm:1471> INFO - Found BibTeX data source 'ref.bib'
+[3771] Utils.pm:304> WARN - ISBN 'NREL/CP-550-39833' in entry 'Torcellini2006' is invalid - run biber with '--validate_datamodel' for details.
+[3786] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Kurnitski2011' is invalid - run biber with '--validate_datamodel' for details.
+[3830] Utils.pm:304> WARN - month field 'may' in entry 'Pikas2014' is not an integer - this will probably not sort properly.
+[3880] Utils.pm:304> WARN - month field 'oct' in entry 'Conejero2016' is not an integer - this will probably not sort properly.
+[4083] Utils.pm:304> WARN - month field 'dec' in entry 'Cronemberger2012' is not an integer - this will probably not sort properly.
+[4095] Utils.pm:304> WARN - month field 'apr' in entry 'Sorgato2018' is not an integer - this will probably not sort properly.
+[4106] Utils.pm:304> WARN - month field 'mar' in entry 'Sudhakar2019' is not an integer - this will probably not sort properly.
+[4192] Utils.pm:304> WARN - ISBN '1678-8621 UL - http://www.scielo.br/scielo.php?script=sci{\_}arttext{\&}pid=S1678-86212017000100201{\&}nrm=iso' in entry 'Dalbem2017' is invalid - run biber with '--validate_datamodel' for details.
+[4216] Utils.pm:304> WARN - month field 'nov' in entry 'Rupp2016' is not an integer - this will probably not sort properly.
+[4229] Utils.pm:304> WARN - ISBN '6785392187' in entry 'AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017a' is invalid - run biber with '--validate_datamodel' for details.
+[4245] Utils.pm:304> WARN - month field 'nov' in entry 'Shaviv2001' is not an integer - this will probably not sort properly.
+[4261] Utils.pm:304> WARN - month field 'dec' in entry 'Zhang2014' is not an integer - this will probably not sort properly.
+[4317] Utils.pm:304> WARN - month field 'jan' in entry 'Hensen2012' is not an integer - this will probably not sort properly.
+[4376] Utils.pm:304> WARN - month field 'jul' in entry 'Kamal2019' is not an integer - this will probably not sort properly.
+[4395] Utils.pm:304> WARN - month field 'dec' in entry 'Shin2019' is not an integer - this will probably not sort properly.
+[4410] Utils.pm:304> WARN - ISBN '0378-7788' in entry 'Cao2016' is invalid - run biber with '--validate_datamodel' for details.
+[4429] Utils.pm:304> WARN - month field 'sep' in entry 'Guo2018' is not an integer - this will probably not sort properly.
+[4442] Utils.pm:304> WARN - month field 'may' in entry 'Liu2010' is not an integer - this will probably not sort properly.
+[4464] Utils.pm:304> WARN - month field 'apr' in entry 'Wang2014' is not an integer - this will probably not sort properly.
+[5018] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'variable = shifted' with 'variable = non-ignorable'
+[5019] UCollate.pm:68> INFO - Overriding locale 'pt-BR' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[5019] Biber.pm:4084> INFO - Sorting list 'ynt/global//global/global' of type 'entry' with template 'ynt' and locale 'pt-BR'
+[5019] Biber.pm:4090> INFO - No sort tailoring available for locale 'pt-BR'
+[5300] bbl.pm:652> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[5497] bbl.pm:755> INFO - Output to main.bbl
+[5509] Biber.pm:128> INFO - WARNINGS: 19
