@@ -2496,6 +2496,9 @@
     <bcf:citekey order="153">CentroBrasileirodeEficienciaEnergeticaemEdificacoesCB3E2015</bcf:citekey>
     <bcf:citekey order="153">AssociacaoBrasileiradeNormasTecnicas-ABNT2003</bcf:citekey>
     <bcf:citekey order="154">InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018</bcf:citekey>
+    <bcf:citekey order="155">InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018</bcf:citekey>
+    <bcf:citekey order="156">InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018</bcf:citekey>
+    <bcf:citekey order="157">Didone2014a</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="ynt">

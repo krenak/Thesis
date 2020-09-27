@@ -60,3 +60,5 @@
 \contentsline {subsection}{\numberline {3.4}Definição dos modelos genéricos}{47}{subsection.3.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.1}Composição dos modelos genéricos}{47}{subsubsection.3.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.2}Parâmetros arquitetônicos dos modelos genéricos}{52}{subsubsection.3.4.2}%
