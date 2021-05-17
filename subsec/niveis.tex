@@ -1,39 +1,14 @@
 \subsection{Níveis de eficiência energética}
-Os níveis de eficiência dos aparelhos utilizados na manutenção do conforto da edificação 
-exercem importante papel quando há a necessidade de racionamento do consumo energético. 
-Para tal, estes aparelhos são avaliados segundo critérios de desempenho energético e, ao 
-final dessa avaliação, é atribuído um índice representativo da eficiência energética 
-alcançada. Os índices de desempenho apresentados neste trabalho foram baseados na 
-Instrução Normativa Inmetro para Classe de Eficiência Energética de Edificações Comerciais, 
-de Serviços e Públicas – INI-C.
+Os níveis de eficiência dos aparelhos utilizados na manutenção do conforto da edificação exercem importante papel quando há a necessidade de racionamento do consumo energético. Para tal, estes aparelhos são avaliados segundo critérios de desempenho energético e, ao final dessa avaliação, é atribuído um índice representativo da eficiência energética alcançada. Os índices de desempenho apresentados neste trabalho foram baseados na Instrução Normativa Inmetro para Classe de Eficiência Energética de Edificações Comerciais, de Serviços e Públicas – INI-C.
+
 \subsubsection{Determinação da classe de eficiência energética dos modelos genéricos}
-As primeiras simulações energéticas servem como meio de ajuste e verificação de erros 
-entre os dados de saída de consumo energético e intensidade de uso de energia. Os 
-resultados das simulações iniciais foram comparados às análises feitas de Determinação 
-de Classe de Desempenho Energético, baseado na metodologia do INI-C, e nos resultados 
-apresentados pelo Relatório Final de Desempenho Energético do CBCS. A partir da 
-discrepância dos valores obtidos entre as simulações iniciais e as referências 
-selecionadas, foram realizados ajustes a fim de adequar o modelo computacional à 
-tolerância estabelecida.\vspace*{0.3cm} \newline
-Os modelos genéricos foram avaliados segundo a definição da Instrução Normativa, onde 
-é definido que o Modelo Real representa a edificação a ser classificada, enquanto 
-o Modelo de Referencia representa a edificação com baixo desempenho energético. 
-Desta forma, os edifícios propostos são comparados com um modelo de baixa performance, 
-evidenciando, assim, seu desempenho energético. As variáveis analisadas para a 
-comparação com o Modelo de Referência foram o consumo de energia térmica, elétrica 
-e primaria dos modelos.\vspace*{0.3cm} \newline
-A partir do diagnóstico de desempenho energética dos modelos genéricos, foram 
-implementadas as otimizações e medidas de produção de energia em contraponto ao 
-consumo energético constatado em simulação.
+As primeiras simulações energéticas servem como meio de ajuste e verificação de erros entre os dados de saída de consumo energético e intensidade de uso de energia. Os resultados das simulações iniciais foram comparados às análises feitas de Determinação de Classe de Desempenho Energético, baseado na metodologia do INI-C, e nos resultados apresentados pelo Relatório Final de Desempenho Energético do CBCS. A partir da discrepância dos valores obtidos entre as simulações iniciais e as referências selecionadas, foram realizados ajustes a fim de adequar o modelo computacional à tolerância estabelecida.\vspace*{0.3cm} \newline
+Os modelos genéricos foram avaliados segundo a definição da Instrução Normativa, onde é definido que o Modelo Real representa a edificação a ser classificada, enquanto o Modelo de Referencia representa a edificação com baixo desempenho energético. Desta forma, os edifícios propostos são comparados com um modelo de baixa performance, evidenciando, assim, seu desempenho energético. As variáveis analisadas para a comparação com o Modelo de Referência foram o consumo de energia térmica, elétrica e primaria dos modelos.\vspace*{0.3cm} \newline
+A partir do diagnóstico de desempenho energética dos modelos genéricos, foram implementadas as otimizações e medidas de produção de energia em contraponto ao consumo energético constatado em simulação.
+
 \subsubsection{Eficiência energética do sistema de condicionamento de ar}
-Os sistemas de condicionamento de ar presentes em edifícios de escritório são 
-compostos basicamente por dois tipos de equipamentos: ar-condicionado Split e o 
-Sistema Central de Água Gelada – CAG \cite{ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015}.\vspace*{0.3cm} \newline
-Segundo o \textcite{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018}, esses equipamentos são classificados segundo a 
-capacidade de resfriamento e a potência absorvida pelos motores em pleno 
-funcionamento. Esta relação é representada pelo Coeficiente de Performance – COP, 
-expresso em W/W. O COP para equipamentos de ar condicionado é categorizado 
-segundo uma Classe de Eficiência Energética – CEE, como apresentado na Tabela \ref{tab:tabela6}.
+Os sistemas de condicionamento de ar presentes em edifícios de escritório são compostos basicamente por dois tipos de equipamentos: ar-condicionado Split e o Sistema Central de Água Gelada – CAG \cite{ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015}.\vspace*{0.3cm} \newline
+Segundo o \textcite{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018}, esses equipamentos são classificados segundo a capacidade de resfriamento e a potência absorvida pelos motores em pleno funcionamento. Esta relação é representada pelo Coeficiente de Performance – COP, expresso em W/W. O COP para equipamentos de ar condicionado é categorizado segundo uma Classe de Eficiência Energética – CEE, como apresentado na Tabela \ref{tab:tabela6}.
 
 \begin{table}[ht]\centering
     \caption{\small  Relação entre o COP e as Classes de Eficiência Energética de Condicionadores de ar.}
@@ -52,30 +27,13 @@ segundo uma Classe de Eficiência Energética – CEE, como apresentado na Tabel
     \end{flushleft}
 \end{table}\vspace*{-0.5cm}
 
-\noindent Esta classificação atribuída ao sistema de ar condicionado dos modelos genéricos, juntamente 
-ao nível de eficiência energética do sistema de iluminação, é essencial para a etapa de 
-simulação e identificação do consumo final de energia dos modelos genéricos, representantes 
-do cenário observado dentro do recorte territorial.\vspace*{0.3cm} \newline
-Como o sistema mais frequente observado nas edificações levantadas foi o Sistema Central 
-de Água Gelada – CAG, com volume de ar constante, e este, tomando como base os modelos mais 
-populares do mercado brasileiro, possui COP base próximo a classe “D” por demandar muita 
-energia à sua operação, foi utilizado o valor de COP indicado à classe “D” pela tabela da 
-INI-C. Posterior a etapa de determinação de classe, foi feita a substituição dos aparelhos 
-pertencentes à classe “D” – 2,60, para a classe “A” – 3,23 como forma de otimização 
-utilizando estratégia ativa de redução de consumo de energia.
+\noindent Esta classificação atribuída ao sistema de ar condicionado dos modelos genéricos, juntamente ao nível de eficiência energética do sistema de iluminação, é essencial para a etapa de simulação e identificação do consumo final de energia dos modelos genéricos, representantes do cenário observado dentro do recorte territorial.\vspace*{0.3cm} \newline
+Como o sistema mais frequente observado nas edificações levantadas foi o Sistema Central de Água Gelada – CAG, com volume de ar constante, e este, tomando como base os modelos mais populares do mercado brasileiro, possui COP base próximo a classe “D” por demandar muita energia à sua operação, foi utilizado o valor de COP indicado à classe “D” pela tabela da INI-C. Posterior a etapa de determinação de classe, foi feita a substituição dos aparelhos pertencentes à classe “D” – 2,60, para a classe “A” – 3,23 como forma de otimização utilizando estratégia ativa de redução de consumo de energia.
+
 \subsubsection{Eficiência energética do sistema iluminação artificial e equipamentos}
-A eficiência do sistema de iluminação e equipamentos de um edifício de escritório, tal 
-qual o sistema de condicionamento de ar, representa uma parcela importante no consumo 
-final de energia elétrica da edificação \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2019,ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015}.\vspace*{0.3cm} \newline
-Dessa forma, para certificar que o sistema de iluminação artificial seja energeticamente 
-eficiente e reduza o impacto desse sistema no consumo de energia elétrica, é avaliada a 
-razão entre o somatório das potências das lâmpadas e reatores instalados e a área de um 
-ambiente ou zona térmica, razão denominada como Densidade de Potência de Iluminação – DPI, 
-expressa em W/m². O mesmo procedimento é aplicado aos equipamentos, definidos pela Densidade 
-de Potência de Equipamentos – DPE, expressa em W/m². A união das duas densidades é definida 
-pela Densidade de Carga Interna – DCI.\vspace*{0.3cm} \newline
-Após a avaliação do DPI, os equipamentos de iluminação artificial são classificados 
-segundo a classe de eficiência energética estabelecida pelo PBE/Inmetro, conforme a Tabela \ref{tab:tabela7}.
+A eficiência do sistema de iluminação e equipamentos de um edifício de escritório, tal qual o sistema de condicionamento de ar, representa uma parcela importante no consumo final de energia elétrica da edificação \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2019,ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015}.\vspace*{0.3cm} \newline
+Dessa forma, para certificar que o sistema de iluminação artificial seja energeticamente eficiente e reduza o impacto desse sistema no consumo de energia elétrica, é avaliada a razão entre o somatório das potências das lâmpadas e reatores instalados e a área de um ambiente ou zona térmica, razão denominada como Densidade de Potência de Iluminação – DPI, expressa em W/m². O mesmo procedimento é aplicado aos equipamentos, definidos pela Densidade de Potência de Equipamentos – DPE, expressa em W/m². A união das duas densidades é definida pela Densidade de Carga Interna – DCI.\vspace*{0.3cm} \newline
+Após a avaliação do DPI, os equipamentos de iluminação artificial são classificados segundo a classe de eficiência energética estabelecida pelo PBE/Inmetro, conforme a Tabela \ref{tab:tabela7}.
 
 \begin{table}[ht]\centering
     \caption{\small Densidades de Potência de Iluminação definidas pelo INI-C e as Classes de Eficiência Energética.}
@@ -93,12 +51,4 @@ segundo a classe de eficiência energética estabelecida pelo PBE/Inmetro, confo
         \par \small Fonte: adaptado de INMETRO (2018).
     \end{flushleft}
 \end{table}\vspace*{-0.5cm}
-\noindent Assim como o sistema de condicionamento de ar, a definição da DPI possibilita classificar o 
-sistema de iluminação artificial do modelo genérico segundo sua eficiência energética. 
-Para a determinação da classe de eficiência energética, o procedimento é o mesmo adotado 
-para definição do COP para a etapa de simulação, e neste caso, como os equipamentos 
-elétricos e de iluminação não foram levantados nominalmente, partiu-se da situação requerida 
-e indicada pelo INI-C, com DPI classe “D”, de 14,10 W/m², e equipamentos com DPE de 9,7 W/m². 
-Desta forma, espera-se que seja evidenciada a influência do sistema de iluminação no 
-contexto geral de otimização da edificação.
-
+\noindent Assim como o sistema de condicionamento de ar, a definição da DPI possibilita classificar o sistema de iluminação artificial do modelo genérico segundo sua eficiência energética. Para a determinação da classe de eficiência energética, o procedimento é o mesmo adotado para definição do COP para a etapa de simulação, e neste caso, como os equipamentos elétricos e de iluminação não foram levantados nominalmente, partiu-se da situação requerida e indicada pelo INI-C, com DPI classe “D”, de 14,10 W/m², e equipamentos com DPE de 9,7 W/m². Desta forma, espera-se que seja evidenciada a influência do sistema de iluminação no contexto geral de otimização da edificação.

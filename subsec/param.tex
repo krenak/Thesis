@@ -1,24 +1,7 @@
 \subsubsection{Parâmetros de conforto térmico}
-Segundo a norma americana ASHRAE Fundamentals (2017), a sensação de conforto térmico 
-é a situação onde a temperatura do corpo é mantida dentro de um limite confortável, 
-a umidade da pele é baixa e o esforço fisiológico para manter estas condições é minimizado. 
-Adicionalmente, a faixa de temperatura de conforto em ambientes como um escritório 
-transita entre temperaturas acima de 21°C e abaixo de 24°C. Com base nessas definições 
-e para avaliar o estado de conforto térmico dos ocupantes de um edifício de escritórios, 
-aplicam-se modelos preditivos para avaliação desta condição do ambiente.\vspace*{0.3cm} \newline
-Em se tratando de edificações condicionadas artificialmente, um dos modelos utilizados 
-para esta avaliação é o Voto Médio Predito e Porcentagem Predita de Insatisfeitos, 
-ou \textit{Predicted Mean Vote} – PMV, juntamente ao \textit{Predicted Percentage of Dissatisfied} – PPD.\vspace*{0.3cm} \newline
-Publicado em 1970 por Povl Ole Fanger, este modelo é utilizado por normas como 
-a ISO 7730, para avaliar o conforto térmico de um ambiente por meio de um questionário 
-aplicado aos ocupantes da edificação avaliada \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017}. Entretanto, este 
-modelo apresenta discrepâncias quando aplicado à realidade brasileira, além de ser um 
-modelo inviável para cenários que utilizem ventilação natural \cite{Rupp2016}. 
-Estes fatores tornaram sua utilização inapropriada para o presente estudo.
-Outra forma de avaliação do conforto térmico no local de trabalho, como o ambiente 
-condicionado de um escritório, é o modelo de conforto adaptativo. Este modelo avalia a 
-adaptação do usuário em diferentes campos como o fisiológico, o comportamental e o 
-psicológico \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017a} e pode ser expresso pela Equação \ref{eq:eq1}.
+Segundo a norma americana ASHRAE Fundamentals (2017), a sensação de conforto térmico é a situação onde a temperatura do corpo é mantida dentro de um limite confortável, a umidade da pele é baixa e o esforço fisiológico para manter estas condições é minimizado. Adicionalmente, a faixa de temperatura de conforto em ambientes como um escritório transita entre temperaturas acima de 21°C e abaixo de 24°C. Com base nessas definições e para avaliar o estado de conforto térmico dos ocupantes de um edifício de escritórios, aplicam-se modelos preditivos para avaliação desta condição do ambiente.\vspace*{0.3cm} \newline
+Em se tratando de edificações condicionadas artificialmente, um dos modelos utilizados para esta avaliação é o Voto Médio Predito e Porcentagem Predita de Insatisfeitos, ou \textit{Predicted Mean Vote} – PMV, juntamente ao \textit{Predicted Percentage of Dissatisfied} – PPD.\vspace*{0.3cm} \newline
+Publicado em 1970 por Povl Ole Fanger, este modelo é utilizado por normas como a ISO 7730, para avaliar o conforto térmico de um ambiente por meio de um questionário aplicado aos ocupantes da edificação avaliada \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017}. Entretanto, este modelo apresenta discrepâncias quando aplicado à realidade brasileira, além de ser um modelo inviável para cenários que utilizem ventilação natural \cite{Rupp2016}. Estes fatores tornaram sua utilização inapropriada para o presente estudo. Outra forma de avaliação do conforto térmico no local de trabalho, como o ambiente condicionado de um escritório, é o modelo de conforto adaptativo. Este modelo avalia a adaptação do usuário em diferentes campos como o fisiológico, o comportamental e o psicológico \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017a} e pode ser expresso pela Equação \ref{eq:eq1}.
 \begin{equation}\label{eq:eq1}
             t_{c}=24,2+0,42\times(t_{ext}-22)exp-\left(\frac{T_{ext}-22}{24\sqrt{2}}\right)^2
 \end{equation}
@@ -26,18 +9,9 @@ psicológico \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngin
 Onde:\par
 \setlength\parindent{1.5cm} t\textsubscript{c} é a temperatura de conforto; e\par
 \setlength\parindent{1.5cm} t\textsubscript{ext} é a temperatura externa ou temperatura de bulbo seco.\par
-\noindent A temperatura de conforto auxilia a definir o set point de acionamento do sistema de 
-condicionamento de ar temperatura para o ambiente analisado. Dada as condições de 
-adaptação proporcionadas pelo ambiente avaliado e os ajustes naturais feitos pelos 
-ocupantes deste espaço, a temperatura do ar aceitável em ambientes de escritório, por 
-exemplo, pode variar entre 17°C a 31°C \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017a}.\vspace*{0.3cm} \newline
-Associado ao modelo de conforto adaptativo, a ventilação híbrida é uma alternativa de 
-controle de temperatura e redução de consumo de energia ao combinar a ventilação natural 
-com o sistema de condicionamento de ar da edificação. Esta forma de controle térmico 
-representa uma opção para avaliar o consumo de energia \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017}.\vspace*{0.3cm} \newline
-Contudo, a ventilação híbrida não foi observada como solução corrente entre as 
-edificações de Vitória e, de acordo com \textcite{Shaviv2001,Zhang2014,Navarro2016,SCHULZE2018,Sudhakar2019}, 
-dificuldades foram identificadas quanto a implementação deste sistema, dentre elas:
+\noindent A temperatura de conforto auxilia a definir o set point de acionamento do sistema de condicionamento de ar temperatura para o ambiente analisado. Dada as condições de adaptação proporcionadas pelo ambiente avaliado e os ajustes naturais feitos pelos ocupantes deste espaço, a temperatura do ar aceitável em ambientes de escritório, por exemplo, pode variar entre 17°C a 31°C \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017a}.\vspace*{0.3cm} \newline
+Associado ao modelo de conforto adaptativo, a ventilação híbrida é uma alternativa de controle de temperatura e redução de consumo de energia ao combinar a ventilação natural com o sistema de condicionamento de ar da edificação. Esta forma de controle térmico representa uma opção para avaliar o consumo de energia \cite{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2017}.\vspace*{0.3cm} \newline
+Contudo, a ventilação híbrida não foi observada como solução corrente entre as edificações de Vitória e, de acordo com \textcite{Shaviv2001,Zhang2014,Navarro2016,SCHULZE2018,Sudhakar2019}, dificuldades foram identificadas quanto a implementação deste sistema, dentre elas:
 \begin{itemize}
     \item A necessidade de uma ferramenta computacional a parte que simule a influência 
     da ventilação natural sobre a edificação;
@@ -45,8 +19,4 @@ dificuldades foram identificadas quanto a implementação deste sistema, dentre 
     \item A configuração, em caráter individual, de materiais e componentes que reduzam 
     a ação da umidade dentro do ambiente construído onde a ventilação natural atuará.
 \end{itemize}
-Assim, conclui-se que ambos os modelos de conforto ambiental PMV/PPD e conforto adaptativo 
-apresentados são válidos para mensurar o conforto de um ambiente, diferindo entre ambientes 
-controlado e real. Desta forma, foi utilizado o modelo de conforto adaptativo como forma 
-de avaliar a efetividade do condicionamento de ar, por se adequar a proposta da pesquisa ao 
-possibilitar ajustes de conforto térmico voltados ao comportamento do usuário.
+Assim, conclui-se que ambos os modelos de conforto ambiental PMV/PPD e conforto adaptativo apresentados são válidos para mensurar o conforto de um ambiente, diferindo entre ambientes controlado e real. Desta forma, foi utilizado o modelo de conforto adaptativo como forma de avaliar a efetividade do condicionamento de ar, por se adequar a proposta da pesquisa ao possibilitar ajustes de conforto térmico voltados ao comportamento do usuário.
