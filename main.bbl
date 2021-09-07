@@ -35,15 +35,15 @@
       \strng{authornamehash}{6b9b4ce65b073f9838023d332417b9c6}
       \strng{authorfullhash}{6b9b4ce65b073f9838023d332417b9c6}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O ano de 2001 certamente vai ficar marcado na mem{ó}ria dos brasileiros n{ã}o apenas pelo impacto econ{ô}mico que o racionamento de energia causar{á}, tais como a redu{ç}{ã}o do crescimento econ{ô}mico, aumento do desemprego, aumento do d{é}ficit da balan{ç}a comercial, perda de arrecada{ç}{ã}o de impostos e efeito inflacion{á}rio, mas tamb{é}m, pelos grandes inc{ô}modos que a priva{ç}{ã}o de energia causar{á} {à} popula{ç}{ã}o.}
+      \field{abstract}{O ano de 2001 certamente vai ficar marcado na memória dos brasileiros não apenas pelo impacto econômico que o racionamento de energia causará, tais como a redução do crescimento econômico, aumento do desemprego, aumento do déficit da balança comercial, perda de arrecadação de impostos e efeito inflacionário, mas também, pelos grandes incômodos que a privação de energia causará à população.}
       \field{journaltitle}{Ambiente {\&} Sociedade}
       \field{number}{6/7}
-      \field{title}{{As Origens da Crise Energ{é}tica Brasileira}}
+      \field{title}{{As Origens da Crise Energética Brasileira}}
       \field{year}{2000}
       \field{pages}{179\bibrangedash 183}
       \range{pages}{5}
@@ -56,7 +56,7 @@
         {{un=0,uniquepart=base,hash=5bc4bed74922db6227c5adbfed6fc8e5}{%
            family={Brasil},
            familyi={B\bibinitperiod},
-           given={Rep{ú}blica\bibnamedelima Federativa},
+           given={República\bibnamedelima Federativa},
            giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0,
            prefix={do},
@@ -64,7 +64,7 @@
            prefixun=0}}%
       }
       \list{publisher}{1}{%
-        {Rep{ú}blica Federativa do Brasil}%
+        {República Federativa do Brasil}%
       }
       \strng{namehash}{5bc4bed74922db6227c5adbfed6fc8e5}
       \strng{fullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
@@ -74,13 +74,13 @@
       \strng{authorfullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Disp{õ}e sobre medidas emergenciais de racionaliza{ç}{ã}o, visando a redu{ç}{ã}o de consumo e aumento da oferta de energia el{é}trica, e d{á} outras provid{ê}ncias.}
+      \field{abstract}{Dispõe sobre medidas emergenciais de racionalização, visando a redução de consumo e aumento da oferta de energia elétrica, e dá outras providências.}
       \field{title}{{DECRETO N{º} 3.789, DE 18 DE ABRIL DE 2001}}
       \field{year}{2001}
       \field{pages}{2}
@@ -94,14 +94,14 @@
       \verb{url}
       \verb https://www.planalto.gov.br/ccivil%7B%5C_%7D03/decreto/2001/d3789.htm
       \endverb
-      \keyw{(MME),AUMENTO,COMISS{Ã}O,CONSUMO,CRIA{Ç}{Ã}O,ENERGIA EL{É}TRICA,OBJETIVO,OFERTA,PROCEDIMENTO,PROPOSI{Ç}{Ã}O,REDU{Ç}{Ã}O,dec 3789,decreto,{Â}MBITO}
+      \keyw{(MME),AUMENTO,COMISSÃO,CONSUMO,CRIAÇÃO,ENERGIA ELÉTRICA,OBJETIVO,OFERTA,PROCEDIMENTO,PROPOSIÇÃO,REDUÇÃO,dec 3789,decreto,ÂMBITO}
     \endentry
     \entry{Brasil2001a}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=5bc4bed74922db6227c5adbfed6fc8e5}{%
            family={Brasil},
            familyi={B\bibinitperiod},
-           given={Rep{ú}blica\bibnamedelima Federativa},
+           given={República\bibnamedelima Federativa},
            giveni={R\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0,
            prefix={do},
@@ -109,7 +109,7 @@
            prefixun=0}}%
       }
       \list{publisher}{1}{%
-        {Rep{ú}blica Federativa do Brasil}%
+        {República Federativa do Brasil}%
       }
       \strng{namehash}{5bc4bed74922db6227c5adbfed6fc8e5}
       \strng{fullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
@@ -119,13 +119,13 @@
       \strng{authorfullhash}{5bc4bed74922db6227c5adbfed6fc8e5}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Regulamenta a Lei no 10.295, de 17 de outubro de 2001, que disp{õ}e sobre a Pol{í}tica Nacional de Conserva{ç}{ã}o e Uso Racional de Energia, e d{á} outras provid{ê}ncias.}
+      \field{abstract}{Regulamenta a Lei no 10.295, de 17 de outubro de 2001, que dispõe sobre a Política Nacional de Conservação e Uso Racional de Energia, e dá outras providências.}
       \field{title}{{DECRETO N{º} 4.059, DE 19 DE DEZEMBRO DE 2001}}
       \field{year}{2001}
       \field{pages}{3}
@@ -139,7 +139,7 @@
       \verb{url}
       \verb https://www.planalto.gov.br/ccivil%7B%5C_%7D03/decreto/2001/d4059.htm
       \endverb
-      \keyw{COMIT{Ê},CONSERVA{Ç}{Ã}O,CONSUMO,CRIA{Ç}{Ã}O,EFICI{Ê}NCIA,ENERGIA EL{É}TRICA.,ENERGIA EL{É}TRICA. CRIA{Ç}{Ã}O,GEST{Ã}O,INDICA{Ç}{Ã}O,NORMAS,POL{Í}TICA NACIONAL,RACIONALIZA{Ç}{Ã}O,REGULAMENTA{Ç}{Ã}O,UTILIZA{Ç}{Ã}O,dec 4059,decreto}
+      \keyw{COMITÊ,CONSERVAÇÃO,CONSUMO,CRIAÇÃO,EFICIÊNCIA,ENERGIA ELÉTRICA.,ENERGIA ELÉTRICA. CRIAÇÃO,GESTÃO,INDICAÇÃO,NORMAS,POLÍTICA NACIONAL,RACIONALIZAÇÃO,REGULAMENTAÇÃO,UTILIZAÇÃO,dec 4059,decreto}
     \endentry
     \entry{Shaviv2001}{article}{}
       \name{author}{3}{}{%
@@ -172,7 +172,7 @@
       \strng{authornamehash}{41fd45d694eda9a566ee1593237f5470}
       \strng{authorfullhash}{41fd45d694eda9a566ee1593237f5470}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -200,11 +200,11 @@
     \entry{AssociacaoBrasileiradeNormasTecnicas-ABNT2003}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=36c09e886ddb573505393a7d19be5c31}{%
-           family={{Associa{ç}{ã}o\bibnamedelimb Brasileira\bibnamedelimb de\bibnamedelimb Normas\bibnamedelimb T{é}cnicas\bibnamedelimb -\bibnamedelimb ABNT}},
-           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim T\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Associação Brasileira de Normas Técnicas - ABNT}},
+           familyi={A\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Associa{ç}{ã}o Brasileira de Normas T{é}cnicas}%
+        {Associação Brasileira de Normas Técnicas}%
       }
       \list{location}{1}{%
         {Rio de Janeiro}%
@@ -217,13 +217,13 @@
       \strng{authorfullhash}{36c09e886ddb573505393a7d19be5c31}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A ABNT - Associa{ç}{ã}o Brasileira de Normas T{é}cnicas - {é} o F{ó}rum Nacional de Normaliza{ç}{ã}o. As Normas Brasileiras, cujo conte{ú}do {é} de responsabilidade dos Comit{ê}s Brasileiros (ABNT/CB) e dos Organismos de Normaliza{ç}{ã}o Setorial (ABNT/ONS), s{ã}o elaboradas por Comiss{õ}es de Estudo (CE), formadas por representantes dos setores envolvidos, delas fazendo parte: produtores, consumidores e neutros (universidades, laborat{ó}rios e outros).}
-      \field{title}{{NBR 15220: Desempenho t{é}rmico de edifica{ç}{õ}es}}
+      \field{abstract}{A ABNT - Associação Brasileira de Normas Técnicas - é o Fórum Nacional de Normalização. As Normas Brasileiras, cujo conteúdo é de responsabilidade dos Comitês Brasileiros (ABNT/CB) e dos Organismos de Normalização Setorial (ABNT/ONS), são elaboradas por Comissões de Estudo (CE), formadas por representantes dos setores envolvidos, delas fazendo parte: produtores, consumidores e neutros (universidades, laboratórios e outros).}
+      \field{title}{{NBR 15220: Desempenho térmico de edificações}}
       \field{type}{techreport}
       \field{year}{2003}
       \field{pages}{66}
@@ -231,7 +231,7 @@
       \verb{file}
       \verb :C$\backslash$:/Users/aaa{\_}l/AppData/Local/Mendeley Ltd./Mendeley Desktop/Downloaded/Associa{\c{c}}{\~{a}}o Brasileira de Normas T{\'{e}}cnicas - ABNT - 2005 - NBR 15220 - Desempenho t{\'{e}}rmico de edifica{\c{c}}{\~{o}}es.pdf:pdf
       \endverb
-      \keyw{15220,Desempenho t{é}rmico,NBR}
+      \keyw{15220,Desempenho térmico,NBR}
     \endentry
     \entry{Lamberts2006}{report}{}
       \name{author}{3}{}{%
@@ -258,7 +258,7 @@
         {Universidade Federal de Santa Catarina}%
       }
       \list{location}{1}{%
-        {Florian{ó}polis}%
+        {Florianópolis}%
       }
       \strng{namehash}{d95f0b9766d2229d8fdc13bb37bee098}
       \strng{fullhash}{d95f0b9766d2229d8fdc13bb37bee098}
@@ -267,13 +267,13 @@
       \strng{authornamehash}{d95f0b9766d2229d8fdc13bb37bee098}
       \strng{authorfullhash}{d95f0b9766d2229d8fdc13bb37bee098}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Durante um longo per{í}odo a energia foi utilizada de forma intensa e sem limites, o que provocou o desencadeamento de crises energ{é}ticas sentidas globalmente (CRUZ et al., 2004). Em rela{ç}{ã}o a este cen{á}rio, o consumo de energia el{é}trica tem crescido substancialmente no Brasil, assim como em outros pa{í}ses em desenvolvimento. Nas {ú}ltimas tr{ê}s d{é}cadas, aumentou 7,5{\%} ao ano, ao passo que a popula{ç}{ã}o brasileira cresceu 2{\%} ao ano e a economia e o consumo final de energia, 4{\%} ao ano. Desse modo, a participa{ç}{ã}o da eletricidade no consumo final de energia passou de 16{\%}, em 1970, para 39,5{\%}, em 1999 (BEN, 2002). Assim, construir considerando as vari{á}veis clim{á}ticas aliadas {à}s t{é}cnicas renov{á}veis e energeticamente compat{í}veis, {é} uma necessidade quando analisado o panorama mundial e local da evolu{ç}{ã}o do consumo em rela{ç}{ã}o {à} disponibilidade de energia.}
-      \field{title}{{Impactos da Adequa{ç}{ã}o Clim{á}tica Sobre a Efici{ê}ncia Energ{é}tica e o Conforto T{é}rmico de Edif{í}cios de Escrit{ó}rios no Brasil}}
+      \field{abstract}{Durante um longo período a energia foi utilizada de forma intensa e sem limites, o que provocou o desencadeamento de crises energéticas sentidas globalmente (CRUZ et al., 2004). Em relação a este cenário, o consumo de energia elétrica tem crescido substancialmente no Brasil, assim como em outros países em desenvolvimento. Nas últimas três décadas, aumentou 7,5{\%} ao ano, ao passo que a população brasileira cresceu 2{\%} ao ano e a economia e o consumo final de energia, 4{\%} ao ano. Desse modo, a participação da eletricidade no consumo final de energia passou de 16{\%}, em 1970, para 39,5{\%}, em 1999 (BEN, 2002). Assim, construir considerando as variáveis climáticas aliadas às técnicas renováveis e energeticamente compatíveis, é uma necessidade quando analisado o panorama mundial e local da evolução do consumo em relação à disponibilidade de energia.}
+      \field{title}{{Impactos da Adequação Climática Sobre a Eficiência Energética e o Conforto Térmico de Edifícios de Escritórios no Brasil}}
       \field{type}{techreport}
       \field{year}{2006}
       \field{pages}{56}
@@ -281,7 +281,7 @@
       \verb{file}
       \verb ::
       \endverb
-      \keyw{Padr{ã}o de ocup,Padr{ã}o de uso,RTQ-C}
+      \keyw{Padrão de ocup,Padrão de uso,RTQ-C}
     \endentry
     \entry{Torcellini2006}{article}{}
       \name{author}{4}{ul=3}{%
@@ -317,7 +317,7 @@
       \strng{authornamehash}{42dd345db06e46980f13a027527068d8}
       \strng{authorfullhash}{e769b3ca02974f7c8e02ec967c72efe9}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -364,14 +364,14 @@
       \strng{authornamehash}{72206679bb15764fe827db96b6e7b4bc}
       \strng{authorfullhash}{72206679bb15764fe827db96b6e7b4bc}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O racionamento de energia ocorrido em 2001 foi o marco para promulga{ç}{ã}o da chamada lei de efici{ê}ncia energ{é}tica, a Lei no 10295 que disp{õ}e sobre a Pol{í}tica Nacional de Conserva{ç}{ã}o e Uso Racional de Energia. Ela foi regulamentada pelo Decreto no 4059 de 19 de dezembro de 2001 que estabeleceu que deveriam ser criados par{â}metros referenciais para a efici{ê}ncia energ{é}tica em edifica{ç}{õ}es, com “indicadores t{é}cnicos e regulamenta{ç}{ã}o espec{í}fica” para estabelecer a obrigatoriedade dos n{í}veis de efici{ê}ncia no pa{í}s. O decreto tamb{é}m criou o “Grupo T{é}cnico para Eficientiza{ç}{ã}o de Energia nas Edifica{ç}{õ}es no Pa{í}s” para propor uma forma de regulamentar as edifica{ç}{õ}es constru{í}das no Brasil visando o uso racional da energia el{é}trica. Em face destas condicionantes, esta tese tem por objetivo elaborar metodologia de avalia{ç}{ã}o da efici{ê}ncia energ{é}tica do envolt{ó}rio de edifica{ç}{õ}es comerciais e institucionais.}
+      \field{abstract}{O racionamento de energia ocorrido em 2001 foi o marco para promulgação da chamada lei de eficiência energética, a Lei no 10295 que dispõe sobre a Política Nacional de Conservação e Uso Racional de Energia. Ela foi regulamentada pelo Decreto no 4059 de 19 de dezembro de 2001 que estabeleceu que deveriam ser criados parâmetros referenciais para a eficiência energética em edificações, com “indicadores técnicos e regulamentação específica” para estabelecer a obrigatoriedade dos níveis de eficiência no país. O decreto também criou o “Grupo Técnico para Eficientização de Energia nas Edificações no País” para propor uma forma de regulamentar as edificações construídas no Brasil visando o uso racional da energia elétrica. Em face destas condicionantes, esta tese tem por objetivo elaborar metodologia de avaliação da eficiência energética do envoltório de edificações comerciais e institucionais.}
       \field{bookpagination}{sheet}
-      \field{title}{{Desenvolvimento de Metodologia de Avalia{ç}{ã}o da Efici{ê}ncia Energ{é}tica do Envolt{ó}rio de Edifica{ç}{õ}es N{ã}o-residenciais}}
+      \field{title}{{Desenvolvimento de Metodologia de Avaliação da Eficiência Energética do Envoltório de Edificações Não-residenciais}}
       \field{type}{phdthesis}
       \field{year}{2008}
       \field{pages}{215}
@@ -393,10 +393,10 @@
            prefixun=0}}%
       }
       \list{institution}{1}{%
-        {Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo (ASPE)}%
+        {Agência de Serviços Públicos de Energia do Estado do Espírito Santo (ASPE)}%
       }
       \list{location}{1}{%
-        {Vit{ó}ria, ES}%
+        {Vitória, ES}%
       }
       \strng{namehash}{6d606def5505527d59d30100fe7df406}
       \strng{fullhash}{6d606def5505527d59d30100fe7df406}
@@ -405,14 +405,14 @@
       \strng{authornamehash}{6d606def5505527d59d30100fe7df406}
       \strng{authorfullhash}{6d606def5505527d59d30100fe7df406}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A ind{ú}stria da gera{ç}{ã}o de energia el{é}trica a partir da for- {ç}a dos ventos {é} a que mais tem se expandido nas {ú}ltimas d{é}cadas, entre aquelas aptas {à} escala de gigawatts. Muitos pa{í}ses v{ê}m investindo intensamente nesta op{ç}{ã}o, estenden- do suas fazendas e{ó}licas desde sua por{ç}{ã}o terrestre ao seu mar territorial, num esfor{ç}o conjunto da comunidade global rumo ao crescimento sustent{á}vel.}
+      \field{abstract}{A indústria da geração de energia elétrica a partir da for- ça dos ventos é a que mais tem se expandido nas últimas décadas, entre aquelas aptas à escala de gigawatts. Muitos países vêm investindo intensamente nesta opção, estenden- do suas fazendas eólicas desde sua porção terrestre ao seu mar territorial, num esforço conjunto da comunidade global rumo ao crescimento sustentável.}
       \field{isbn}{978-85-67342-00-9}
-      \field{title}{{Atlas e{ó}lico : Esp{í}rito Santo / Odilon A. Camargo do Amarante, Fabiano de Jesus Lima da Silva, Paulo Emiliano Pi{á} de Andrade}}
+      \field{title}{{Atlas eólico : Espírito Santo / Odilon A. Camargo do Amarante, Fabiano de Jesus Lima da Silva, Paulo Emiliano Piá de Andrade}}
       \field{type}{techreport}
       \field{volume}{1}
       \field{year}{2009}
@@ -421,7 +421,7 @@
       \verb{file}
       \verb ::
       \endverb
-      \keyw{1. Energia e{ó}lica – Esp{í}rito Santo (Estado) – Mapa,Esp{í}rito Santo (Estado) – Medi{ç}{ã}o – Mapas}
+      \keyw{1. Energia eólica – Espírito Santo (Estado) – Mapa,Espírito Santo (Estado) – Medição – Mapas}
     \endentry
     \entry{Crawley2009}{article}{}
       \name{author}{3}{}{%
@@ -451,7 +451,7 @@
       \strng{authornamehash}{7e2bf6ac4853a56d9ed53e24a5015f44}
       \strng{authorfullhash}{7e2bf6ac4853a56d9ed53e24a5015f44}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -488,22 +488,22 @@
       \strng{authorfullhash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O sucesso brasileiro em reduzir as queimadas na Amaz{ô}nia e o trunfo de sua matriz energ{é}tica s{ã}o importantes, mas nem de longe caracterizam uma din{â}mica pr{ó}pria ao desenvolvimento sustent{á}vel. {É} verdade que o Brasil passou, nos {ú}ltimos anos, por um processo expressivo de redu{ç}{ã}o simult{â}nea e in{é}dita da pobreza e da desigualdade de renda. Os avan{ç}os nesta dire{ç}{ã}o, entretanto, n{ã}o se ap{ó}iam hoje em formas de crescimento econ{ô}mico voltadas explicitamente a menor uso de energia e de materiais. O crescimento industrial brasileiro corre fortemente o risco de dissociar-se do que de mais avan{ç}ado se faz hoje em termos internacionais.}
+      \field{abstract}{O sucesso brasileiro em reduzir as queimadas na Amazônia e o trunfo de sua matriz energética são importantes, mas nem de longe caracterizam uma dinâmica própria ao desenvolvimento sustentável. É verdade que o Brasil passou, nos últimos anos, por um processo expressivo de redução simultânea e inédita da pobreza e da desigualdade de renda. Os avanços nesta direção, entretanto, não se apóiam hoje em formas de crescimento econômico voltadas explicitamente a menor uso de energia e de materiais. O crescimento industrial brasileiro corre fortemente o risco de dissociar-se do que de mais avançado se faz hoje em termos internacionais.}
       \field{journaltitle}{Novos Estudos - CEBRAP}
       \field{number}{87}
-      \field{title}{{Desnvolvimento sustent{á}vel: Qual a estrat{é}gia para o Brasil?}}
+      \field{title}{{Desnvolvimento sustentável: Qual a estratégia para o Brasil?}}
       \field{year}{2010}
       \field{pages}{97\bibrangedash 113}
       \range{pages}{17}
       \verb{file}
       \verb ::
       \endverb
-      \keyw{2010,matriz energetica brasileira,matriz energ{é}tica}
+      \keyw{2010,matriz energetica brasileira,matriz energética}
     \endentry
     \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2010}{book}{}
       \name{author}{1}{}{%
@@ -525,7 +525,7 @@
       \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -562,12 +562,12 @@
       \strng{authornamehash}{868d8777b8424257c48e06429d270bec}
       \strng{authorfullhash}{868d8777b8424257c48e06429d270bec}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{With the current movement towards net zero energy buildings, many technologies are promoted with emphasis on their superior energy efficiency. The variable refrigerant flow (VRF) and ground source heat pump (GSHP) systems are probably the most competitive technologies among these. However, there are few studies reporting the energy efficiency of VRF systems compared with GSHP systems. In this article, a preliminary comparison of energy efficiency between the air-source VRF and GSHP systems is presented. The computer simulation results show that GSHP system is more energy efficient than the air-source VRF system for conditioning a small office building in two selected US climates. In general, GSHP system is more energy efficient than the air-source VRV system, especially when the building has significant heating loads. For buildings with less heating loads, the GSHP system could still perform better than the air-source VRF system in terms of energy efficiency, but the resulting energy savings may be marginal. © 2009 Elsevier B.V. All rights reserved.}
+      \field{abstract}{With the current movement towards net zero energy buildings, many technologies are promoted with emphasis on their superior energy efficiency. The variable refrigerant flow (VRF) and ground source heat pump (GSHP) systems are probably the most competitive technologies among these. However, there are few studies reporting the energy efficiency of VRF systems compared with GSHP systems. In this article, a preliminary comparison of energy efficiency between the air-source VRF and GSHP systems is presented. The computer simulation results show that GSHP system is more energy efficient than the air-source VRF system for conditioning a small office building in two selected US climates. In general, GSHP system is more energy efficient than the air-source VRV system, especially when the building has significant heating loads. For buildings with less heating loads, the GSHP system could still perform better than the air-source VRF system in terms of energy efficiency, but the resulting energy savings may be marginal. {©} 2009 Elsevier B.V. All rights reserved.}
       \field{issn}{03787788}
       \field{journaltitle}{Energy and Buildings}
       \field{month}{5}
@@ -618,7 +618,7 @@
       \strng{authorfullhash}{7b2215a22c281891b12a7e68712a5484}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -697,7 +697,7 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=23a88a950a7c5c2929becfdb00c221bf}{%
-           family={Sepp{ä}nen},
+           family={Seppänen},
            familyi={S\bibinitperiod},
            given={Olli},
            giveni={O\bibinitperiod},
@@ -722,12 +722,12 @@
       \strng{authornamehash}{778f93c8ea365cc3c4694b46acb57bad}
       \strng{authorfullhash}{f4b72456596bc12e3e80ddf8cf585aba}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{1. Background T he Energy performance of buildings directive recast (EPBD recast) came into force on 9 July 2010. Member States shall adopt and publish, by 9 July 2012 at the latest, the laws, regulations and administrative provisions necessary to comply with most of the articles. According to the Directive the Member States shall ensure that by 31 December 2020, all new buildings are nearly zero-energy buildings; and after 31 December 2018, new buildings occupied and owned by public authorities are nearly zero-energy buildings. National roadmaps towards nearly zero energy buildings are needed for all member states. Member States shall draw up national plans for increasing the number of nearly zero energy buildings. The national plans shall include, inter alia, the following elements: (a) the Member State's detailed application in practice of the definition of nearly zero-energy buildings, reflecting their national, regional or local conditions, and including a numerical indicator of primary energy use expressed in kWh/m² per year. Primary energy factors used for the determination of the primary energy use may be based on national or regional yearly average values and may take into account relevant European standards; (b) intermediate targets for improving the energy performance of new buildings, by 2015, (c) information on the policies and financial or other measures adopted in the context of for the promotion of nearly zero-energy buildings. Summary This REHVA Task Force proposes a technical definition for nearly zero energy buildings required in the implementation of the Energy performance of buildings directive recast. Energy calculation framework and system boundaries associated with the definition are provided to specify which energy flows in which way are taken into account in the energy performance assessment. The intention of the Task Force is to help the experts in the Member States in defining the nearly zero energy buildings in a uniform way. The directive requires nearly zero energy buildings, but since it does not give minimum or maximum harmonized requirements as well as details of energy performance calculation framework, it will be up to the Member States to define what these for them exactly constitute. In the definition local conditions are to be obviously taken into account, but the uniform methodology can be used in all Member States. The directive defines nearly zero energy building as a building that has a very high energy performance and requires the calculation of primary energy indicator. The nearly zero or very low amount of energy required should be covered to a very significant extent by energy from renewable sources, including energy from renewable sources produced on-site or nearby. Based on the directive's definition, nearly zero energy building is technically defined through the net zero energy building , which is a building using 0 kWh/(m² a) primary energy. Following the cost-optimality principle of the directive, nearly net zero energy building definition is proposed as national cost optimal energy use of > 0 kWh/(m² a) primary energy. In order to end up with proposed general definition, it was needed to clarify which energy flows shall be included in energy performance assessment and how the primary energy factors should be used for primary energy indicator calculation. For the uniform methodology, a general system boundary definition was established with inclusion of active solar and wind energy, as well as the guidance for technical meaning of "nearby" in the directive.}
+      \field{abstract}{1. Background T he Energy performance of buildings directive recast (EPBD recast) came into force on 9 July 2010. Member States shall adopt and publish, by 9 July 2012 at the latest, the laws, regulations and administrative provisions necessary to comply with most of the articles. According to the Directive the Member States shall ensure that by 31 December 2020, all new buildings are nearly zero-energy buildings; and after 31 December 2018, new buildings occupied and owned by public authorities are nearly zero-energy buildings. National roadmaps towards nearly zero energy buildings are needed for all member states. Member States shall draw up national plans for increasing the number of nearly zero energy buildings. The national plans shall include, inter alia, the following elements: (a) the Member State's detailed application in practice of the definition of nearly zero-energy buildings, reflecting their national, regional or local conditions, and including a numerical indicator of primary energy use expressed in kWh/m² per year. Primary energy factors used for the determination of the primary energy use may be based on national or regional yearly average values and may take into account relevant European standards; (b) intermediate targets for improving the energy performance of new buildings, by 2015, (c) information on the policies and financial or other measures adopted in the context of for the promotion of nearly zero-energy buildings. Summary This REHVA Task Force proposes a technical definition for nearly zero energy buildings required in the implementation of the Energy performance of buildings directive recast. Energy calculation framework and system boundaries associated with the definition are provided to specify which energy flows in which way are taken into account in the energy performance assessment. The intention of the Task Force is to help the experts in the Member States in defining the nearly zero energy buildings in a uniform way. The directive requires nearly zero energy buildings, but since it does not give minimum or maximum harmonized requirements as well as details of energy performance calculation framework, it will be up to the Member States to define what these for them exactly constitute. In the definition local conditions are to be obviously taken into account, but the uniform methodology can be used in all Member States. The directive defines nearly zero energy building as a building that has a very high energy performance and requires the calculation of primary energy indicator. The nearly zero or very low amount of energy required should be covered to a very significant extent by energy from renewable sources, including energy from renewable sources produced on-site or nearby. Based on the directive's definition, nearly zero energy building is technically defined through the net zero energy building , which is a building using 0 kWh/(m² a) primary energy. Following the cost-optimality principle of the directive, nearly net zero energy building definition is proposed as national cost optimal energy use of {>} 0 kWh/(m² a) primary energy. In order to end up with proposed general definition, it was needed to clarify which energy flows shall be included in energy performance assessment and how the primary energy factors should be used for primary energy indicator calculation. For the uniform methodology, a general system boundary definition was established with inclusion of active solar and wind energy, as well as the guidance for technical meaning of "nearby" in the directive.}
       \field{booktitle}{REHVA Journal}
       \field{title}{{How to define nearly net zero energy buildings nZEB-REHVA proposal for uniformed national implementation of EPBD recast}}
       \field{type}{techreport}
@@ -763,7 +763,7 @@
            giveni={M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=7c5b4c099bf0bda8b5d9552eab52604c}{%
-           family={Niemel{ä}},
+           family={Niemelä},
            familyi={N\bibinitperiod},
            given={Jouko},
            giveni={J\bibinitperiod},
@@ -785,12 +785,12 @@
       \strng{authornamehash}{a81acf48a4a74fbcb49daa2b3c2e9645}
       \strng{authorfullhash}{ab95bedff592b64e3eb8492542b1a5e3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This study determined cost optimal and nearly zero energy building (nZEB) energy performance levels following the REHVA definition and energy calculation methodology for nZEB national implementation. Cost optimal performance levels - meaning the energy performance leading to minimum life cycle cost - were calculated with net present value method according to the cost optimal draft regulation. The seven-step procedure was developed to conduct cost optimal and nZEB energy performance levels calculations in systematic and robust scientific fashion. It was shown that cost optimal primary energy use can be calculated with limited number of energy simulations as only four construction concepts were simulated and cost calculated. The procedure includes the specification of building envelope components based on specific heat loss coefficient and systems calculation with post processing of energy simulation results, without the need to use iterative approach or optimization algorithm. Model calculations were conducted for Estonian reference detached house to analyse the difference between the cost optimal and nZEB energy performance levels. Cost optimal energy performance level of Estonian reference detached house was 110 kW h/(m2a) primary energy including all energy use with domestic appliances and it was significantly lower than the current minimum requirement of 180 kW h/(m2a). © 2011 Elsevier B.V. All rights reserved.}
+      \field{abstract}{This study determined cost optimal and nearly zero energy building (nZEB) energy performance levels following the REHVA definition and energy calculation methodology for nZEB national implementation. Cost optimal performance levels - meaning the energy performance leading to minimum life cycle cost - were calculated with net present value method according to the cost optimal draft regulation. The seven-step procedure was developed to conduct cost optimal and nZEB energy performance levels calculations in systematic and robust scientific fashion. It was shown that cost optimal primary energy use can be calculated with limited number of energy simulations as only four construction concepts were simulated and cost calculated. The procedure includes the specification of building envelope components based on specific heat loss coefficient and systems calculation with post processing of energy simulation results, without the need to use iterative approach or optimization algorithm. Model calculations were conducted for Estonian reference detached house to analyse the difference between the cost optimal and nZEB energy performance levels. Cost optimal energy performance level of Estonian reference detached house was 110 kW h/(m2a) primary energy including all energy use with domestic appliances and it was significantly lower than the current minimum requirement of 180 kW h/(m2a). {©} 2011 Elsevier B.V. All rights reserved.}
       \field{isbn}{0378-7788}
       \field{issn}{03787788}
       \field{journaltitle}{Energy and Buildings}
@@ -834,7 +834,7 @@
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -852,14 +852,14 @@
     \entry{Bernabe2012}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=9fb927d79d4c691c5b50745b1d0ffea0}{%
-           family={Bernab{é}},
+           family={Bernabé},
            familyi={B\bibinitperiod},
            given={Ana\bibnamedelimb Carolina\bibnamedelima Alves},
            giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim A\bibinitperiod},
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {Universidade Federal do Esp{í}rito Santo}%
+        {Universidade Federal do Espírito Santo}%
       }
       \strng{namehash}{9fb927d79d4c691c5b50745b1d0ffea0}
       \strng{fullhash}{9fb927d79d4c691c5b50745b1d0ffea0}
@@ -868,14 +868,14 @@
       \strng{authornamehash}{9fb927d79d4c691c5b50745b1d0ffea0}
       \strng{authorfullhash}{9fb927d79d4c691c5b50745b1d0ffea0}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O desdobramento das cidades motivou a proposi{ç}{ã}o de edifica{ç}{õ}es cada vez mais verticalizadas, a fim de suprir as demandas do adensamento urbano. Ao longo do tempo, o desenvolvimento vertical esteve atrelado a novas tecnologias que, inicialmente convieram para que o arquiteto tivesse mais liberdade projetual. No entanto, a possibilidade de reproduzir modelos referenciados em um estilo moderno e internacional, fez com que alguns profissionais negligenciassem a estreita rela{ç}{ã}o entre a arquitetura e o meio em que se insere, deixando a cargo dos sistemas artificiais, a garantia de conforto t{é}rmico para os usu{á}rios. O novo cen{á}rio energ{é}tico, entretanto trouxe uma reflex{ã}o acerca da elevada demanda de consumo desse bem nas edifica{ç}{õ}es, culminando em discuss{õ}es, estudos e desenvolvimento de nova realidade, pautada nos conceitos de efici{ê}ncia energ{é}tica.}
+      \field{abstract}{O desdobramento das cidades motivou a proposição de edificações cada vez mais verticalizadas, a fim de suprir as demandas do adensamento urbano. Ao longo do tempo, o desenvolvimento vertical esteve atrelado a novas tecnologias que, inicialmente convieram para que o arquiteto tivesse mais liberdade projetual. No entanto, a possibilidade de reproduzir modelos referenciados em um estilo moderno e internacional, fez com que alguns profissionais negligenciassem a estreita relação entre a arquitetura e o meio em que se insere, deixando a cargo dos sistemas artificiais, a garantia de conforto térmico para os usuários. O novo cenário energético, entretanto trouxe uma reflexão acerca da elevada demanda de consumo desse bem nas edificações, culminando em discussões, estudos e desenvolvimento de nova realidade, pautada nos conceitos de eficiência energética.}
       \field{bookpagination}{sheet}
-      \field{title}{{A influ{ê}ncia da envolt{ó}ria no Consumo Energ{é}tico em Edif{í}cios Artificialmente Climatizados na Cidade de Vit{ó}ria ES}}
+      \field{title}{{A influência da envoltória no Consumo Energético em Edifícios Artificialmente Climatizados na Cidade de Vitória ES}}
       \field{type}{phdthesis}
       \field{year}{2012}
       \field{pages}{132}
@@ -883,7 +883,7 @@
       \verb{file}
       \verb ::
       \endverb
-      \keyw{Edif{í}cios comerciais,Energia el{é}trica - Consumo}
+      \keyw{Edifícios comerciais,Energia elétrica - Consumo}
     \endentry
     \entry{Cronemberger2012}{article}{}
       \name{author}{3}{}{%
@@ -894,13 +894,13 @@
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=8fb05fa24ae45e7c007d799fd7ba5655}{%
-           family={Caama{ñ}o-Mart{í}n},
+           family={Caamaño-Martín},
            familyi={C\bibinithyphendelim M\bibinitperiod},
-           given={Estefan{í}a},
+           given={Estefanía},
            giveni={E\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=fa85a92531267e2b63df567ab0a6179c}{%
-           family={S{á}nchez},
+           family={Sánchez},
            familyi={S\bibinitperiod},
            given={Sergio\bibnamedelima Vega},
            giveni={S\bibinitperiod\bibinitdelim V\bibinitperiod},
@@ -916,7 +916,7 @@
       \strng{authornamehash}{a4dae26738abd02b74e87be643b12368}
       \strng{authorfullhash}{a4dae26738abd02b74e87be643b12368}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -966,12 +966,12 @@
       \strng{authornamehash}{38da266093e0de36bbf302b7e9d4bf68}
       \strng{authorfullhash}{38da266093e0de36bbf302b7e9d4bf68}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{© 2011 Jan L.M. Hensen and Roberto Lamberts. Building Performance Simulation for Design and Operation begins with an introduction to the concepts of performance indicators and targets, followed by a discussion on the role of building simulation in performance-based building design and operation. This sets the ground for in-depth discussion of performance prediction for energy demand, indoor environmental quality (including thermal, visual, indoor air quality and moisture phenomena), HVAC and renewable system performance, urban level modelling, building operational optimization and automation. Effective building performance simulation can reduce the environmental impact of the built environment, improve indoor quality and productivity, and facilitate future innovation and technological progress in construction. It draws on many disciplines, including physics, mathematics, material science, biophysics and human behavioural, environmental and computational sciences. The discipline itself is continuously evolving and maturing, and improvements in model robustness and fidelity are constantly being made. This has sparked a new agenda focusing on the effectiveness of simulation in building life-cycle processes. Produced in cooperation with the International Building Performance Simulation Association (IBPSA), and featuring contributions from fourteen internationally recognised experts in this field, this book provides a unique and comprehensive overview of building performance simulation for the complete building life-cycle from conception to demolition. It is primarily intended for advanced students in building services engineering, and in architectural, environmental or mechanical engineering; and will be useful for building and systems designers and operators.}
+      \field{abstract}{{©} 2011 Jan L.M. Hensen and Roberto Lamberts. Building Performance Simulation for Design and Operation begins with an introduction to the concepts of performance indicators and targets, followed by a discussion on the role of building simulation in performance-based building design and operation. This sets the ground for in-depth discussion of performance prediction for energy demand, indoor environmental quality (including thermal, visual, indoor air quality and moisture phenomena), HVAC and renewable system performance, urban level modelling, building operational optimization and automation. Effective building performance simulation can reduce the environmental impact of the built environment, improve indoor quality and productivity, and facilitate future innovation and technological progress in construction. It draws on many disciplines, including physics, mathematics, material science, biophysics and human behavioural, environmental and computational sciences. The discipline itself is continuously evolving and maturing, and improvements in model robustness and fidelity are constantly being made. This has sparked a new agenda focusing on the effectiveness of simulation in building life-cycle processes. Produced in cooperation with the International Building Performance Simulation Association (IBPSA), and featuring contributions from fourteen internationally recognised experts in this field, this book provides a unique and comprehensive overview of building performance simulation for the complete building life-cycle from conception to demolition. It is primarily intended for advanced students in building services engineering, and in architectural, environmental or mechanical engineering; and will be useful for building and systems designers and operators.}
       \field{booktitle}{Building Performance Simulating for Design and Operation}
       \field{isbn}{9780203891612}
       \field{month}{1}
@@ -1003,7 +1003,7 @@
       \strng{authornamehash}{58f8f25051e96386a6fe8e4b5764a847}
       \strng{authorfullhash}{58f8f25051e96386a6fe8e4b5764a847}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1024,7 +1024,7 @@
     \entry{PrefeituraMunicipaldeVitoria-PMV2012}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0dcd3a5336b4e6cfbc78bb4968ed7bd1}{%
-           family={{Prefeitura Municipal de Vit{ó}ria - PMV}},
+           family={{Prefeitura Municipal de Vitória - PMV}},
            familyi={P\bibinitperiod}}}%
       }
       \strng{namehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
@@ -1035,12 +1035,12 @@
       \strng{authorfullhash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Evolu{ç}{ã}o das Atividades Econ{ô}micas por Setor Econ{ô}mico e Porte Empresarial - 2007 a 2012}}
+      \field{title}{{Evolução das Atividades Econômicas por Setor Econômico e Porte Empresarial - 2007 a 2012}}
       \field{urlday}{17}
       \field{urlmonth}{10}
       \field{urlyear}{2018}
@@ -1076,7 +1076,7 @@
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1095,14 +1095,14 @@
     \entry{AgenciadeServicosPublicosdeEnergiadoEstadodoEspiritoSanto-ASPE2013}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=f51ac6893ff4522ffd35797a6ff33868}{%
-           family={{Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo - ASPE}},
+           family={{Agência de Serviços Públicos de Energia do Estado do Espírito Santo - ASPE}},
            familyi={A\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo}%
+        {Agência de Serviços Públicos de Energia do Estado do Espírito Santo}%
       }
       \list{location}{1}{%
-        {Vit{ó}ria}%
+        {Vitória}%
       }
       \strng{namehash}{f51ac6893ff4522ffd35797a6ff33868}
       \strng{fullhash}{f51ac6893ff4522ffd35797a6ff33868}
@@ -1111,13 +1111,13 @@
       \strng{authornamehash}{f51ac6893ff4522ffd35797a6ff33868}
       \strng{authorfullhash}{f51ac6893ff4522ffd35797a6ff33868}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Num mundo cada vez mais sedento de energia, um dos nossos maiores desafios {é} identificar fontes capazes de suprir as necessidades atuais de consumo dos seres humanos, sem comprometer a qualidade de vida, a seguran{ç}a e a pr{ó}pria sobreviv{ê}ncia das pr{ó}ximas gera{ç}{õ}es. A consci{ê}ncia de que os recursos naturais, em sua maioria, n{ã}o s{ã}o infinitos, tem levado os pa{í}ses do mundo inteiro a buscar solu{ç}{õ}es alternativas, que garantam uma explora{ç}{ã}o planejada, confi{á}vel e de baixo custo e, ao mesmo tempo, uma conviv{ê}ncia n{ã}o destrutiva com os recursos do planeta. Afinal, o desenvolvimento econ{ô}mico de estados e regi{õ}es depende hoje, mais que nunca, da identifica{ç}{ã}o e correta explora{ç}{ã}o de recursos que permitam a produ{ç}{ã}o de energia limpa, a partir de fontes renov{á}veis. Por isso, nos {ú}ltimos anos, os investimentos em pesquisas nesse campo cresceram muito e t{ê}m apresentado excelentes resultados.}
-      \field{title}{{Energia Solar no Esp{í}rito Santo - Tecnologias, Aplica{ç}{õ}es e Oportunidades}}
+      \field{abstract}{Num mundo cada vez mais sedento de energia, um dos nossos maiores desafios é identificar fontes capazes de suprir as necessidades atuais de consumo dos seres humanos, sem comprometer a qualidade de vida, a segurança e a própria sobrevivência das próximas gerações. A consciência de que os recursos naturais, em sua maioria, não são infinitos, tem levado os países do mundo inteiro a buscar soluções alternativas, que garantam uma exploração planejada, confiável e de baixo custo e, ao mesmo tempo, uma convivência não destrutiva com os recursos do planeta. Afinal, o desenvolvimento econômico de estados e regiões depende hoje, mais que nunca, da identificação e correta exploração de recursos que permitam a produção de energia limpa, a partir de fontes renováveis. Por isso, nos últimos anos, os investimentos em pesquisas nesse campo cresceram muito e têm apresentado excelentes resultados.}
+      \field{title}{{Energia Solar no Espírito Santo - Tecnologias, Aplicações e Oportunidades}}
       \field{type}{techreport}
       \field{year}{2013}
       \field{pages}{120}
@@ -1125,13 +1125,13 @@
       \verb{file}
       \verb ::
       \endverb
-      \keyw{Energia Solar,Energias renov{á}veis,Esp{í}rito Santo,Fotovoltaica,Micro e Minigera{ç}{ã}o}
+      \keyw{Energia Solar,Energias renováveis,Espírito Santo,Fotovoltaica,Micro e Minigeração}
     \endentry
     \entry{AssociacaoBrasileiradeNormasTecnicas-ABNT2013}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=36c09e886ddb573505393a7d19be5c31}{%
-           family={{Associa{ç}{ã}o\bibnamedelimb Brasileira\bibnamedelimb de\bibnamedelimb Normas\bibnamedelimb T{é}cnicas\bibnamedelimb -\bibnamedelimb ABNT}},
-           familyi={A\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim T\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Associação Brasileira de Normas Técnicas - ABNT}},
+           familyi={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {ABNT}%
@@ -1144,13 +1144,13 @@
       \strng{authorfullhash}{36c09e886ddb573505393a7d19be5c31}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A Associa{ç}{ã}o Brasileira de Normas T{é}cnicas (ABNT) {é} o Foro Nacional de Normaliza{ç}{ã}o. As Normas Brasileiras, cujo conte{ú}do {é} de responsabilidade dos Comit{ê}s Brasileiros (ABNT/CB), dos Organismos de Normaliza{ç}{ã}o Setorial (ABNT/ONS) e das Comiss{õ}es de Estudo Especiais (ABNT/CEE), s{ã}o elaboradas por Comiss{õ}es de Estudo (CE), formadas por representantes dos setores envolvidos, delas fazendo parte: produtores, consumidores e neutros (universidades, laborat{ó}rios e outros). Esta Norma {é} uma ado{ç}{ã}o id{ê}ntica, em conte{ú}do t{é}cnico, estrutura e reda{ç}{ã}o, {à} ISO/CIE 8995-1:2002 e Cor 1:2005, que foi elaborada conjuntamente pelo CIE-TC 3-21 e ISO/TC 159, Technical Committee Ergonomics, Subcommittee SC 5, Ergonomics of the Physical Environment, conforme ISO/IEC Guide 21-1:2005.}
-      \field{title}{{NBR ISO/CIE 8995-1: Ilumina{ç}{ã}o de ambientes de trabalho - Parte 1: Interior}}
+      \field{abstract}{A Associação Brasileira de Normas Técnicas (ABNT) é o Foro Nacional de Normalização. As Normas Brasileiras, cujo conteúdo é de responsabilidade dos Comitês Brasileiros (ABNT/CB), dos Organismos de Normalização Setorial (ABNT/ONS) e das Comissões de Estudo Especiais (ABNT/CEE), são elaboradas por Comissões de Estudo (CE), formadas por representantes dos setores envolvidos, delas fazendo parte: produtores, consumidores e neutros (universidades, laboratórios e outros). Esta Norma é uma adoção idêntica, em conteúdo técnico, estrutura e redação, à ISO/CIE 8995-1:2002 e Cor 1:2005, que foi elaborada conjuntamente pelo CIE-TC 3-21 e ISO/TC 159, Technical Committee Ergonomics, Subcommittee SC 5, Ergonomics of the Physical Environment, conforme ISO/IEC Guide 21-1:2005.}
+      \field{title}{{NBR ISO/CIE 8995-1: Iluminação de ambientes de trabalho - Parte 1: Interior}}
       \field{year}{2013}
       \field{pages}{54}
       \range{pages}{1}
@@ -1166,12 +1166,12 @@
       \verb{url}
       \verb www.abnt.org.br
       \endverb
-      \keyw{Utilize o sistema para acessar a vers{ã}o atualizada}
+      \keyw{Utilize o sistema para acessar a versão atualizada}
     \endentry
     \entry{Cacador2013}{article}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=6c26d857cc4aa181eb2ac812d59f9155}{%
-           family={Ca{ç}ador},
+           family={Caçador},
            familyi={C\bibinitperiod},
            given={Savio},
            giveni={S\bibinitperiod},
@@ -1190,14 +1190,14 @@
       \strng{authornamehash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
       \strng{authorfullhash}{99f8d2254dfb074ae5cc8db6cd58b5ef}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O objetivo do artigo {é} mostrar o car{á}ter contradit{ó}rio da condi{ç}{ã}o da economia capixaba nos primeiros anos do presente s{é}culo: uma economia com indicadores que revelam ao mesmo tempo certo grau de desenvolvimento socioecon{ô}mico e inser{ç}{ã}o perif{é}rica na economia brasileira. Al{é}m disso, pretende discutir as perspectivas futuras do Esp{í}rito Santo, a partir do papel decisivo que pol{í}ticas p{ú}blicas nas {á}reas de ci{ê}ncia, tecnologia e inova{ç}{ã}o assumem nesse in{í}cio de s{é}culo e ao mesmo tempo em que ficam claros os limites ambientais e de ocupa{ç}{ã}o do espa{ç}o que o contempor{â}neo perfil produtivo do estado (voltado essencialmente para a produ{ç}{ã}o de commodities) significa.}
+      \field{abstract}{O objetivo do artigo é mostrar o caráter contraditório da condição da economia capixaba nos primeiros anos do presente século: uma economia com indicadores que revelam ao mesmo tempo certo grau de desenvolvimento socioeconômico e inserção periférica na economia brasileira. Além disso, pretende discutir as perspectivas futuras do Espírito Santo, a partir do papel decisivo que políticas públicas nas áreas de ciência, tecnologia e inovação assumem nesse início de século e ao mesmo tempo em que ficam claros os limites ambientais e de ocupação do espaço que o contemporâneo perfil produtivo do estado (voltado essencialmente para a produção de commodities) significa.}
       \field{journaltitle}{Geografares}
-      \field{title}{{A situa{ç}{ã}o da economia do Esp{í}rito Santo no in{í}cio do s{é}culo XXI: um estado desenvolvido e perif{é}rico?}}
+      \field{title}{{A situação da economia do Espírito Santo no início do século XXI: um estado desenvolvido e periférico?}}
       \field{volume}{14}
       \field{year}{2013}
       \field{pages}{107\bibrangedash 132}
@@ -1214,7 +1214,7 @@
       \verb{url}
       \verb https://ren.emnuvens.com.br/ren/article/download/368/316
       \endverb
-      \keyw{Esp{í}rito Santo,desenvolvimento regional,indicadores de ci{ê}ncia,indicadores socioecon{ô}micos,tecnologia e inova{ç}{ã}o}
+      \keyw{Espírito Santo,desenvolvimento regional,indicadores de ciência,indicadores socioeconômicos,tecnologia e inovação}
     \endentry
     \entry{Ramos2013}{report}{}
       \name{author}{23}{}{%
@@ -1279,7 +1279,7 @@
            giveni={N\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=bde5ce3dde800d05ac2d34e63426b353}{%
-           family={{Vieira Gon{ç}alves De Souza}},
+           family={{Vieira Gonçalves De Souza}},
            familyi={V\bibinitperiod},
            given={Roberta},
            giveni={R\bibinitperiod},
@@ -1291,7 +1291,7 @@
            giveni={R\bibinitperiod\bibinitdelim P\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=02505cf3eaa0cb20a88843f65cc9d68d}{%
-           family={Patr{í}cia},
+           family={Patrícia},
            familyi={P\bibinitperiod},
            given={Carla},
            giveni={C\bibinitperiod},
@@ -1305,7 +1305,7 @@
         {{un=0,uniquepart=base,hash=36fb537b95e662976092c8c66b3c73bd}{%
            family={Naves},
            familyi={N\bibinitperiod},
-           given={Cl{á}udia},
+           given={Cláudia},
            giveni={C\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=679b698e4d939ca9adfced415c7ad0f4}{%
@@ -1361,7 +1361,7 @@
         {Universidade Federal de Santa Catarina}%
       }
       \list{location}{1}{%
-        {Florian{ó}polis}%
+        {Florianópolis}%
       }
       \strng{namehash}{86af9dd625bd4ae48760881f60c86940}
       \strng{fullhash}{012be44dc4717bdd4c6fc7a2daaff7a1}
@@ -1370,13 +1370,13 @@
       \strng{authornamehash}{86af9dd625bd4ae48760881f60c86940}
       \strng{authorfullhash}{012be44dc4717bdd4c6fc7a2daaff7a1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O Regulamento T{é}cnico da Qualidade do N{í}vel de Efici{ê}ncia Energ{é}tica de Edif{í}cios Comerciais, de Servi{ç}os e P{ú}blicos (RTQ-C) teve sua primeira vers{ã}o regulamentada pela Portaria INMETRO n.{º} 53, de 27 de fevereiro de 2009, posteriormente sucedida pela Portaria INMETRO n.{º} 163, de 08 de junho de 2009. Nele s{ã}o especificados os requisitos t{é}cnicos e os m{é}todos para classifica{ç}{ã}o de edif{í}cios comerciais, de servi{ç}os e p{ú}blicos quanto {à} efici{ê}ncia energ{é}tica, criando condi{ç}{õ}es para a Etiquetagem do n{í}vel de efici{ê}ncia energ{é}tica desta tipologia de edif{í}cios. Tr{ê}s requisitos principais s{ã}o avaliados: a envolt{ó}ria do edif{í}cio, o sistema de ilumina{ç}{ã}o e o sistema de condicionamento do ar.}
-      \field{title}{{Relat{ó}rio t{é}cnico do m{é}todo de avalia{ç}{ã}o do sistema de ilumina{ç}{ã}o do RTQ-C}}
+      \field{abstract}{O Regulamento Técnico da Qualidade do Nível de Eficiência Energética de Edifícios Comerciais, de Serviços e Públicos (RTQ-C) teve sua primeira versão regulamentada pela Portaria INMETRO n.{º} 53, de 27 de fevereiro de 2009, posteriormente sucedida pela Portaria INMETRO n.{º} 163, de 08 de junho de 2009. Nele são especificados os requisitos técnicos e os métodos para classificação de edifícios comerciais, de serviços e públicos quanto à eficiência energética, criando condições para a Etiquetagem do nível de eficiência energética desta tipologia de edifícios. Três requisitos principais são avaliados: a envoltória do edifício, o sistema de iluminação e o sistema de condicionamento do ar.}
+      \field{title}{{Relatório técnico do método de avaliação do sistema de iluminação do RTQ-C}}
       \field{type}{techreport}
       \field{year}{2013}
       \field{pages}{19}
@@ -1403,7 +1403,7 @@
       \strng{authorfullhash}{59e9ffe00dc9ca36ceaa4281c9e336ab}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1425,7 +1425,7 @@
       \verb{url}
       \verb http://www.redalyc.org/articulo.oa?id=31732525002
       \endverb
-      \keyw{matriz energ{é}tica,matriz energ{é}tica brasileira}
+      \keyw{matriz energética,matriz energética brasileira}
     \endentry
     \entry{AmericanSocietyofHeatingRefrigeratingandAir-ConditioningEngineers-ASHRAE2014}{book}{}
       \name{author}{5}{ul=2}{%
@@ -1460,7 +1460,7 @@
       \strng{authorfullhash}{7b2215a22c281891b12a7e68712a5484}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1486,7 +1486,7 @@
     \entry{Didone2014}{thesis}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d07d939c0ca371ea8b32d0a99c00997f}{%
-           family={Didon{é}},
+           family={Didoné},
            familyi={D\bibinitperiod},
            given={Evelise\bibnamedelima Leite},
            giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
@@ -1502,7 +1502,7 @@
       \strng{authornamehash}{d07d939c0ca371ea8b32d0a99c00997f}
       \strng{authorfullhash}{d07d939c0ca371ea8b32d0a99c00997f}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1522,7 +1522,7 @@
     \entry{Didone2014a}{article}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=d07d939c0ca371ea8b32d0a99c00997f}{%
-           family={Didon{é}},
+           family={Didoné},
            familyi={D\bibinitperiod},
            given={Evelise\bibnamedelima Leite},
            giveni={E\bibinitperiod\bibinitdelim L\bibinitperiod},
@@ -1547,16 +1547,16 @@
       \strng{authornamehash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
       \strng{authorfullhash}{3b6011c6e2b144e1fdef0af5ef95a8a3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Esta pesquisa tem o objetivo de avaliar o potencial de transforma{ç}{ã}o de edif{í}cios de escrit{ó}rio brasileiros em edif{í}cios energia zero (EEZ) em diferentes climas. O estudo foi baseado em simula{ç}{õ}es computacionais, e o desenvolvimento do modelo foi dividido em tr{ê}s etapas. A primeira etapa consistiu na avalia{ç}{ã}o do caso prot{ó}tipo (edif{í}cio referencial), que representa uma tipologia de edif{í}cios de escrit{ó}rios no Brasil. A segunda etapa consistiu no desenvolvimento do caso otimizado (edif{í}cio com baixo consumo de energia) de acordo com o regulamento de efici{ê}ncia energ{é}tica brasileiro. O comportamento dos dois casos foi determinado e comparado com o c{á}lculo do balan{ç}o t{é}rmico e energ{é}tico do edif{í}cio. Finalmente, o caso energia zero foi obtido por meio da aplica{ç}{ã}o de tecnologias solares (BIPV) na edifica{ç}{ã}o. As simula{ç}{õ}es computacionais foram realizadas atrav{é}s dos programas EnergyPlus e Daysim para Fortaleza, CE, e Florian{ó}polis, SC, cidades localizadas em diferentes zonas clim{á}ticas do Brasil. Os resultados mostraram que, em Fortaleza, mais m{ó}dulos fotovoltaicos foram necess{á}rios devido ao maior consumo de energia, principalmente com refrigera{ç}{ã}o. O uso do regulamento de efici{ê}ncia energ{é}tica proporcionou redu{ç}{ã}o no consumo de aproximadamente 50{\%}. Por{é}m, com o uso da janela fotovoltaica, outras estrat{é}gias foram necess{á}rias para atingir o EEZ.}
+      \field{abstract}{Esta pesquisa tem o objetivo de avaliar o potencial de transformação de edifícios de escritório brasileiros em edifícios energia zero (EEZ) em diferentes climas. O estudo foi baseado em simulações computacionais, e o desenvolvimento do modelo foi dividido em três etapas. A primeira etapa consistiu na avaliação do caso protótipo (edifício referencial), que representa uma tipologia de edifícios de escritórios no Brasil. A segunda etapa consistiu no desenvolvimento do caso otimizado (edifício com baixo consumo de energia) de acordo com o regulamento de eficiência energética brasileiro. O comportamento dos dois casos foi determinado e comparado com o cálculo do balanço térmico e energético do edifício. Finalmente, o caso energia zero foi obtido por meio da aplicação de tecnologias solares (BIPV) na edificação. As simulações computacionais foram realizadas através dos programas EnergyPlus e Daysim para Fortaleza, CE, e Florianópolis, SC, cidades localizadas em diferentes zonas climáticas do Brasil. Os resultados mostraram que, em Fortaleza, mais módulos fotovoltaicos foram necessários devido ao maior consumo de energia, principalmente com refrigeração. O uso do regulamento de eficiência energética proporcionou redução no consumo de aproximadamente 50{\%}. Porém, com o uso da janela fotovoltaica, outras estratégias foram necessárias para atingir o EEZ.}
       \field{issn}{1678-8621}
-      \field{journaltitle}{Ambiente Constru{í}do}
+      \field{journaltitle}{Ambiente Construído}
       \field{number}{3}
-      \field{title}{{Estrat{é}gias para edif{í}cios de escrit{ó}rios energia zero no Brasil com {ê}nfase em BIPV}}
+      \field{title}{{Estratégias para edifícios de escritórios energia zero no Brasil com ênfase em BIPV}}
       \field{volume}{14}
       \field{year}{2014}
       \field{pages}{27\bibrangedash 42}
@@ -1564,7 +1564,7 @@
       \verb{doi}
       \verb 10.1590/S1678-86212014000300003
       \endverb
-      \keyw{Efici{ê}ncia energ{é}tica,edif{í}cios energia zero,fotovoltaicos semitransparente em janelas,simula{ç}{ã}o computacional}
+      \keyw{Eficiência energética,edifícios energia zero,fotovoltaicos semitransparente em janelas,simulação computacional}
     \endentry
     \entry{Domingos2014}{article}{}
       \name{author}{5}{}{%
@@ -1606,13 +1606,13 @@
       \strng{authornamehash}{6cf1ea424b40432cbdd94b2d20525bcf}
       \strng{authorfullhash}{6e25d6ab653d79d8484acb035f30e091}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{number}{1}
-      \field{title}{{Defini{ç}{ã}o de uma classifica{ç}{ã}o clim{á}tica para o estudo de edifica{ç}{õ}es com balan{ç}o anual zero de energia no Brasil}}
+      \field{title}{{Definição de uma classificação climática para o estudo de edificações com balanço anual zero de energia no Brasil}}
       \field{year}{2014}
       \field{pages}{213\bibrangedash 222}
       \range{pages}{10}
@@ -1647,7 +1647,7 @@
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1696,12 +1696,12 @@
       \strng{authornamehash}{dfd5d86184b5b245abc92bb7a6c60b10}
       \strng{authorfullhash}{dfd5d86184b5b245abc92bb7a6c60b10}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{European Union (EU) has established directives and guidelines that soon require building industry to comply with nearly zero energy building (nZEB) targets in their daily work. This will necessitate new design solutions based on new knowledge. At a high performance level, it is a multifaceted problem, while solutions must be both energy and cost efficient. Most studies have focused on energy efficiency issues and neglected to analyze the cost optimality of technical solutions. This paper considers possible office building fenestration design solutions which take into account both energy efficiency and cost optimality. The analysis also looks at alternative measures to achieve the nZEB level. It was observed that for the cold Estonian climate, triple glazed argon filled windows with a small window to wall ratio and walls with 200 mm thick insulation are energy efficient and cost optimal within 20 years. Achieving nZEB required the use of photovoltaic panels for generating electricity. Existing nZEB solutions are not cost optimal, but this should change in the near future. In conclusion, the paper proposes design guidelines for high performance office building facades. © 2014 Elsevier B.V.}
+      \field{abstract}{European Union (EU) has established directives and guidelines that soon require building industry to comply with nearly zero energy building (nZEB) targets in their daily work. This will necessitate new design solutions based on new knowledge. At a high performance level, it is a multifaceted problem, while solutions must be both energy and cost efficient. Most studies have focused on energy efficiency issues and neglected to analyze the cost optimality of technical solutions. This paper considers possible office building fenestration design solutions which take into account both energy efficiency and cost optimality. The analysis also looks at alternative measures to achieve the nZEB level. It was observed that for the cold Estonian climate, triple glazed argon filled windows with a small window to wall ratio and walls with 200 mm thick insulation are energy efficient and cost optimal within 20 years. Achieving nZEB required the use of photovoltaic panels for generating electricity. Existing nZEB solutions are not cost optimal, but this should change in the near future. In conclusion, the paper proposes design guidelines for high performance office building facades. {©} 2014 Elsevier B.V.}
       \field{issn}{03787788}
       \field{journaltitle}{Energy and Buildings}
       \field{month}{5}
@@ -1743,12 +1743,12 @@
       \strng{authornamehash}{d042a2e9d04064905cd7a5fa3eccf04b}
       \strng{authorfullhash}{d042a2e9d04064905cd7a5fa3eccf04b}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The energy use in the world is increasing significantly owing to increase in per capita consumption of energy and growing population. Due to increased energy demand and the depletion of existing fossil fuel based sources, it is required to use the energy more efficient. Researches show that, hospitals represent approximately 6{\%} of total energy consumption in the utility buildings sector. Heating, Ventilation and Air Conditioning (HVAC) systems are the major part of electrical energy consumption at the hospitals. In this paper, the research papers and practical studies on energy efficiency and energy saving potentials on HVAC systems at the hospitals are presented. Under the following sections, the latest literatures including research articles, conferences, e-books, handbooks and company reports interested in energy efficiency, energy saving and energy management HVAC systems are summarized. Variant Refrigerant Flow (VRF) technology enables greater energy efficiency and cost savings compared with traditional HVAC systems is also introduced. This detailed review also focuses on the payback periods of some projects on HVAC including the installation of cogeneration, trigeneration, chiller, new burners, heat exchangers and steam trap systems. © 2014 Elsevier Ltd.}
+      \field{abstract}{The energy use in the world is increasing significantly owing to increase in per capita consumption of energy and growing population. Due to increased energy demand and the depletion of existing fossil fuel based sources, it is required to use the energy more efficient. Researches show that, hospitals represent approximately 6{\%} of total energy consumption in the utility buildings sector. Heating, Ventilation and Air Conditioning (HVAC) systems are the major part of electrical energy consumption at the hospitals. In this paper, the research papers and practical studies on energy efficiency and energy saving potentials on HVAC systems at the hospitals are presented. Under the following sections, the latest literatures including research articles, conferences, e-books, handbooks and company reports interested in energy efficiency, energy saving and energy management HVAC systems are summarized. Variant Refrigerant Flow (VRF) technology enables greater energy efficiency and cost savings compared with traditional HVAC systems is also introduced. This detailed review also focuses on the payback periods of some projects on HVAC including the installation of cogeneration, trigeneration, chiller, new burners, heat exchangers and steam trap systems. {©} 2014 Elsevier Ltd.}
       \field{booktitle}{Renewable and Sustainable Energy Reviews}
       \field{issn}{13640321}
       \field{title}{{Assessing the energy efficiency improvement potentials of HVAC systems considering economic and environmental aspects at the hospitals}}
@@ -1780,12 +1780,12 @@
       \strng{authornamehash}{85e08e4296bfd789d69a7f484c423241}
       \strng{authorfullhash}{85e08e4296bfd789d69a7f484c423241}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{The ground source heat pump (GSHP) and variable refrigerant flow (VRF) systems are the most competitive HVAC technologies in the current market. However, there are very few studies reporting the comparison of the annual energy consumptions and Electric Peak demand reductions between GSHP and VRF systems because of the limitation of the whole building energy simulation software. Current version of EnergyPlus can model both GSHP and air-source VRF. Therefore, three representative US climate zones including Chicago, Baltimore and Atlanta are selected for conducting this comparison study. The EnergyPlus simulation results show that the GSHP system not only saves more energy than the air-source VRF system but also significantly reduces the Electric Peak demand regardless the climate conditions. This makes the GSHP system a more desirable energy efficient HVAC technology for the utility companies and their clients. © 2014 Elsevier B.V. All rights reserved.}
+      \field{abstract}{The ground source heat pump (GSHP) and variable refrigerant flow (VRF) systems are the most competitive HVAC technologies in the current market. However, there are very few studies reporting the comparison of the annual energy consumptions and Electric Peak demand reductions between GSHP and VRF systems because of the limitation of the whole building energy simulation software. Current version of EnergyPlus can model both GSHP and air-source VRF. Therefore, three representative US climate zones including Chicago, Baltimore and Atlanta are selected for conducting this comparison study. The EnergyPlus simulation results show that the GSHP system not only saves more energy than the air-source VRF system but also significantly reduces the Electric Peak demand regardless the climate conditions. This makes the GSHP system a more desirable energy efficient HVAC technology for the utility companies and their clients. {©} 2014 Elsevier B.V. All rights reserved.}
       \field{issn}{03787788}
       \field{journaltitle}{Energy and Buildings}
       \field{month}{4}
@@ -1839,7 +1839,7 @@
       \strng{authornamehash}{a59126c6a9c7548d67dcc357a1e34eee}
       \strng{authorfullhash}{dc3a416338208aa57685ef9ba523e078}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1866,11 +1866,11 @@
     \entry{AgenciaNacionaldeEnergiaEletricaANEEL2015}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=48031d3754220c08327165b9e88930ea}{%
-           family={{Ag{ê}ncia Nacional de Energia El{é}trica – ANEEL}},
+           family={{Agência Nacional de Energia Elétrica – ANEEL}},
            familyi={A\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Ag{ê}ncia Nacional de Energia El{é}trica}%
+        {Agência Nacional de Energia Elétrica}%
       }
       \strng{namehash}{48031d3754220c08327165b9e88930ea}
       \strng{fullhash}{48031d3754220c08327165b9e88930ea}
@@ -1879,14 +1879,14 @@
       \strng{authornamehash}{48031d3754220c08327165b9e88930ea}
       \strng{authorfullhash}{48031d3754220c08327165b9e88930ea}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Altera a Resolu{ç}{ã}o Normativa n{º} 482, de 17 de abril de 2012, e os M{ó}dulos 1 e 3 dos Procedimentos de Distribui{ç}{ã}o – PRODIST.}
+      \field{abstract}{Altera a Resolução Normativa n{º} 482, de 17 de abril de 2012, e os Módulos 1 e 3 dos Procedimentos de Distribuição – PRODIST.}
       \field{booktitle}{ANEEL}
-      \field{title}{{RESOLU{Ç}{Ã}O NORMATIVA N{º} 687, DE 24 DE NOVEMBRO DE 2015}}
+      \field{title}{{RESOLUÇÃO NORMATIVA N{º} 687, DE 24 DE NOVEMBRO DE 2015}}
       \field{year}{2015}
       \field{pages}{25}
       \range{pages}{1}
@@ -1943,7 +1943,7 @@
       \strng{editornamehash}{5c65dcd76e8268e055953d3af4306721}
       \strng{editorfullhash}{5c65dcd76e8268e055953d3af4306721}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -1962,14 +1962,14 @@
     \entry{CentroBrasileirodeEficienciaEnergeticaemEdificacoesCB3E2015}{misc}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=d090f7e819fa157871881f055fa58037}{%
-           family={{Centro\bibnamedelimb Brasileiro\bibnamedelimb de\bibnamedelimb Efici{ê}ncia\bibnamedelimb Energ{é}tica\bibnamedelimb em\bibnamedelimb Edifica{ç}{õ}es\bibnamedelimb –\bibnamedelimb CB3E}},
-           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Centro Brasileiro de Eficiência Energética em Edificações – CB3E}},
+           familyi={C\bibinitperiod}}}%
         {{un=0,uniquepart=base,hash=9dea6ba63d82c20337021d06279f99c9}{%
-           family={{Associa{ç}{ã}o\bibnamedelimb T{é}cnica\bibnamedelimb Brasileira\bibnamedelimb das\bibnamedelimb Ind{ú}strias\bibnamedelimb Autom{á}ticas\bibnamedelimb de\bibnamedelimb Vidro\bibnamedelimb –\bibnamedelimb ABIVIDRO}},
-           familyi={A\bibinitperiod\bibinitdelim T\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim A\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Associação Técnica Brasileira das Indústrias Automáticas de Vidro – ABIVIDRO}},
+           familyi={A\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Florian{ó}polis}%
+        {Florianópolis}%
       }
       \list{publisher}{1}{%
         {Universidade Federal de Santa Catarina - UFSC}%
@@ -1981,13 +1981,13 @@
       \strng{authornamehash}{fa8fb602813199ea9e362febd58ce63f}
       \strng{authorfullhash}{fa8fb602813199ea9e362febd58ce63f}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Este documento foi desenvolvido a partir das discuss{õ}es realizadas durante o ano de 2013 dentro Subgrupo 6 – Vidros e esquadrias, no {â}mbito da CT (comiss{ã}o t{é}cnica) definida pelo Inmetro. As ATAs com o registro do conte{ú}do das reuni{õ}es dos subgrupos est{ã}o dispon{í}veis para acesso p{ú}blico no endere{ç}o eletr{ô}nico: www.pbeedifica.com.br}
-      \field{title}{{CAT{Á}LOGO DE PROPRIEDADES T{É}RMICAS E {Ó}TICAS DE VIDROS COMERCIALIZADOS NO BRASIL}}
+      \field{abstract}{Este documento foi desenvolvido a partir das discussões realizadas durante o ano de 2013 dentro Subgrupo 6 – Vidros e esquadrias, no âmbito da CT (comissão técnica) definida pelo Inmetro. As ATAs com o registro do conteúdo das reuniões dos subgrupos estão disponíveis para acesso público no endereço eletrônico: www.pbeedifica.com.br}
+      \field{title}{{CATÁLOGO DE PROPRIEDADES TÉRMICAS E ÓTICAS DE VIDROS COMERCIALIZADOS NO BRASIL}}
       \field{year}{2015}
       \field{pages}{7}
       \range{pages}{1}
@@ -2005,14 +2005,14 @@
     \entry{ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=c7c84e8e1adeee5c890aac6152ec1f9f}{%
-           family={{Conselho\bibnamedelimb Brasileiro\bibnamedelimb de\bibnamedelimb Constru{ç}{ã}o\bibnamedelimb Sustent{á}vel\bibnamedelimb -\bibnamedelimb CBCS}},
-           familyi={C\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Conselho Brasileiro de Construção Sustentável - CBCS}},
+           familyi={C\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Conselho Brasileiro de Constru{ç}{ã}o Sustent{á}vel}%
+        {Conselho Brasileiro de Construção Sustentável}%
       }
       \list{location}{1}{%
-        {S{ã}o Paulo}%
+        {São Paulo}%
       }
       \strng{namehash}{c7c84e8e1adeee5c890aac6152ec1f9f}
       \strng{fullhash}{c7c84e8e1adeee5c890aac6152ec1f9f}
@@ -2021,13 +2021,13 @@
       \strng{authornamehash}{c7c84e8e1adeee5c890aac6152ec1f9f}
       \strng{authorfullhash}{c7c84e8e1adeee5c890aac6152ec1f9f}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Este trabalho refere-se ao Produto 5 do projeto “Aplica{ç}{ã}o de conhecimento do Reino Unido para desenvolvimento de uma rede el{é}trica mais inteligente no Brasil” (Applying UK expertise to develop a smarter grid in Brazil), financiado pelo Minist{é}rio de Rela{ç}{õ}es Internacionais do Reino Unido (Foreign and Commonwealth Office). O projeto engloba cinco atividades diferentes que ser{ã}o integradas para maximizar o impacto do projeto e o benef{í}cio {à}s institui{ç}{õ}es envolvidas. O Produto 5 envolve o desenvolvimento de conhecimento nas {á}reas de medi{ç}{ã}o e verifica{ç}{ã}o e o relat{ó}rio de consumo energ{é}tico em edif{í}cios, investigando os potenciais impactos de medidores inteligentes e etiquetagem energ{é}tica e propondo a aplica{ç}{ã}o destas ferramentas em edif{í}cios p{ú}blicos e comerciais.}
-      \field{title}{{Desempenho energ{é}tigo operacional em edifica{ç}{õ}es - Relat{ó}rio final: Benchmarking de escrit{ó}rios corporativos e recomenda{ç}{õ}es para certifica{ç}{ã}o DEO no Brasil}}
+      \field{abstract}{Este trabalho refere-se ao Produto 5 do projeto “Aplicação de conhecimento do Reino Unido para desenvolvimento de uma rede elétrica mais inteligente no Brasil” (Applying UK expertise to develop a smarter grid in Brazil), financiado pelo Ministério de Relações Internacionais do Reino Unido (Foreign and Commonwealth Office). O projeto engloba cinco atividades diferentes que serão integradas para maximizar o impacto do projeto e o benefício às instituições envolvidas. O Produto 5 envolve o desenvolvimento de conhecimento nas áreas de medição e verificação e o relatório de consumo energético em edifícios, investigando os potenciais impactos de medidores inteligentes e etiquetagem energética e propondo a aplicação destas ferramentas em edifícios públicos e comerciais.}
+      \field{title}{{Desempenho energétigo operacional em edificações - Relatório final: Benchmarking de escritórios corporativos e recomendações para certificação DEO no Brasil}}
       \field{type}{techreport}
       \field{year}{2015}
       \field{pages}{110}
@@ -2064,7 +2064,7 @@
       \strng{authornamehash}{1d4425631ab1b058a6ef60eb856ab049}
       \strng{authorfullhash}{1d4425631ab1b058a6ef60eb856ab049}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -2099,7 +2099,7 @@
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
       \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -2136,7 +2136,7 @@
       \strng{authorfullhash}{18c396e79b611e988471fe6b837a80e8}
       \field{extraname}{4}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -2190,7 +2190,7 @@
       \strng{authornamehash}{3013a2968750696fafa3cb0162ec9b56}
       \strng{authorfullhash}{3013a2968750696fafa3cb0162ec9b56}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -2229,7 +2229,7 @@
         {{un=0,uniquepart=base,hash=b382c994638693344ac86b2f014b1b25}{%
            family={Calia},
            familyi={C\bibinitperiod},
-           given={Rog{é}rio\bibnamedelima Cer{á}volo},
+           given={Rogério\bibnamedelima Cerávolo},
            giveni={R\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=91dbf7ce48d2f300cd8c22adf2467274}{%
@@ -2249,16 +2249,16 @@
       \strng{authornamehash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
       \strng{authorfullhash}{bf8e4d25afdd1ae6c46211ffbd3620bd}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Este estudo tem como objetivo responder ao seguinte problema central de pesquisa: de que forma a gest{ã}o de relacionamentos em redes interorganizacionais da Soletrol favoreceu a cria{ç}{ã}o de processos inovativos para o desenvolvimento de aquecedores solares de {á}gua como proposta de substitui{ç}{ã}o ao chuveiro el{é}trico? Trata-se de uma pesquisa descritiva e qualitativa, por meio de um estudo de caso. O profissional-chave da Soletrol foi entrevistado para identificar e descrever as estruturas de relacionamentos interorganizacionais que resultaram em uma contribui{ç}{ã}o inovativa para a sustentabilidade ambiental. O estudo mostra os impactos ambientais da energia el{é}trica no Brasil, enfatizando que a redu{ç}{ã}o do uso do chuveiro el{é}trico pode ajudar a amenizar os problemas na rede de distribui{ç}{ã}o de energia, causados pela sobrecarga deste sistema nos hor{á}rios de pico, trazendo uma revis{ã}o da literatura acad{ê}mica sobre a inova{ç}{ã}o tecnol{ó}gica ambiental e as redes de inova{ç}{ã}o. Por fim, mostra a import{â}ncia da gest{ã}o de relacionamentos interorganizacionais para o desenvolvimento de um produto sustent{á}vel com uso da tecnologia solar no Brasil.}
-      \field{journaltitle}{RAI - Revista de Administra{ç}{ã}o e Inova{ç}{ã}o}
+      \field{abstract}{Este estudo tem como objetivo responder ao seguinte problema central de pesquisa: de que forma a gestão de relacionamentos em redes interorganizacionais da Soletrol favoreceu a criação de processos inovativos para o desenvolvimento de aquecedores solares de água como proposta de substituição ao chuveiro elétrico? Trata-se de uma pesquisa descritiva e qualitativa, por meio de um estudo de caso. O profissional-chave da Soletrol foi entrevistado para identificar e descrever as estruturas de relacionamentos interorganizacionais que resultaram em uma contribuição inovativa para a sustentabilidade ambiental. O estudo mostra os impactos ambientais da energia elétrica no Brasil, enfatizando que a redução do uso do chuveiro elétrico pode ajudar a amenizar os problemas na rede de distribuição de energia, causados pela sobrecarga deste sistema nos horários de pico, trazendo uma revisão da literatura acadêmica sobre a inovação tecnológica ambiental e as redes de inovação. Por fim, mostra a importância da gestão de relacionamentos interorganizacionais para o desenvolvimento de um produto sustentável com uso da tecnologia solar no Brasil.}
+      \field{journaltitle}{RAI - Revista de Administração e Inovação}
       \field{month}{10}
       \field{number}{2}
-      \field{title}{{REDES DE INOVA{Ç}{Ã}O E A DIFUS{Ã}O DA TECNOLOGIA SOLAR NO BRASIL}}
+      \field{title}{{REDES DE INOVAÇÃO E A DIFUSÃO DA TECNOLOGIA SOLAR NO BRASIL}}
       \field{volume}{12}
       \field{year}{2016}
       \field{pages}{90}
@@ -2296,7 +2296,7 @@
         {{un=0,uniquepart=base,hash=bca5d0f6f6766c9c5cb0336589b209f7}{%
            family={Eli},
            familyi={E\bibinitperiod},
-           given={Let{í}cia\bibnamedelima Gabriela},
+           given={Letícia\bibnamedelima Gabriela},
            giveni={L\bibinitperiod\bibinitdelim G\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=0993b3fb9f55f40954e8aa27bb5bfa06}{%
@@ -2313,10 +2313,10 @@
            givenun=0}}%
       }
       \list{institution}{1}{%
-        {XVI ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRU{Í}DO}%
+        {XVI ENCONTRO NACIONAL DE TECNOLOGIA DO AMBIENTE CONSTRUÍDO}%
       }
       \list{location}{1}{%
-        {S{ã}o Paulo}%
+        {São Paulo}%
       }
       \strng{namehash}{00a095d017bb8bd016c048f7a540522d}
       \strng{fullhash}{89c708c1f6a723ccae310936c31a6e5a}
@@ -2325,13 +2325,13 @@
       \strng{authornamehash}{00a095d017bb8bd016c048f7a540522d}
       \strng{authorfullhash}{89c708c1f6a723ccae310936c31a6e5a}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A ado{ç}{ã}o de normas que regulamentam a aplica{ç}{ã}o de medidas de conserva{ç}{ã}o em edifica{ç}{õ}es {é} uma das medidas que mais proporcionam economia de energia nesse setor. No Brasil, as edifica{ç}{õ}es residenciais disp{õ}em da Norma ABNT NBR 15575 - Desempenho de Edifica{ç}{õ}es Habitacionais, que regulamenta o seu desempenho m{í}nimo. Entretanto, as edifica{ç}{õ}es comerciais n{ã}o possuem documento regulador semelhante. Apesar do Regulamento T{é}cnico da Qualidade para o N{í}vel de Efici{ê}ncia Energ{é}tica de Edifica{ç}{õ}es Comerciais, de Servi{ç}os e P{ú}blicas (RTQ-C) atuar como um instrumento de avalia{ç}{ã}o de efici{ê}ncia energ{é}tica, atualmente n{ã}o existe uma defini{ç}{ã}o de qual seria o desempenho energ{é}tico m{í}nimo dessas edifica{ç}{õ}es. Neste sentido, o presente trabalho visou levantar tipologias de edif{í}cios de escrit{ó}rio e estimar o seu desempenho energ{é}tico de acordo com o m{é}todo da etiqueta PBE Edifica. O levantamento contemplou diferentes fontes de pesquisa e permitiu a elabora{ç}{ã}o de modelos de refer{ê}ncia fundamentados nas caracter{í}sticas construtivas predominantes e nas que resultariam em edif{í}cios menos e mais eficientes quanto ao desempenho termoenerg{é}tico. Estes modelos foram avaliados pelo m{é}todo prescritivo do RTQ-C. Dessa forma p{ô}de-se estimar o desempenho de edifica{ç}{õ}es comumente encontradas no parque edificado nacional. Estes resultados devem servir de subs{í}dio para o desenvolvimento de {í}ndices m{í}nimos de edifica{ç}{õ}es comerciais no Brasil.}
-      \field{title}{{Avalia{ç}{ã}o do desempenho termoenerg{é}tico de modelos de refer{ê}ncia de escrit{ó}rios elaborados com base em levantamento de caracter{í}sticas construtivas nacionais}}
+      \field{abstract}{A adoção de normas que regulamentam a aplicação de medidas de conservação em edificações é uma das medidas que mais proporcionam economia de energia nesse setor. No Brasil, as edificações residenciais dispõem da Norma ABNT NBR 15575 - Desempenho de Edificações Habitacionais, que regulamenta o seu desempenho mínimo. Entretanto, as edificações comerciais não possuem documento regulador semelhante. Apesar do Regulamento Técnico da Qualidade para o Nível de Eficiência Energética de Edificações Comerciais, de Serviços e Públicas (RTQ-C) atuar como um instrumento de avaliação de eficiência energética, atualmente não existe uma definição de qual seria o desempenho energético mínimo dessas edificações. Neste sentido, o presente trabalho visou levantar tipologias de edifícios de escritório e estimar o seu desempenho energético de acordo com o método da etiqueta PBE Edifica. O levantamento contemplou diferentes fontes de pesquisa e permitiu a elaboração de modelos de referência fundamentados nas características construtivas predominantes e nas que resultariam em edifícios menos e mais eficientes quanto ao desempenho termoenergético. Estes modelos foram avaliados pelo método prescritivo do RTQ-C. Dessa forma pôde-se estimar o desempenho de edificações comumente encontradas no parque edificado nacional. Estes resultados devem servir de subsídio para o desenvolvimento de índices mínimos de edificações comerciais no Brasil.}
+      \field{title}{{Avaliação do desempenho termoenergético de modelos de referência de escritórios elaborados com base em levantamento de características construtivas nacionais}}
       \field{type}{techreport}
       \field{year}{2016}
       \field{pages}{1853\bibrangedash 1866}
@@ -2345,19 +2345,19 @@
       \verb{url}
       \verb https://www.researchgate.net/publication/308698471
       \endverb
-      \keyw{Edifica{ç}{õ}es de escrit{ó}rios,Efici{ê}ncia energ{é}tica,{Í}ndices m{í}nimos}
+      \keyw{Edificações de escritórios,Eficiência energética,Índices mínimos}
     \endentry
     \entry{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2016}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=fb8bdd3fbafa352c3b2f7c626596783d}{%
-           family={{Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Metrologia\bibnamedelimb Normaliza{ç}{ã}o\bibnamedelimb e\bibnamedelimb Qualidade\bibnamedelimb Industrial\bibnamedelimb -\bibnamedelimb INMETRO}},
-           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Instituto Nacional de Metrologia Normalização e Qualidade Industrial - INMETRO}},
+           familyi={I\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Florian{ó}polis}%
+        {Florianópolis}%
       }
       \list{publisher}{1}{%
-        {Centro Brasileiro de Efici{ê}ncia Energ{é}tica em Edifica{ç}{õ}es - CB3e-UFSC}%
+        {Centro Brasileiro de Eficiência Energética em Edificações - CB3e-UFSC}%
       }
       \strng{namehash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \strng{fullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
@@ -2367,14 +2367,14 @@
       \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Manual para Aplica{ç}{ã}o do RTQ-C. Vers{ã}o 4, publicada em junho de 2016, com base na Portaria n{º} 372 e complementares n{º} 17, 299 e 126.}
+      \field{abstract}{Manual para Aplicação do RTQ-C. Versão 4, publicada em junho de 2016, com base na Portaria n{º} 372 e complementares n{º} 17, 299 e 126.}
       \field{edition}{4{ª}}
-      \field{title}{{Manual para Aplica{ç}{ã}o do RTQ-C}}
+      \field{title}{{Manual para Aplicação do RTQ-C}}
       \field{year}{2016}
       \field{pages}{213}
       \range{pages}{1}
@@ -2437,7 +2437,7 @@
       \strng{authornamehash}{3b1224569a096c192f613edc631025a9}
       \strng{authorfullhash}{da4595abee84d48ac888b4e00c3609ce}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -2477,7 +2477,7 @@
            giveni={M\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Melbourne, Austr{á}lia}%
+        {Melbourne, Austrália}%
       }
       \list{publisher}{1}{%
         {Springer International Publishing}%
@@ -2492,7 +2492,7 @@
       \strng{editornamehash}{587449f0a5586ba7cbc9dbea7c166b5d}
       \strng{editorfullhash}{587449f0a5586ba7cbc9dbea7c166b5d}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -2529,7 +2529,7 @@
            giveni={B\bibinitperiod\bibinitdelim F\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=ffff138cd18bbda49bc4439d774ea25c}{%
-           family={C{â}ndido},
+           family={Cândido},
            familyi={C\bibinitperiod},
            given={Christhina},
            giveni={C\bibinitperiod},
@@ -2551,16 +2551,16 @@
       \strng{authornamehash}{8a3337ccbc2e302cc187981f44e73f6c}
       \strng{authorfullhash}{6825e4ca8a8e927769f41cf5db63d06f}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Resumo Quando se trata de conforto t{é}rmico em edifica{ç}{õ}es condicionadas artificialmente, o modelo predicted mean vote/predicted percentage of dissatisfied (PMV/PPD) de Fanger, publicado em 1970, {é} o mais utilizado para prever e avaliar as condi{ç}{õ}es t{é}rmicas internas. Este artigo apresenta dados de conforto t{é}rmico levantados em uma edifica{ç}{ã}o de escrit{ó}rios com sistema central de condicionamento de ar, localizada em Florian{ó}polis, uma cidade de clima subtropical {ú}mido. O objetivo da pesquisa {é} analisar e comparar os resultados de sensa{ç}{ã}o t{é}rmica obtidos em estudos de campo (284 participantes) com os valores calculados de PMV/PPD provenientes do m{é}todo anal{í}tico adotado pela ASHRAE 55 (2013). Question{á}rios eletr{ô}nicos foram aplicados simultaneamente {à}s medi{ç}{õ}es das vari{á}veis ambientais (temperatura do ar, umidade relativa, temperatura radiante m{é}dia e velocidade do ar) durante 2014. Observou-se que, embora 91{\%} dos ocupantes tenham avaliado o ambiente como confort{á}vel termicamente, o PPD m{é}dio apontou 16{\%} de insatisfeitos termicamente. Constatou-se certa inadequa{ç}{ã}o do modelo ao clima em quest{ã}o, principalmente quando se considera o restrito intervalo de PMV entre ± 0,50 delimitado como confort{á}vel pela ASHRAE 55 (2013).Abstract When it comes to thermal comfort in fully air conditioned buildings, Fanger's predictive mean vote/predicted percentage of dissatisfied (PMV/PPD) published in 1970 is the most widely used model to predict and analyse environments. This paper presents thermal comfort data from an office building that operates with a central air-conditioning system (HVAC) located in Florian{ó}polis, a city with humid subtropical climate on the southern coast of Brazil. This paper presents and compares thermal sensation results obtained from field studies (284 participants) against calculated PMV/PPD values based on the ASHRAE 55 (2013) analytical method. Electronic questionnaires were administered simultaneously to instrumental measurements (air temperature, radiant air temperature, air speed and humidity) during 2014. The results showed that, although 91{\%} of the occupants evaluated the environment as thermally comfortable, the mean PPD scored 16{\%} of dissatisfied people. Moreover, results suggested a certain inadequacy of this model to the climate in question, especially when the PMV ranges between ± 0.50, the interval determined as comfortable by ASHRAE 55 (2013).}
-      \field{journaltitle}{Ambiente Constru{í}do}
+      \field{abstract}{Resumo Quando se trata de conforto térmico em edificações condicionadas artificialmente, o modelo predicted mean vote/predicted percentage of dissatisfied (PMV/PPD) de Fanger, publicado em 1970, é o mais utilizado para prever e avaliar as condições térmicas internas. Este artigo apresenta dados de conforto térmico levantados em uma edificação de escritórios com sistema central de condicionamento de ar, localizada em Florianópolis, uma cidade de clima subtropical úmido. O objetivo da pesquisa é analisar e comparar os resultados de sensação térmica obtidos em estudos de campo (284 participantes) com os valores calculados de PMV/PPD provenientes do método analítico adotado pela ASHRAE 55 (2013). Questionários eletrônicos foram aplicados simultaneamente às medições das variáveis ambientais (temperatura do ar, umidade relativa, temperatura radiante média e velocidade do ar) durante 2014. Observou-se que, embora 91{\%} dos ocupantes tenham avaliado o ambiente como confortável termicamente, o PPD médio apontou 16{\%} de insatisfeitos termicamente. Constatou-se certa inadequação do modelo ao clima em questão, principalmente quando se considera o restrito intervalo de PMV entre ± 0,50 delimitado como confortável pela ASHRAE 55 (2013).Abstract When it comes to thermal comfort in fully air conditioned buildings, Fanger's predictive mean vote/predicted percentage of dissatisfied (PMV/PPD) published in 1970 is the most widely used model to predict and analyse environments. This paper presents thermal comfort data from an office building that operates with a central air-conditioning system (HVAC) located in Florianópolis, a city with humid subtropical climate on the southern coast of Brazil. This paper presents and compares thermal sensation results obtained from field studies (284 participants) against calculated PMV/PPD values based on the ASHRAE 55 (2013) analytical method. Electronic questionnaires were administered simultaneously to instrumental measurements (air temperature, radiant air temperature, air speed and humidity) during 2014. The results showed that, although 91{\%} of the occupants evaluated the environment as thermally comfortable, the mean PPD scored 16{\%} of dissatisfied people. Moreover, results suggested a certain inadequacy of this model to the climate in question, especially when the PMV ranges between ± 0.50, the interval determined as comfortable by ASHRAE 55 (2013).}
+      \field{journaltitle}{Ambiente Construído}
       \field{month}{11}
       \field{number}{1}
-      \field{title}{{Conforto t{é}rmico humano em escrit{ó}rios com sistema central de condicionamento artificial em clima subtropical {ú}mido: estudos de campo vs. abordagem anal{í}tica}}
+      \field{title}{{Conforto térmico humano em escritórios com sistema central de condicionamento artificial em clima subtropical úmido: estudos de campo vs. abordagem analítica}}
       \field{volume}{17}
       \field{year}{2016}
       \field{pages}{111\bibrangedash 123}
@@ -2586,7 +2586,7 @@
       \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -2624,7 +2624,7 @@
       \strng{authorfullhash}{9c1dec0acda417acff08cb866a9d4c25}
       \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -2670,7 +2670,7 @@
       \strng{authornamehash}{53b989fe3055b2cbc36955ad561b0b23}
       \strng{authorfullhash}{53b989fe3055b2cbc36955ad561b0b23}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -2718,13 +2718,13 @@
         {{un=0,uniquepart=base,hash=0f92c07828235b225894cd5a6942c210}{%
            family={Figueiredo},
            familyi={F\bibinitperiod},
-           given={Ant{ó}nio\bibnamedelima Jos{é}},
+           given={António\bibnamedelima José},
            giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=3af5a363725aced0d66f6f903aa05c1e}{%
            family={Silva},
            familyi={S\bibinitperiod},
-           given={Ant{ô}nio\bibnamedelimb C{é}sar\bibnamedelimb Silveira\bibnamedelima Baptista},
+           given={Antônio\bibnamedelimb César\bibnamedelimb Silveira\bibnamedelima Baptista},
            giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0,
            prefix={da},
@@ -2754,13 +2754,13 @@
         {{un=0,uniquepart=base,hash=0f92c07828235b225894cd5a6942c210}{%
            family={Figueiredo},
            familyi={F\bibinitperiod},
-           given={Ant{ó}nio\bibnamedelima Jos{é}},
+           given={António\bibnamedelima José},
            giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=3af5a363725aced0d66f6f903aa05c1e}{%
            family={Silva},
            familyi={S\bibinitperiod},
-           given={Ant{ô}nio\bibnamedelimb C{é}sar\bibnamedelimb Silveira\bibnamedelima Baptista},
+           given={Antônio\bibnamedelimb César\bibnamedelimb Silveira\bibnamedelima Baptista},
            giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim B\bibinitperiod},
            givenun=0,
            prefix={da},
@@ -2774,17 +2774,17 @@
       \strng{authornamehash}{7f5794946365e4efba7bdb0b88286b14}
       \strng{authorfullhash}{b8e1cbb67c9fe04af062aa3980354965}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{<p>Resumo O elevado consumo energ{é}tico do setor das edifica{ç}{õ}es e a consequente emiss{ã}o de gases de efeito estufa levou a Uni{ã}o Europeia a publicar, em 2010, a Diretiva 2010/31/EU, que estabelece que at{é} ao final de 2020 todas as novas edifica{ç}{õ}es dever{ã}o ser de balan{ç}o energ{é}tico quase nulo (nZEB). Um caminho poss{í}vel para alcan{ç}ar essa meta {é} a aplica{ç}{ã}o do conceito Passive House. O artigo tem o objetivo de analisar o n{í}vel de efici{ê}ncia da envolt{ó}ria de uma Passive House pelo m{é}todo de simula{ç}{ã}o do Regulamento T{é}cnico da Qualidade para o N{í}vel de Efici{ê}ncia Energ{é}tica de Edifica{ç}{õ}es Residenciais (RTQ-R). A an{á}lise {é} realizada para a edifica{ç}{ã}o configurada de acordo com o RTQ-R (ventilada naturalmente e condicionada artificialmente), que utiliza o sistema de ventila{ç}{ã}o mec{â}nica com recuperador de calor (MVHR). Na primeira situa{ç}{ã}o a edifica{ç}{ã}o obteve classifica{ç}{ã}o n{í}vel B, devido ao alto consumo do condicionador de ar para aquecimento, e quando utilizado o sistema MVHR a edifica{ç}{ã}o obteve classifica{ç}{ã}o n{í}vel A. Em uma an{á}lise comparativa do consumo de energia, o sistema MVHR apresentou economia de 56,63{\%} em rela{ç}{ã}o ao condicionador de ar. Assim, o estudo comprovou a aplica{ç}{ã}o, sob o enfoque energ{é}tico, do conceito Passive House para a Zona Bioclim{á}tica 2 (ZB2).</p>}
+      \field{abstract}{{<}p{>}Resumo O elevado consumo energético do setor das edificações e a consequente emissão de gases de efeito estufa levou a União Europeia a publicar, em 2010, a Diretiva 2010/31/EU, que estabelece que até ao final de 2020 todas as novas edificações deverão ser de balanço energético quase nulo (nZEB). Um caminho possível para alcançar essa meta é a aplicação do conceito Passive House. O artigo tem o objetivo de analisar o nível de eficiência da envoltória de uma Passive House pelo método de simulação do Regulamento Técnico da Qualidade para o Nível de Eficiência Energética de Edificações Residenciais (RTQ-R). A análise é realizada para a edificação configurada de acordo com o RTQ-R (ventilada naturalmente e condicionada artificialmente), que utiliza o sistema de ventilação mecânica com recuperador de calor (MVHR). Na primeira situação a edificação obteve classificação nível B, devido ao alto consumo do condicionador de ar para aquecimento, e quando utilizado o sistema MVHR a edificação obteve classificação nível A. Em uma análise comparativa do consumo de energia, o sistema MVHR apresentou economia de 56,63{\%} em relação ao condicionador de ar. Assim, o estudo comprovou a aplicação, sob o enfoque energético, do conceito Passive House para a Zona Bioclimática 2 (ZB2).{<}/p{>}}
       \field{isbn}{1678-8621 UL - http://www.scielo.br/scielo.php?script=sci{\_}arttext{\&}pid=S1678-86212017000100201{\&}nrm=iso}
       \field{issn}{1678-8621}
-      \field{journaltitle}{Ambiente Constru{í}do}
+      \field{journaltitle}{Ambiente Construído}
       \field{number}{1}
-      \field{title}{{Discuss{ã}o do desempenho da envolt{ó}ria de uma passive house adaptada {à} zona bioclim{á}tica 2 em acordo com o RTQ-R}}
+      \field{title}{{Discussão do desempenho da envoltória de uma passive house adaptada à zona bioclimática 2 em acordo com o RTQ-R}}
       \field{volume}{17}
       \field{year}{2017}
       \field{pages}{201\bibrangedash 222}
@@ -2803,11 +2803,11 @@
     \entry{EmpresadePesquisaEnergetica-EPE2017a}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
-           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           family={{Empresa de Pesquisa Energética - EPE}},
            familyi={E\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Empresa de Pesquisa Energ{é}tica (EPE)}%
+        {Empresa de Pesquisa Energética (EPE)}%
       }
       \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
@@ -2817,14 +2817,14 @@
       \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A Empresa de Pesquisa Energ{é}tica apresenta o Anu{á}rio Estat{í}stico de Energia El{é}trica 2017, onde s{ã}o apresentados os dados relacionados ao consumo de energia el{é}trica na rede de distribui{ç}{ã}o nos {ú}ltimos cinco anos, com {ê}nfase no ano de 2016 (ano base). Vale notar que os dados aqui apresentados n{ã}o contemplam a parcela consumida em unidades autoprodutoras de energia el{é}trica.}
-      \field{title}{{Anu{á}rio Estat{í}stico de Energia El{é}trica 2017}}
+      \field{abstract}{A Empresa de Pesquisa Energética apresenta o Anuário Estatístico de Energia Elétrica 2017, onde são apresentados os dados relacionados ao consumo de energia elétrica na rede de distribuição nos últimos cinco anos, com ênfase no ano de 2016 (ano base). Vale notar que os dados aqui apresentados não contemplam a parcela consumida em unidades autoprodutoras de energia elétrica.}
+      \field{title}{{Anuário Estatístico de Energia Elétrica 2017}}
       \field{type}{techreport}
       \field{year}{2017}
       \field{pages}{232}
@@ -2839,14 +2839,14 @@
     \entry{EmpresadePesquisaEnergetica-EPE2017}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
-           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           family={{Empresa de Pesquisa Energética - EPE}},
            familyi={E\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Empresa de Pesquisa Energ{é}tica}%
+        {Empresa de Pesquisa Energética}%
       }
       \list{location}{1}{%
-        {Bras{í}lia, Distrito Federal}%
+        {Brasília, Distrito Federal}%
       }
       \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
@@ -2856,14 +2856,14 @@
       \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O Plano Decenal de Expans{ã}o de Energia (PDE) {é} um documento informativo elaborado anualmente pela EPE sob as diretrizes e o apoio da equipe da Secretaria de Planejamento e Desenvolvimento Energ{é}tico (SPE/MME) e da Secretaria de Petr{ó}leo, G{á}s Natural e Combust{í}veis Renov{á}veis (SPG/MME). Seu objetivo primordial {é} indicar, e n{ã}o propriamente determinar, as perspectivas, sob a {ó}tica do Governo da expans{ã}o do setor de energia no horizonte de dez anos, dentro de uma vis{ã}o integrada para os diversos energ{é}ticos. Tal vis{ã}o permite extrair importantes elementos para o planejamento do setor de energia, com benef{í}cios em termos de aumento de confiabilidade, redu{ç}{ã}o de custos de produ{ç}{ã}o e redu{ç}{ã}o de impactos ambientais.}
-      \field{title}{{Plano Decenal de Expans{ã}o de Energia}}
+      \field{abstract}{O Plano Decenal de Expansão de Energia (PDE) é um documento informativo elaborado anualmente pela EPE sob as diretrizes e o apoio da equipe da Secretaria de Planejamento e Desenvolvimento Energético (SPE/MME) e da Secretaria de Petróleo, Gás Natural e Combustíveis Renováveis (SPG/MME). Seu objetivo primordial é indicar, e não propriamente determinar, as perspectivas, sob a ótica do Governo da expansão do setor de energia no horizonte de dez anos, dentro de uma visão integrada para os diversos energéticos. Tal visão permite extrair importantes elementos para o planejamento do setor de energia, com benefícios em termos de aumento de confiabilidade, redução de custos de produção e redução de impactos ambientais.}
+      \field{title}{{Plano Decenal de Expansão de Energia}}
       \field{type}{techreport}
       \field{year}{2017}
       \field{pages}{345}
@@ -2877,7 +2877,7 @@
       \verb{url}
       \verb http://www.epe.gov.br/pt/publicacoes-dados-abertos/publicacoes/plano-decenal-de-expansao-de-energia-2027
       \endverb
-      \keyw{EPE,Plano Decenal de Expans{ã}o de Energia}
+      \keyw{EPE,Plano Decenal de Expansão de Energia}
     \endentry
     \entry{EnergiasdePortugal-EDP2017}{report}{}
       \name{author}{1}{}{%
@@ -2889,7 +2889,7 @@
         {EDP}%
       }
       \list{location}{1}{%
-        {Vit{ó}ria}%
+        {Vitória}%
       }
       \strng{namehash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
       \strng{fullhash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
@@ -2898,14 +2898,14 @@
       \strng{authornamehash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
       \strng{authorfullhash}{9e9e331c29300dfc6ab1a91c0e2b3bcd}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{De acordo com o Balan{ç}o Energ{é}tico Nacional (BEN) 2017 – ano base 2016, publicado pela Empresa de Pes- quisa Energ{é}tica (EPE), a oferta interna de energia no Brasil atingiu 288,3 toneladas equivalentes de petr{ó}leo (Mtep), com redu{ç}{ã}o de 3,8{\%} em rela{ç}{ã}o a 2015. O movimento reflete o enfraquecimento da atividade eco- n{ô}mica, per{í}odo em que o Produto Interno Bruto (PIB) nacional retraiu 3,6{\%}, segundo o Instituto Brasileiro de Geografia e Estat{í}stica (IBGE). O recuo da oferta in- terna de petr{ó}leo e derivados (5,6{\%}) e do g{á}s natural (13,2{\%}) tamb{é}m contribuiu para a retra{ç}{ã}o da disponi- bilidade energ{é}tica no Brasil.}
-      \field{annotation}{Dados importantes sobre a comercializa{ç}{ã}o de energia el{é}trica no Brasil e no Estado.}
-      \field{title}{{Living Energy Book by EDP: Relat{ó}rio Anual 2017}}
+      \field{abstract}{De acordo com o Balanço Energético Nacional (BEN) 2017 – ano base 2016, publicado pela Empresa de Pes- quisa Energética (EPE), a oferta interna de energia no Brasil atingiu 288,3 toneladas equivalentes de petróleo (Mtep), com redução de 3,8{\%} em relação a 2015. O movimento reflete o enfraquecimento da atividade eco- nômica, período em que o Produto Interno Bruto (PIB) nacional retraiu 3,6{\%}, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). O recuo da oferta in- terna de petróleo e derivados (5,6{\%}) e do gás natural (13,2{\%}) também contribuiu para a retração da disponi- bilidade energética no Brasil.}
+      \field{annotation}{Dados importantes sobre a comercialização de energia elétrica no Brasil e no Estado.}
+      \field{title}{{Living Energy Book by EDP: Relatório Anual 2017}}
       \field{type}{techreport}
       \field{year}{2017}
       \field{pages}{196}
@@ -2916,7 +2916,7 @@
       \verb{url}
       \verb http://www.edp.com.br/conheca-edp/relatorios/Documents/RA%7B%5C_%7D2017%7B%5C_%7DVf.pdf
       \endverb
-      \keyw{Distribui{ç}{ã}o,EDP,ES,Efici{ê}ncia energ{é}tica,Energia el{é}trica,Gera{ç}{ã}o,Transmiss{ã}o}
+      \keyw{Distribuição,EDP,ES,Eficiência energética,Energia elétrica,Geração,Transmissão}
     \endentry
     \entry{Pereira2017}{book}{}
       \name{author}{10}{}{%
@@ -2933,9 +2933,9 @@
            giveni={F\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=cb7d6c284c187ebf7b2666b6182d2e67}{%
-           family={Gon{ç}alves},
+           family={Gonçalves},
            familyi={G\bibinitperiod},
-           given={Andr{é}\bibnamedelima Rodrigues},
+           given={André\bibnamedelima Rodrigues},
            giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=440043635edeb72d38af8f0473e3a4b4}{%
@@ -2951,7 +2951,7 @@
            giveni={F\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim L\bibinitperiod\bibinitdelim d\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=3d4b774e9884d4f69d937ca24dec9d3f}{%
-           family={R{ü}ther},
+           family={Rüther},
            familyi={R\bibinitperiod},
            given={Ricardo},
            giveni={R\bibinitperiod},
@@ -2965,7 +2965,7 @@
         {{un=0,uniquepart=base,hash=2e9070155d891a6a34623d1d0be24c8c}{%
            family={Tiepolo},
            familyi={T\bibinitperiod},
-           given={Gerson\bibnamedelima M{á}ximo},
+           given={Gerson\bibnamedelima Máximo},
            giveni={G\bibinitperiod\bibinitdelim M\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=234ab5b0358139cf4296a9b6399a6973}{%
@@ -2977,12 +2977,12 @@
         {{un=0,uniquepart=base,hash=e87c8ac3cef8d8c1485e56842800c3d7}{%
            family={Souza},
            familyi={S\bibinitperiod},
-           given={Jeﬀerson\bibnamedelimb Gon{ç}alves\bibnamedelima de},
+           given={Jeﬀerson\bibnamedelimb Gonçalves\bibnamedelima de},
            giveni={J\bibinitperiod\bibinitdelim G\bibinitperiod\bibinitdelim d\bibinitperiod},
            givenun=0}}%
       }
       \list{location}{1}{%
-        {S{ã}o Jos{é} dos Campos}%
+        {São José dos Campos}%
       }
       \list{publisher}{1}{%
         {INPE}%
@@ -2994,12 +2994,12 @@
       \strng{authornamehash}{19b0343676bc2bfed803badaa08de47d}
       \strng{authorfullhash}{786db174e7c115e55dd7ded3261c4391}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A primeira edi{ç}{ã}o do Atlas Brasileiro de Energia Solar foi lan{ç}ada em 2006 com base em 10 anos de dados dos sat{é}lites da s{é}rie GOES e no modelo f{í}sico de transfer{ê}ncia  radiativa BRASIL‐SR, validado com dados observados em 98  esta{ç}{õ}es  meteorol{ó}gicas  operadas  pelo  INMET  (Instituto  Nacional de Meteorologia) e espalhadas por todo territ{ó}rio  nacional. Na {é}poca do lan{ç}amento, a rede SONDA (Sistema  de  Organiza{ç}{ã}o  Nacional  de  Dados  Ambientais),  operada  pelo INPE, havia rec{é}m entrado em opera{ç}{ã}o e contribuiu  no processo de valida{ç}{ã}o com apenas tr{ê}s anos de dados  solarim{é}tricos  das  3  componentes  da  irradia{ç}{ã}o  solar  na  superf{í}cie:  global  horizontal,  direta  normal  e  difusa.  Essa  edi{ç}{ã}o pioneira do Atlas constituiu um marco importante no  hist{ó}rico  da  energia  solar  no  Brasil  e  {é},  ainda  hoje, empregada por v{á}rios investigadores e empreendedores da  {á}rea de energia solar.}
+      \field{abstract}{A primeira edição do Atlas Brasileiro de Energia Solar foi lançada em 2006 com base em 10 anos de dados dos satélites da série GOES e no modelo físico de transferência  radiativa BRASIL‐SR, validado com dados observados em 98  estações  meteorológicas  operadas  pelo  INMET  (Instituto  Nacional de Meteorologia) e espalhadas por todo território  nacional. Na época do lançamento, a rede SONDA (Sistema  de  Organização  Nacional  de  Dados  Ambientais),  operada  pelo INPE, havia recém entrado em operação e contribuiu  no processo de validação com apenas três anos de dados  solarimétricos  das  3  componentes  da  irradiação  solar  na  superfície:  global  horizontal,  direta  normal  e  difusa.  Essa  edição pioneira do Atlas constituiu um marco importante no  histórico  da  energia  solar  no  Brasil  e  é,  ainda  hoje, empregada por vários investigadores e empreendedores da  área de energia solar.}
       \field{edition}{2a}
       \field{isbn}{978‐85‐17‐00089‐8}
       \field{title}{{Atlas brasileiro de energia solar}}
@@ -3047,7 +3047,7 @@
       \strng{authornamehash}{1eadd8b25beb6674c4b78d8b5db40ee7}
       \strng{authorfullhash}{7ea76d12890ee5234a99f63502993621}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3079,7 +3079,7 @@
         {{un=0,uniquepart=base,hash=2eb4dd3ba98564ed0382a12c7bca92cf}{%
            family={Pinto},
            familyi={P\bibinitperiod},
-           given={Luc{í}a\bibnamedelimb Iracema\bibnamedelima Chipponelli},
+           given={Lucía\bibnamedelimb Iracema\bibnamedelima Chipponelli},
            giveni={L\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim C\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=50915dbbdac25a157900dfb04ebe82cc}{%
@@ -3102,15 +3102,15 @@
       \strng{authornamehash}{964ddc3c3bab3411cb2742a84277172d}
       \strng{authorfullhash}{964ddc3c3bab3411cb2742a84277172d}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Atualmente a energia e{ó}lica est{á} mostrando destaque no cen{á}rio energ{é}tico brasileiro por ser uma fonte energ{é}tica renov{á}vel que apresenta elevada disponibilidade no territ{ó}rio e cujo aproveitamento baixos n{í}veis de emiss{ã}o de gases de efeito estufa. Em raz{ã}o desses aspectos, a energia e{ó}lica {é} uma promissora alternativa para ajudar a reverter o quadro atual de crise energ{é}tica decorrente da escassez do recurso h{í}drico e o crescimento da emiss{ã}o de gases de efeito estufa decorrente do crescimento da participa{ç}{ã}o de combust{í}veis f{ó}sseis na matriz el{é}trica brasileira. Na perspectiva econ{ô}mica, a gera{ç}{ã}o e{ó}lica est{á} apresentando custos competitivos com as fontes convencionais de energia. Entretanto, como qualquer outra atividade econ{ô}mica, pode causar impactos sociais e ambientais que devem ser analisados e mitigados. Essas dimens{õ}es controversas da energia e{ó}lica tornam a quest{ã}o da localiza{ç}{ã}o de parques e{ó}licos um problema bastante complexo, dado a incompatibilidade entre esses impactos de car{á}ter localizado e o grande benef{í}cio p{ú}blico associado {à} seguran{ç}a energ{é}tica do pa{í}s. Este artigo apresenta uma revis{ã}o dos estudos e publica{ç}{õ}es sobre o aproveitamento e{ó}lico no Brasil com o intuito de promover uma discuss{ã}o sobre aspectos relacionados aos impactos socioambientais. Em raz{ã}o da curta hist{ó}ria do aproveitamento e{ó}lico no Brasil, estudos para avalia{ç}{ã}o mais aprofundada dos impactos socioambientais devem ser realizados com apoio de recursos do pr{ó}prio setor energ{é}tico a fim de promover um crescimento sustent{á}vel da participa{ç}{ã}o desta fonte energ{é}tica na matriz el{é}trica nacional.}
-      \field{journaltitle}{Revista Ambiente {\&} {Á}gua}
+      \field{abstract}{Atualmente a energia eólica está mostrando destaque no cenário energético brasileiro por ser uma fonte energética renovável que apresenta elevada disponibilidade no território e cujo aproveitamento baixos níveis de emissão de gases de efeito estufa. Em razão desses aspectos, a energia eólica é uma promissora alternativa para ajudar a reverter o quadro atual de crise energética decorrente da escassez do recurso hídrico e o crescimento da emissão de gases de efeito estufa decorrente do crescimento da participação de combustíveis fósseis na matriz elétrica brasileira. Na perspectiva econômica, a geração eólica está apresentando custos competitivos com as fontes convencionais de energia. Entretanto, como qualquer outra atividade econômica, pode causar impactos sociais e ambientais que devem ser analisados e mitigados. Essas dimensões controversas da energia eólica tornam a questão da localização de parques eólicos um problema bastante complexo, dado a incompatibilidade entre esses impactos de caráter localizado e o grande benefício público associado à segurança energética do país. Este artigo apresenta uma revisão dos estudos e publicações sobre o aproveitamento eólico no Brasil com o intuito de promover uma discussão sobre aspectos relacionados aos impactos socioambientais. Em razão da curta história do aproveitamento eólico no Brasil, estudos para avaliação mais aprofundada dos impactos socioambientais devem ser realizados com apoio de recursos do próprio setor energético a fim de promover um crescimento sustentável da participação desta fonte energética na matriz elétrica nacional.}
+      \field{journaltitle}{Revista Ambiente {\&} Água}
       \field{number}{6}
-      \field{title}{{O mercado brasileiro da energia e{ó}lica, impactos sociais e ambientais}}
+      \field{title}{{O mercado brasileiro da energia eólica, impactos sociais e ambientais}}
       \field{volume}{12}
       \field{year}{2017}
       \field{pages}{1082\bibrangedash 1100}
@@ -3132,11 +3132,11 @@
     \entry{SindicatodaIndustriadaConstrucaoCivildoEspiritoSanto-SINDUSCON2017}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=1b795d6c87fc85fef221a037a8a5b3ee}{%
-           family={{Sindicato\bibnamedelimb da\bibnamedelimb Ind{ú}stria\bibnamedelimb da\bibnamedelimb Constru{ç}{ã}o\bibnamedelimb Civil\bibnamedelimb do\bibnamedelimb Esp{í}rito\bibnamedelimb Santo\bibnamedelimb -\bibnamedelimb SINDUSCON}},
-           familyi={S\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Sindicato da Indústria da Construção Civil do Espírito Santo - SINDUSCON}},
+           familyi={S\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Vit{ó}ria, ES}%
+        {Vitória, ES}%
       }
       \strng{namehash}{1b795d6c87fc85fef221a037a8a5b3ee}
       \strng{fullhash}{1b795d6c87fc85fef221a037a8a5b3ee}
@@ -3145,14 +3145,14 @@
       \strng{authornamehash}{1b795d6c87fc85fef221a037a8a5b3ee}
       \strng{authorfullhash}{1b795d6c87fc85fef221a037a8a5b3ee}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{booktitle}{SINDUSCON}
       \field{number}{32}
-      \field{title}{{32{º} Censo Imobili{á}rio}}
+      \field{title}{{32{º} Censo Imobiliário}}
       \field{volume}{1}
       \field{year}{2017}
       \field{pages}{37}
@@ -3187,7 +3187,7 @@
       \strng{authornamehash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \strng{authorfullhash}{3cc54e2c0d69c1b76b4d49edb22dd6d1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3226,14 +3226,14 @@
       \strng{authornamehash}{9238382726be077d43da65f3c7372e8f}
       \strng{authorfullhash}{9238382726be077d43da65f3c7372e8f}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Em pa{í}ses cujas regulamenta{ç}{õ}es de efici{ê}ncia energ{é}tica j{á} se mostram consolidadas ou em fase de consolida{ç}{ã}o, um importante par{â}metro a ser verificado {é} o padr{ã}o de consumo relativo de energia el{é}trica dos edif{í}cios existentes de acordo com faixas estabelecidas para diferentes tipologias. Este tipo de verifica{ç}{ã}o {é} chamado de marco de consumo ou “benchmarking”. No Brasil, ap{ó}s a implementa{ç}{ã}o, em 2010, do Regulamento T{é}cnico da Qualidade para Efici{ê}ncia Energ{é}tica de Edif{í}cios Comerciais, de Servi{ç}os e P{ú}blicos – RTQC, considera-se que o pr{ó}ximo passo a ser dado em termos regulat{ó}rios seja analisar o padr{ã}o de consumo de energia dos edif{í}cios. Infere-se que parte deste consumo esteja relacionado a decis{õ}es tomadas ainda na fase de projeto da edifica{ç}{ã}o. Com isso, o objetivo principal dessa pesquisa foi estabelecer, atrav{é}s de dados reais de consumo de 101 edifica{ç}{õ}es, a influ{ê}ncia das decis{õ}es de projeto no consumo de energia das torres de edif{í}cios de escrit{ó}rios na cidade de Belo Horizonte – MG. Para alcan{ç}ar esse objetivo, foi necess{á}rio o levantamento do consumo de energia el{é}trica desta tipologia de edifica{ç}{õ}es bem como de suas caracter{í}sticas construtivas e do tipo de sistemas de condicionamento nela instalados. Para a classifica{ç}{ã}o das edifica{ç}{õ}es de acordo com seu consumo foi desenvolvida metodologia para isolar o consumo anual por {á}rea das torres a partir de dados de consumo anual por {á}rea das edifica{ç}{õ}es como um todo e foram levantados dados construtivos atrav{é}s de levantamento feito pela internet e por levantamentos feitos in loco. Obtido o consumo anual por {á}rea das torres foi feita uma classifica{ç}{ã}o deste consumo por faixas de acordo com metodologia proposta pela EN 15217 e posteriormente foi feita uma an{á}lise de sensibilidade das vari{á}veis de projeto (modo de condicionamento de ar, absort{â}ncia solar das paredes, presen{ç}a de prote{ç}{ã}o solar, fator solar dos vidros, propor{ç}{ã}o entre paredes e vidros - WWR (Window-to-wall ratio), volume, {á}rea de proje{ç}{ã}o da cobertura, {á}rea da envolt{ó}ria, fator de forma e fator de altura) em rela{ç}{ã}o {à} classifica{ç}{ã}o proposta. Verificou-se que as seguintes vari{á}veis: modo de condicionamento de ar, absort{â}ncia solar das paredes, fator solar dos vidros e WWR - tiveram correla{ç}{ã}o com o consumo anual de energia el{é}trica por {á}rea das torres. A {ú}ltima etapa do trabalho foi ent{ã}o o desenvolvimento de uma equa{ç}{ã}o de regress{ã}o linear multivariada para a previs{ã}o da intensidade de uso de energia (EUI, energy use intensity) - feita em fun{ç}{ã}o das vari{á}veis anteriormente citadas.}
+      \field{abstract}{Em países cujas regulamentações de eficiência energética já se mostram consolidadas ou em fase de consolidação, um importante parâmetro a ser verificado é o padrão de consumo relativo de energia elétrica dos edifícios existentes de acordo com faixas estabelecidas para diferentes tipologias. Este tipo de verificação é chamado de marco de consumo ou “benchmarking”. No Brasil, após a implementação, em 2010, do Regulamento Técnico da Qualidade para Eficiência Energética de Edifícios Comerciais, de Serviços e Públicos – RTQC, considera-se que o próximo passo a ser dado em termos regulatórios seja analisar o padrão de consumo de energia dos edifícios. Infere-se que parte deste consumo esteja relacionado a decisões tomadas ainda na fase de projeto da edificação. Com isso, o objetivo principal dessa pesquisa foi estabelecer, através de dados reais de consumo de 101 edificações, a influência das decisões de projeto no consumo de energia das torres de edifícios de escritórios na cidade de Belo Horizonte – MG. Para alcançar esse objetivo, foi necessário o levantamento do consumo de energia elétrica desta tipologia de edificações bem como de suas características construtivas e do tipo de sistemas de condicionamento nela instalados. Para a classificação das edificações de acordo com seu consumo foi desenvolvida metodologia para isolar o consumo anual por área das torres a partir de dados de consumo anual por área das edificações como um todo e foram levantados dados construtivos através de levantamento feito pela internet e por levantamentos feitos in loco. Obtido o consumo anual por área das torres foi feita uma classificação deste consumo por faixas de acordo com metodologia proposta pela EN 15217 e posteriormente foi feita uma análise de sensibilidade das variáveis de projeto (modo de condicionamento de ar, absortância solar das paredes, presença de proteção solar, fator solar dos vidros, proporção entre paredes e vidros - WWR (Window-to-wall ratio), volume, área de projeção da cobertura, área da envoltória, fator de forma e fator de altura) em relação à classificação proposta. Verificou-se que as seguintes variáveis: modo de condicionamento de ar, absortância solar das paredes, fator solar dos vidros e WWR - tiveram correlação com o consumo anual de energia elétrica por área das torres. A última etapa do trabalho foi então o desenvolvimento de uma equação de regressão linear multivariada para a previsão da intensidade de uso de energia (EUI, energy use intensity) - feita em função das variáveis anteriormente citadas.}
       \field{bookpagination}{sheet}
-      \field{title}{{Avalia{ç}{ã}o do Consumo de Energia El{é}trica de Edifica{ç}{õ}es de Escrit{ó}rio e sua Correla{ç}{ã}o com as Decis{õ}es de Projeto}}
+      \field{title}{{Avaliação do Consumo de Energia Elétrica de Edificações de Escritório e sua Correlação com as Decisões de Projeto}}
       \field{type}{phdthesis}
       \field{year}{2017}
       \field{pages}{125}
@@ -3259,19 +3259,19 @@
         {{un=0,uniquepart=base,hash=7a94956ad3d0ff2b06999df6364b5e9d}{%
            family={Costa},
            familyi={C\bibinitperiod},
-           given={Jo{ã}o},
+           given={João},
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=5c673faa0ee65585138d3ebea1bb7039}{%
            family={Aguiar},
            familyi={A\bibinitperiod},
-           given={Jo{ã}o},
+           given={João},
            giveni={J\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=1fd9504fd35790c561a95941dbe87639}{%
            family={Sousa},
            familyi={S\bibinitperiod},
-           given={Nat{á}lia},
+           given={Natália},
            giveni={N\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=7d99736462230d0d0306e7fc9396ce0f}{%
@@ -3297,7 +3297,7 @@
       \strng{authornamehash}{fe741b1087530949b994feb94a2b2edb}
       \strng{authorfullhash}{38aaf04d5b8a1ea407d0942d13abdde8}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3316,14 +3316,14 @@
     \entry{AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2018}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=005f9005fe1b2c3d055907a64a3c14c4}{%
-           family={{Ag{ê}ncia\bibnamedelimb de\bibnamedelimb Regula{ç}{ã}o\bibnamedelimb de\bibnamedelimb Servi{ç}os\bibnamedelimb P{ú}blicos\bibnamedelimb do\bibnamedelimb Esp{í}rito\bibnamedelimb Santo\bibnamedelimb -\bibnamedelimb ARSP}},
-           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Agência de Regulação de Serviços Públicos do Espírito Santo - ARSP}},
+           familyi={A\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Ag{ê}ncia de Servi{ç}os P{ú}blicos de Energia do Estado do Esp{í}rito Santo}%
+        {Agência de Serviços Públicos de Energia do Estado do Espírito Santo}%
       }
       \list{location}{1}{%
-        {Vit{ó}ria}%
+        {Vitória}%
       }
       \strng{namehash}{005f9005fe1b2c3d055907a64a3c14c4}
       \strng{fullhash}{005f9005fe1b2c3d055907a64a3c14c4}
@@ -3333,12 +3333,12 @@
       \strng{authorfullhash}{005f9005fe1b2c3d055907a64a3c14c4}
       \field{extraname}{1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Balan{ç}o Energ{é}tico do Esp{í}rito Santo}}
+      \field{title}{{Balanço Energético do Espírito Santo}}
       \field{type}{techreport}
       \field{year}{2018}
       \field{pages}{75}
@@ -3366,13 +3366,13 @@
       \strng{authornamehash}{081c29fc27b70573aca57b57327d4b03}
       \strng{authorfullhash}{081c29fc27b70573aca57b57327d4b03}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Este Relat{ó}rio Anual, que abrange o per{í}odo de 1{º} de julho de 2017 a 30 de junho de 2018, foi elaborado pelas Diretorias Executivas do Banco Internacional de Reconstru{ç}{ã}o e Desenvolvimento (BIRD) e da Associa{ç}{ã}o Internacional de Desenvolvimento (AID) — conhecidos coletivamente como Banco Mundial — em conformidade com os estatutos das duas institui{ç}{õ}es. O Dr. Jim Yong Kim, Presidente do Grupo Banco Mundial e Presidente da Diretoria Executiva, apresentou este relat{ó}rio, juntamente com os respectivos or{ç}amentos administrativos e demonstrativos financeiros auditados que o acompanham, {à} Assembleia de Governadores.}
-      \field{title}{{Relat{ó}rio Anual 2018 do Banco Mundial}}
+      \field{abstract}{Este Relatório Anual, que abrange o período de 1{º} de julho de 2017 a 30 de junho de 2018, foi elaborado pelas Diretorias Executivas do Banco Internacional de Reconstrução e Desenvolvimento (BIRD) e da Associação Internacional de Desenvolvimento (AID) — conhecidos coletivamente como Banco Mundial — em conformidade com os estatutos das duas instituições. O Dr. Jim Yong Kim, Presidente do Grupo Banco Mundial e Presidente da Diretoria Executiva, apresentou este relatório, juntamente com os respectivos orçamentos administrativos e demonstrativos financeiros auditados que o acompanham, à Assembleia de Governadores.}
+      \field{title}{{Relatório Anual 2018 do Banco Mundial}}
       \field{type}{techreport}
       \field{year}{2018}
       \field{pages}{97}
@@ -3387,11 +3387,11 @@
     \entry{EmpresadePesquisaEnergetica-EPE2018}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
-           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           family={{Empresa de Pesquisa Energética - EPE}},
            familyi={E\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Empresa de Pesquisa Energ{é}tica - EPE}%
+        {Empresa de Pesquisa Energética - EPE}%
       }
       \list{location}{1}{%
         {Rio de Janeiro}%
@@ -3404,12 +3404,12 @@
       \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Balan{ç}o Energ{é}tico Nacional 2018: Ano base 2017 - Relat{ó}rio s{í}ntese}}
+      \field{title}{{Balanço Energético Nacional 2018: Ano base 2017 - Relatório síntese}}
       \field{type}{techreport}
       \field{year}{2018}
       \field{pages}{62}
@@ -3479,7 +3479,7 @@
       \strng{authornamehash}{a80b5de874e385710ab8a5e666c6ef4f}
       \strng{authorfullhash}{e9190730f7ebe749b27f5759247a74ae}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3508,7 +3508,7 @@
            familyi={I\bibinitperiod}}}%
       }
       \list{location}{1}{%
-        {Bras{í}lia}%
+        {Brasília}%
       }
       \list{publisher}{1}{%
         {Instituto Nacional de Metereologia}%
@@ -3520,12 +3520,12 @@
       \strng{authornamehash}{84f5192bcae1521458c60f30a7266344}
       \strng{authorfullhash}{84f5192bcae1521458c60f30a7266344}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Arquivo clim{á}tico de Vit{ó}ria}}
+      \field{title}{{Arquivo climático de Vitória}}
       \field{year}{2018}
       \field{pages}{1}
       \range{pages}{1}
@@ -3539,14 +3539,14 @@
     \entry{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018a}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=fb8bdd3fbafa352c3b2f7c626596783d}{%
-           family={{Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Metrologia\bibnamedelimb Normaliza{ç}{ã}o\bibnamedelimb e\bibnamedelimb Qualidade\bibnamedelimb Industrial\bibnamedelimb -\bibnamedelimb INMETRO}},
-           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Instituto Nacional de Metrologia Normalização e Qualidade Industrial - INMETRO}},
+           familyi={I\bibinitperiod}}}%
       }
       \list{institution}{1}{%
         {Instituto Nacional de Metrologia, Qualidade e Tecnologia}%
       }
       \list{location}{1}{%
-        {Bras{í}lia}%
+        {Brasília}%
       }
       \strng{namehash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \strng{fullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
@@ -3556,13 +3556,13 @@
       \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{EFICI{Ê}NCIA ENERG{É}TICA - CONDICIONADORES DE AR SPLIT HI-WALL COM ROTA{Ç}{Ã}O FIXA}}
+      \field{title}{{EFICIÊNCIA ENERGÉTICA - CONDICIONADORES DE AR SPLIT HI-WALL COM ROTAÇÃO FIXA}}
       \field{type}{techreport}
       \field{year}{2018}
       \field{pages}{29}
@@ -3580,11 +3580,11 @@
     \entry{InstitutoNacionaldeMetrologiaNormalizacaoeQualidadeIndustrial-INMETRO2018}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=fb8bdd3fbafa352c3b2f7c626596783d}{%
-           family={{Instituto\bibnamedelimb Nacional\bibnamedelimb de\bibnamedelimb Metrologia\bibnamedelimb Normaliza{ç}{ã}o\bibnamedelimb e\bibnamedelimb Qualidade\bibnamedelimb Industrial\bibnamedelimb -\bibnamedelimb INMETRO}},
-           familyi={I\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim M\bibinitperiod\bibinitdelim N\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Instituto Nacional de Metrologia Normalização e Qualidade Industrial - INMETRO}},
+           familyi={I\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
-        {Instituto Nacional de Metrologia Normaliza{ç}{ã}o e Qualidade Industrial}%
+        {Instituto Nacional de Metrologia Normalização e Qualidade Industrial}%
       }
       \strng{namehash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \strng{fullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
@@ -3594,15 +3594,15 @@
       \strng{authorfullhash}{fb8bdd3fbafa352c3b2f7c626596783d}
       \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O presente RTQ especifica requisitos t{é}cnicos, bem como os m{é}todos para classifica{ç}{ã}o de edif{í}cios comerciais, de servi{ç}os e p{ú}blicos quanto {à} efici{ê}ncia energ{é}tica. Os edif{í}cios submetidos a este RTQ devem atender {à}s normas da Associa{ç}{ã}o Brasileira de Normas T{é}cnicas (ABNT) vigentes e aplic{á}veis. Cabe ressaltar que a vis{ã}o deste RTQ {é} a efici{ê}ncia energ{é}tica da edifica{ç}{ã}o e que este, os organismos de inspe{ç}{ã}o acreditados e o Inmetro se eximem dos problemas que porventura possam ser causados {à} edifica{ç}{ã}o pela n{ã}o observ{â}ncia das normas da ABNT, que s{ã}o de exclusiva atribui{ç}{ã}o do projetista.}
+      \field{abstract}{O presente RTQ especifica requisitos técnicos, bem como os métodos para classificação de edifícios comerciais, de serviços e públicos quanto à eficiência energética. Os edifícios submetidos a este RTQ devem atender às normas da Associação Brasileira de Normas Técnicas (ABNT) vigentes e aplicáveis. Cabe ressaltar que a visão deste RTQ é a eficiência energética da edificação e que este, os organismos de inspeção acreditados e o Inmetro se eximem dos problemas que porventura possam ser causados à edificação pela não observância das normas da ABNT, que são de exclusiva atribuição do projetista.}
       \field{booktitle}{10 de jul}
-      \field{title}{{Regulamento T{é}cnico da Qualidade para o N{í}vel de Efici{ê}ncia Energ{é}tica de Edifica{ç}{õ}es Comerciais, de Servi{ç}os e P{ú}blicas}}
+      \field{title}{{Regulamento Técnico da Qualidade para o Nível de Eficiência Energética de Edificações Comerciais, de Serviços e Públicas}}
       \field{year}{2018}
       \field{pages}{122}
       \range{pages}{1}
@@ -3631,7 +3631,7 @@
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -3673,7 +3673,7 @@
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
       \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -3709,7 +3709,7 @@
       \strng{authornamehash}{c29d607f7102301785225d56ae6b8a1e}
       \strng{authorfullhash}{c29d607f7102301785225d56ae6b8a1e}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3732,7 +3732,7 @@
     \entry{PrefeituraMunicipaldeVitoria-PMV2018}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=0dcd3a5336b4e6cfbc78bb4968ed7bd1}{%
-           family={{Prefeitura Municipal de Vit{ó}ria - PMV}},
+           family={{Prefeitura Municipal de Vitória - PMV}},
            familyi={P\bibinitperiod}}}%
       }
       \strng{namehash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
@@ -3743,12 +3743,12 @@
       \strng{authorfullhash}{0dcd3a5336b4e6cfbc78bb4968ed7bd1}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{O Plano Diretor Urbano (PDU) {é} uma lei municipal, aprovada pela C{â}mara de Vereadores, que define como deve ser o crescimento e o funcionamento da cidade, buscando garantir a qualidade de vida de seus moradores. Para isso, estabelece os objetivos e as regras para controlar esse processo, definindo as {á}reas de prote{ç}{ã}o ambiental, as {á}reas que podem ser ocupadas por novas constru{ç}{õ}es e os crit{é}rios para a instala{ç}{ã}o de atividades econ{ô}micas ou para grandes empreendimentos. O primeiro PDU de Vit{ó}ria foi institu{í}do em 1984. Periodicamente ele {é} atualizado. Em 2001, a aprova{ç}{ã}o do Estatuto da Cidade (Lei Federal 10.257) estabeleceu novos instrumentos de planejamento e controle do crescimento das cidades, que foram inclu{í}dos no atual PDU. {Ú}ltima atualiza{ç}{ã}o em 13/12/2018}
+      \field{abstract}{O Plano Diretor Urbano (PDU) é uma lei municipal, aprovada pela Câmara de Vereadores, que define como deve ser o crescimento e o funcionamento da cidade, buscando garantir a qualidade de vida de seus moradores. Para isso, estabelece os objetivos e as regras para controlar esse processo, definindo as áreas de proteção ambiental, as áreas que podem ser ocupadas por novas construções e os critérios para a instalação de atividades econômicas ou para grandes empreendimentos. O primeiro PDU de Vitória foi instituído em 1984. Periodicamente ele é atualizado. Em 2001, a aprovação do Estatuto da Cidade (Lei Federal 10.257) estabeleceu novos instrumentos de planejamento e controle do crescimento das cidades, que foram incluídos no atual PDU. Última atualização em 13/12/2018}
       \field{booktitle}{2018-12-13}
       \field{title}{{PDU - Plano Diretor Urbano}}
       \field{urlday}{31}
@@ -3774,7 +3774,7 @@
            giveni={T\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=212b6e8f0ef1ab97b3dc5fdf41840383}{%
-           family={G{Ü}RLICH},
+           family={GÜRLICH},
            familyi={G\bibinitperiod},
            given={Daniel},
            giveni={D\bibinitperiod},
@@ -3793,7 +3793,7 @@
       \strng{authornamehash}{41574819233faec3d74afc3858021ac1}
       \strng{authorfullhash}{41574819233faec3d74afc3858021ac1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3834,7 +3834,7 @@
            giveni={K\bibinitperiod},
            givenun=0}}%
         {{un=0,uniquepart=base,hash=581e1fc12788d41db858ffb066e3da03}{%
-           family={R{ü}ther},
+           family={Rüther},
            familyi={R\bibinitperiod},
            given={R.},
            giveni={R\bibinitperiod},
@@ -3850,16 +3850,16 @@
       \strng{authornamehash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
       \strng{authorfullhash}{d63bacdcc6fd6d4c314c5e04b16f7ef4}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{A great challenge and trend for sustainable buildings is to reduce electricity consumption, and at the same time try to supply their own energy demand with self-generation. The project should be development focused on sustainability, explore the passive strategies and the energy generation potential of fa{ç}ades and roof. In this paper we analyze for the first time in Brazil and under current solar photovoltaic (PV) module prices, the technical and economic potential of integrating state-of-the-art, frameless, glass-glass thin-film cadmium telluride (CdTe) PV modules on a commercial building fa{ç}ade and roof, and evaluate the economic feasibility of replacing traditional fa{ç}ade materials like architectural glass and aluminum composite material with sleek black PV modules in six Brazilian cities. The technical analysis consisted in evaluating the energy performance of a four-storey office building for each of the six cities under analysis. The technical analysis showed that it is possible to fully meet the energy demand of the office building with PV integration in all the Brazilian cities evaluated. While the local climate has a significant impact on the energy consumption due mostly to air conditioning loads, PV energy production follows the same trend. Most importantly, the economic analysis showed that with the declining costs of photovoltaics, replacing conventional fa{ç}ade building materials with PV modules is not only an innovative approach but also of economic benefit.}
+      \field{abstract}{A great challenge and trend for sustainable buildings is to reduce electricity consumption, and at the same time try to supply their own energy demand with self-generation. The project should be development focused on sustainability, explore the passive strategies and the energy generation potential of façades and roof. In this paper we analyze for the first time in Brazil and under current solar photovoltaic (PV) module prices, the technical and economic potential of integrating state-of-the-art, frameless, glass-glass thin-film cadmium telluride (CdTe) PV modules on a commercial building façade and roof, and evaluate the economic feasibility of replacing traditional façade materials like architectural glass and aluminum composite material with sleek black PV modules in six Brazilian cities. The technical analysis consisted in evaluating the energy performance of a four-storey office building for each of the six cities under analysis. The technical analysis showed that it is possible to fully meet the energy demand of the office building with PV integration in all the Brazilian cities evaluated. While the local climate has a significant impact on the energy consumption due mostly to air conditioning loads, PV energy production follows the same trend. Most importantly, the economic analysis showed that with the declining costs of photovoltaics, replacing conventional façade building materials with PV modules is not only an innovative approach but also of economic benefit.}
       \field{issn}{18790682}
       \field{journaltitle}{Renewable Energy}
       \field{month}{4}
-      \field{title}{{Technical and economic evaluation of thin-film CdTe building-integrated photovoltaics (BIPV) replacing fa{ç}ade and rooftop materials in office buildings in a warm and sunny climate}}
+      \field{title}{{Technical and economic evaluation of thin-film CdTe building-integrated photovoltaics (BIPV) replacing façade and rooftop materials in office buildings in a warm and sunny climate}}
       \field{volume}{118}
       \field{year}{2018}
       \field{pages}{84\bibrangedash 98}
@@ -3875,14 +3875,14 @@
     \entry{AgenciadeRegulacaodeServicosPublicosdoEspiritoSanto-ARSP2019}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=005f9005fe1b2c3d055907a64a3c14c4}{%
-           family={{Ag{ê}ncia\bibnamedelimb de\bibnamedelimb Regula{ç}{ã}o\bibnamedelimb de\bibnamedelimb Servi{ç}os\bibnamedelimb P{ú}blicos\bibnamedelimb do\bibnamedelimb Esp{í}rito\bibnamedelimb Santo\bibnamedelimb -\bibnamedelimb ARSP}},
-           familyi={A\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim P\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim E\bibinithyphendelim  \bibinitperiod}}}%
+           family={{Agência de Regulação de Serviços Públicos do Espírito Santo - ARSP}},
+           familyi={A\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Ag{ê}ncia de Regula{ç}{ã}o de Servi{ç}os P{ú}blicos do Esp{í}rito Santo}%
+        {Agência de Regulação de Serviços Públicos do Espírito Santo}%
       }
       \list{location}{1}{%
-        {Vit{ó}ria}%
+        {Vitória}%
       }
       \strng{namehash}{005f9005fe1b2c3d055907a64a3c14c4}
       \strng{fullhash}{005f9005fe1b2c3d055907a64a3c14c4}
@@ -3892,12 +3892,12 @@
       \strng{authorfullhash}{005f9005fe1b2c3d055907a64a3c14c4}
       \field{extraname}{2}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Informa{ç}{õ}es Energ{é}ticas do Estado do Esp{í}rto Santo}}
+      \field{title}{{Informações Energéticas do Estado do Espírto Santo}}
       \field{type}{techreport}
       \field{year}{2019}
       \field{pages}{40}
@@ -3939,7 +3939,7 @@
       \strng{authorfullhash}{7b2215a22c281891b12a7e68712a5484}
       \field{extraname}{3}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -3964,11 +3964,11 @@
     \entry{EmpresadePesquisaEnergetica-EPE2019}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
-           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           family={{Empresa de Pesquisa Energética - EPE}},
            familyi={E\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Empresa de Pesquisa Energ{é}tica}%
+        {Empresa de Pesquisa Energética}%
       }
       \list{location}{1}{%
         {Rio de Janeiro}%
@@ -3981,14 +3981,14 @@
       \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \field{extraname}{4}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Contendo a contabilidade relativa {à} oferta e consumo de energia no Brasil, bem como dos processos de convers{ã}o de produtos energ{é}ticos e de com{é}rcio exterior, o BEN re{ú}ne em um {ú}nico documento as s{é}ries hist{ó}ricas dessas opera{ç}{õ}es, al{é}m das informa{ç}{õ}es sobre reservas, capacidades instaladas e importantes dados estaduais.}
-      \field{title}{{Balan{ç}o Energ{é}tico Nacional 2019: Ano base 2018}}
+      \field{abstract}{Contendo a contabilidade relativa à oferta e consumo de energia no Brasil, bem como dos processos de conversão de produtos energéticos e de comércio exterior, o BEN reúne em um único documento as séries históricas dessas operações, além das informações sobre reservas, capacidades instaladas e importantes dados estaduais.}
+      \field{title}{{Balanço Energético Nacional 2019: Ano base 2018}}
       \field{type}{techreport}
       \field{year}{2019}
       \field{pages}{303}
@@ -4003,14 +4003,14 @@
     \entry{EmpresadePesquisaEnergetica-EPE2019a}{report}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=6c9c4c1e413ca9023c3d87e170aefeb8}{%
-           family={{Empresa de Pesquisa Energ{é}tica - EPE}},
+           family={{Empresa de Pesquisa Energética - EPE}},
            familyi={E\bibinitperiod}}}%
       }
       \list{institution}{1}{%
-        {Empresa de Pesquisa Energ{é}tica}%
+        {Empresa de Pesquisa Energética}%
       }
       \list{location}{1}{%
-        {Bras{í}lia}%
+        {Brasília}%
       }
       \strng{namehash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \strng{fullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
@@ -4020,14 +4020,14 @@
       \strng{authorfullhash}{6c9c4c1e413ca9023c3d87e170aefeb8}
       \field{extraname}{5}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Atlas da Efici{ê}ncia Energ{é}tica do Brasil - Relat{ó}rio de indicadores}
-      \field{title}{{Status e benef{í}cios da efici{ê}ncia energ{é}tica: perspectivas brasileiras e globais}}
+      \field{abstract}{Atlas da Eficiência Energética do Brasil - Relatório de indicadores}
+      \field{title}{{Status e benefícios da eficiência energética: perspectivas brasileiras e globais}}
       \field{type}{techreport}
       \field{year}{2019}
       \field{pages}{55}
@@ -4039,7 +4039,7 @@
     \entry{InstitutoBrasileirodeGeografiaeEstatistica-IBGE2019}{misc}{}
       \name{author}{1}{}{%
         {{un=0,uniquepart=base,hash=d2740f53726c59d44a72846489d73a2b}{%
-           family={{Instituto Brasileiro de Geografia e Estat{í}stica - IBGE}},
+           family={{Instituto Brasileiro de Geografia e Estatística - IBGE}},
            familyi={I\bibinitperiod}}}%
       }
       \strng{namehash}{d2740f53726c59d44a72846489d73a2b}
@@ -4049,12 +4049,12 @@
       \strng{authornamehash}{d2740f53726c59d44a72846489d73a2b}
       \strng{authorfullhash}{d2740f53726c59d44a72846489d73a2b}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{{Panorama de Vit{ó}ria}}
+      \field{title}{{Panorama de Vitória}}
       \field{urlday}{17}
       \field{urlmonth}{1}
       \field{urlyear}{2019}
@@ -4090,7 +4090,7 @@
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
       \field{extraname}{4}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{1}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -4126,7 +4126,7 @@
       \strng{authorfullhash}{0c6a52282f88116aa0b35d9c2450a043}
       \field{extraname}{5}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradate}{2}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
@@ -4163,7 +4163,7 @@
       \strng{authornamehash}{72f2667665a386120abd20c464f870fc}
       \strng{authorfullhash}{72f2667665a386120abd20c464f870fc}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -4229,7 +4229,7 @@
       \strng{authornamehash}{1d78cb78f34cae88ab66988e0b93a101}
       \strng{authorfullhash}{09e1d9c0a11b865c1f7e6bb43174104b}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -4294,7 +4294,7 @@
       \strng{authornamehash}{f5381d1a52504d5df5f68237faecbe84}
       \strng{authorfullhash}{328f7bfd3c5e31eb47cf099dd4eaaef7}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -4345,7 +4345,7 @@
       \strng{authornamehash}{49da46f61e9bf04f7afea7af999e43b1}
       \strng{authorfullhash}{49da46f61e9bf04f7afea7af999e43b1}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}
@@ -4391,7 +4391,7 @@
       \strng{authornamehash}{e711be7537944a5c87953730907a5d6d}
       \strng{authorfullhash}{e711be7537944a5c87953730907a5d6d}
       \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{extradatescope}{labelyear}
       \field{labeldatesource}{year}
       \field{labelnamesource}{author}

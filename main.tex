@@ -1,10 +1,10 @@
 \documentclass[a4paper, 12pt]{article}
 \usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc} % indicação de caracteres especiais - contidos no pt
 \usepackage[a4paper, inner=3cm, outer=2cm, top=3cm, bottom=2cm]{geometry}
 \usepackage{charter} % fonte utilizada no documento
                     %\usepackage[nf]{coelacanth}% fontes alternativas
                     %\usepackage[T1]{fontenc} % fontes alternativas
-\usepackage[utf8]{inputenc} % indicação de caracteres especiais - contidos no pt
 \usepackage{microtype} %server para melhorar a justificação
 \usepackage{graphicx} % pacote de formatação e inserção de figuras
 \usepackage{wrapfig} % pacote de formatação e inserção de figuras
@@ -21,6 +21,7 @@
 \usepackage[style=abnt, sorting=ynt]{biblatex} % formatação e configuração das referências
 \addbibresource{ref.bib}
 \usepackage{csquotes}
+\usepackage{parskip} % resolve o problema do hbox badness 10000
 \usepackage{makecell} % ajuda a ajustar o conteúdo das células das tabelas
 \usepackage{pdfpages} % pacote para incluir/anexar páginas em pdf
 \usepackage[at]{easylist} % pacote mais fácil pra editar listas e enumerações
@@ -39,6 +40,7 @@
 \setlength{\headheight}{15.7pt} % formatando o headheight, eliminamos o conflito com o pacote fancyhdr
 %\setlenght{\parindent}{1.3cm}
 %\setlenght{\parskip}{0.2cm}
+\DeclareUnicodeCharacter{001A}{~}
 
 %---------início da dissertação-------------%
 \begin{document} %capa e contracapa

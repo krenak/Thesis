@@ -1,31 +1,32 @@
-\BOOKMARK [1][-]{section.1}{Introdu\347\343o}{}% 1
-\BOOKMARK [2][-]{subsection.1.1}{Questionamentos}{section.1}% 2
-\BOOKMARK [2][-]{subsection.1.2}{Objetivos}{section.1}% 3
-\BOOKMARK [1][-]{section.2}{Referencial Te\363rico}{}% 4
-\BOOKMARK [2][-]{subsection.2.1}{Introdu\347\343o ao conceito Zero Energy}{section.2}% 5
-\BOOKMARK [3][-]{subsubsection.2.1.1}{Near Zero Energy}{subsection.2.1}% 6
-\BOOKMARK [3][-]{subsubsection.2.1.2}{M\351trica para balan\347o energ\351tico nulo}{subsection.2.1}% 7
-\BOOKMARK [2][-]{subsection.2.2}{Cen\341rios energ\351ticos e a matriz el\351trica brasileira}{section.2}% 8
-\BOOKMARK [3][-]{subsubsection.2.2.1}{Potencial de gera\347\343o de energia solar no Brasil e no Esp\355rito Santo}{subsection.2.2}% 9
-\BOOKMARK [3][-]{subsubsection.2.2.2}{Energia solar fotovoltaica}{subsection.2.2}% 10
-\BOOKMARK [3][-]{subsubsection.2.2.3}{Legisla\347\343o para a efici\352ncia energ\351tica}{subsection.2.2}% 11
-\BOOKMARK [2][-]{subsection.2.3}{Conceitos para a avalia\347\343o termoenerg\351tica}{section.2}% 12
-\BOOKMARK [3][-]{subsubsection.2.3.1}{Par\342metros de conforto t\351rmico}{subsection.2.3}% 13
-\BOOKMARK [3][-]{subsubsection.2.3.2}{Estrat\351gias passivas}{subsection.2.3}% 14
-\BOOKMARK [3][-]{subsubsection.2.3.3}{Estrat\351gias ativas}{subsection.2.3}% 15
-\BOOKMARK [2][-]{subsection.2.4}{Caracteriza\347\343o clim\341tica e socioecon\364mica da cidade de Vit\363ria}{section.2}% 16
-\BOOKMARK [2][-]{subsection.2.5}{Caracteriza\347\343o da tipologia de refer\352ncia}{section.2}% 17
-\BOOKMARK [1][-]{section.3}{Metodologia}{}% 18
-\BOOKMARK [2][-]{subsection.3.1}{Levantamento das caracter\355sticas dos edif\355cios de escrit\363rio de Vit\363ria}{section.3}% 19
-\BOOKMARK [3][-]{subsubsection.3.1.1}{Consumo de energia el\351trica das edifica\347\365es}{subsection.3.1}% 20
-\BOOKMARK [3][-]{subsubsection.3.1.2}{Padr\365es de uso e ocupa\347\343o em edif\355cios de escrit\363rio}{subsection.3.1}% 21
-\BOOKMARK [2][-]{subsection.3.2}{Padr\365es de conforto}{section.3}% 22
-\BOOKMARK [3][-]{subsubsection.3.2.1}{Conforto t\351rmico}{subsection.3.2}% 23
-\BOOKMARK [3][-]{subsubsection.3.2.2}{Conforto lum\355nico}{subsection.3.2}% 24
-\BOOKMARK [2][-]{subsection.3.3}{N\355veis de efici\352ncia energ\351tica}{section.3}% 25
-\BOOKMARK [3][-]{subsubsection.3.3.1}{Determina\347\343o da classe de efici\352ncia energ\351tica dos modelos gen\351ricos}{subsection.3.3}% 26
-\BOOKMARK [3][-]{subsubsection.3.3.2}{Efici\352ncia energ\351tica do sistema de condicionamento de ar}{subsection.3.3}% 27
-\BOOKMARK [3][-]{subsubsection.3.3.3}{Efici\352ncia energ\351tica do sistema ilumina\347\343o artificial e equipamentos}{subsection.3.3}% 28
-\BOOKMARK [2][-]{subsection.3.4}{Defini\347\343o dos modelos gen\351ricos}{section.3}% 29
-\BOOKMARK [3][-]{subsubsection.3.4.1}{Composi\347\343o dos modelos gen\351ricos}{subsection.3.4}% 30
-\BOOKMARK [3][-]{subsubsection.3.4.2}{Par\342metros arquitet\364nicos dos modelos gen\351ricos}{subsection.3.4}% 31
+\BOOKMARK [1][-]{section.1}{\376\377\000R\000e\000s\000u\000m\000o}{}% 1
+\BOOKMARK [1][-]{section.2}{\376\377\000I\000n\000t\000r\000o\000d\000u\000\347\000\343\000o}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{\376\377\000Q\000u\000e\000s\000t\000i\000o\000n\000a\000m\000e\000n\000t\000o\000s}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{\376\377\000O\000b\000j\000e\000t\000i\000v\000o\000s}{section.2}% 4
+\BOOKMARK [1][-]{section.3}{\376\377\000R\000e\000f\000e\000r\000e\000n\000c\000i\000a\000l\000\040\000T\000e\000\363\000r\000i\000c\000o}{}% 5
+\BOOKMARK [2][-]{subsection.3.1}{\376\377\000I\000n\000t\000r\000o\000d\000u\000\347\000\343\000o\000\040\000a\000o\000\040\000c\000o\000n\000c\000e\000i\000t\000o\000\040\000Z\000e\000r\000o\000\040\000E\000n\000e\000r\000g\000y}{section.3}% 6
+\BOOKMARK [3][-]{subsubsection.3.1.1}{\376\377\000N\000e\000a\000r\000\040\000Z\000e\000r\000o\000\040\000E\000n\000e\000r\000g\000y}{subsection.3.1}% 7
+\BOOKMARK [3][-]{subsubsection.3.1.2}{\376\377\000M\000\351\000t\000r\000i\000c\000a\000\040\000p\000a\000r\000a\000\040\000b\000a\000l\000a\000n\000\347\000o\000\040\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000o\000\040\000n\000u\000l\000o}{subsection.3.1}% 8
+\BOOKMARK [2][-]{subsection.3.2}{\376\377\000C\000e\000n\000\341\000r\000i\000o\000s\000\040\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000o\000s\000\040\000e\000\040\000a\000\040\000m\000a\000t\000r\000i\000z\000\040\000e\000l\000\351\000t\000r\000i\000c\000a\000\040\000b\000r\000a\000s\000i\000l\000e\000i\000r\000a}{section.3}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.1}{\376\377\000P\000o\000t\000e\000n\000c\000i\000a\000l\000\040\000d\000e\000\040\000g\000e\000r\000a\000\347\000\343\000o\000\040\000d\000e\000\040\000e\000n\000e\000r\000g\000i\000a\000\040\000s\000o\000l\000a\000r\000\040\000n\000o\000\040\000B\000r\000a\000s\000i\000l\000\040\000e\000\040\000n\000o\000\040\000E\000s\000p\000\355\000r\000i\000t\000o\000\040\000S\000a\000n\000t\000o}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.2}{\376\377\000E\000n\000e\000r\000g\000i\000a\000\040\000s\000o\000l\000a\000r\000\040\000f\000o\000t\000o\000v\000o\000l\000t\000a\000i\000c\000a}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.3}{\376\377\000L\000e\000g\000i\000s\000l\000a\000\347\000\343\000o\000\040\000p\000a\000r\000a\000\040\000a\000\040\000e\000f\000i\000c\000i\000\352\000n\000c\000i\000a\000\040\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000a}{subsection.3.2}% 12
+\BOOKMARK [2][-]{subsection.3.3}{\376\377\000C\000o\000n\000c\000e\000i\000t\000o\000s\000\040\000p\000a\000r\000a\000\040\000a\000\040\000a\000v\000a\000l\000i\000a\000\347\000\343\000o\000\040\000t\000e\000r\000m\000o\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000a}{section.3}% 13
+\BOOKMARK [3][-]{subsubsection.3.3.1}{\376\377\000P\000a\000r\000\342\000m\000e\000t\000r\000o\000s\000\040\000d\000e\000\040\000c\000o\000n\000f\000o\000r\000t\000o\000\040\000t\000\351\000r\000m\000i\000c\000o}{subsection.3.3}% 14
+\BOOKMARK [3][-]{subsubsection.3.3.2}{\376\377\000E\000s\000t\000r\000a\000t\000\351\000g\000i\000a\000s\000\040\000p\000a\000s\000s\000i\000v\000a\000s}{subsection.3.3}% 15
+\BOOKMARK [3][-]{subsubsection.3.3.3}{\376\377\000E\000s\000t\000r\000a\000t\000\351\000g\000i\000a\000s\000\040\000a\000t\000i\000v\000a\000s}{subsection.3.3}% 16
+\BOOKMARK [2][-]{subsection.3.4}{\376\377\000C\000a\000r\000a\000c\000t\000e\000r\000i\000z\000a\000\347\000\343\000o\000\040\000c\000l\000i\000m\000\341\000t\000i\000c\000a\000\040\000e\000\040\000s\000o\000c\000i\000o\000e\000c\000o\000n\000\364\000m\000i\000c\000a\000\040\000d\000a\000\040\000c\000i\000d\000a\000d\000e\000\040\000d\000e\000\040\000V\000i\000t\000\363\000r\000i\000a}{section.3}% 17
+\BOOKMARK [2][-]{subsection.3.5}{\376\377\000C\000a\000r\000a\000c\000t\000e\000r\000i\000z\000a\000\347\000\343\000o\000\040\000d\000a\000\040\000t\000i\000p\000o\000l\000o\000g\000i\000a\000\040\000d\000e\000\040\000r\000e\000f\000e\000r\000\352\000n\000c\000i\000a}{section.3}% 18
+\BOOKMARK [1][-]{section.4}{\376\377\000M\000e\000t\000o\000d\000o\000l\000o\000g\000i\000a}{}% 19
+\BOOKMARK [2][-]{subsection.4.1}{\376\377\000L\000e\000v\000a\000n\000t\000a\000m\000e\000n\000t\000o\000\040\000d\000a\000s\000\040\000c\000a\000r\000a\000c\000t\000e\000r\000\355\000s\000t\000i\000c\000a\000s\000\040\000d\000o\000s\000\040\000e\000d\000i\000f\000\355\000c\000i\000o\000s\000\040\000d\000e\000\040\000e\000s\000c\000r\000i\000t\000\363\000r\000i\000o\000\040\000d\000e\000\040\000V\000i\000t\000\363\000r\000i\000a}{section.4}% 20
+\BOOKMARK [3][-]{subsubsection.4.1.1}{\376\377\000C\000o\000n\000s\000u\000m\000o\000\040\000d\000e\000\040\000e\000n\000e\000r\000g\000i\000a\000\040\000e\000l\000\351\000t\000r\000i\000c\000a\000\040\000d\000a\000s\000\040\000e\000d\000i\000f\000i\000c\000a\000\347\000\365\000e\000s}{subsection.4.1}% 21
+\BOOKMARK [3][-]{subsubsection.4.1.2}{\376\377\000P\000a\000d\000r\000\365\000e\000s\000\040\000d\000e\000\040\000u\000s\000o\000\040\000e\000\040\000o\000c\000u\000p\000a\000\347\000\343\000o\000\040\000e\000m\000\040\000e\000d\000i\000f\000\355\000c\000i\000o\000s\000\040\000d\000e\000\040\000e\000s\000c\000r\000i\000t\000\363\000r\000i\000o}{subsection.4.1}% 22
+\BOOKMARK [2][-]{subsection.4.2}{\376\377\000P\000a\000d\000r\000\365\000e\000s\000\040\000d\000e\000\040\000c\000o\000n\000f\000o\000r\000t\000o}{section.4}% 23
+\BOOKMARK [3][-]{subsubsection.4.2.1}{\376\377\000C\000o\000n\000f\000o\000r\000t\000o\000\040\000t\000\351\000r\000m\000i\000c\000o}{subsection.4.2}% 24
+\BOOKMARK [3][-]{subsubsection.4.2.2}{\376\377\000C\000o\000n\000f\000o\000r\000t\000o\000\040\000l\000u\000m\000\355\000n\000i\000c\000o}{subsection.4.2}% 25
+\BOOKMARK [2][-]{subsection.4.3}{\376\377\000N\000\355\000v\000e\000i\000s\000\040\000d\000e\000\040\000e\000f\000i\000c\000i\000\352\000n\000c\000i\000a\000\040\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000a}{section.4}% 26
+\BOOKMARK [3][-]{subsubsection.4.3.1}{\376\377\000D\000e\000t\000e\000r\000m\000i\000n\000a\000\347\000\343\000o\000\040\000d\000a\000\040\000c\000l\000a\000s\000s\000e\000\040\000d\000e\000\040\000e\000f\000i\000c\000i\000\352\000n\000c\000i\000a\000\040\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000a\000\040\000d\000o\000s\000\040\000m\000o\000d\000e\000l\000o\000s\000\040\000g\000e\000n\000\351\000r\000i\000c\000o\000s}{subsection.4.3}% 27
+\BOOKMARK [3][-]{subsubsection.4.3.2}{\376\377\000E\000f\000i\000c\000i\000\352\000n\000c\000i\000a\000\040\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000a\000\040\000d\000o\000\040\000s\000i\000s\000t\000e\000m\000a\000\040\000d\000e\000\040\000c\000o\000n\000d\000i\000c\000i\000o\000n\000a\000m\000e\000n\000t\000o\000\040\000d\000e\000\040\000a\000r}{subsection.4.3}% 28
+\BOOKMARK [3][-]{subsubsection.4.3.3}{\376\377\000E\000f\000i\000c\000i\000\352\000n\000c\000i\000a\000\040\000e\000n\000e\000r\000g\000\351\000t\000i\000c\000a\000\040\000d\000o\000\040\000s\000i\000s\000t\000e\000m\000a\000\040\000i\000l\000u\000m\000i\000n\000a\000\347\000\343\000o\000\040\000a\000r\000t\000i\000f\000i\000c\000i\000a\000l\000\040\000e\000\040\000e\000q\000u\000i\000p\000a\000m\000e\000n\000t\000o\000s}{subsection.4.3}% 29
+\BOOKMARK [2][-]{subsection.4.4}{\376\377\000D\000e\000f\000i\000n\000i\000\347\000\343\000o\000\040\000d\000o\000s\000\040\000m\000o\000d\000e\000l\000o\000s\000\040\000g\000e\000n\000\351\000r\000i\000c\000o\000s}{section.4}% 30
+\BOOKMARK [3][-]{subsubsection.4.4.1}{\376\377\000C\000o\000m\000p\000o\000s\000i\000\347\000\343\000o\000\040\000d\000o\000s\000\040\000m\000o\000d\000e\000l\000o\000s\000\040\000g\000e\000n\000\351\000r\000i\000c\000o\000s}{subsection.4.4}% 31
+\BOOKMARK [3][-]{subsubsection.4.4.2}{\376\377\000P\000a\000r\000\342\000m\000e\000t\000r\000o\000s\000\040\000a\000r\000q\000u\000i\000t\000e\000t\000\364\000n\000i\000c\000o\000s\000\040\000d\000o\000s\000\040\000m\000o\000d\000e\000l\000o\000s\000\040\000g\000e\000n\000\351\000r\000i\000c\000o\000s}{subsection.4.4}% 32
