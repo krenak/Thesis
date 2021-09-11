@@ -17,10 +17,10 @@
 %\usepackage{index} % pacote de formatação de sumário
 \usepackage{booktabs} % pacote de formatação e inserção de tabelas
 \usepackage{hyperref} % pacote para uso de hyperlinks e referências cruzadas
-%\usepackage{natbib} % pacote de auxílio para citação autor, ano
 \usepackage[style=abnt, sorting=ynt]{biblatex} % formatação e configuração das referências
 \addbibresource{ref.bib}
 \usepackage{csquotes}
+\usepackage{caption} % ajuda a alterar o tamanho da fonte das captions nas tabelas e figuras
 \usepackage{parskip} % resolve o problema do hbox badness 10000
 \usepackage{makecell} % ajuda a ajustar o conteúdo das células das tabelas
 \usepackage{pdfpages} % pacote para incluir/anexar páginas em pdf
@@ -28,6 +28,8 @@
 \usepackage[singlespacing]{setspace} % pacote de formatação de espaçamento entre linhas
 %\usepackage{blindtext} % pacote de inserção de texto randomizado - lorem ipsum
 \newenvironment{graph}{\centering}{\par} % novo ambiente para inserção de gráficos
+\captionsetup[table]{font=small,labelfont=small} % altera o tamanho da fonte nas tabelas para small (~10pt)
+\captionsetup[figure]{font=small,labelfont=small} % altera o tamanho da fonte nas tabelas para small (~10pt)
 
 %-----------cabeçalho e rodapé--------------%
 \pagestyle{fancy} % estilo do cabeçalho e rodapé
@@ -41,6 +43,7 @@
 %\setlenght{\parindent}{1.3cm}
 %\setlenght{\parskip}{0.2cm}
 \DeclareUnicodeCharacter{001A}{~}
+\DeclareUnicodeCharacter{03B1}{~} % caracteres que aparecem pra dar erro no doc...
 
 %---------início da dissertação-------------%
 \begin{document} %capa e contracapa

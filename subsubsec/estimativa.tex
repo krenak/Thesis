@@ -1,0 +1,25 @@
+\subsubsection{Estimativa de produção de energia}
+\noindent Para esta pesquisa, foi aplicado o sistema de produção de energia fotovoltaica, tanto por ser a mais usual nesse tipo de edificação como, também, pela complexidade da análise de custos para os outros sistemas, que inviabilizaria a conclusão da avaliação dentro do tempo disponível para o desenvolvimento do trabalho.\vspace*{0.3cm} \newline
+\noindent A geração de energia solar foi avaliada a partir da área disponível para a implantação dos painéis fotovoltaicos. A área considerada para a produção de energia é constituída pela área de cobertura, de estacionamento, áreas opacas das fachadas e das proteções solares \cite{Didone2014}. Assim como a verificação de disponibilidade de áreas, os dados sobre a irradiação solar, radiação global difusa e anual, e a temperatura média anual de Vitória, extraídos do arquivo climático da cidade, foram considerados para a estimativa de produção de energia \cite{InstitutoNacionaldeMetereologia-INMET2018,Pereira2017}.\vspace*{0.3cm} \newline
+\noindent A estimativa de produção de energia solar foi calculada com base no estudo de Palaoro \citeyear{Palaoro2019} sobre dimensionamento de sistema  fotovoltaico. Esta estimativa, necessária para suprir a demanda energética das edificações propostas, foi essencial para a obtenção  de dados para a simulação computacional de geração de energia solar fotovoltaica.\vspace*{0.3cm} \newline
+\noindent Inicialmente foi calculada a energia de geração, E\textsubscript{geração}, como exposto na Equação \ref{eq:eq3}.
+\begin{equation}\label{eq:eq3}
+E_{geracao}=\frac{V_m}{30}
+\end{equation}
+\noindent Onde:\par
+\setlength\parindent{1.5cm} E\textsubscript{geração} representa a quantidade de energia de geração, em kWh/mês; e\par
+\setlength\parindent{1.5cm} V\textsubscript{m} é o valor médio de consumo da edificação.\par
+\noindent Uma vez conhecida a energia de geração, foi estimada a quantidade de energia que cada modulo produziria diariamente, E\textsubscript{m}. De acordo com a Equação \ref{eq:eq4}, tem-se:
+\begin{equation}\label{eq:eq4}
+E_m=E_s \times A_m \times {\eta}_m
+\end{equation}
+\noindent Onde:\par
+\setlength\parindent{1.5cm} E\textsubscript{m} é a quantidade estimada de energia produzida pelo modulo, expressa em Wh/dia;\par
+\setlength\parindent{1.5cm} E\textsubscript{s} é a irradiação solar, em Wh/m²/dia;\par
+\setlength\parindent{1.5cm} A\textsubscript{m} compreende a área da superfície do modulo, em m²; e\par
+\setlength\parindent{1.5cm} \(\eta\)\textsubscript{m} é a eficiência do módulo.\par
+\noindent Com as estimativas de geração de energia geral e por cada modulo diariamente, foram calculadas a  quantidade  de  módulos  necessários  para  atender  a  estimativa  de  geração  de  energia.  A quantidade de módulos, N\textsubscript{m}, é resultado da razão entre a quantidade de energia gerada, E\textsubscript{geração}, sobre a quantidade de energia gerada por cada modulo individualmente, E\textsubscript{m}. Desta forma, como expresso pela Equação \ref{eq:eq5}, tem-se que:
+\begin{equation}\label{eq:eq5}
+N_m=\frac{E_{geracao}}{E_m}
+\end{equation}
+\noindent Os módulos e inversores foram pesquisados de acordo com as dimensões e especificações estimadas por meio das equações demonstradas neste capítulo, como apresentado na Tabela \ref{tab:tabela14}. O sistema fotovoltaico indicado ao cenário dos modelos genéricos foi de porte comerciais, dada a demanda de energia calculada. Os inversores foram dimensionados de forma a aproveitar a potência máxima nominal dos módulos, evitando o subdimensionamento e inadequação entre inversores e módulos durante o processo de geração de energia do sistema fotovoltaico.

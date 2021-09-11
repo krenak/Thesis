@@ -1,0 +1,46 @@
+\subsection{Avaliação de resultados}
+\noindent Foram examinados os aspectos econômicos da implantação das tecnologias propostas para produção de energia das edificações, sendo avaliados os cenários onde os modelos genéricos de 8 e 19 pavimentos foram mais eficientes, relacionando o custo de implementação das modificações propostas. Além do custo, foi avaliada a influência dos parâmetros estudados sobre os modelos genéricos, de forma estatística, por meio da análise de sensibilidade entre as variáveis adotadas e os resultados alcançados.
+\subsubsection{Análise de viabilidade econômica}
+\noindent A mudança de equipamentos de iluminação e condicionamento de ar, instalação de protetores solares  e  os  custos  da  implantação  de  tecnologias  de  produção  de  energia  estão  entre  as modificações propostas para a redução do consumo de energia elétrica. Os custos de instalação e manutenção do sistema de produção de energia fotovoltaica foi obtida por meio de consulta a empresas  locais  que  comercializam  painéis  fotovoltaicos,  além  de  publicações  acadêmicas recentes acerca do tema.\newline
+\noindent A análise de viabilidade financeira dos cenários simulados foi realizada por meio do cálculo do Valor Presente Líquido – VPL, e payback \cite{CasarottoFilho2010,Puccini2011}.  Segundo Puccini \citeyear{Puccini2011}, VPL é definido como a diferença entre o valor investido em um tempo inicial \(t=0\), e o valor presente da riqueza  futura  gerada  pelo  projeto.  Esta  definição  pode  ser  expressa pela Equação \ref{eq:eq6}.
+\begin{equation}\label{eq:eq6}
+    VPL_{mod gen}=V_r - Investimento Total
+\end{equation}
+\noindent Juntamente  ao  VLP,  será  calculado  o  Valor  de  Retorno, V\textsubscript{r},  e  desta  forma,  foram  definidos parâmetros que compõe esta análise como o período do investimento, a tarifa de energia elétrica e  a  Taxa  Mínima  de  Atratividade,  com  base  nos  dados  sobre  a  inflação  média  lançados  pelo Instituto Brasileiro de Geografia e Estatística – IBGE. Estes parâmetros estão descritos na Equação \ref{eq:eq7} \cite{Puccini2011}.\newline
+\begin{equation}\label{eq:eq7}
+    V_r=A \times \left\{\frac{1-\left[\frac{1}{(1+i)^n}\right]}{i}\right\}
+\end{equation}
+\noindent Onde:\par
+\setlength\parindent{1.5cm} V\textsubscript{r} é o valor de retorno;\par
+\setlength\parindent{1.5cm} A é o recebimento anual sucessivo;\par
+\setlength\parindent{1.5cm} \textit{n} representa o período definido do investimento; e\par
+\setlength\parindent{1.5cm} \textit{i} é a taxa mínima de atratividade do investimento.\par
+\noindent Nesse sentido, definem-se as seguintes condições:\par
+\begin{itemize}
+    \item Se \(VPL>0\), o investimento produziu ganhos – projeto aceito;
+    \item Se \(VPL=0\), o investimento e os ganhos foram equilibrados – projeto aceito; e
+    \item Se \(VPL<0\), o investimento foi maior que os ganhos – projeto a rejeitar.
+\end{itemize}
+\noindent A partir da validade do projeto, seja ele com produção de lucro ou equilibrado entre investimento e ganhos, deve ser avaliado o tempo de retorno do investimento – payback. Esta análise verifica se o somatório das parcelas anuais é igual ao investimento inicial \cite{CasarottoFilho2010}. Para tal, define-se então que o payback pode ser representado pela Equação \ref{eq:eq8}.\newline
+\begin{equation}\label{eq:eq8}
+    \textit{Payback}=\frac{\textit{Investimento inicial}}{\textit{Pagamento por período}}
+\end{equation}
+\noindent Após a conclusão da análise de viabilidade econômica, são apresentados os dados resultantes da aplicação da metodologia  proposta e discussão acerca das possibilidades observadas por meio desta apresentação de resultados.
+\subsubsection{Análise de variáveis sobre consumo e produção de energia}
+\noindent A análise do impacto das variáveis foi aplicada sobre os resultados com o intuito de evidenciar o nível de influência destas sobre o consumo final de energia dos modelos genéricos. Esta análise foi baseada no processamento de dados provenientes dos resultados de simulação. A aplicação sequencial e ordenada das medidas de redução de consumo de energia na etapa de otimização facilitou a plotagem de gráficos e a compreensão dos dados de saída para cada bloco de simulação.\newline
+\noindent Assim como a análise da etapa de otimização, os resultados de geração de energia foram submetidos à verificação de erro e desvio padrão, como descrito nas Equação \ref{eq:eq9} e Equação \ref{eq:eq10}, com a finalidade de corrigir os resultados para imprecisões de medição e depreciação da performance do sistema estudado.\newline
+\begin{equation}\label{eq:eq9}
+    S=\sqrt{\frac{\sum_{i=1}^{n}(X_i-\bar{X}^2)}{n-1}}
+\end{equation}
+\noindent Onde:\par
+\setlength\parindent{1.5cm} \textit{S} é o desvio padrão normal;\par
+\setlength\parindent{1.5cm} X\textsubscript{i} é a \textit{i-ésima} observação da amostral;\par
+\setlength\parindent{1.5cm} \textit{X} é a média da amostra;\par
+\setlength\parindent{1.5cm} \textit{n} é o tamanho da amostra;\par
+\begin{equation}\label{eq:eq10}
+    ep=\frac{S}{\sqrt{n}}
+\end{equation}
+\noindent Onde:\par
+\setlength\parindent{1.5cm} \textit{ep} é o erro padrão da amostra;\par
+\setlength\parindent{1.5cm} \textit{S} é o desvio padrão da amostra;\par
+\setlength\parindent{1.5cm} \textit{n} é o tamanho da amostra;\par

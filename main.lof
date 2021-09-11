@@ -1,24 +1,46 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {brazil}{}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces \small Diagrama de interação entre a edificação e as variáveis externas.}}{16}{figure.1}%
+\contentsline {figure}{\numberline {1}{\ignorespaces \small Diagrama de interação entre a edificação e as variáveis externas.\relax }}{16}{figure.caption.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2}{\ignorespaces \small Rendimento solar anual brasileiro.}}{22}{figure.2}%
+\contentsline {figure}{\numberline {2}{\ignorespaces \small Rendimento solar anual brasileiro.\relax }}{21}{figure.caption.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3}{\ignorespaces \small Mapa do total anual de irradiação solar direta normal.}}{23}{figure.3}%
+\contentsline {figure}{\numberline {3}{\ignorespaces \small Mapa do total anual de irradiação solar direta normal.\relax }}{22}{figure.caption.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4}{\ignorespaces \small Radiação solar no plano inclinado do ES.}}{24}{figure.4}%
+\contentsline {figure}{\numberline {4}{\ignorespaces \small Radiação solar no plano inclinado do ES.\relax }}{23}{figure.caption.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5}{\ignorespaces \small Esquema de geração de energia por célula fotovoltaica.}}{25}{figure.5}%
+\contentsline {figure}{\numberline {5}{\ignorespaces \small Esquema de geração de energia por célula fotovoltaica.\relax }}{24}{figure.caption.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6}{\ignorespaces \small Componentes fotovoltaicos integrados a fachada do edifício Boulder Commons, localizado em Boulder, Colorado (EUA).}}{26}{figure.6}%
+\contentsline {figure}{\numberline {6}{\ignorespaces \small Componentes fotovoltaicos integrados a fachada do edifício Boulder Commons, localizado em Boulder, Colorado (EUA).\relax }}{25}{figure.caption.16}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7}{\ignorespaces \small Esquema simplificado da metodologia criada.}}{39}{figure.7}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Esquema simplificado da metodologia criada.\relax }}{37}{figure.caption.20}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8}{\ignorespaces \small Fatores utilizados como parâmetros de configuração volumétrica dos modelos genéricos.}}{50}{figure.8}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Fatores utilizados como parâmetros de configuração volumétrica dos modelos genéricos.\relax }}{47}{figure.caption.27}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9}{\ignorespaces \small Estrutura arquitetônica dos modelos genéricos.}}{50}{figure.9}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Estrutura arquitetônica dos modelos genéricos.\relax }}{48}{figure.caption.28}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10}{\ignorespaces \small Conformação do pavimento térreo e estacionamentos.}}{52}{figure.10}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Conformação do pavimento térreo e estacionamentos.\relax }}{50}{figure.caption.30}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11}{\ignorespaces \small Painéis fotovoltaicos sobre as proteções solares da fachada oeste e cobertura.}}{54}{figure.11}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Painéis fotovoltaicos sobre as proteções solares da fachada oeste e cobertura.\relax }}{52}{figure.caption.32}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {12}{\ignorespaces Detalhe da proteção solar de 1 m de comprimento da fachada oeste (a); carta solar da proteção solar de 1m (b)\relax }}{57}{figure.caption.38}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {13}{\ignorespaces Descrição simplificada dos blocos de simulação.\relax }}{59}{figure.caption.39}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {14}{\ignorespaces Sequência de etapas de simulação.\relax }}{60}{figure.caption.40}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {15}{\ignorespaces \textit {Softwares} mais utilizados em simulação de eficiência de edificações.\relax }}{62}{figure.caption.41}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {16}{\ignorespaces Interface de configuração dos modelos genéricos no \textit {plug-in OpenStudio}.\relax }}{63}{figure.caption.42}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {17}{\ignorespaces Colagem da interface de inserção de dados das propriedades térmicas e de materiais.\relax }}{63}{figure.caption.43}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {18}{\ignorespaces Interface de configuração dos sistemas de condicionamento de ar.\relax }}{64}{figure.caption.44}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {19}{\ignorespaces Saídas da simulaçãoem processo de finalização.\relax }}{65}{figure.caption.45}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {20}{\ignorespaces Modelos genéricos simplificados.\relax }}{66}{figure.caption.46}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {21}{\ignorespaces Interface do \textit {Parametric Analysis Tool.}\relax }}{66}{figure.caption.47}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {22}{\ignorespaces Deslocamento de torres dos modelos genéricos sobre as áreas de estacionamento. O volume tracejado demonstra a posição original da torre antes do deslocamento.\relax }}{71}{figure.caption.50}%

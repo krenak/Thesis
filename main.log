@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  7 SEP 2021 16:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  11 SEP 2021 18:55
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 (f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex
@@ -639,41 +639,59 @@ Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
-)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
+)) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+ (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen180
+\captionmargin@=\dimen181
+\captionwidth=\dimen182
+\caption@tempdima=\dimen183
+\caption@indent=\dimen184
+\caption@parindent=\dimen185
+\caption@hangindent=\dimen186
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count426
+\c@continuedfloat=\count427
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/makecell\makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
 Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
-\col@sep=\dimen180
+\col@sep=\dimen187
 \ar@mcellbox=\box56
-\extrarowheight=\dimen181
+\extrarowheight=\dimen188
 \NC@list=\toks32
 \extratabsurround=\skip87
 \backup@length=\skip88
 \ar@cellbox=\box57
 )
-\rotheadsize=\dimen182
-\c@nlinenum=\count426
+\rotheadsize=\dimen189
+\c@nlinenum=\count428
 \TeXr@lab=\toks33
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
 Package: pdfpages 2021/03/06 v0.5t Insert pages of external PDF documents (AM)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count427
-\calc@Bcount=\count428
-\calc@Adimen=\dimen183
-\calc@Bdimen=\dimen184
+\calc@Acount=\count429
+\calc@Bcount=\count430
+\calc@Adimen=\dimen190
+\calc@Bdimen=\dimen191
 \calc@Askip=\skip89
 \calc@Bskip=\skip90
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count429
+\calc@Ccount=\count431
 \calc@Cskip=\skip91
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
 Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen185
-\ESO@tempdimb=\dimen186
+\ESO@tempdima=\dimen192
+\ESO@tempdimb=\dimen193
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -690,72 +708,73 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ))
-\AM@pagewidth=\dimen187
-\AM@pageheight=\dimen188
-\AM@fboxrule=\dimen189
+\AM@pagewidth=\dimen194
+\AM@pageheight=\dimen195
+\AM@fboxrule=\dimen196
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
 File: pppdftex.def 2021/03/06 v0.5t Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count430
+\pdfpages@includegraphics@status=\count432
 \AM@pagebox=\box58
 \AM@global@opts=\toks34
-\AM@pagecnt=\count431
+\AM@pagecnt=\count433
 \AM@toc@title=\toks35
-\c@AM@survey=\count432
+\c@AM@survey=\count434
 \AM@templatesizebox=\box59
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/easylist\easylist.sty
 Package: easylist 2014/01/11 v.1.4 Numbered items with a single command.
-\el@CounterTotal=\count433
-\el@Scratch=\count434
-\el@ControlCounter=\count435
-\el@CounterLevel=\count436
-\c@List1=\count437
-\c@List2=\count438
-\c@List3=\count439
-\c@List4=\count440
-\c@List5=\count441
-\c@List6=\count442
-\c@List7=\count443
-\c@List8=\count444
-\c@List9=\count445
-\c@List10=\count446
-\el@ProgressiveDimension=\dimen190
+\el@CounterTotal=\count435
+\el@Scratch=\count436
+\el@ControlCounter=\count437
+\el@CounterLevel=\count438
+\c@List1=\count439
+\c@List2=\count440
+\c@List3=\count441
+\c@List4=\count442
+\c@List5=\count443
+\c@List6=\count444
+\c@List7=\count445
+\c@List8=\count446
+\c@List9=\count447
+\c@List10=\count448
+\el@ProgressiveDimension=\dimen197
 \el@CounterBox=\box60
 \el@ControlBox=\box61
-\el@TotalMargin=\dimen191
-\el@LeftMove=\dimen192
+\el@TotalMargin=\dimen198
+\el@LeftMove=\dimen199
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
    defining Unicode char U+001A (decimal 26)
+   defining Unicode char U+03B1 (decimal 945)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'brazil'.
-LaTeX Font Info:    Trying to load font information for OT1+bch on input line 46.
+LaTeX Font Info:    Trying to load font information for OT1+bch on input line 49.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1bch.fd
 File: ot1bch.fd 2004/10/18 font definitions for OT1/bch.
 ) (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 46.
-LaTeX Font Info:    ... okay on input line 46.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -791,14 +810,14 @@ LaTeX Font Info:    ... okay on input line 46.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \microtypecontext on input line 46.
+LaTeX Info: Redefining \microtypecontext on input line 49.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 46.
+LaTeX Info: Redefining \showhyphens on input line 49.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -806,16 +825,16 @@ Package microtype Info: No adjustment of character kerning.
 File: mt-bch.cfg 2007/03/03 v1.5 microtype config. file: Bitstream Charter (RS)
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count447
-\scratchdimen=\dimen193
+\scratchcounter=\count449
+\scratchdimen=\dimen256
 \scratchbox=\box62
-\nofMPsegments=\count448
-\nofMParguments=\count449
+\nofMPsegments=\count450
+\nofMParguments=\count451
 \everyMPshowfont=\toks36
-\MPscratchCnt=\count450
-\MPscratchDim=\dimen194
-\MPnumerator=\count451
-\makeMPintoPDFobject=\count452
+\MPscratchCnt=\count452
+\MPscratchDim=\dimen257
+\MPnumerator=\count453
+\makeMPintoPDFobject=\count454
 \everyMPtoPDFconversion=\toks37
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -829,7 +848,7 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 46.
+Package hyperref Info: Link coloring OFF on input line 49.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
@@ -837,11 +856,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ) (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count453
+\c@section@level=\count455
 )
-LaTeX Info: Redefining \ref on input line 46.
-LaTeX Info: Redefining \pageref on input line 46.
-LaTeX Info: Redefining \nameref on input line 46.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
+LaTeX Info: Redefining \nameref on input line 49.
  (main.out) (main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
@@ -928,8 +947,10 @@ Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'main.bbl' found.
  (main.bbl)
-Package biblatex Info: Reference section=0 on input line 46.
-Package biblatex Info: Reference segment=0 on input line 46.
+Package biblatex Info: Reference section=0 on input line 49.
+Package biblatex Info: Reference segment=0 on input line 49.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
@@ -937,7 +958,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ) (sections/capa.tex
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png, id=131, 82.782pt x 82.125pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png, id=167, 82.782pt x 82.125pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png Graphic file (type png)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png  used on input line 6.
@@ -1024,7 +1045,7 @@ Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolF/m/n/7'
  [2]
 
 pdfTeX warning: pdflatex (file F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=145, 597.23125pt x 845.1575pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=183, 597.23125pt x 845.1575pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf  used on input line 50.
@@ -1042,7 +1063,7 @@ pdfTeX warning: pdflatex (file F:/Root Files/Academic/masters/_desenvolvimento/_
 
 
 pdfTeX warning: pdflatex (file F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=148, page=1, 597.23125pt x 845.1575pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=186, page=1, 597.23125pt x 845.1575pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, page 1>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf , page1 used on input line 50.
@@ -1064,7 +1085,7 @@ File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf , page1 used on input line 50.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 [3 <F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf>]
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=155, 597.51233pt x 845.0471pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=193, 597.51233pt x 845.0471pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf  used on input line 52.
@@ -1073,7 +1094,7 @@ File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf  used on input line 52.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=158, page=1, 597.51233pt x 845.0471pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=196, page=1, 597.51233pt x 845.0471pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, page 1>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf , page1 used on input line 52.
@@ -1097,16 +1118,16 @@ Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regula
  [4 <F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf>] [5]) (sections/agrad.tex)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \input
+l.52 \input
            {sections/resumo.tex} % preâmbulo e listas [1] (sections/resumo.texpdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.8     \end{onehalfspace}
-                           [2]) (sections/abstract.texpdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
+l.7 \end{onehalfspace}
+                       [2]) (sections/abstract.tex)pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.8     \end{onehalfspace}
-                           [3]) (sections/abrev.texpdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
+l.53 \input{sections/abstract.tex}
+                                   [3] (sections/abrev.texpdfTeX warning (ext4): destination with the same identifier (name{page.4}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.26     \end{onehalfspace}
@@ -1184,7 +1205,7 @@ Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolF/m/n/6'
 pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.53 \input
+l.56 \input
            {sections/graphs.tex}\pagebreak [5] (sections/graphs.tex) [6] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
@@ -1193,14 +1214,19 @@ l.53 \input
 \tf@toc=\write7
 \openout7 = `main.toc'.
 
- [8] (sections/intro.tex [9] [10]) (sections/question.tex) (sections/objetivos.tex [11]) (sections/referencial.tex (subsec/introzeb.tex [12] [13] [14]
-<figures/esquema_kurnitski _2011.png, id=448, 529.98pt x 362.5545pt>
+ [8] (sections/intro.tex [9] [10]) (sections/question.tex) (sections/objetivos.tex [11]) (sections/referencial.tex (subsec/introzeb.tex
+Underfull \hbox (badness 10000) in paragraph at lines 3--1
+
+ []
+
+[12] [13] [14]
+<figures/esquema_kurnitski _2011.png, id=530, 529.98pt x 362.5545pt>
 File: figures/esquema_kurnitski _2011.png Graphic file (type png)
 <use figures/esquema_kurnitski _2011.png>
 Package pdftex.def Info: figures/esquema_kurnitski _2011.png  used on input line 32.
 (pdftex.def)             Requested size: 386.96027pt x 264.71791pt.
  [15]
-<figures/esquema_iea_2014-2.png, id=460, 201.75375pt x 237.88875pt>
+<figures/esquema_iea_2014-2.png, id=542, 201.75375pt x 237.88875pt>
 File: figures/esquema_iea_2014-2.png Graphic file (type png)
 <use figures/esquema_iea_2014-2.png>
 Package pdftex.def Info: figures/esquema_iea_2014-2.png  used on input line 44.
@@ -1228,224 +1254,366 @@ LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
 Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolF/m/n/10.95'
 (microtype)             (new value: 10.95pt) on input line 45.
 ) (subsec/cenarios.tex [16 <./figures/esquema_kurnitski _2011.png> <./figures/esquema_iea_2014-2.png>]
-<graphs/graph1.png, id=484, 549.85425pt x 277.035pt>
+<graphs/graph1.png, id=566, 549.85425pt x 277.035pt>
 File: graphs/graph1.png Graphic file (type png)
 <use graphs/graph1.png>
 Package pdftex.def Info: graphs/graph1.png  used on input line 11.
 (pdftex.def)             Requested size: 318.66948pt x 160.55782pt.
- [17 <./graphs/graph1.png>] [18] [19]
-<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=532, 802.79926pt x 421.575pt>
+ [17 <./graphs/graph1.png>] [18]
+<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=610, 802.79926pt x 421.575pt>
 File: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png Graphic file (type png)
 <use graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>
 Package pdftex.def Info: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png  used on input line 30.
 (pdftex.def)             Requested size: 364.19667pt x 191.25084pt.
- [20 <./graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>]
-<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=550, 540.8205pt x 341.47575pt>
+ [19 <./graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>]
+<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=627, 540.8205pt x 341.47575pt>
 File: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png Graphic file (type png)
 <use graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>
 Package pdftex.def Info: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png  used on input line 43.
 (pdftex.def)             Requested size: 318.66948pt x 201.20842pt.
- [21 <./graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>]
-<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=575, 461.3235pt x 509.5035pt>
+<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=643, 461.3235pt x 509.5035pt>
 File: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png Graphic file (type png)
 <use figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>
-Package pdftex.def Info: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png  used on input line 57.
+Package pdftex.def Info: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png  used on input line 56.
 (pdftex.def)             Requested size: 409.71692pt x 452.51598pt.
-<figures/fig4-mapa2.png, id=581, 401.0985pt x 399.894pt>
+ [20 <./graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>]
+<figures/fig4-mapa2.png, id=659, 401.0985pt x 399.894pt>
 File: figures/fig4-mapa2.png Graphic file (type png)
 <use figures/fig4-mapa2.png>
-Package pdftex.def Info: figures/fig4-mapa2.png  used on input line 68.
+Package pdftex.def Info: figures/fig4-mapa2.png  used on input line 67.
 (pdftex.def)             Requested size: 386.96027pt x 385.79765pt.
- [22 <./figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>]
-<figures/fig5-mapa3.jpg, id=596, 447.1104pt x 651.8754pt>
+ [21 <./figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>]
+<figures/fig5-mapa3.jpg, id=674, 447.1104pt x 651.8754pt>
 File: figures/fig5-mapa3.jpg Graphic file (type jpg)
 <use figures/fig5-mapa3.jpg>
-Package pdftex.def Info: figures/fig5-mapa3.jpg  used on input line 81.
+Package pdftex.def Info: figures/fig5-mapa3.jpg  used on input line 80.
 (pdftex.def)             Requested size: 250.38564pt x 365.06763pt.
- [23 <./figures/fig4-mapa2.png>] [24 <./figures/fig5-mapa3.jpg>]
-<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=619, 513.117pt x 383.031pt>
+ [22 <./figures/fig4-mapa2.png>]
+<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=686, 513.117pt x 383.031pt>
 File: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png Graphic file (type png)
 <use figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>
-Package pdftex.def Info: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png  used on input line 94.
-(pdftex.def)             Requested size: 455.24411pt x 339.84448pt.
-<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=633, 536.0025pt x 478.78876pt>
+Package pdftex.def Info: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png  used on input line 92.
+(pdftex.def)             Requested size: 409.71692pt x 305.85245pt.
+ [23 <./figures/fig5-mapa3.jpg>]
+<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=707, 536.0025pt x 478.78876pt>
 File: figures/fig7_BIPV_ASHRAE_ZEB_2019.png Graphic file (type png)
 <use figures/fig7_BIPV_ASHRAE_ZEB_2019.png>
-Package pdftex.def Info: figures/fig7_BIPV_ASHRAE_ZEB_2019.png  used on input line 106.
+Package pdftex.def Info: figures/fig7_BIPV_ASHRAE_ZEB_2019.png  used on input line 104.
 (pdftex.def)             Requested size: 341.43307pt x 304.98453pt.
- [25 <./figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>] [26 <./figures/fig7_BIPV_ASHRAE_ZEB_2019.png>] [27]) (subsec/conceitos.tex (subsec/param.tex [28] [29]
-Overfull \hbox (4.10095pt too wide) in paragraph at lines 12--15
+ [24 <./figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>] [25 <./figures/fig7_BIPV_ASHRAE_ZEB_2019.png>] [26]) (subsec/conceitos.tex (subsec/param.tex [27]
+Overfull \hbox (4.10095pt too wide) in paragraph at lines 11--14
 \OT1/bch/m/n/12 (-20) Contudo, a ventila[][]ao h[]brida n[]ao foi ob-ser-vada como solu[][]ao cor-rente en-tre as edifica[][]oes
  []
 
-) (subsec/passivas.tex [30] [31]) (subsec/ativas.tex [32]
+[28]) (subsec/passivas.tex [29] [30]) (subsec/ativas.tex [31]
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
-[33]) (subsec/clima.tex) (subsec/tipol.tex [34]
-Underfull \hbox (badness 10000) in paragraph at lines 18--18
-[]|\OT1/bch/m/n/12 (+20) Raz[]ao en-tre as []areas de aber-tura
+[32]) (subsec/clima.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--26
+
  []
 
-
-Underfull \hbox (badness 1062) in paragraph at lines 18--18
-\OT1/bch/m/n/12 (+20) envidra[]ada, ou com fe-cha-mento trans-
- []
-
-
-Overfull \hbox (11.92172pt too wide) in paragraph at lines 11--22
-[][] 
- []
-
-)) [35] [36] [37]) (sections/metodo.tex
-<figures/fig8_Fluxogramas_1.jpg, id=900, 1122.44344pt x 380.17032pt>
+[33]) (subsec/tipol.tex [34] [35])) [36]) (sections/metodo.tex
+<figures/fig8_Fluxogramas_1.jpg, id=970, 1122.44344pt x 380.17032pt>
 File: figures/fig8_Fluxogramas_1.jpg Graphic file (type jpg)
 <use figures/fig8_Fluxogramas_1.jpg>
-Package pdftex.def Info: figures/fig8_Fluxogramas_1.jpg  used on input line 34.
+Package pdftex.def Info: figures/fig8_Fluxogramas_1.jpg  used on input line 19.
 (pdftex.def)             Requested size: 455.24411pt x 154.18857pt.
  (subsec/levant.tex
-Overfull \hbox (15.69562pt too wide) in alignment at lines 20--33
-[] [] [] 
+Overfull \hbox (4.74075pt too wide) in paragraph at lines 2--19
+ \OT1/bch/m/n/12 (-20) Fo-ram con-si-de-ra-dos para o le-van-ta-mento atri-bu-tos como ga-ba-rito, n[]umero de pavimentos-
  []
 
+[37 <./figures/fig8_Fluxogramas_1.jpg>] [38]
+Underfull \hbox (badness 10000) in paragraph at lines 45--47
 
-Overfull \hbox (0.86874pt too wide) in paragraph at lines 2--38
-\OT1/bch/m/n/12 (-20) Foram con-si-de-ra-dos para o le-van-ta-mento atri-bu-tos como ga-ba-rito, n[]umero de pavimentos-
  []
 
-[38] [39 <./figures/fig8_Fluxogramas_1.jpg>] [40]
-<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=952, 551.05875pt x 350.5095pt>
+[39]
+<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=1023, 551.05875pt x 350.5095pt>
 File: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png Graphic file (type png)
 <use figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>
-Package pdftex.def Info: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png  used on input line 48.
-(pdftex.def)             Requested size: 386.96027pt x 246.14119pt.
- [41] [42 <./figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>]
-Overfull \hbox (7.9076pt too wide) in alignment at lines 87--109
-[] [] [] [] 
- []
-
-) (subsec/padroes.tex [43] [44] [45]) (subsec/niveis.tex [46]
+Package pdftex.def Info: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png  used on input line 51.
+(pdftex.def)             Requested size: 455.24411pt x 289.57503pt.
+ [40 <./figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>] [41]) (subsec/padroes.tex [42] [43]) (subsec/niveis.tex [44]
 LaTeX Font Info:    Trying to load font information for OML+bch on input line 20.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlbch.fd
 File: omlbch.fd 
 )
 LaTeX Font Info:    Font shape `OML/bch/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 20.
- [47]) (subsec/defmodelos.tex [48]
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-<figures/fig10_Fluxogramas-2.jpg, id=1027, 834.11626pt x 639.13782pt>
+ [45]) (subsec/defmodelos.tex [46] (subsubsec/compgen.tex
+<figures/fig10_Fluxogramas-2.jpg, id=1099, 834.11626pt x 639.13782pt>
 File: figures/fig10_Fluxogramas-2.jpg Graphic file (type jpg)
 <use figures/fig10_Fluxogramas-2.jpg>
-Package pdftex.def Info: figures/fig10_Fluxogramas-2.jpg  used on input line 19.
-(pdftex.def)             Requested size: 364.19667pt x 279.06622pt.
-[49]
-<figures/fig11_8-19-2pav.png, id=1033, 1580.90625pt x 797.98125pt>
+Package pdftex.def Info: figures/fig10_Fluxogramas-2.jpg  used on input line 7.
+(pdftex.def)             Requested size: 409.71692pt x 313.95071pt.
+ [47 <./figures/fig10_Fluxogramas-2.jpg>]
+<figures/fig11_8-19-2pav.png, id=1105, 1580.90625pt x 797.98125pt>
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
-Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 30.
+Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 18.
 (pdftex.def)             Requested size: 409.71692pt x 206.81271pt.
- [50 <./figures/fig10_Fluxogramas-2.jpg> <./figures/fig11_8-19-2pav.png>]
-<figures/fig12-base_torre-1.png, id=1049, 1199.98312pt x 712.91344pt>
+ [48 <./figures/fig11_8-19-2pav.png>] [49]
+<figures/fig12-base_torre-1.png, id=1130, 1199.98312pt x 712.91344pt>
 File: figures/fig12-base_torre-1.png Graphic file (type png)
 <use figures/fig12-base_torre-1.png>
-Package pdftex.def Info: figures/fig12-base_torre-1.png  used on input line 75.
+Package pdftex.def Info: figures/fig12-base_torre-1.png  used on input line 63.
 (pdftex.def)             Requested size: 409.71692pt x 243.40991pt.
- [51]
-<figures/tab9-pb-8pav.png, id=1061, 630.10406pt x 332.74312pt>
+<figures/tab9-pb-8pav.png, id=1132, 630.10406pt x 332.74312pt>
 File: figures/tab9-pb-8pav.png Graphic file (type png)
 <use figures/tab9-pb-8pav.png>
-Package pdftex.def Info: figures/tab9-pb-8pav.png  used on input line 87.
+Package pdftex.def Info: figures/tab9-pb-8pav.png  used on input line 76.
 (pdftex.def)             Requested size: 227.62206pt x 120.19868pt.
-<figures/tab9-pb-19pav.png, id=1062, 845.40843pt x 316.93407pt>
+<figures/tab9-pb-19pav.png, id=1133, 845.40843pt x 316.93407pt>
 File: figures/tab9-pb-19pav.png Graphic file (type png)
 <use figures/tab9-pb-19pav.png>
-Package pdftex.def Info: figures/tab9-pb-19pav.png  used on input line 87.
+Package pdftex.def Info: figures/tab9-pb-19pav.png  used on input line 76.
 (pdftex.def)             Requested size: 227.62206pt x 85.33153pt.
-<figures/tab9-CEP_8pav-v3-7.png, id=1063, 394.47375pt x 299.61937pt>
+<figures/tab9-CEP_8pav-v3-7.png, id=1134, 394.47375pt x 299.61937pt>
 File: figures/tab9-CEP_8pav-v3-7.png Graphic file (type png)
 <use figures/tab9-CEP_8pav-v3-7.png>
-Package pdftex.def Info: figures/tab9-CEP_8pav-v3-7.png  used on input line 88.
+Package pdftex.def Info: figures/tab9-CEP_8pav-v3-7.png  used on input line 77.
 (pdftex.def)             Requested size: 227.62206pt x 172.88785pt.
-<figures/tab9-corte-19pav-v1.png, id=1064, 716.6775pt x 517.18219pt>
+<figures/tab9-corte-19pav-v1.png, id=1135, 716.6775pt x 517.18219pt>
 File: figures/tab9-corte-19pav-v1.png Graphic file (type png)
 <use figures/tab9-corte-19pav-v1.png>
-Package pdftex.def Info: figures/tab9-corte-19pav-v1.png  used on input line 88.
+Package pdftex.def Info: figures/tab9-corte-19pav-v1.png  used on input line 77.
 (pdftex.def)             Requested size: 227.62206pt x 164.2548pt.
 
-Overfull \hbox (18.00003pt too wide) in alignment at lines 85--101
+Overfull \hbox (18.00003pt too wide) in alignment at lines 74--90
 [] [] 
  []
 
-[52 <./figures/fig12-base_torre-1.png>]
-<figures/fig13-paineis pv.png, id=1072, 1190.94937pt x 890.5772pt>
+[50 <./figures/fig12-base_torre-1.png>] [51 <./figures/tab9-pb-8pav.png> <./figures/tab9-pb-19pav.png> <./figures/tab9-CEP_8pav-v3-7.png> <./figures/tab9-corte-19pav-v1.png>]
+<figures/fig13-paineis pv.png, id=1151, 1190.94937pt x 890.5772pt>
 File: figures/fig13-paineis pv.png Graphic file (type png)
 <use figures/fig13-paineis pv.png>
-Package pdftex.def Info: figures/fig13-paineis pv.png  used on input line 112.
+Package pdftex.def Info: figures/fig13-paineis pv.png  used on input line 102.
 (pdftex.def)             Requested size: 409.71692pt x 306.37976pt.
- [53 <./figures/tab9-pb-8pav.png> <./figures/tab9-pb-19pav.png> <./figures/tab9-CEP_8pav-v3-7.png> <./figures/tab9-corte-19pav-v1.png>]
-LaTeX Font Info:    Font shape `U/FdSymbolA/m/n' will be
-(Font)              scaled to size 5.0pt on input line 125.
-LaTeX Font Info:    Font shape `U/FdSymbolE/m/n' will be
-(Font)              scaled to size 5.0pt on input line 125.
-Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolE/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 125.
-LaTeX Font Info:    Font shape `U/FdSymbolB/m/n' will be
-(Font)              scaled to size 5.0pt on input line 125.
-Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolB/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 125.
-LaTeX Font Info:    Font shape `U/FdSymbolC/m/n' will be
-(Font)              scaled to size 5.0pt on input line 125.
-Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolC/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 125.
-LaTeX Font Info:    Font shape `U/FdSymbolD/m/n' will be
-(Font)              scaled to size 5.0pt on input line 125.
-Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolD/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 125.
-LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
-(Font)              scaled to size 5.0pt on input line 125.
-Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolF/m/n/5'
-(microtype)             (new value: 5.0pt) on input line 125.
-
-Overfull \vbox (12.0pt too high) detected at line 134
+) (subsubsec/pararq.tex
+Overfull \vbox (0.81134pt too high) detected at line 35
  []
 
-
-Overfull \vbox (60.0pt too high) detected at line 145
- []
-
-
-Overfull \hbox (184.40509pt too wide) in alignment at lines 125--148
+[52 <./figures/fig13-paineis pv.png>] [53]
+Overfull \hbox (18.92789pt too wide) in alignment at lines 61--83
 [] [] [] [] [] 
  []
 
-) [54 <./figures/fig13-paineis pv.png>]) (sections/resultados.tex) [55]
+<figures/tab11-fig1.png, id=1166, 324.0105pt x 187.29974pt>
+File: figures/tab11-fig1.png Graphic file (type png)
+<use figures/tab11-fig1.png>
+Package pdftex.def Info: figures/tab11-fig1.png  used on input line 103.
+(pdftex.def)             Requested size: 182.09486pt x 105.26437pt.
+
+Overfull \vbox (0.54448pt too high) detected at line 103
+ []
+
+<figures/tab11-fig2.png, id=1167, 320.99925pt x 212.59425pt>
+File: figures/tab11-fig2.png Graphic file (type png)
+<use figures/tab11-fig2.png>
+Package pdftex.def Info: figures/tab11-fig2.png  used on input line 111.
+(pdftex.def)             Requested size: 182.09486pt x 120.60255pt.
+
+Overfull \vbox (2.28267pt too high) detected at line 111
+ []
+
+<figures/tab11-fig3.png, id=1168, 324.61275pt x 204.16275pt>
+File: figures/tab11-fig3.png Graphic file (type png)
+<use figures/tab11-fig3.png>
+Package pdftex.def Info: figures/tab11-fig3.png  used on input line 120.
+(pdftex.def)             Requested size: 182.09486pt x 114.52661pt.
+<figures/tab11-fig4.png, id=1169, 270.41025pt x 120.45pt>
+File: figures/tab11-fig4.png Graphic file (type png)
+<use figures/tab11-fig4.png>
+Package pdftex.def Info: figures/tab11-fig4.png  used on input line 130.
+(pdftex.def)             Requested size: 182.09486pt x 81.11092pt.
+
+Overfull \vbox (3.591pt too high) detected at line 130
+ []
+
+
+Overfull \hbox (0.5824pt too wide) in paragraph at lines 99--138
+[][] 
+ []
+
+[54] [55 <./figures/tab11-fig1.png> <./figures/tab11-fig2.png> <./figures/tab11-fig3.png> <./figures/tab11-fig4.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 140.
+
+<figures/tab11-fig5.png, id=1188, 339.669pt x 182.48175pt>
+File: figures/tab11-fig5.png Graphic file (type png)
+<use figures/tab11-fig5.png>
+Package pdftex.def Info: figures/tab11-fig5.png  used on input line 145.
+(pdftex.def)             Requested size: 182.09486pt x 97.82863pt.
+LaTeX Font Info:    Font shape `OML/bch/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 145.
+<figures/tab11-fig6.png, id=1189, 322.806pt x 165.0165pt>
+File: figures/tab11-fig6.png Graphic file (type png)
+<use figures/tab11-fig6.png>
+Package pdftex.def Info: figures/tab11-fig6.png  used on input line 154.
+(pdftex.def)             Requested size: 182.09486pt x 93.0859pt.
+<figures/fig11-protecaosolar.jpg, id=1200, 670.30424pt x 338.4645pt>
+File: figures/fig11-protecaosolar.jpg Graphic file (type jpg)
+<use figures/fig11-protecaosolar.jpg>
+Package pdftex.def Info: figures/fig11-protecaosolar.jpg  used on input line 203.
+(pdftex.def)             Requested size: 455.24411pt x 229.87392pt.
+[56 <./figures/tab11-fig5.png> <./figures/tab11-fig6.png>]) (subsubsec/volsimul.tex
+<figures/fig13-fluxograma.jpg, id=1222, 928.21782pt x 935.74594pt>
+File: figures/fig13-fluxograma.jpg Graphic file (type jpg)
+<use figures/fig13-fluxograma.jpg>
+Package pdftex.def Info: figures/fig13-fluxograma.jpg  used on input line 9.
+(pdftex.def)             Requested size: 455.24411pt x 458.94788pt.
+ [57 <./figures/fig11-protecaosolar.jpg>] [58])) (subsec/simulacoes.tex [59 <./figures/fig13-fluxograma.jpg>]
+<figures/fig14-fluxograma-3.jpg, id=1237, 1373.13pt x 504.38437pt>
+File: figures/fig14-fluxograma-3.jpg Graphic file (type jpg)
+<use figures/fig14-fluxograma-3.jpg>
+Package pdftex.def Info: figures/fig14-fluxograma-3.jpg  used on input line 7.
+(pdftex.def)             Requested size: 455.24411pt x 167.21698pt.
+ (subsubsec/processomod.tex
+<figures/fig15-grafico-soft.png, id=1256, 500.46976pt x 406.51875pt>
+File: figures/fig15-grafico-soft.png Graphic file (type png)
+<use figures/fig15-grafico-soft.png>
+Package pdftex.def Info: figures/fig15-grafico-soft.png  used on input line 10.
+(pdftex.def)             Requested size: 364.19667pt x 295.84438pt.
+
+Overfull \hbox (6.04593pt too wide) in paragraph at lines 2--15
+\OT1/bch/m/n/12 (-20) Da mesma forma, se-gundo Brack-ney et al. ([]2018[]), para fa-ci-li-tar o pro-cesso de configura[][]ao
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--15
+
+ []
+
+[60 <./figures/fig14-fluxograma-3.jpg>] [61]
+<figures/fig16-OS.png, id=1273, 472.0545pt x 252.6165pt>
+File: figures/fig16-OS.png Graphic file (type png)
+<use figures/fig16-OS.png>
+Package pdftex.def Info: figures/fig16-OS.png  used on input line 22.
+(pdftex.def)             Requested size: 364.19667pt x 194.9046pt.
+ [62 <./figures/fig15-grafico-soft.png>]
+<figures/fig17-OS2.png, id=1281, 846.0408pt x 602.7318pt>
+File: figures/fig17-OS2.png Graphic file (type png)
+<use figures/fig17-OS2.png>
+Package pdftex.def Info: figures/fig17-OS2.png  used on input line 32.
+(pdftex.def)             Requested size: 364.19667pt x 259.45471pt.
+<figures/fig18-OS3.png, id=1283, 1156.32pt x 599.23875pt>
+File: figures/fig18-OS3.png Graphic file (type png)
+<use figures/fig18-OS3.png>
+Package pdftex.def Info: figures/fig18-OS3.png  used on input line 42.
+(pdftex.def)             Requested size: 386.96027pt x 200.52905pt.
+ [63 <./figures/fig16-OS.png> <./figures/fig17-OS2.png>]
+<figures/fig19-OS4.png, id=1293, 838.93425pt x 461.3235pt>
+File: figures/fig19-OS4.png Graphic file (type png)
+<use figures/fig19-OS4.png>
+Package pdftex.def Info: figures/fig19-OS4.png  used on input line 52.
+(pdftex.def)             Requested size: 409.71692pt x 225.30434pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--57
+
+ []
+
+) (subsubsec/simulativapass.tex [64 <./figures/fig18-OS3.png>]
+<figures/fig20-modelos.png, id=1302, 1413.02907pt x 734.745pt>
+File: figures/fig20-modelos.png Graphic file (type png)
+<use figures/fig20-modelos.png>
+Package pdftex.def Info: figures/fig20-modelos.png  used on input line 7.
+(pdftex.def)             Requested size: 455.24411pt x 236.7152pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--12
+
+ []
+
+[65 <./figures/fig19-OS4.png>]
+<figures/fig21-modelos.png, id=1310, 1156.32pt x 605.26125pt>
+File: figures/fig21-modelos.png Graphic file (type png)
+<use figures/fig21-modelos.png>
+Package pdftex.def Info: figures/fig21-modelos.png  used on input line 16.
+(pdftex.def)             Requested size: 455.24411pt x 238.28592pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--21
+
+ []
+
+
+Overfull \hbox (3.47862pt too wide) in paragraph at lines 28--57
+[][] 
+ []
+
+[66 <./figures/fig20-modelos.png> <./figures/fig21-modelos.png>]) (subsubsec/estimativa.tex [67] [68]) (subsubsec/simulenergia.tex
+Overfull \hbox (2.65334pt too wide) in paragraph at lines 10--10
+[][] 
+ []
+
+
+Overfull \hbox (1.8102pt too wide) in paragraph at lines 18--18
+[][] 
+ []
+
+
+Overfull \hbox (2.65334pt too wide) in paragraph at lines 25--25
+[][] 
+ []
+
+
+Overfull \hbox (1.8102pt too wide) in paragraph at lines 33--33
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--44
+
+ []
+
+[69] [70]
+<figures/fig22-modelos.jpg, id=1358, 579.96675pt x 373.99725pt>
+File: figures/fig22-modelos.jpg Graphic file (type jpg)
+<use figures/fig22-modelos.jpg>
+Package pdftex.def Info: figures/fig22-modelos.jpg  used on input line 55.
+(pdftex.def)             Requested size: 455.24411pt x 293.57706pt.
+)) (subsec/avaresult.tex [71 <./figures/fig22-modelos.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 8--10
+
+ []
+
+[72]
+Underfull \hbox (badness 10000) in paragraph at lines 24--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--32
+
+ []
+
+[73])) (sections/resultados.tex) [74]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
- [56] [57] [58] [59] [60] [61] [62] [63] (main.aux)
+ [75] [76] [77] [78] [79] [80] [81] [82] [83] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7E60B3CC59CC4378CA47EC85CDC79329;8046.
+(rerunfilecheck)             Checksum: D36355A22ED032C9E0E95FDD4CD14DE8;10452.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27249 strings out of 478927
- 465529 string characters out of 2852536
- 1262311 words of memory out of 3000000
- 44011 multiletter control sequences out of 15000+600000
- 477644 words of font info for 360 fonts, out of 8000000 for 9000
+ 28853 strings out of 478927
+ 499218 string characters out of 2852536
+ 1298838 words of memory out of 3000000
+ 45434 multiletter control sequences out of 15000+600000
+ 484211 words of font info for 393 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,22n,117p,3806b,4233s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolB-Book.pk>{C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (68 pages, 8688483 bytes).
+ <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolB-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolE-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolB-Book.pk>{C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on main.pdf (88 pages, 12993799 bytes).
 PDF statistics:
- 1325 PDF objects out of 1440 (max. 8388607)
- 217 named destinations out of 1000 (max. 500000)
- 68498 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 1708 PDF objects out of 1728 (max. 8388607)
+ 289 named destinations out of 1000 (max. 500000)
+ 80431 words of extra memory for PDF output out of 89155 (max. 10000000)
 
