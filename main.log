@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  11 SEP 2021 18:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  11 SEP 2021 22:20
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 (f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex
@@ -958,7 +958,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 )
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ) (sections/capa.tex
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png, id=167, 82.782pt x 82.125pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png, id=175, 82.782pt x 82.125pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png Graphic file (type png)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/figures/brasao-rep-br.png  used on input line 6.
@@ -1045,7 +1045,7 @@ Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolF/m/n/7'
  [2]
 
 pdfTeX warning: pdflatex (file F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=183, 597.23125pt x 845.1575pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=191, 597.23125pt x 845.1575pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf  used on input line 50.
@@ -1063,7 +1063,7 @@ pdfTeX warning: pdflatex (file F:/Root Files/Academic/masters/_desenvolvimento/_
 
 
 pdfTeX warning: pdflatex (file F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf): PDF inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=186, page=1, 597.23125pt x 845.1575pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, id=194, page=1, 597.23125pt x 845.1575pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf, page 1>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf , page1 used on input line 50.
@@ -1085,7 +1085,7 @@ File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf , page1 used on input line 50.
 (pdftex.def)             Requested size: 597.25711pt x 845.19412pt.
 [3 <F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/folha.pdf>]
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=193, 597.51233pt x 845.0471pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=201, 597.51233pt x 845.0471pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf  used on input line 52.
@@ -1094,7 +1094,7 @@ File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf  used on input line 52.
 (pdftex.def)             Requested size: 597.51086pt x 845.04504pt.
-<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=196, page=1, 597.51233pt x 845.0471pt>
+<F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, id=204, page=1, 597.51233pt x 845.0471pt>
 File: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf Graphic file (type pdf)
 <use F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf, page 1>
 Package pdftex.def Info: F:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/ficha.pdf , page1 used on input line 52.
@@ -1220,13 +1220,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--1
  []
 
 [12] [13] [14]
-<figures/esquema_kurnitski _2011.png, id=530, 529.98pt x 362.5545pt>
+<figures/esquema_kurnitski _2011.png, id=540, 529.98pt x 362.5545pt>
 File: figures/esquema_kurnitski _2011.png Graphic file (type png)
 <use figures/esquema_kurnitski _2011.png>
 Package pdftex.def Info: figures/esquema_kurnitski _2011.png  used on input line 32.
 (pdftex.def)             Requested size: 386.96027pt x 264.71791pt.
  [15]
-<figures/esquema_iea_2014-2.png, id=542, 201.75375pt x 237.88875pt>
+<figures/esquema_iea_2014-2.png, id=552, 201.75375pt x 237.88875pt>
 File: figures/esquema_iea_2014-2.png Graphic file (type png)
 <use figures/esquema_iea_2014-2.png>
 Package pdftex.def Info: figures/esquema_iea_2014-2.png  used on input line 44.
@@ -1254,48 +1254,48 @@ LaTeX Font Info:    Font shape `U/FdSymbolF/m/n' will be
 Package microtype Info: Fixing zero fontdimen6 for font `U/FdSymbolF/m/n/10.95'
 (microtype)             (new value: 10.95pt) on input line 45.
 ) (subsec/cenarios.tex [16 <./figures/esquema_kurnitski _2011.png> <./figures/esquema_iea_2014-2.png>]
-<graphs/graph1.png, id=566, 549.85425pt x 277.035pt>
+<graphs/graph1.png, id=576, 549.85425pt x 277.035pt>
 File: graphs/graph1.png Graphic file (type png)
 <use graphs/graph1.png>
 Package pdftex.def Info: graphs/graph1.png  used on input line 11.
 (pdftex.def)             Requested size: 318.66948pt x 160.55782pt.
  [17 <./graphs/graph1.png>] [18]
-<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=610, 802.79926pt x 421.575pt>
+<graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png, id=620, 802.79926pt x 421.575pt>
 File: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png Graphic file (type png)
 <use graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>
 Package pdftex.def Info: graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png  used on input line 30.
 (pdftex.def)             Requested size: 364.19667pt x 191.25084pt.
  [19 <./graphs/graph2_geracao_de_energia_eletrica_no_es-arsp_2018.png>]
-<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=627, 540.8205pt x 341.47575pt>
+<graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png, id=637, 540.8205pt x 341.47575pt>
 File: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png Graphic file (type png)
 <use graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>
 Package pdftex.def Info: graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png  used on input line 43.
 (pdftex.def)             Requested size: 318.66948pt x 201.20842pt.
-<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=643, 461.3235pt x 509.5035pt>
+<figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png, id=653, 461.3235pt x 509.5035pt>
 File: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png Graphic file (type png)
 <use figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>
 Package pdftex.def Info: figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png  used on input line 56.
 (pdftex.def)             Requested size: 409.71692pt x 452.51598pt.
  [20 <./graphs/graph3_consumo_de_energia_eletrica_no_es_por_classe-arsp_2019.png>]
-<figures/fig4-mapa2.png, id=659, 401.0985pt x 399.894pt>
+<figures/fig4-mapa2.png, id=669, 401.0985pt x 399.894pt>
 File: figures/fig4-mapa2.png Graphic file (type png)
 <use figures/fig4-mapa2.png>
 Package pdftex.def Info: figures/fig4-mapa2.png  used on input line 67.
 (pdftex.def)             Requested size: 386.96027pt x 385.79765pt.
  [21 <./figures/fig3-niveis_de_irradiacao_por_regiao_brasileira_pereira_et_al_2017.png>]
-<figures/fig5-mapa3.jpg, id=674, 447.1104pt x 651.8754pt>
+<figures/fig5-mapa3.jpg, id=684, 447.1104pt x 651.8754pt>
 File: figures/fig5-mapa3.jpg Graphic file (type jpg)
 <use figures/fig5-mapa3.jpg>
 Package pdftex.def Info: figures/fig5-mapa3.jpg  used on input line 80.
 (pdftex.def)             Requested size: 250.38564pt x 365.06763pt.
  [22 <./figures/fig4-mapa2.png>]
-<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=686, 513.117pt x 383.031pt>
+<figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png, id=696, 513.117pt x 383.031pt>
 File: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png Graphic file (type png)
 <use figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png>
 Package pdftex.def Info: figures/fig6_geracao_de_conrrente_continua_em_celulcas_fotovoltaicas_ARSP_2018.png  used on input line 92.
 (pdftex.def)             Requested size: 409.71692pt x 305.85245pt.
  [23 <./figures/fig5-mapa3.jpg>]
-<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=707, 536.0025pt x 478.78876pt>
+<figures/fig7_BIPV_ASHRAE_ZEB_2019.png, id=717, 536.0025pt x 478.78876pt>
 File: figures/fig7_BIPV_ASHRAE_ZEB_2019.png Graphic file (type png)
 <use figures/fig7_BIPV_ASHRAE_ZEB_2019.png>
 Package pdftex.def Info: figures/fig7_BIPV_ASHRAE_ZEB_2019.png  used on input line 104.
@@ -1316,7 +1316,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--26
  []
 
 [33]) (subsec/tipol.tex [34] [35])) [36]) (sections/metodo.tex
-<figures/fig8_Fluxogramas_1.jpg, id=970, 1122.44344pt x 380.17032pt>
+<figures/fig8_Fluxogramas_1.jpg, id=980, 1122.44344pt x 380.17032pt>
 File: figures/fig8_Fluxogramas_1.jpg Graphic file (type jpg)
 <use figures/fig8_Fluxogramas_1.jpg>
 Package pdftex.def Info: figures/fig8_Fluxogramas_1.jpg  used on input line 19.
@@ -1332,7 +1332,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 45--47
  []
 
 [39]
-<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=1023, 551.05875pt x 350.5095pt>
+<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=1033, 551.05875pt x 350.5095pt>
 File: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png Graphic file (type png)
 <use figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>
 Package pdftex.def Info: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png  used on input line 51.
@@ -1345,39 +1345,39 @@ File: omlbch.fd
 LaTeX Font Info:    Font shape `OML/bch/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 20.
  [45]) (subsec/defmodelos.tex [46] (subsubsec/compgen.tex
-<figures/fig10_Fluxogramas-2.jpg, id=1099, 834.11626pt x 639.13782pt>
+<figures/fig10_Fluxogramas-2.jpg, id=1109, 834.11626pt x 639.13782pt>
 File: figures/fig10_Fluxogramas-2.jpg Graphic file (type jpg)
 <use figures/fig10_Fluxogramas-2.jpg>
 Package pdftex.def Info: figures/fig10_Fluxogramas-2.jpg  used on input line 7.
 (pdftex.def)             Requested size: 409.71692pt x 313.95071pt.
  [47 <./figures/fig10_Fluxogramas-2.jpg>]
-<figures/fig11_8-19-2pav.png, id=1105, 1580.90625pt x 797.98125pt>
+<figures/fig11_8-19-2pav.png, id=1115, 1580.90625pt x 797.98125pt>
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
 Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 18.
 (pdftex.def)             Requested size: 409.71692pt x 206.81271pt.
  [48 <./figures/fig11_8-19-2pav.png>] [49]
-<figures/fig12-base_torre-1.png, id=1130, 1199.98312pt x 712.91344pt>
+<figures/fig12-base_torre-1.png, id=1140, 1199.98312pt x 712.91344pt>
 File: figures/fig12-base_torre-1.png Graphic file (type png)
 <use figures/fig12-base_torre-1.png>
 Package pdftex.def Info: figures/fig12-base_torre-1.png  used on input line 63.
 (pdftex.def)             Requested size: 409.71692pt x 243.40991pt.
-<figures/tab9-pb-8pav.png, id=1132, 630.10406pt x 332.74312pt>
+<figures/tab9-pb-8pav.png, id=1142, 630.10406pt x 332.74312pt>
 File: figures/tab9-pb-8pav.png Graphic file (type png)
 <use figures/tab9-pb-8pav.png>
 Package pdftex.def Info: figures/tab9-pb-8pav.png  used on input line 76.
 (pdftex.def)             Requested size: 227.62206pt x 120.19868pt.
-<figures/tab9-pb-19pav.png, id=1133, 845.40843pt x 316.93407pt>
+<figures/tab9-pb-19pav.png, id=1143, 845.40843pt x 316.93407pt>
 File: figures/tab9-pb-19pav.png Graphic file (type png)
 <use figures/tab9-pb-19pav.png>
 Package pdftex.def Info: figures/tab9-pb-19pav.png  used on input line 76.
 (pdftex.def)             Requested size: 227.62206pt x 85.33153pt.
-<figures/tab9-CEP_8pav-v3-7.png, id=1134, 394.47375pt x 299.61937pt>
+<figures/tab9-CEP_8pav-v3-7.png, id=1144, 394.47375pt x 299.61937pt>
 File: figures/tab9-CEP_8pav-v3-7.png Graphic file (type png)
 <use figures/tab9-CEP_8pav-v3-7.png>
 Package pdftex.def Info: figures/tab9-CEP_8pav-v3-7.png  used on input line 77.
 (pdftex.def)             Requested size: 227.62206pt x 172.88785pt.
-<figures/tab9-corte-19pav-v1.png, id=1135, 716.6775pt x 517.18219pt>
+<figures/tab9-corte-19pav-v1.png, id=1145, 716.6775pt x 517.18219pt>
 File: figures/tab9-corte-19pav-v1.png Graphic file (type png)
 <use figures/tab9-corte-19pav-v1.png>
 Package pdftex.def Info: figures/tab9-corte-19pav-v1.png  used on input line 77.
@@ -1388,7 +1388,7 @@ Overfull \hbox (18.00003pt too wide) in alignment at lines 74--90
  []
 
 [50 <./figures/fig12-base_torre-1.png>] [51 <./figures/tab9-pb-8pav.png> <./figures/tab9-pb-19pav.png> <./figures/tab9-CEP_8pav-v3-7.png> <./figures/tab9-corte-19pav-v1.png>]
-<figures/fig13-paineis pv.png, id=1151, 1190.94937pt x 890.5772pt>
+<figures/fig13-paineis pv.png, id=1161, 1190.94937pt x 890.5772pt>
 File: figures/fig13-paineis pv.png Graphic file (type png)
 <use figures/fig13-paineis pv.png>
 Package pdftex.def Info: figures/fig13-paineis pv.png  used on input line 102.
@@ -1402,7 +1402,7 @@ Overfull \hbox (18.92789pt too wide) in alignment at lines 61--83
 [] [] [] [] [] 
  []
 
-<figures/tab11-fig1.png, id=1166, 324.0105pt x 187.29974pt>
+<figures/tab11-fig1.png, id=1176, 324.0105pt x 187.29974pt>
 File: figures/tab11-fig1.png Graphic file (type png)
 <use figures/tab11-fig1.png>
 Package pdftex.def Info: figures/tab11-fig1.png  used on input line 103.
@@ -1411,7 +1411,7 @@ Package pdftex.def Info: figures/tab11-fig1.png  used on input line 103.
 Overfull \vbox (0.54448pt too high) detected at line 103
  []
 
-<figures/tab11-fig2.png, id=1167, 320.99925pt x 212.59425pt>
+<figures/tab11-fig2.png, id=1177, 320.99925pt x 212.59425pt>
 File: figures/tab11-fig2.png Graphic file (type png)
 <use figures/tab11-fig2.png>
 Package pdftex.def Info: figures/tab11-fig2.png  used on input line 111.
@@ -1420,12 +1420,12 @@ Package pdftex.def Info: figures/tab11-fig2.png  used on input line 111.
 Overfull \vbox (2.28267pt too high) detected at line 111
  []
 
-<figures/tab11-fig3.png, id=1168, 324.61275pt x 204.16275pt>
+<figures/tab11-fig3.png, id=1178, 324.61275pt x 204.16275pt>
 File: figures/tab11-fig3.png Graphic file (type png)
 <use figures/tab11-fig3.png>
 Package pdftex.def Info: figures/tab11-fig3.png  used on input line 120.
 (pdftex.def)             Requested size: 182.09486pt x 114.52661pt.
-<figures/tab11-fig4.png, id=1169, 270.41025pt x 120.45pt>
+<figures/tab11-fig4.png, id=1179, 270.41025pt x 120.45pt>
 File: figures/tab11-fig4.png Graphic file (type png)
 <use figures/tab11-fig4.png>
 Package pdftex.def Info: figures/tab11-fig4.png  used on input line 130.
@@ -1444,37 +1444,37 @@ Overfull \hbox (0.5824pt too wide) in paragraph at lines 99--138
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 140.
 
-<figures/tab11-fig5.png, id=1188, 339.669pt x 182.48175pt>
+<figures/tab11-fig5.png, id=1198, 339.669pt x 182.48175pt>
 File: figures/tab11-fig5.png Graphic file (type png)
 <use figures/tab11-fig5.png>
 Package pdftex.def Info: figures/tab11-fig5.png  used on input line 145.
 (pdftex.def)             Requested size: 182.09486pt x 97.82863pt.
 LaTeX Font Info:    Font shape `OML/bch/m/n' in size <10.95> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 145.
-<figures/tab11-fig6.png, id=1189, 322.806pt x 165.0165pt>
+<figures/tab11-fig6.png, id=1199, 322.806pt x 165.0165pt>
 File: figures/tab11-fig6.png Graphic file (type png)
 <use figures/tab11-fig6.png>
 Package pdftex.def Info: figures/tab11-fig6.png  used on input line 154.
 (pdftex.def)             Requested size: 182.09486pt x 93.0859pt.
-<figures/fig11-protecaosolar.jpg, id=1200, 670.30424pt x 338.4645pt>
+<figures/fig11-protecaosolar.jpg, id=1210, 670.30424pt x 338.4645pt>
 File: figures/fig11-protecaosolar.jpg Graphic file (type jpg)
 <use figures/fig11-protecaosolar.jpg>
 Package pdftex.def Info: figures/fig11-protecaosolar.jpg  used on input line 203.
 (pdftex.def)             Requested size: 455.24411pt x 229.87392pt.
 [56 <./figures/tab11-fig5.png> <./figures/tab11-fig6.png>]) (subsubsec/volsimul.tex
-<figures/fig13-fluxograma.jpg, id=1222, 928.21782pt x 935.74594pt>
+<figures/fig13-fluxograma.jpg, id=1232, 928.21782pt x 935.74594pt>
 File: figures/fig13-fluxograma.jpg Graphic file (type jpg)
 <use figures/fig13-fluxograma.jpg>
 Package pdftex.def Info: figures/fig13-fluxograma.jpg  used on input line 9.
 (pdftex.def)             Requested size: 455.24411pt x 458.94788pt.
  [57 <./figures/fig11-protecaosolar.jpg>] [58])) (subsec/simulacoes.tex [59 <./figures/fig13-fluxograma.jpg>]
-<figures/fig14-fluxograma-3.jpg, id=1237, 1373.13pt x 504.38437pt>
+<figures/fig14-fluxograma-3.jpg, id=1247, 1373.13pt x 504.38437pt>
 File: figures/fig14-fluxograma-3.jpg Graphic file (type jpg)
 <use figures/fig14-fluxograma-3.jpg>
 Package pdftex.def Info: figures/fig14-fluxograma-3.jpg  used on input line 7.
 (pdftex.def)             Requested size: 455.24411pt x 167.21698pt.
  (subsubsec/processomod.tex
-<figures/fig15-grafico-soft.png, id=1256, 500.46976pt x 406.51875pt>
+<figures/fig15-grafico-soft.png, id=1266, 500.46976pt x 406.51875pt>
 File: figures/fig15-grafico-soft.png Graphic file (type png)
 <use figures/fig15-grafico-soft.png>
 Package pdftex.def Info: figures/fig15-grafico-soft.png  used on input line 10.
@@ -1490,24 +1490,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--15
  []
 
 [60 <./figures/fig14-fluxograma-3.jpg>] [61]
-<figures/fig16-OS.png, id=1273, 472.0545pt x 252.6165pt>
+<figures/fig16-OS.png, id=1283, 472.0545pt x 252.6165pt>
 File: figures/fig16-OS.png Graphic file (type png)
 <use figures/fig16-OS.png>
 Package pdftex.def Info: figures/fig16-OS.png  used on input line 22.
 (pdftex.def)             Requested size: 364.19667pt x 194.9046pt.
  [62 <./figures/fig15-grafico-soft.png>]
-<figures/fig17-OS2.png, id=1281, 846.0408pt x 602.7318pt>
+<figures/fig17-OS2.png, id=1291, 846.0408pt x 602.7318pt>
 File: figures/fig17-OS2.png Graphic file (type png)
 <use figures/fig17-OS2.png>
 Package pdftex.def Info: figures/fig17-OS2.png  used on input line 32.
 (pdftex.def)             Requested size: 364.19667pt x 259.45471pt.
-<figures/fig18-OS3.png, id=1283, 1156.32pt x 599.23875pt>
+<figures/fig18-OS3.png, id=1293, 1156.32pt x 599.23875pt>
 File: figures/fig18-OS3.png Graphic file (type png)
 <use figures/fig18-OS3.png>
 Package pdftex.def Info: figures/fig18-OS3.png  used on input line 42.
 (pdftex.def)             Requested size: 386.96027pt x 200.52905pt.
  [63 <./figures/fig16-OS.png> <./figures/fig17-OS2.png>]
-<figures/fig19-OS4.png, id=1293, 838.93425pt x 461.3235pt>
+<figures/fig19-OS4.png, id=1303, 838.93425pt x 461.3235pt>
 File: figures/fig19-OS4.png Graphic file (type png)
 <use figures/fig19-OS4.png>
 Package pdftex.def Info: figures/fig19-OS4.png  used on input line 52.
@@ -1518,7 +1518,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--57
  []
 
 ) (subsubsec/simulativapass.tex [64 <./figures/fig18-OS3.png>]
-<figures/fig20-modelos.png, id=1302, 1413.02907pt x 734.745pt>
+<figures/fig20-modelos.png, id=1312, 1413.02907pt x 734.745pt>
 File: figures/fig20-modelos.png Graphic file (type png)
 <use figures/fig20-modelos.png>
 Package pdftex.def Info: figures/fig20-modelos.png  used on input line 7.
@@ -1529,7 +1529,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--12
  []
 
 [65 <./figures/fig19-OS4.png>]
-<figures/fig21-modelos.png, id=1310, 1156.32pt x 605.26125pt>
+<figures/fig21-modelos.png, id=1320, 1156.32pt x 605.26125pt>
 File: figures/fig21-modelos.png Graphic file (type png)
 <use figures/fig21-modelos.png>
 Package pdftex.def Info: figures/fig21-modelos.png  used on input line 16.
@@ -1570,7 +1570,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--44
  []
 
 [69] [70]
-<figures/fig22-modelos.jpg, id=1358, 579.96675pt x 373.99725pt>
+<figures/fig22-modelos.jpg, id=1368, 579.96675pt x 373.99725pt>
 File: figures/fig22-modelos.jpg Graphic file (type jpg)
 <use figures/fig22-modelos.jpg>
 Package pdftex.def Info: figures/fig22-modelos.jpg  used on input line 55.
@@ -1590,30 +1590,30 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
 
  []
 
-[73])) (sections/resultados.tex) [74]
+[73])) (sections/resultados.tex (subsec/classmodgen.tex)) [74]
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [75] [76] [77] [78] [79] [80] [81] [82] [83] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D36355A22ED032C9E0E95FDD4CD14DE8;10452.
+(rerunfilecheck)             Checksum: A34A0284A87804A125ABE0651D036EB9;11003.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 28853 strings out of 478927
- 499218 string characters out of 2852536
- 1298838 words of memory out of 3000000
- 45434 multiletter control sequences out of 15000+600000
- 484211 words of font info for 393 fonts, out of 8000000 for 9000
+ 28865 strings out of 478927
+ 499509 string characters out of 2852536
+ 1298963 words of memory out of 3000000
+ 45438 multiletter control sequences out of 15000+600000
+ 484464 words of font info for 395 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,22n,117p,3806b,4233s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolB-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolE-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolB-Book.pk>{C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (88 pages, 12993799 bytes).
+Output written on main.pdf (88 pages, 12997768 bytes).
 PDF statistics:
- 1708 PDF objects out of 1728 (max. 8388607)
- 289 named destinations out of 1000 (max. 500000)
- 80431 words of extra memory for PDF output out of 89155 (max. 10000000)
+ 1718 PDF objects out of 1728 (max. 8388607)
+ 291 named destinations out of 1000 (max. 500000)
+ 80447 words of extra memory for PDF output out of 89155 (max. 10000000)
 

@@ -1680,6 +1680,10 @@ INPUT .\sections\resultados.tex
 INPUT sections\resultados.tex
 INPUT .\sections\resultados.tex
 INPUT sections\resultados.tex
+INPUT .\subsec\classmodgen.tex
+INPUT subsec\classmodgen.tex
+INPUT .\subsec\classmodgen.tex
+INPUT subsec\classmodgen.tex
 INPUT C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt12.tfm
 INPUT main.aux
 INPUT .\main.out
