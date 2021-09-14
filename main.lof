@@ -1,46 +1,66 @@
 \boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
 \babel@toc {brazil}{}\relax 
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {1}{\ignorespaces \small Diagrama de interação entre a edificação e as variáveis externas.\relax }}{16}{figure.caption.11}%
+\contentsline {figure}{\numberline {1}{\ignorespaces \small Diagrama de interação entre a edificação e as variáveis externas.\relax }}{18}{figure.caption.11}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {2}{\ignorespaces \small Rendimento solar anual brasileiro.\relax }}{21}{figure.caption.12}%
+\contentsline {figure}{\numberline {2}{\ignorespaces \small Rendimento solar anual brasileiro.\relax }}{23}{figure.caption.12}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {3}{\ignorespaces \small Mapa do total anual de irradiação solar direta normal.\relax }}{22}{figure.caption.13}%
+\contentsline {figure}{\numberline {3}{\ignorespaces \small Mapa do total anual de irradiação solar direta normal.\relax }}{24}{figure.caption.13}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {4}{\ignorespaces \small Radiação solar no plano inclinado do ES.\relax }}{23}{figure.caption.14}%
+\contentsline {figure}{\numberline {4}{\ignorespaces \small Radiação solar no plano inclinado do ES.\relax }}{25}{figure.caption.14}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {5}{\ignorespaces \small Esquema de geração de energia por célula fotovoltaica.\relax }}{24}{figure.caption.15}%
+\contentsline {figure}{\numberline {5}{\ignorespaces \small Esquema de geração de energia por célula fotovoltaica.\relax }}{26}{figure.caption.15}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {6}{\ignorespaces \small Componentes fotovoltaicos integrados a fachada do edifício Boulder Commons, localizado em Boulder, Colorado (EUA).\relax }}{25}{figure.caption.16}%
+\contentsline {figure}{\numberline {6}{\ignorespaces \small Componentes fotovoltaicos integrados a fachada do edifício Boulder Commons, localizado em Boulder, Colorado (EUA).\relax }}{27}{figure.caption.16}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {7}{\ignorespaces Esquema simplificado da metodologia criada.\relax }}{37}{figure.caption.20}%
+\contentsline {figure}{\numberline {7}{\ignorespaces Esquema simplificado da metodologia criada.\relax }}{39}{figure.caption.20}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {8}{\ignorespaces Fatores utilizados como parâmetros de configuração volumétrica dos modelos genéricos.\relax }}{47}{figure.caption.27}%
+\contentsline {figure}{\numberline {8}{\ignorespaces Fatores utilizados como parâmetros de configuração volumétrica dos modelos genéricos.\relax }}{49}{figure.caption.27}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {9}{\ignorespaces Estrutura arquitetônica dos modelos genéricos.\relax }}{48}{figure.caption.28}%
+\contentsline {figure}{\numberline {9}{\ignorespaces Estrutura arquitetônica dos modelos genéricos.\relax }}{50}{figure.caption.28}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {10}{\ignorespaces Conformação do pavimento térreo e estacionamentos.\relax }}{50}{figure.caption.30}%
+\contentsline {figure}{\numberline {10}{\ignorespaces Conformação do pavimento térreo e estacionamentos.\relax }}{52}{figure.caption.30}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {11}{\ignorespaces Painéis fotovoltaicos sobre as proteções solares da fachada oeste e cobertura.\relax }}{52}{figure.caption.32}%
+\contentsline {figure}{\numberline {11}{\ignorespaces Painéis fotovoltaicos sobre as proteções solares da fachada oeste e cobertura.\relax }}{54}{figure.caption.32}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {12}{\ignorespaces Detalhe da proteção solar de 1 m de comprimento da fachada oeste (a); carta solar da proteção solar de 1m (b)\relax }}{57}{figure.caption.38}%
+\contentsline {figure}{\numberline {12}{\ignorespaces Detalhe da proteção solar de 1 m de comprimento da fachada oeste (a); carta solar da proteção solar de 1m (b)\relax }}{59}{figure.caption.38}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {13}{\ignorespaces Descrição simplificada dos blocos de simulação.\relax }}{59}{figure.caption.39}%
+\contentsline {figure}{\numberline {13}{\ignorespaces Descrição simplificada dos blocos de simulação.\relax }}{61}{figure.caption.39}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {14}{\ignorespaces Sequência de etapas de simulação.\relax }}{60}{figure.caption.40}%
+\contentsline {figure}{\numberline {14}{\ignorespaces Sequência de etapas de simulação.\relax }}{62}{figure.caption.40}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {15}{\ignorespaces \textit {Softwares} mais utilizados em simulação de eficiência de edificações.\relax }}{62}{figure.caption.41}%
+\contentsline {figure}{\numberline {15}{\ignorespaces \textit {Softwares} mais utilizados em simulação de eficiência de edificações.\relax }}{64}{figure.caption.41}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {16}{\ignorespaces Interface de configuração dos modelos genéricos no \textit {plug-in OpenStudio}.\relax }}{63}{figure.caption.42}%
+\contentsline {figure}{\numberline {16}{\ignorespaces Interface de configuração dos modelos genéricos no \textit {plug-in OpenStudio}.\relax }}{65}{figure.caption.42}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {17}{\ignorespaces Colagem da interface de inserção de dados das propriedades térmicas e de materiais.\relax }}{63}{figure.caption.43}%
+\contentsline {figure}{\numberline {17}{\ignorespaces Colagem da interface de inserção de dados das propriedades térmicas e de materiais.\relax }}{65}{figure.caption.43}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {18}{\ignorespaces Interface de configuração dos sistemas de condicionamento de ar.\relax }}{64}{figure.caption.44}%
+\contentsline {figure}{\numberline {18}{\ignorespaces Interface de configuração dos sistemas de condicionamento de ar.\relax }}{66}{figure.caption.44}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {19}{\ignorespaces Saídas da simulaçãoem processo de finalização.\relax }}{65}{figure.caption.45}%
+\contentsline {figure}{\numberline {19}{\ignorespaces Saídas da simulaçãoem processo de finalização.\relax }}{67}{figure.caption.45}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {20}{\ignorespaces Modelos genéricos simplificados.\relax }}{66}{figure.caption.46}%
+\contentsline {figure}{\numberline {20}{\ignorespaces Modelos genéricos simplificados.\relax }}{68}{figure.caption.46}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {21}{\ignorespaces Interface do \textit {Parametric Analysis Tool.}\relax }}{66}{figure.caption.47}%
+\contentsline {figure}{\numberline {21}{\ignorespaces Interface do \textit {Parametric Analysis Tool.}\relax }}{68}{figure.caption.47}%
 \defcounter {refsection}{0}\relax 
-\contentsline {figure}{\numberline {22}{\ignorespaces Deslocamento de torres dos modelos genéricos sobre as áreas de estacionamento. O volume tracejado demonstra a posição original da torre antes do deslocamento.\relax }}{71}{figure.caption.50}%
+\contentsline {figure}{\numberline {22}{\ignorespaces Deslocamento de torres dos modelos genéricos sobre as áreas de estacionamento. O volume tracejado demonstra a posição original da torre antes do deslocamento.\relax }}{73}{figure.caption.50}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {23}{\ignorespaces Consumo \textit {versus} medidas do modelo genérico de 8 pavimentos.\relax }}{79}{figure.caption.52}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {24}{\ignorespaces Consumo \textit {versus} medidas do modelo genérico de 19 pavimentos.\relax }}{80}{figure.caption.53}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {25}{\ignorespaces Gráfico dos blocos de simulação das variáveis de vidro, orientação solar e do sistemas de condicionamento de ar e medidas de redução de carga dos modelos genérico de 8 (esq.) e 19 pavimentos (dir.)\relax }}{81}{figure.caption.54}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {26}{\ignorespaces Gráficos dos blocos de simulação de paredes, 3, e coberturas, 4, dos modelos genéricos de 8 (esq.) e 19 pavimentos (dir.).\relax }}{82}{figure.caption.55}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {27}{\ignorespaces Gráficos dos blocos de simulação de PAF\textsuperscript {T} dos modelos genérico de 8 (esq.) e 19 pavimentos (dir.).\relax }}{82}{figure.caption.56}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {28}{\ignorespaces Bloco de simulações de protetores solares dos modelos genérico de 8 (esq.) e 19 pavimentos (dir.).\relax }}{83}{figure.caption.57}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {29}{\ignorespaces Sistemas, consumo e produção de energia elétrica do modelo genérico de 8 pavimentos.\relax }}{84}{figure.caption.58}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {30}{\ignorespaces Sistemas, consumo e produção de energia elétrica do modelo genérico de 19 pavimentos.\relax }}{85}{figure.caption.59}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {31}{\ignorespaces Consumo final mensal, Consumo vs. Produção de energia e Desvio Padrão das médias de produção de energia do modelo genérico otimizado de 8 pavimentos.\relax }}{85}{figure.caption.60}%
+\defcounter {refsection}{0}\relax 
+\contentsline {figure}{\numberline {32}{\ignorespaces Consumo final mensal, Consumo vs. Produção de energia e Desvio Padrão das médias de produção de energia do modelo genérico otimizado de 19 pavimentos.\relax }}{86}{figure.caption.61}%

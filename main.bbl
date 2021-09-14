@@ -4992,6 +4992,78 @@
       \verb www.ren21.net
       \endverb
     \endentry
+    \entry{Warth2019a}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19ee0f7db57f87b47e65060451bbb4aa}{%
+           family={Warth},
+           familyi={W\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \strng{namehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{fullhash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{bibnamehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{authorbibnamehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{authornamehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{authorfullhash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \field{extraname}{1}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{O Estado de São Paulo}
+      \field{month}{10}
+      \field{title}{{Estados do Nordeste querem taxa sobre energia do sol e do vento}}
+      \field{year}{2019}
+      \field{pages}{9}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
+    \entry{Warth2019}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=19ee0f7db57f87b47e65060451bbb4aa}{%
+           family={Warth},
+           familyi={W\bibinitperiod},
+           given={Anne},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo}%
+      }
+      \strng{namehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{fullhash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{bibnamehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{authorbibnamehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{authornamehash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \strng{authorfullhash}{19ee0f7db57f87b47e65060451bbb4aa}
+      \field{extraname}{2}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{O Estado de São Paulo}
+      \field{month}{10}
+      \field{title}{{Subsídio a painéis de energia solar pode ser reduzido}}
+      \field{year}{2019}
+      \field{pages}{4}
+      \range{pages}{1}
+      \verb{file}
+      \verb ::
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

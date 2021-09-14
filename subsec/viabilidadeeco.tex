@@ -1,0 +1,99 @@
+\subsection{Análise de viabilidade econômica}
+\noindent Os dados tarifários necessários para o cálculo de Custo Anual de Energia, CAE, foram elaborados conforme a atualização da concessionaria para o mês de janeiro de 2020. A edificação proposta é classificada como comercial e está alocada no subgrupo B3, modalidade tarifária convencional. Para o mês estudado, foi atribuído à Tarifa de Energia, TE, um acréscimo proveniente da bandeira amarela vigente. As Tarifas de Uso de Sistema de Distribuição, TUSD, e os impostos fiscais ICMS, PIS e COFINS para o período estão demonstrados na Tabela \ref{a}.
+\begin{table}[H]
+    \centering
+    \small
+    \caption{Tarifas e impostos para a modalidade tarifária convencional.}
+    \begin{tabular}{ll}
+    \hline
+        \textbf{Tarifas e impostos}     &   \textbf{Valor}  \\\hline
+        TE + Bandeira amarela           &   0,26484         \\
+        TUSD                            &   0,27440         \\
+        ICMS                            &   25\%            \\
+        PIS+CONFINS                     &   1,57\%          \\\hline
+    \end{tabular}
+    \begin{flushleft}
+        \par \small Fonte: autor, (2020).
+    \end{flushleft}
+    \label{a}
+\end{table}
+\noindent Para o cálculo de custo anual de energia, levou-se em consideração o consumo anual dos modelos otimizados de 8 e 19 pavimentos mais eficientes energeticamente, sendo 605.853 kWh/ano e 965.186 kWh/ano, seus respectivos consumos anuais de energia. Na Equação \ref{eq:eq11} é estabelecido o custo anual de energia sem impostos, considerando TE e TUSD.
+\begin{align}\label{eq:eq11}
+    &Custo_{8pav}=E_{consumida} \times (TE+TSUD)\nonumber \\
+    &Custo_{8pav}=605.853 \times (0,26484+0,27440)\nonumber \\
+    &Custo_{8pav}=326.700,17 \text{ reais}\nonumber \\
+    &Custo_{19pav}=E_{consumida} \times (TE+TSUD)\nonumber \\
+    &Custo_{19pav}=965.186 \times (0,26484+0,27440)\nonumber \\
+    &Custo_{19pav}=520.166,89 \text{ reais}
+\end{align}
+\noindent Entretanto, os custos sofrem tributação de impostos pela distribuidora de energia, o que foi considerado para a composição real do custo anual de energia, como definido pela EDP e apresentado na Equação \ref{eq:eq12}.
+\begin{align}\label{eq:eq12}
+    &Custo_{8pav}=\frac{Custo_{s/imposto}}{1-(PIS+COFINS+ICMS)} \nonumber \\
+    &Custo_{8pav}=\frac{326.700,17}{1-0,2675}\nonumber \\
+    &Custo_{8pav}=444.913,75 \text{ reais}\nonumber \\
+    &Custo_{19pav}=\frac{Custo_{s/imposto}}{1-(PIS+COFINS+ICMS)} \nonumber \\
+    &Custo_{19pav}=\frac{520.166,89}{1-0,2675}\nonumber \\ 
+    &Custo_{19pav}=708.384,70 \text{ reais}
+\end{align}
+\noindent Na Tabela \ref{tab:17} são apresentadas a quantidade de energia gerada no ano, assim como os custos dos sistemas de geração de energia solar fotovoltaica indicados, sendo que o custo de instalação por kWp dos sistemas foi orçado, em janeiro de 2020, em 784 reais para o filme fino Cd-Te \cite{Sorgato2018} e 3.682 reais para o sistema mono-Si sugerido, segundo a média de preço do mercado local.\vspace*{-0.3cm}
+\begin{table}[H]
+    \centering
+    \caption{Produção de energia e custo de implantação dos sistemas fotovoltaicos.}
+    \begin{tabular}{llll}
+        \hline
+        \multicolumn{4}{c}{\textbf{Modelo genérico de 8 pavimentos}}                                                                                                                                                                                                                \\ 
+        \hline
+        \textbf{Características}                                                        & \makecell[l]{\textbf{Cobertura e}\\ \textbf{estacionamento}}      & \makecell[l]{\textbf{Proteção}\\ \textbf{Solar}}          & \textbf{Fachada}                                          \\ 
+        \hline
+        Módulo                                                                          & \makecell[l]{SunPower \\SPR-E20-\\435-COM}                        & \makecell[l]{SunPower \\SPR-E20-\\435-COM}                & \makecell[l]{First Solar \\FS-4122-2}                     \\
+        Inversor                                                                        & \makecell[l]{Fronius \\International \\IG Plus 150 V-3}           & \makecell[l]{Fronius \\International \\ECO 25.0-3-S}      & \makecell[l]{Fronius \\International \\IG Plus 150 V-3}   \\
+        \makecell[l]{Energia gerada\\ (MWh/ano)}                                        & 236,40                                                            & 154,42                                                    & 215,65                                                    \\ 
+        \hline
+        \makecell[l]{Custo total por \\potência instalada (R\$)}                        & 552.300,00                                                        & 371.587,44                                                & 214.988,48                                                \\ 
+        \hline
+        \multicolumn{3}{l}{\makecell[l]{Energia total \\gerada (MWh/ano)}}                                                                                  & 606,47                                                                                                                \\
+        \multicolumn{3}{l}{\makecell[l]{Custo total dos \\sistemas instalados (R\$)}}                                                                       & 1.138.875,92                                                                                                          \\ 
+        \hline
+        \multicolumn{4}{c}{\textbf{Continua}}                                                                                                                                                                                                                                       \\
+        \hline
+    \end{tabular}
+    \label{tab:17}
+\end{table}
+\begin{table}[H]
+    \centering
+    \begin{tabular}{llll}
+        \hline
+        \multicolumn{4}{c}{\textbf{Conclusão}}                                                                                                        \\
+        \hline
+        \multicolumn{4}{c}{\textbf{Modelo genérico de 19 pavimentos}}                                                                                                        \\
+        \hline
+        \textbf{Características}                    & \makecell[l]{\textbf{Cobertura e}\\ \textbf{estacionamento}}    & \textbf{Proteção Solar}                & \textbf{Fachada}                       \\ 
+        \hline
+        Módulo                                      & \makecell[l]{SunPower \\SPR-E20-\\435-COM}              & \makecell[l]{SunPower \\SPR-E20-\\435-COM}              & \makecell[l]{First Solar \\FS-4122-2}                  \\
+        Inversor                                    & \makecell[l]{Fronius \\International \\ECO 27.0-3-S}    & \makecell[l]{Fronius \\International \\IG Plus 120 V-3} & \makecell[l]{Fronius \\International \\IG Plus 150 V-3}  \\
+        \makecell[l]{Energia gerada\\ (MWh/ano)}                    & 236,40                                & 370,02                                & 397,12                                 \\ 
+        \hline
+        \makecell[l]{Custo total por \\potência instalada (R\$)}    & 552.300,00                            & 896.198,80                            & 376.084,80                             \\ 
+        \hline
+        \multicolumn{3}{l}{\makecell[l]{Energia total \\gerada (MWh/ano)}}                                                                          & 1003,54                                \\
+        \multicolumn{3}{l}{\makecell[l]{Custo total dos \\sistemas instalados (R\$)}}                                                               & 1.824.583,60                           \\
+        \hline
+    \end{tabular}
+    \begin{flushleft}
+        \par \small Fonte: autor, (2020).
+    \end{flushleft}
+\end{table}
+\noindent Os valores de retorno, V\textsubscript{r}, dos custos de implementação dos sistemas foram calculados com base na taxa de atratividade Selic de 4,5\% para o período de janeiro de 2020, representada pela incógnita i. Além disso, foram utilizados o custo anual de energia, A, e a vida útil especificada pela fabricante dos módulos utilizados, de 25 anos, representada pela incógnita \textit{n}.
+\begin{align}
+    &V_{ret8pav}=444.913,75 \times \left\{\frac{1-\left[\frac{1}{(1+0,045)^25}\right]}{0,045}\right\} \nonumber \\
+    &V_{ret8pav}=6.597.274,05 \text{ reais} \nonumber \\
+    &V_{ret19pav}=708.384,70 \times \left\{\frac{1-\left[\frac{1}{(1+0,045)^25}\right]}{0,045}\right\} \nonumber \\
+    &V_{ret19pav}=10.504.070,01 \text{ reais} \nonumber
+\end{align}
+\noindent O valor de retorno calculado dos investimentos é utilizado para estipular o valor presente, VP, de cada um dos sistemas propostos.
+\begin{align}
+    &V_{8pav}=6.597.274,05 - 1.138.875,92 = 5.458.398,13 \nonumber \\
+    &V_{19pav}=10.504.070,01 - 1.824.583,60 = 8.679.486,41 \nonumber
+\end{align}
+\noindent Assim, constata-se que os sistemas de produção de energia propostos aos modelos genéricos são economicamente viáveis, visto que os VP’s são positivos. Da mesma forma, o \textit{payback} da implantação dos sistemas estudados é de 2,55 anos para o modelo de 8 pavimentos e 2,57 anos para o modelo de 19 pavimentos. Vale mencionar que as variações das taxas de energia e a perda de eficiência do sistema ao longo da vida útil não foram consideradas na avaliação de viabilidade econômica \cite{Sorgato2018}.\vspace*{0.3cm} \newline
+\noindent Os resultados indicam, para o modelo de edificação adotado, a teórica viabilidade de utilização do conceito \textit{Zero Energy} para as edificações comerciais de escritório de pequeno, médio e grande porte para o recorte territorial utilizado. As condições climáticas e urbanas favoráveis, juntamente a adoção de materiais e componentes adequados ao cenário brasileiro, priorizando soluções que proporcionaram a máxima extração dos recursos energéticos on site foram essenciais para alcançar o balanço energético nulo.
