@@ -39,13 +39,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.1}Levantamento das características dos edifícios de escritório de Vitória}{40}{subsection.3.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.1.1}Consumo de energia elétrica das edificações}{41}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Consumo de energia elétrica das edificações}{42}{subsubsection.3.1.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.1.2}Padrões de uso e ocupação em edifícios de escritório}{43}{subsubsection.3.1.2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {3.2}Padrões de conforto}{44}{subsection.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.2.1}Conforto térmico}{44}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.1}Conforto térmico}{45}{subsubsection.3.2.1}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.2.2}Conforto lumínico}{45}{subsubsection.3.2.2}%
 \defcounter {refsection}{0}\relax 
@@ -55,9 +55,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.3.2}Eficiência energética do sistema de condicionamento de ar}{47}{subsubsection.3.3.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsubsection}{\numberline {3.3.3}Eficiência energética do sistema iluminação artificial e equipamentos}{47}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.3}Eficiência energética do sistema iluminação artificial e equipamentos}{48}{subsubsection.3.3.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {3.4}Definição dos modelos genéricos}{48}{subsection.3.4}%
+\contentsline {subsection}{\numberline {3.4}Definição dos modelos genéricos}{49}{subsection.3.4}%
 \defcounter {refsection}{0}\relax 
 \contentsline {subsubsection}{\numberline {3.4.1}Composição dos modelos genéricos}{49}{subsubsection.3.4.1}%
 \defcounter {refsection}{0}\relax 
@@ -99,12 +99,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {6.1}Apêndice A}{101}{subsection.6.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.2}Apêndice B}{112}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.2}Apêndice B}{111}{subsection.6.2}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {6.3}Apêndice C}{116}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.3}Apêndice C}{115}{subsection.6.3}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {7}Anexos}{120}{section.7}%
+\contentsline {section}{\numberline {7}Anexos}{119}{section.7}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.1}Anexo I}{120}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.1}Anexo I}{119}{subsection.7.1}%
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {7.2}Anexo II}{140}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.2}Anexo II}{139}{subsection.7.2}%

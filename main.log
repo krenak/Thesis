@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  14 SEP 2021 11:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.7)  14 SEP 2021 18:48
 entering extended mode
 **"f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex"
 (f:/Root Files/Academic/masters/_desenvolvimento/_regular/_dissertacao/fase final/_estrutura/_texto/tex/main.tex
@@ -1223,22 +1223,22 @@ Overfull \hbox (1.41595pt too wide) detected at line 38
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 40
- []\OT1/bch/m/n/12 112
+ []\OT1/bch/m/n/12 111
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 42
- []\OT1/bch/m/n/12 116
+ []\OT1/bch/m/n/12 115
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 44
- []\OT1/bch/m/n/12 120
+ []\OT1/bch/m/n/12 119
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 46
- []\OT1/bch/m/n/12 140
+ []\OT1/bch/m/n/12 139
  []
 
 )
@@ -1252,22 +1252,22 @@ Overfull \hbox (1.41595pt too wide) detected at line 100
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 102
- []\OT1/bch/m/n/12 112
+ []\OT1/bch/m/n/12 111
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 104
- []\OT1/bch/m/n/12 116
+ []\OT1/bch/m/n/12 115
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 108
- []\OT1/bch/m/n/12 120
+ []\OT1/bch/m/n/12 119
  []
 
 
 Overfull \hbox (1.41595pt too wide) detected at line 110
- []\OT1/bch/m/n/12 140
+ []\OT1/bch/m/n/12 139
  []
 
 )
@@ -1386,18 +1386,72 @@ Overfull \hbox (4.74075pt too wide) in paragraph at lines 2--19
  \OT1/bch/m/n/12 (-20) Fo-ram con-si-de-ra-dos para o le-van-ta-mento atri-bu-tos como ga-ba-rito, n[]umero de pavimentos-
  []
 
-[39 <./figures/fig8_Fluxogramas_1.jpg>] [40]
-Underfull \hbox (badness 10000) in paragraph at lines 45--47
-
- []
-
-[41]
-<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=1146, 551.05875pt x 350.5095pt>
+[39 <./figures/fig8_Fluxogramas_1.jpg>] [40] [41]
+<figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png, id=1144, 551.05875pt x 350.5095pt>
 File: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png Graphic file (type png)
 <use figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>
-Package pdftex.def Info: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png  used on input line 51.
+Package pdftex.def Info: figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png  used on input line 52.
 (pdftex.def)             Requested size: 455.24411pt x 289.57503pt.
- [42 <./figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>] [43]) (subsec/padroes.tex [44] [45]) (subsec/niveis.tex [46]
+ [42 <./figures/fig9_consumo-total-das-edificacoes-levantadas_cbcs_2015.png>]
+
+LaTeX Warning: Reference `tab:tabela5' on page 43 undefined on input line 64.
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 83--83
+[]|\OT1/bch/m/n/10.95 (+20) Segundo nor-mas e pes-qui-
+ []
+
+
+Underfull \hbox (badness 3407) in paragraph at lines 83--83
+\OT1/bch/m/n/10.95 (+20) in[]cio da ocupa[][]ao se d[]a
+ []
+
+
+Underfull \hbox (badness 1721) in paragraph at lines 83--83
+[]\OT1/bch/m/n/10.95 (+20) as 6h e pode se es-ten-der
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 83--83
+\OT1/bch/m/n/10.95 (+20) at[]e []as 24h. En-tre-tanto,
+ []
+
+
+Underfull \hbox (badness 3333) in paragraph at lines 83--83
+\OT1/bch/m/n/10.95 (+20) vi-sando a aproxima[][]ao []as
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 83--83
+\OT1/bch/m/n/10.95 (+20) cado bra-si-leiro, adota-se a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+[]|\OT1/bch/m/n/10.95 (+20) (CONSELHO BRA-SI-LEIRO
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--84
+\OT1/bch/m/n/10.95 (+20) DE CONSTRU[][]AO SUS-
+ []
+
+
+Underfull \hbox (badness 3492) in paragraph at lines 84--84
+\OT1/bch/m/n/10.95 (+20) TENT[]AVEL - CBCS, 2015;
+ []
+
+
+Underfull \hbox (badness 2753) in paragraph at lines 84--84
+\OT1/bch/m/n/10.95 (+20) 2006; MO-RAES; PE-REIRA,
+ []
+
+
+Underfull \hbox (badness 2846) in paragraph at lines 85--85
+\OT1/bch/m/n/10.95 (+20) di-ci-o-na-mento de ar (ASH-
+ []
+
+) [43] (subsec/padroes.tex [44] [45]) (subsec/niveis.tex [46]
 LaTeX Font Info:    Trying to load font information for OML+bch on input line 20.
  (C:\Users\aaa_l\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlbch.fd
 File: omlbch.fd 
@@ -1405,53 +1459,54 @@ File: omlbch.fd
 LaTeX Font Info:    Font shape `OML/bch/m/n' in size <12> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 20.
  [47]) (subsec/defmodelos.tex [48] (subsubsec/compgen.tex
-<figures/fig10_Fluxogramas-2.jpg, id=1222, 834.11626pt x 639.13782pt>
+<figures/fig10_Fluxogramas-2.jpg, id=1216, 834.11626pt x 639.13782pt>
 File: figures/fig10_Fluxogramas-2.jpg Graphic file (type jpg)
 <use figures/fig10_Fluxogramas-2.jpg>
 Package pdftex.def Info: figures/fig10_Fluxogramas-2.jpg  used on input line 7.
 (pdftex.def)             Requested size: 409.71692pt x 313.95071pt.
- [49 <./figures/fig10_Fluxogramas-2.jpg>]
-<figures/fig11_8-19-2pav.png, id=1228, 1580.90625pt x 797.98125pt>
+ [49]
+<figures/fig11_8-19-2pav.png, id=1222, 1580.90625pt x 797.98125pt>
 File: figures/fig11_8-19-2pav.png Graphic file (type png)
 <use figures/fig11_8-19-2pav.png>
-Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 18.
+Package pdftex.def Info: figures/fig11_8-19-2pav.png  used on input line 17.
 (pdftex.def)             Requested size: 409.71692pt x 206.81271pt.
- [50 <./figures/fig11_8-19-2pav.png>] [51]
-<figures/fig12-base_torre-1.png, id=1254, 1199.98312pt x 712.91344pt>
+ [50 <./figures/fig10_Fluxogramas-2.jpg> <./figures/fig11_8-19-2pav.png>]
+<figures/fig12-base_torre-1.png, id=1238, 1199.98312pt x 712.91344pt>
 File: figures/fig12-base_torre-1.png Graphic file (type png)
 <use figures/fig12-base_torre-1.png>
-Package pdftex.def Info: figures/fig12-base_torre-1.png  used on input line 63.
+Package pdftex.def Info: figures/fig12-base_torre-1.png  used on input line 60.
 (pdftex.def)             Requested size: 409.71692pt x 243.40991pt.
-<figures/tab9-pb-8pav.png, id=1256, 630.10406pt x 332.74312pt>
+ [51]
+<figures/tab9-pb-8pav.png, id=1250, 630.10406pt x 332.74312pt>
 File: figures/tab9-pb-8pav.png Graphic file (type png)
 <use figures/tab9-pb-8pav.png>
-Package pdftex.def Info: figures/tab9-pb-8pav.png  used on input line 76.
+Package pdftex.def Info: figures/tab9-pb-8pav.png  used on input line 73.
 (pdftex.def)             Requested size: 227.62206pt x 120.19868pt.
-<figures/tab9-pb-19pav.png, id=1257, 845.40843pt x 316.93407pt>
+<figures/tab9-pb-19pav.png, id=1251, 845.40843pt x 316.93407pt>
 File: figures/tab9-pb-19pav.png Graphic file (type png)
 <use figures/tab9-pb-19pav.png>
-Package pdftex.def Info: figures/tab9-pb-19pav.png  used on input line 76.
+Package pdftex.def Info: figures/tab9-pb-19pav.png  used on input line 73.
 (pdftex.def)             Requested size: 227.62206pt x 85.33153pt.
-<figures/tab9-CEP_8pav-v3-7.png, id=1258, 394.47375pt x 299.61937pt>
+<figures/tab9-CEP_8pav-v3-7.png, id=1252, 394.47375pt x 299.61937pt>
 File: figures/tab9-CEP_8pav-v3-7.png Graphic file (type png)
 <use figures/tab9-CEP_8pav-v3-7.png>
-Package pdftex.def Info: figures/tab9-CEP_8pav-v3-7.png  used on input line 77.
+Package pdftex.def Info: figures/tab9-CEP_8pav-v3-7.png  used on input line 74.
 (pdftex.def)             Requested size: 227.62206pt x 172.88785pt.
-<figures/tab9-corte-19pav-v1.png, id=1259, 716.6775pt x 517.18219pt>
+<figures/tab9-corte-19pav-v1.png, id=1253, 716.6775pt x 517.18219pt>
 File: figures/tab9-corte-19pav-v1.png Graphic file (type png)
 <use figures/tab9-corte-19pav-v1.png>
-Package pdftex.def Info: figures/tab9-corte-19pav-v1.png  used on input line 77.
+Package pdftex.def Info: figures/tab9-corte-19pav-v1.png  used on input line 74.
 (pdftex.def)             Requested size: 227.62206pt x 164.2548pt.
 
-Overfull \hbox (18.00003pt too wide) in alignment at lines 74--90
+Overfull \hbox (18.00003pt too wide) in alignment at lines 71--87
 [] [] 
  []
 
 [52 <./figures/fig12-base_torre-1.png>] [53 <./figures/tab9-pb-8pav.png> <./figures/tab9-pb-19pav.png> <./figures/tab9-CEP_8pav-v3-7.png> <./figures/tab9-corte-19pav-v1.png>]
-<figures/fig13-paineis pv.png, id=1274, 1190.94937pt x 890.5772pt>
+<figures/fig13-paineis pv.png, id=1268, 1190.94937pt x 890.5772pt>
 File: figures/fig13-paineis pv.png Graphic file (type png)
 <use figures/fig13-paineis pv.png>
-Package pdftex.def Info: figures/fig13-paineis pv.png  used on input line 102.
+Package pdftex.def Info: figures/fig13-paineis pv.png  used on input line 99.
 (pdftex.def)             Requested size: 409.71692pt x 306.37976pt.
 ) (subsubsec/pararq.tex
 Overfull \vbox (0.81134pt too high) detected at line 35
@@ -1462,7 +1517,7 @@ Overfull \hbox (18.92789pt too wide) in alignment at lines 61--83
 [] [] [] [] [] 
  []
 
-<figures/tab11-fig1.png, id=1289, 324.0105pt x 187.29974pt>
+<figures/tab11-fig1.png, id=1283, 324.0105pt x 187.29974pt>
 File: figures/tab11-fig1.png Graphic file (type png)
 <use figures/tab11-fig1.png>
 Package pdftex.def Info: figures/tab11-fig1.png  used on input line 103.
@@ -1471,7 +1526,7 @@ Package pdftex.def Info: figures/tab11-fig1.png  used on input line 103.
 Overfull \vbox (0.54448pt too high) detected at line 103
  []
 
-<figures/tab11-fig2.png, id=1290, 320.99925pt x 212.59425pt>
+<figures/tab11-fig2.png, id=1284, 320.99925pt x 212.59425pt>
 File: figures/tab11-fig2.png Graphic file (type png)
 <use figures/tab11-fig2.png>
 Package pdftex.def Info: figures/tab11-fig2.png  used on input line 111.
@@ -1480,12 +1535,12 @@ Package pdftex.def Info: figures/tab11-fig2.png  used on input line 111.
 Overfull \vbox (2.28267pt too high) detected at line 111
  []
 
-<figures/tab11-fig3.png, id=1291, 324.61275pt x 204.16275pt>
+<figures/tab11-fig3.png, id=1285, 324.61275pt x 204.16275pt>
 File: figures/tab11-fig3.png Graphic file (type png)
 <use figures/tab11-fig3.png>
 Package pdftex.def Info: figures/tab11-fig3.png  used on input line 120.
 (pdftex.def)             Requested size: 182.09486pt x 114.52661pt.
-<figures/tab11-fig4.png, id=1292, 270.41025pt x 120.45pt>
+<figures/tab11-fig4.png, id=1286, 270.41025pt x 120.45pt>
 File: figures/tab11-fig4.png Graphic file (type png)
 <use figures/tab11-fig4.png>
 Package pdftex.def Info: figures/tab11-fig4.png  used on input line 130.
@@ -1504,37 +1559,37 @@ Overfull \hbox (0.5824pt too wide) in paragraph at lines 99--138
 LaTeX Warning: No positions in optional float specifier.
                Default added (so using `tbp') on input line 140.
 
-<figures/tab11-fig5.png, id=1312, 339.669pt x 182.48175pt>
+<figures/tab11-fig5.png, id=1306, 339.669pt x 182.48175pt>
 File: figures/tab11-fig5.png Graphic file (type png)
 <use figures/tab11-fig5.png>
 Package pdftex.def Info: figures/tab11-fig5.png  used on input line 145.
 (pdftex.def)             Requested size: 182.09486pt x 97.82863pt.
 LaTeX Font Info:    Font shape `OML/bch/m/n' in size <10.95> not available
 (Font)              Font shape `OML/cmm/m/it' tried instead on input line 145.
-<figures/tab11-fig6.png, id=1313, 322.806pt x 165.0165pt>
+<figures/tab11-fig6.png, id=1307, 322.806pt x 165.0165pt>
 File: figures/tab11-fig6.png Graphic file (type png)
 <use figures/tab11-fig6.png>
 Package pdftex.def Info: figures/tab11-fig6.png  used on input line 154.
 (pdftex.def)             Requested size: 182.09486pt x 93.0859pt.
-<figures/fig11-protecaosolar.jpg, id=1324, 670.30424pt x 338.4645pt>
+<figures/fig11-protecaosolar.jpg, id=1318, 670.30424pt x 338.4645pt>
 File: figures/fig11-protecaosolar.jpg Graphic file (type jpg)
 <use figures/fig11-protecaosolar.jpg>
 Package pdftex.def Info: figures/fig11-protecaosolar.jpg  used on input line 203.
 (pdftex.def)             Requested size: 455.24411pt x 229.87392pt.
 [58 <./figures/tab11-fig5.png> <./figures/tab11-fig6.png>]) (subsubsec/volsimul.tex
-<figures/fig13-fluxograma.jpg, id=1345, 928.21782pt x 935.74594pt>
+<figures/fig13-fluxograma.jpg, id=1339, 928.21782pt x 935.74594pt>
 File: figures/fig13-fluxograma.jpg Graphic file (type jpg)
 <use figures/fig13-fluxograma.jpg>
 Package pdftex.def Info: figures/fig13-fluxograma.jpg  used on input line 9.
 (pdftex.def)             Requested size: 455.24411pt x 458.94788pt.
  [59 <./figures/fig11-protecaosolar.jpg>] [60])) (subsec/simulacoes.tex [61 <./figures/fig13-fluxograma.jpg>]
-<figures/fig14-fluxograma-3.jpg, id=1360, 1373.13pt x 504.38437pt>
+<figures/fig14-fluxograma-3.jpg, id=1354, 1373.13pt x 504.38437pt>
 File: figures/fig14-fluxograma-3.jpg Graphic file (type jpg)
 <use figures/fig14-fluxograma-3.jpg>
 Package pdftex.def Info: figures/fig14-fluxograma-3.jpg  used on input line 7.
 (pdftex.def)             Requested size: 455.24411pt x 167.21698pt.
  (subsubsec/processomod.tex
-<figures/fig15-grafico-soft.png, id=1379, 500.46976pt x 406.51875pt>
+<figures/fig15-grafico-soft.png, id=1373, 500.46976pt x 406.51875pt>
 File: figures/fig15-grafico-soft.png Graphic file (type png)
 <use figures/fig15-grafico-soft.png>
 Package pdftex.def Info: figures/fig15-grafico-soft.png  used on input line 10.
@@ -1550,24 +1605,24 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--15
  []
 
 [62 <./figures/fig14-fluxograma-3.jpg>] [63]
-<figures/fig16-OS.png, id=1397, 472.0545pt x 252.6165pt>
+<figures/fig16-OS.png, id=1391, 472.0545pt x 252.6165pt>
 File: figures/fig16-OS.png Graphic file (type png)
 <use figures/fig16-OS.png>
 Package pdftex.def Info: figures/fig16-OS.png  used on input line 22.
 (pdftex.def)             Requested size: 364.19667pt x 194.9046pt.
  [64 <./figures/fig15-grafico-soft.png>]
-<figures/fig17-OS2.png, id=1404, 846.0408pt x 602.7318pt>
+<figures/fig17-OS2.png, id=1398, 846.0408pt x 602.7318pt>
 File: figures/fig17-OS2.png Graphic file (type png)
 <use figures/fig17-OS2.png>
 Package pdftex.def Info: figures/fig17-OS2.png  used on input line 32.
 (pdftex.def)             Requested size: 364.19667pt x 259.45471pt.
-<figures/fig18-OS3.png, id=1406, 1156.32pt x 599.23875pt>
+<figures/fig18-OS3.png, id=1400, 1156.32pt x 599.23875pt>
 File: figures/fig18-OS3.png Graphic file (type png)
 <use figures/fig18-OS3.png>
 Package pdftex.def Info: figures/fig18-OS3.png  used on input line 42.
 (pdftex.def)             Requested size: 386.96027pt x 200.52905pt.
  [65 <./figures/fig16-OS.png> <./figures/fig17-OS2.png>]
-<figures/fig19-OS4.png, id=1416, 838.93425pt x 461.3235pt>
+<figures/fig19-OS4.png, id=1410, 838.93425pt x 461.3235pt>
 File: figures/fig19-OS4.png Graphic file (type png)
 <use figures/fig19-OS4.png>
 Package pdftex.def Info: figures/fig19-OS4.png  used on input line 52.
@@ -1578,7 +1633,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--57
  []
 
 ) (subsubsec/simulativapass.tex [66 <./figures/fig18-OS3.png>]
-<figures/fig20-modelos.png, id=1425, 1413.02907pt x 734.745pt>
+<figures/fig20-modelos.png, id=1419, 1413.02907pt x 734.745pt>
 File: figures/fig20-modelos.png Graphic file (type png)
 <use figures/fig20-modelos.png>
 Package pdftex.def Info: figures/fig20-modelos.png  used on input line 7.
@@ -1589,7 +1644,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--12
  []
 
 [67 <./figures/fig19-OS4.png>]
-<figures/fig21-modelos.png, id=1433, 1156.32pt x 605.26125pt>
+<figures/fig21-modelos.png, id=1427, 1156.32pt x 605.26125pt>
 File: figures/fig21-modelos.png Graphic file (type png)
 <use figures/fig21-modelos.png>
 Package pdftex.def Info: figures/fig21-modelos.png  used on input line 16.
@@ -1630,7 +1685,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--44
  []
 
 [71] [72]
-<figures/fig22-modelos.jpg, id=1481, 579.96675pt x 373.99725pt>
+<figures/fig22-modelos.jpg, id=1475, 579.96675pt x 373.99725pt>
 File: figures/fig22-modelos.jpg Graphic file (type jpg)
 <use figures/fig22-modelos.jpg>
 Package pdftex.def Info: figures/fig22-modelos.jpg  used on input line 55.
@@ -1651,7 +1706,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--32
  []
 
 [75])) (sections/resultados.tex (subsec/classmodgen.tex [76]) (subsec/impconsumo.tex [77]
-<figures/result/fig23-grafico4.png, id=1530, 1017.8025pt x 494.84875pt>
+<figures/result/fig23-grafico4.png, id=1524, 1017.8025pt x 494.84875pt>
 File: figures/result/fig23-grafico4.png Graphic file (type png)
 <use figures/result/fig23-grafico4.png>
 Package pdftex.def Info: figures/result/fig23-grafico4.png  used on input line 26.
@@ -1665,7 +1720,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--27
 Overfull \vbox (6.672pt too high) has occurred while \output is active []
 
  [79 <./figures/result/fig23-grafico4.png>]
-<figures/result/fig24-grafico5.png, id=1540, 1018.80624pt x 494.84875pt>
+<figures/result/fig24-grafico5.png, id=1534, 1018.80624pt x 494.84875pt>
 File: figures/result/fig24-grafico5.png Graphic file (type png)
 <use figures/result/fig24-grafico5.png>
 Package pdftex.def Info: figures/result/fig24-grafico5.png  used on input line 41.
@@ -1674,111 +1729,125 @@ Package pdftex.def Info: figures/result/fig24-grafico5.png  used on input line 4
 Overfull \vbox (6.672pt too high) has occurred while \output is active []
 
  [80 <./figures/result/fig24-grafico5.png>]
-<figures/result/fig25-bloco1-3.png, id=1548, 484.81125pt x 274.02374pt>
+<figures/result/fig25-bloco1-3.png, id=1542, 484.81125pt x 274.02374pt>
 File: figures/result/fig25-bloco1-3.png Graphic file (type png)
 <use figures/result/fig25-bloco1-3.png>
 Package pdftex.def Info: figures/result/fig25-bloco1-3.png  used on input line 50.
 (pdftex.def)             Requested size: 223.07211pt x 126.08589pt.
-<figures/result/fig26-bloco1-3.png, id=1549, 513.92pt x 283.0575pt>
+<figures/result/fig26-bloco1-3.png, id=1543, 513.92pt x 283.0575pt>
 File: figures/result/fig26-bloco1-3.png Graphic file (type png)
 <use figures/result/fig26-bloco1-3.png>
 Package pdftex.def Info: figures/result/fig26-bloco1-3.png  used on input line 53.
 (pdftex.def)             Requested size: 223.07211pt x 122.86554pt.
-<figures/result/fig27-bloco10.png, id=1550, 483.8075pt x 274.02374pt>
+<figures/result/fig27-bloco10.png, id=1544, 483.8075pt x 274.02374pt>
 File: figures/result/fig27-bloco10.png Graphic file (type png)
 <use figures/result/fig27-bloco10.png>
 Package pdftex.def Info: figures/result/fig27-bloco10.png  used on input line 56.
 (pdftex.def)             Requested size: 223.07211pt x 126.34514pt.
-<figures/result/fig28-bloco10.png, id=1551, 483.8075pt x 279.0425pt>
+<figures/result/fig28-bloco10.png, id=1545, 483.8075pt x 279.0425pt>
 File: figures/result/fig28-bloco10.png Graphic file (type png)
 <use figures/result/fig28-bloco10.png>
 Package pdftex.def Info: figures/result/fig28-bloco10.png  used on input line 59.
 (pdftex.def)             Requested size: 223.07211pt x 128.65915pt.
-<figures/result/fig29-bloco5.png, id=1553, 485.815pt x 281.05pt>
+<figures/result/fig29-bloco5.png, id=1547, 485.815pt x 281.05pt>
 File: figures/result/fig29-bloco5.png Graphic file (type png)
 <use figures/result/fig29-bloco5.png>
 Package pdftex.def Info: figures/result/fig29-bloco5.png  used on input line 72.
 (pdftex.def)             Requested size: 223.07211pt x 129.04869pt.
-<figures/result/fig30-bloco5.png, id=1554, 481.8pt x 290.08376pt>
+<figures/result/fig30-bloco5.png, id=1548, 481.8pt x 290.08376pt>
 File: figures/result/fig30-bloco5.png Graphic file (type png)
 <use figures/result/fig30-bloco5.png>
 Package pdftex.def Info: figures/result/fig30-bloco5.png  used on input line 75.
 (pdftex.def)             Requested size: 223.07211pt x 134.3077pt.
-<figures/result/fig31-bloco6.png, id=1555, 485.815pt x 280.04625pt>
+<figures/result/fig31-bloco6.png, id=1549, 485.815pt x 280.04625pt>
 File: figures/result/fig31-bloco6.png Graphic file (type png)
 <use figures/result/fig31-bloco6.png>
 Package pdftex.def Info: figures/result/fig31-bloco6.png  used on input line 78.
 (pdftex.def)             Requested size: 223.07211pt x 128.5878pt.
-<figures/result/fig32-bloco6.png, id=1556, 486.81876pt x 286.06876pt>
+<figures/result/fig32-bloco6.png, id=1550, 486.81876pt x 286.06876pt>
 File: figures/result/fig32-bloco6.png Graphic file (type png)
 <use figures/result/fig32-bloco6.png>
 Package pdftex.def Info: figures/result/fig32-bloco6.png  used on input line 81.
 (pdftex.def)             Requested size: 223.07211pt x 131.0825pt.
  [81 <./figures/result/fig25-bloco1-3.png> <./figures/result/fig26-bloco1-3.png> <./figures/result/fig27-bloco10.png> <./figures/result/fig28-bloco10.png>]
-<figures/result/fig33-bloco4.png, id=1566, 486.81876pt x 282.05376pt>
+<figures/result/fig33-bloco4.png, id=1560, 486.81876pt x 282.05376pt>
 File: figures/result/fig33-bloco4.png Graphic file (type png)
 <use figures/result/fig33-bloco4.png>
 Package pdftex.def Info: figures/result/fig33-bloco4.png  used on input line 93.
 (pdftex.def)             Requested size: 223.07211pt x 129.24275pt.
-<figures/result/fig34-bloco4.png, id=1567, 484.81125pt x 286.06876pt>
+<figures/result/fig34-bloco4.png, id=1561, 484.81125pt x 286.06876pt>
 File: figures/result/fig34-bloco4.png Graphic file (type png)
 <use figures/result/fig34-bloco4.png>
 Package pdftex.def Info: figures/result/fig34-bloco4.png  used on input line 96.
 (pdftex.def)             Requested size: 223.07211pt x 131.62814pt.
-<figures/result/fig35-bloco7.png, id=1569, 483.8075pt x 279.0425pt>
+<figures/result/fig35-bloco7.png, id=1563, 483.8075pt x 279.0425pt>
 File: figures/result/fig35-bloco7.png Graphic file (type png)
 <use figures/result/fig35-bloco7.png>
 Package pdftex.def Info: figures/result/fig35-bloco7.png  used on input line 108.
 (pdftex.def)             Requested size: 223.07211pt x 128.65915pt.
-<figures/result/fig36-bloco7.png, id=1570, 485.815pt x 282.05376pt>
+<figures/result/fig36-bloco7.png, id=1564, 485.815pt x 282.05376pt>
 File: figures/result/fig36-bloco7.png Graphic file (type png)
 <use figures/result/fig36-bloco7.png>
 Package pdftex.def Info: figures/result/fig36-bloco7.png  used on input line 111.
 (pdftex.def)             Requested size: 223.07211pt x 129.50958pt.
-<figures/result/fig37-bloco8.png, id=1571, 489.83pt x 279.0425pt>
+<figures/result/fig37-bloco8.png, id=1565, 489.83pt x 279.0425pt>
 File: figures/result/fig37-bloco8.png Graphic file (type png)
 <use figures/result/fig37-bloco8.png>
 Package pdftex.def Info: figures/result/fig37-bloco8.png  used on input line 114.
 (pdftex.def)             Requested size: 223.07211pt x 127.07523pt.
-<figures/result/fig38-bloco8.png, id=1572, 487.8225pt x 292.09125pt>
+<figures/result/fig38-bloco8.png, id=1566, 487.8225pt x 292.09125pt>
 File: figures/result/fig38-bloco8.png Graphic file (type png)
 <use figures/result/fig38-bloco8.png>
 Package pdftex.def Info: figures/result/fig38-bloco8.png  used on input line 117.
 (pdftex.def)             Requested size: 223.07211pt x 133.57025pt.
-<figures/result/fig39-bloco9.png, id=1573, 485.815pt x 275.0275pt>
+<figures/result/fig39-bloco9.png, id=1567, 485.815pt x 275.0275pt>
 File: figures/result/fig39-bloco9.png Graphic file (type png)
 <use figures/result/fig39-bloco9.png>
 Package pdftex.def Info: figures/result/fig39-bloco9.png  used on input line 120.
 (pdftex.def)             Requested size: 223.07211pt x 126.28337pt.
-<figures/result/fig40-bloco9.png, id=1574, 487.8225pt x 283.0575pt>
+<figures/result/fig40-bloco9.png, id=1568, 487.8225pt x 283.0575pt>
 File: figures/result/fig40-bloco9.png Graphic file (type png)
 <use figures/result/fig40-bloco9.png>
 Package pdftex.def Info: figures/result/fig40-bloco9.png  used on input line 123.
 (pdftex.def)             Requested size: 223.07211pt x 129.43922pt.
  [82 <./figures/result/fig29-bloco5.png> <./figures/result/fig30-bloco5.png> <./figures/result/fig31-bloco6.png> <./figures/result/fig32-bloco6.png> <./figures/result/fig33-bloco4.png> <./figures/result/fig34-bloco4.png>]) (subsec/energiapv.tex
-<figures/result/fig41-consumomod.png, id=1585, 971.63pt x 509.905pt>
+<figures/result/fig41-consumomod.png, id=1579, 971.63pt x 509.905pt>
 File: figures/result/fig41-consumomod.png Graphic file (type png)
 <use figures/result/fig41-consumomod.png>
 Package pdftex.def Info: figures/result/fig41-consumomod.png  used on input line 7.
 (pdftex.def)             Requested size: 455.24411pt x 238.90845pt.
  [83 <./figures/result/fig35-bloco7.png> <./figures/result/fig36-bloco7.png> <./figures/result/fig37-bloco8.png> <./figures/result/fig38-bloco8.png> <./figures/result/fig39-bloco9.png> <./figures/result/fig40-bloco9.png>]
-<figures/result/fig42-consumomod.png, id=1596, 1037.8775pt x 474.77374pt>
+<figures/result/fig42-consumomod.png, id=1590, 1037.8775pt x 474.77374pt>
 File: figures/result/fig42-consumomod.png Graphic file (type png)
 <use figures/result/fig42-consumomod.png>
 Package pdftex.def Info: figures/result/fig42-consumomod.png  used on input line 18.
 (pdftex.def)             Requested size: 455.24411pt x 208.24908pt.
  [84 <./figures/result/fig41-consumomod.png>]
-<figures/result/fig43-consumofinal.png, id=1602, 872.25874pt x 430.60875pt>
+<figures/result/fig43-consumofinal.png, id=1596, 872.25874pt x 430.60875pt>
 File: figures/result/fig43-consumofinal.png Graphic file (type png)
 <use figures/result/fig43-consumofinal.png>
 Package pdftex.def Info: figures/result/fig43-consumofinal.png  used on input line 28.
 (pdftex.def)             Requested size: 455.24411pt x 224.73915pt.
-<figures/result/fig44-consumofinal.png, id=1603, 874.26625pt x 435.6275pt>
+<figures/result/fig44-consumofinal.png, id=1597, 874.26625pt x 435.6275pt>
 File: figures/result/fig44-consumofinal.png Graphic file (type png)
 <use figures/result/fig44-consumofinal.png>
 Package pdftex.def Info: figures/result/fig44-consumofinal.png  used on input line 38.
 (pdftex.def)             Requested size: 455.24411pt x 226.84001pt.
- [85 <./figures/result/fig42-consumomod.png> <./figures/result/fig43-consumofinal.png>]) (subsec/viabilidadeeco.tex [86 <./figures/result/fig44-consumofinal.png>] [87] [88])) (sections/consideracoes.tex)
+ [85 <./figures/result/fig42-consumomod.png> <./figures/result/fig43-consumofinal.png>]) (subsec/viabilidadeeco.tex [86 <./figures/result/fig44-consumofinal.png>]
+
+LaTeX Warning: Reference `tab:17' on page 87 undefined on input line 38.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--74
+
+ []
+
+[87]
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+[88])) (sections/consideracoes.tex)
 Overfull \hbox (4.4606pt too wide) in paragraph at lines 2--68
 \OT1/bch/m/n/12 (-20) Por fim, a con-ti-nui-dade deste tra-ba-lho []e fun-da-men-tal para re-fi-nar os re-sul-ta-dos alcan[]ados,
  []
@@ -1789,13 +1858,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
  [92] [93] [94] [95] [96] [97] [98] [99] (sections/apendices.tex
-<figures/appendices/edificio01.png, id=1793, 617.30624pt x 904.5795pt>
+<figures/appendices/edificio01.png, id=1785, 617.30624pt x 904.5795pt>
 File: figures/appendices/edificio01.png Graphic file (type png)
 <use figures/appendices/edificio01.png>
 Package pdftex.def Info: figures/appendices/edificio01.png  used on input line 7.
 (pdftex.def)             Requested size: 409.71692pt x 600.406pt.
  [100] [101 <./figures/appendices/edificio01.png>]
-<figures/appendices/edificio02.jpg, id=1805, 395.514pt x 569.2905pt>
+<figures/appendices/edificio02.jpg, id=1797, 395.514pt x 569.2905pt>
 File: figures/appendices/edificio02.jpg Graphic file (type jpg)
 <use figures/appendices/edificio02.jpg>
 Package pdftex.def Info: figures/appendices/edificio02.jpg  used on input line 15.
@@ -1806,7 +1875,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 14--17
  []
 
 [102 <./figures/appendices/edificio02.jpg>]
-<figures/appendices/edificio03.jpg, id=1811, 395.1855pt x 595.5705pt>
+<figures/appendices/edificio03.jpg, id=1803, 395.1855pt x 595.5705pt>
 File: figures/appendices/edificio03.jpg Graphic file (type jpg)
 <use figures/appendices/edificio03.jpg>
 Package pdftex.def Info: figures/appendices/edificio03.jpg  used on input line 22.
@@ -1817,7 +1886,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 21--24
  []
 
 [103 <./figures/appendices/edificio03.jpg>]
-<figures/appendices/edificio04.jpg, id=1817, 398.4705pt x 605.4255pt>
+<figures/appendices/edificio04.jpg, id=1809, 398.4705pt x 605.4255pt>
 File: figures/appendices/edificio04.jpg Graphic file (type jpg)
 <use figures/appendices/edificio04.jpg>
 Package pdftex.def Info: figures/appendices/edificio04.jpg  used on input line 29.
@@ -1828,7 +1897,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 28--31
  []
 
 [104 <./figures/appendices/edificio04.jpg>]
-<figures/appendices/edificio05.jpg, id=1824, 408.3255pt x 621.1935pt>
+<figures/appendices/edificio05.jpg, id=1816, 408.3255pt x 621.1935pt>
 File: figures/appendices/edificio05.jpg Graphic file (type jpg)
 <use figures/appendices/edificio05.jpg>
 Package pdftex.def Info: figures/appendices/edificio05.jpg  used on input line 36.
@@ -1839,7 +1908,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 35--38
  []
 
 [105 <./figures/appendices/edificio05.jpg>]
-<figures/appendices/edificio06.jpg, id=1830, 409.6395pt x 631.0485pt>
+<figures/appendices/edificio06.jpg, id=1822, 409.6395pt x 631.0485pt>
 File: figures/appendices/edificio06.jpg Graphic file (type jpg)
 <use figures/appendices/edificio06.jpg>
 Package pdftex.def Info: figures/appendices/edificio06.jpg  used on input line 43.
@@ -1853,7 +1922,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 42--45
 Overfull \vbox (2.88643pt too high) has occurred while \output is active []
 
  [106 <./figures/appendices/edificio06.jpg>]
-<figures/appendices/edificio07.jpg, id=1836, 404.712pt x 589.6575pt>
+<figures/appendices/edificio07.jpg, id=1828, 404.712pt x 589.6575pt>
 File: figures/appendices/edificio07.jpg Graphic file (type jpg)
 <use figures/appendices/edificio07.jpg>
 Package pdftex.def Info: figures/appendices/edificio07.jpg  used on input line 50.
@@ -1864,7 +1933,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 49--52
  []
 
 [107 <./figures/appendices/edificio07.jpg>]
-<figures/appendices/edificio08.jpg, id=1842, 405.0405pt x 581.7735pt>
+<figures/appendices/edificio08.jpg, id=1834, 405.0405pt x 581.7735pt>
 File: figures/appendices/edificio08.jpg Graphic file (type jpg)
 <use figures/appendices/edificio08.jpg>
 Package pdftex.def Info: figures/appendices/edificio08.jpg  used on input line 57.
@@ -1875,7 +1944,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 56--59
  []
 
 [108 <./figures/appendices/edificio08.jpg>]
-<figures/appendices/edificio09.jpg, id=1848, 405.0405pt x 580.131pt>
+<figures/appendices/edificio09.jpg, id=1840, 405.0405pt x 580.131pt>
 File: figures/appendices/edificio09.jpg Graphic file (type jpg)
 <use figures/appendices/edificio09.jpg>
 Package pdftex.def Info: figures/appendices/edificio09.jpg  used on input line 64.
@@ -1886,7 +1955,7 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 63--66
  []
 
 [109 <./figures/appendices/edificio09.jpg>]
-<figures/appendices/edificio10.jpg, id=1854, 405.0405pt x 565.02pt>
+<figures/appendices/edificio10.jpg, id=1846, 405.0405pt x 565.02pt>
 File: figures/appendices/edificio10.jpg Graphic file (type jpg)
 <use figures/appendices/edificio10.jpg>
 Package pdftex.def Info: figures/appendices/edificio10.jpg  used on input line 71.
@@ -1896,270 +1965,441 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 70--73
  [][] 
  []
 
-<figures/appendices/tabela01.png, id=1855, 1315.91624pt x 2210.2575pt>
+<figures/appendices/tabela01.png, id=1847, 1315.91624pt x 2210.2575pt>
 File: figures/appendices/tabela01.png Graphic file (type png)
 <use figures/appendices/tabela01.png>
-Package pdftex.def Info: figures/appendices/tabela01.png  used on input line 79.
+Package pdftex.def Info: figures/appendices/tabela01.png  used on input line 80.
 (pdftex.def)             Requested size: 386.96027pt x 649.92932pt.
-[110 <./figures/appendices/edificio10.jpg>] [111]
-Overfull \vbox (2.64705pt too high) has occurred while \output is active []
+[110 <./figures/appendices/edificio10.jpg>]
+Overfull \vbox (13.67068pt too high) has occurred while \output is active []
 
- [112 <./figures/appendices/tabela01.png>]
-<figures/appendices/tabela02.png, id=1871, 1306.8825pt x 2237.35875pt>
+ [111 <./figures/appendices/tabela01.png>]
+<figures/appendices/tabela02.png, id=1859, 1306.8825pt x 2237.35875pt>
 File: figures/appendices/tabela02.png Graphic file (type png)
 <use figures/appendices/tabela02.png>
-Package pdftex.def Info: figures/appendices/tabela02.png  used on input line 87.
+Package pdftex.def Info: figures/appendices/tabela02.png  used on input line 88.
 (pdftex.def)             Requested size: 409.71692pt x 701.4261pt.
 
 Overfull \vbox (2.99306pt too high) has occurred while \output is active []
 
- [113 <./figures/appendices/tabela02.png>]
-<figures/appendices/tabela03.png, id=1878, 1315.91624pt x 2285.53876pt>
+ [112 <./figures/appendices/tabela02.png>]
+<figures/appendices/tabela03.png, id=1866, 1315.91624pt x 2285.53876pt>
 File: figures/appendices/tabela03.png Graphic file (type png)
 <use figures/appendices/tabela03.png>
-Package pdftex.def Info: figures/appendices/tabela03.png  used on input line 94.
+Package pdftex.def Info: figures/appendices/tabela03.png  used on input line 95.
 (pdftex.def)             Requested size: 409.71692pt x 711.61354pt.
 
 Overfull \vbox (13.1805pt too high) has occurred while \output is active []
 
- [114 <./figures/appendices/tabela03.png>]
-<figures/appendices/tabela04.png, id=1885, 1308.89pt x 1899.095pt>
+ [113 <./figures/appendices/tabela03.png>]
+<figures/appendices/tabela04.png, id=1873, 1308.89pt x 1899.095pt>
 File: figures/appendices/tabela04.png Graphic file (type png)
 <use figures/appendices/tabela04.png>
-Package pdftex.def Info: figures/appendices/tabela04.png  used on input line 101.
+Package pdftex.def Info: figures/appendices/tabela04.png  used on input line 102.
 (pdftex.def)             Requested size: 455.24411pt x 660.52042pt.
 
-Overfull \hbox (12.00002pt too wide) in paragraph at lines 100--103
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 101--104
  [][] 
  []
 
-<figures/appendices/tabela05.png, id=1886, 1407.2575pt x 2214.2725pt>
+<figures/appendices/tabela05.png, id=1874, 1407.2575pt x 2214.2725pt>
 File: figures/appendices/tabela05.png Graphic file (type png)
 <use figures/appendices/tabela05.png>
-Package pdftex.def Info: figures/appendices/tabela05.png  used on input line 109.
+Package pdftex.def Info: figures/appendices/tabela05.png  used on input line 110.
 (pdftex.def)             Requested size: 409.71692pt x 644.65662pt.
-[115 <./figures/appendices/tabela04.png>] [116 <./figures/appendices/tabela05.png>]
-<figures/appendices/tabela06.png, id=1899, 1403.2425pt x 2277.50874pt>
+[114 <./figures/appendices/tabela04.png>] [115 <./figures/appendices/tabela05.png>]
+<figures/appendices/tabela06.png, id=1886, 1403.2425pt x 2277.50874pt>
 File: figures/appendices/tabela06.png Graphic file (type png)
 <use figures/appendices/tabela06.png>
-Package pdftex.def Info: figures/appendices/tabela06.png  used on input line 117.
+Package pdftex.def Info: figures/appendices/tabela06.png  used on input line 118.
 (pdftex.def)             Requested size: 409.71692pt x 664.9784pt.
- [117 <./figures/appendices/tabela06.png>]
-<figures/appendices/tabela07.png, id=1906, 1409.265pt x 2270.4825pt>
+ [116 <./figures/appendices/tabela06.png>]
+<figures/appendices/tabela07.png, id=1894, 1409.265pt x 2270.4825pt>
 File: figures/appendices/tabela07.png Graphic file (type png)
 <use figures/appendices/tabela07.png>
-Package pdftex.def Info: figures/appendices/tabela07.png  used on input line 124.
+Package pdftex.def Info: figures/appendices/tabela07.png  used on input line 125.
 (pdftex.def)             Requested size: 409.71692pt x 660.08601pt.
- [118 <./figures/appendices/tabela07.png>]
-<figures/appendices/tabela08.png, id=1913, 1403.2425pt x 1854.93pt>
+ [117 <./figures/appendices/tabela07.png>]
+<figures/appendices/tabela08.png, id=1901, 1403.2425pt x 1854.93pt>
 File: figures/appendices/tabela08.png Graphic file (type png)
 <use figures/appendices/tabela08.png>
-Package pdftex.def Info: figures/appendices/tabela08.png  used on input line 131.
+Package pdftex.def Info: figures/appendices/tabela08.png  used on input line 132.
 (pdftex.def)             Requested size: 409.71692pt x 541.59544pt.
 ) (sections/anexos.tex
-<figures/attachments/resultpv1.jpg, id=1914, 389.601pt x 551.223pt>
+<figures/attachments/resultpv1.jpg, id=1902, 389.601pt x 551.223pt>
 File: figures/attachments/resultpv1.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv1.jpg>
 Package pdftex.def Info: figures/attachments/resultpv1.jpg  used on input line 7.
 (pdftex.def)             Requested size: 409.71692pt x 579.69281pt.
- [119 <./figures/appendices/tabela08.png>] [120 <./figures/attachments/resultpv1.jpg>]
-<figures/attachments/resultpv2.jpg, id=1925, 460.8855pt x 652.0725pt>
+ [118 <./figures/appendices/tabela08.png>] [119 <./figures/attachments/resultpv1.jpg>]
+<figures/attachments/resultpv2.jpg, id=1913, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv2.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv2.jpg>
 Package pdftex.def Info: figures/attachments/resultpv2.jpg  used on input line 15.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [121 <./figures/attachments/resultpv2.jpg>]
-<figures/attachments/resultpv3.jpg, id=1931, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 14--17
+ [][] 
+ []
+
+[120 <./figures/attachments/resultpv2.jpg>]
+<figures/attachments/resultpv3.jpg, id=1919, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv3.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv3.jpg>
 Package pdftex.def Info: figures/attachments/resultpv3.jpg  used on input line 22.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [122 <./figures/attachments/resultpv3.jpg>]
-<figures/attachments/resultpv4.jpg, id=1938, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 21--24
+ [][] 
+ []
+
+[121 <./figures/attachments/resultpv3.jpg>]
+<figures/attachments/resultpv4.jpg, id=1925, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv4.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv4.jpg>
 Package pdftex.def Info: figures/attachments/resultpv4.jpg  used on input line 29.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [123 <./figures/attachments/resultpv4.jpg>]
-<figures/attachments/resultpv5.jpg, id=1944, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 28--31
+ [][] 
+ []
+
+[122 <./figures/attachments/resultpv4.jpg>]
+<figures/attachments/resultpv5.jpg, id=1932, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv5.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv5.jpg>
 Package pdftex.def Info: figures/attachments/resultpv5.jpg  used on input line 36.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [124 <./figures/attachments/resultpv5.jpg>]
-<figures/attachments/resultpv6.jpg, id=1950, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 35--38
+ [][] 
+ []
+
+[123 <./figures/attachments/resultpv5.jpg>]
+<figures/attachments/resultpv6.jpg, id=1938, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv6.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv6.jpg>
 Package pdftex.def Info: figures/attachments/resultpv6.jpg  used on input line 43.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [125 <./figures/attachments/resultpv6.jpg>]
-<figures/attachments/resultpv7.jpg, id=1956, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 42--45
+ [][] 
+ []
+
+[124 <./figures/attachments/resultpv6.jpg>]
+<figures/attachments/resultpv7.jpg, id=1944, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv7.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv7.jpg>
 Package pdftex.def Info: figures/attachments/resultpv7.jpg  used on input line 50.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [126 <./figures/attachments/resultpv7.jpg>]
-<figures/attachments/resultpv8.jpg, id=1962, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 49--52
+ [][] 
+ []
+
+[125 <./figures/attachments/resultpv7.jpg>]
+<figures/attachments/resultpv8.jpg, id=1950, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv8.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv8.jpg>
 Package pdftex.def Info: figures/attachments/resultpv8.jpg  used on input line 57.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [127 <./figures/attachments/resultpv8.jpg>]
-<figures/attachments/resultpv9.jpg, id=1968, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 56--59
+ [][] 
+ []
+
+[126 <./figures/attachments/resultpv8.jpg>]
+<figures/attachments/resultpv9.jpg, id=1956, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv9.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv9.jpg>
 Package pdftex.def Info: figures/attachments/resultpv9.jpg  used on input line 64.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [128 <./figures/attachments/resultpv9.jpg>]
-<figures/attachments/resultpv10.jpg, id=1975, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 63--66
+ [][] 
+ []
+
+[127 <./figures/attachments/resultpv9.jpg>]
+<figures/attachments/resultpv10.jpg, id=1962, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv10.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv10.jpg>
 Package pdftex.def Info: figures/attachments/resultpv10.jpg  used on input line 71.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [129 <./figures/attachments/resultpv10.jpg>]
-<figures/attachments/resultpv11.jpg, id=1981, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 70--73
+ [][] 
+ []
+
+[128 <./figures/attachments/resultpv10.jpg>]
+<figures/attachments/resultpv11.jpg, id=1969, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv11.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv11.jpg>
 Package pdftex.def Info: figures/attachments/resultpv11.jpg  used on input line 78.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [130 <./figures/attachments/resultpv11.jpg>]
-<figures/attachments/resultpv12.jpg, id=1987, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 77--80
+ [][] 
+ []
+
+[129 <./figures/attachments/resultpv11.jpg>]
+<figures/attachments/resultpv12.jpg, id=1975, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv12.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv12.jpg>
 Package pdftex.def Info: figures/attachments/resultpv12.jpg  used on input line 85.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [131 <./figures/attachments/resultpv12.jpg>]
-<figures/attachments/resultpv13.jpg, id=1993, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 84--87
+ [][] 
+ []
+
+[130 <./figures/attachments/resultpv12.jpg>]
+<figures/attachments/resultpv13.jpg, id=1981, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv13.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv13.jpg>
 Package pdftex.def Info: figures/attachments/resultpv13.jpg  used on input line 92.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [132 <./figures/attachments/resultpv13.jpg>]
-<figures/attachments/resultpv14.jpg, id=1999, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 91--94
+ [][] 
+ []
+
+[131 <./figures/attachments/resultpv13.jpg>]
+<figures/attachments/resultpv14.jpg, id=1987, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv14.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv14.jpg>
 Package pdftex.def Info: figures/attachments/resultpv14.jpg  used on input line 99.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [133 <./figures/attachments/resultpv14.jpg>]
-<figures/attachments/resultpv15.jpg, id=2005, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 98--101
+ [][] 
+ []
+
+[132 <./figures/attachments/resultpv14.jpg>]
+<figures/attachments/resultpv15.jpg, id=1993, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv15.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv15.jpg>
 Package pdftex.def Info: figures/attachments/resultpv15.jpg  used on input line 106.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [134 <./figures/attachments/resultpv15.jpg>]
-<figures/attachments/resultpv16.jpg, id=2012, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 105--108
+ [][] 
+ []
+
+[133 <./figures/attachments/resultpv15.jpg>]
+<figures/attachments/resultpv16.jpg, id=1999, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv16.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv16.jpg>
 Package pdftex.def Info: figures/attachments/resultpv16.jpg  used on input line 113.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [135 <./figures/attachments/resultpv16.jpg>]
-<figures/attachments/resultpv17.jpg, id=2018, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 112--115
+ [][] 
+ []
+
+[134 <./figures/attachments/resultpv16.jpg>]
+<figures/attachments/resultpv17.jpg, id=2006, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv17.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv17.jpg>
 Package pdftex.def Info: figures/attachments/resultpv17.jpg  used on input line 120.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [136 <./figures/attachments/resultpv17.jpg>]
-<figures/attachments/resultpv18.jpg, id=2024, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 119--122
+ [][] 
+ []
+
+[135 <./figures/attachments/resultpv17.jpg>]
+<figures/attachments/resultpv18.jpg, id=2012, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv18.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv18.jpg>
 Package pdftex.def Info: figures/attachments/resultpv18.jpg  used on input line 127.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [137 <./figures/attachments/resultpv18.jpg>]
-<figures/attachments/resultpv19.jpg, id=2030, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 126--129
+ [][] 
+ []
+
+[136 <./figures/attachments/resultpv18.jpg>]
+<figures/attachments/resultpv19.jpg, id=2018, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv19.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv19.jpg>
 Package pdftex.def Info: figures/attachments/resultpv19.jpg  used on input line 134.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [138 <./figures/attachments/resultpv19.jpg>]
-<figures/attachments/resultpv20.jpg, id=2036, 460.8855pt x 652.0725pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 133--136
+ [][] 
+ []
+
+[137 <./figures/attachments/resultpv19.jpg>]
+<figures/attachments/resultpv20.jpg, id=2024, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv20.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv20.jpg>
 Package pdftex.def Info: figures/attachments/resultpv20.jpg  used on input line 141.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
-<figures/attachments/resultpv21.jpg, id=2037, 389.601pt x 551.223pt>
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 140--143
+ [][] 
+ []
+
+<figures/attachments/resultpv21.jpg, id=2025, 389.601pt x 551.223pt>
 File: figures/attachments/resultpv21.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv21.jpg>
-Package pdftex.def Info: figures/attachments/resultpv21.jpg  used on input line 149.
-(pdftex.def)             Requested size: 409.71692pt x 579.69281pt.
- [139 <./figures/attachments/resultpv20.jpg>] [140 <./figures/attachments/resultpv21.jpg>]
-<figures/attachments/resultpv22.jpg, id=2048, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv21.jpg  used on input line 150.
+(pdftex.def)             Requested size: 455.24411pt x 644.10405pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 149--153
+ [][] 
+ []
+
+[138 <./figures/attachments/resultpv20.jpg>]
+Overfull \vbox (25.4287pt too high) has occurred while \output is active []
+
+ [139 <./figures/attachments/resultpv21.jpg>]
+<figures/attachments/resultpv22.jpg, id=2035, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv22.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv22.jpg>
-Package pdftex.def Info: figures/attachments/resultpv22.jpg  used on input line 157.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [141 <./figures/attachments/resultpv22.jpg>]
-<figures/attachments/resultpv23.jpg, id=2054, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv22.jpg  used on input line 158.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 157--160
+ [][] 
+ []
+
+[140 <./figures/attachments/resultpv22.jpg>]
+<figures/attachments/resultpv23.jpg, id=2042, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv23.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv23.jpg>
-Package pdftex.def Info: figures/attachments/resultpv23.jpg  used on input line 164.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [142 <./figures/attachments/resultpv23.jpg>]
-<figures/attachments/resultpv24.jpg, id=2060, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv23.jpg  used on input line 165.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 164--167
+ [][] 
+ []
+
+[141 <./figures/attachments/resultpv23.jpg>]
+<figures/attachments/resultpv24.jpg, id=2048, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv24.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv24.jpg>
-Package pdftex.def Info: figures/attachments/resultpv24.jpg  used on input line 171.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [143 <./figures/attachments/resultpv24.jpg>]
-<figures/attachments/resultpv25.jpg, id=2066, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv24.jpg  used on input line 172.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 171--174
+ [][] 
+ []
+
+[142 <./figures/attachments/resultpv24.jpg>]
+<figures/attachments/resultpv25.jpg, id=2054, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv25.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv25.jpg>
-Package pdftex.def Info: figures/attachments/resultpv25.jpg  used on input line 178.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [144 <./figures/attachments/resultpv25.jpg>]
-<figures/attachments/resultpv26.jpg, id=2072, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv25.jpg  used on input line 179.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 178--181
+ [][] 
+ []
+
+[143 <./figures/attachments/resultpv25.jpg>]
+<figures/attachments/resultpv26.jpg, id=2060, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv26.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv26.jpg>
-Package pdftex.def Info: figures/attachments/resultpv26.jpg  used on input line 185.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [145 <./figures/attachments/resultpv26.jpg>]
-<figures/attachments/resultpv27.jpg, id=2078, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv26.jpg  used on input line 186.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 185--188
+ [][] 
+ []
+
+[144 <./figures/attachments/resultpv26.jpg>]
+<figures/attachments/resultpv27.jpg, id=2066, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv27.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv27.jpg>
-Package pdftex.def Info: figures/attachments/resultpv27.jpg  used on input line 192.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [146 <./figures/attachments/resultpv27.jpg>]
-<figures/attachments/resultpv28.jpg, id=2085, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv27.jpg  used on input line 193.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 192--195
+ [][] 
+ []
+
+[145 <./figures/attachments/resultpv27.jpg>]
+<figures/attachments/resultpv28.jpg, id=2072, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv28.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv28.jpg>
-Package pdftex.def Info: figures/attachments/resultpv28.jpg  used on input line 199.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [147 <./figures/attachments/resultpv28.jpg>]
-<figures/attachments/resultpv29.jpg, id=2091, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv28.jpg  used on input line 200.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 199--202
+ [][] 
+ []
+
+[146 <./figures/attachments/resultpv28.jpg>]
+<figures/attachments/resultpv29.jpg, id=2079, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv29.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv29.jpg>
-Package pdftex.def Info: figures/attachments/resultpv29.jpg  used on input line 206.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [148 <./figures/attachments/resultpv29.jpg>]
-<figures/attachments/resultpv30.jpg, id=2097, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv29.jpg  used on input line 207.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 206--209
+ [][] 
+ []
+
+[147 <./figures/attachments/resultpv29.jpg>]
+<figures/attachments/resultpv30.jpg, id=2085, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv30.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv30.jpg>
-Package pdftex.def Info: figures/attachments/resultpv30.jpg  used on input line 213.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [149 <./figures/attachments/resultpv30.jpg>]
-<figures/attachments/resultpv31.jpg, id=2103, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv30.jpg  used on input line 214.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 213--216
+ [][] 
+ []
+
+[148 <./figures/attachments/resultpv30.jpg>]
+<figures/attachments/resultpv31.jpg, id=2091, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv31.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv31.jpg>
-Package pdftex.def Info: figures/attachments/resultpv31.jpg  used on input line 220.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [150 <./figures/attachments/resultpv31.jpg>]
-<figures/attachments/resultpv32.jpg, id=2109, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv31.jpg  used on input line 221.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 220--223
+ [][] 
+ []
+
+[149 <./figures/attachments/resultpv31.jpg>]
+<figures/attachments/resultpv32.jpg, id=2097, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv32.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv32.jpg>
-Package pdftex.def Info: figures/attachments/resultpv32.jpg  used on input line 227.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [151 <./figures/attachments/resultpv32.jpg>]
-<figures/attachments/resultpv33.jpg, id=2115, 460.8855pt x 652.0725pt>
+Package pdftex.def Info: figures/attachments/resultpv32.jpg  used on input line 228.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 227--230
+ [][] 
+ []
+
+[150 <./figures/attachments/resultpv32.jpg>]
+<figures/attachments/resultpv33.jpg, id=2103, 460.8855pt x 652.0725pt>
 File: figures/attachments/resultpv33.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv33.jpg>
-Package pdftex.def Info: figures/attachments/resultpv33.jpg  used on input line 234.
-(pdftex.def)             Requested size: 409.71692pt x 579.68602pt.
- [152 <./figures/attachments/resultpv33.jpg>]
-<figures/attachments/resultpv34.jpg, id=2122, 442.818pt x 626.4495pt>
+Package pdftex.def Info: figures/attachments/resultpv33.jpg  used on input line 235.
+(pdftex.def)             Requested size: 455.24411pt x 644.1011pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 234--237
+ [][] 
+ []
+
+[151 <./figures/attachments/resultpv33.jpg>]
+<figures/attachments/resultpv34.jpg, id=2109, 442.818pt x 626.4495pt>
 File: figures/attachments/resultpv34.jpg Graphic file (type jpg)
 <use figures/attachments/resultpv34.jpg>
-Package pdftex.def Info: figures/attachments/resultpv34.jpg  used on input line 241.
-(pdftex.def)             Requested size: 409.71692pt x 579.6192pt.
-) [153 <./figures/attachments/resultpv34.jpg>] (main.aux)
+Package pdftex.def Info: figures/attachments/resultpv34.jpg  used on input line 242.
+(pdftex.def)             Requested size: 455.24411pt x 644.02664pt.
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 241--244
+ [][] 
+ []
+
+) [152 <./figures/attachments/resultpv34.jpg>] (main.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: A8B5B17123E3D1F00169511AD3CF99BB;12761.
 Package logreq Info: Writing requests to 'main.run.xml'.
@@ -2167,17 +2407,17 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 29700 strings out of 478927
- 522719 string characters out of 2852536
- 1312244 words of memory out of 3000000
+ 29709 strings out of 478927
+ 522776 string characters out of 2852536
+ 1310890 words of memory out of 3000000
  45997 multiletter control sequences out of 15000+600000
- 486971 words of font info for 414 fonts, out of 8000000 for 9000
+ 487963 words of font info for 422 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  77i,22n,117p,3806b,4233s stack positions out of 5000i,500n,10000p,200000b,80000s
  <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolB-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolE-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi480\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolF-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolA-Book.pk> <C:\Users\aaa_l\AppData\Local\MiKTeX\fonts/pk/ljfour/public/fdsymbol/dpi720\FdSymbolB-Book.pk>{C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/aaa_l/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on main.pdf (158 pages, 39080860 bytes).
+Output written on main.pdf (157 pages, 39079129 bytes).
 PDF statistics:
- 2326 PDF objects out of 2487 (max. 8388607)
- 442 named destinations out of 1000 (max. 500000)
+ 2314 PDF objects out of 2487 (max. 8388607)
+ 439 named destinations out of 1000 (max. 500000)
  80905 words of extra memory for PDF output out of 89155 (max. 10000000)
 

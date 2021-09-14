@@ -42,9 +42,10 @@ Os trabalhos de \textcite{Lamberts2006,AmericanSocietyofHeatingRefrigeratingandA
 \noindent As informações coletadas nos estudos e em levantamento formam a base conceitual para determinar os aspectos arquitetônicos relevantes para compor os modelos genéricos e, posteriormente, determinar os parâmetros de otimização e do consumo energético padrão aproximado para um edifício de escritório. Além disso, a quantidade de simulações necessárias para determinar o consumo de energia dos modelos genéricos é identificada por meio da organização dos dados coletados em campo e, assim, a resultante do número de variáveis.
 
 \subsubsection{Consumo de energia elétrica das edificações}
-\noindent O consumo de energia elétrica em edificações de escritório no Brasil é determinado principalmente por sua tipologia. As configurações predominantes no Brasil compreendem, em sua maioria, pequenas edificações, abaixo de 8 pavimentos, a edifícios grandes, acima de 15 pavimentos \cite{Carlo2008,Ramos2013,ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015,Fonseca2016}.\newline
-\noindent Correlacionado às tipologias arquitetônicas, os dados de consumo de energia, expressos em Intensidade de Uso de Energia – IUE, kWh/m²/ano, foram necessários para validação das simulações iniciais quanto ao consumo de energia esperado dos modelos. Visto que a calibração dos modelos genéricos não foi possível, pois eles não dispunham de memorial de massa como ferramenta de comparação ao consumo simulado computacionalmente, foram adotados como método de comparação os valores médios registrados no Relatório Final do CBCS (2015), como mostra o Histograma no Gráfico 5. Foi relacionado o consumo de energia das edificações levantadas à frequência de ocorrência da quantidade de pavimentos de edificações comerciais brasileiras e suas respectivas áreas comuns.\newline
-
+\begin{minipage}[H]{1\textwidth}
+    O consumo de energia elétrica em edificações de escritório no Brasil é determinado principalmente por sua tipologia. As configurações predominantes no Brasil compreendem, em sua maioria, pequenas edificações, abaixo de 8 pavimentos, a edifícios grandes, acima de 15 pavimentos \cite{Carlo2008,Ramos2013,ConselhoBrasileirodeConstrucaoSustentavel-CBCS2015,Fonseca2016}.\vspace*{0.3cm} \newline
+    Correlacionado às tipologias arquitetônicas, os dados de consumo de energia, expressos em Intensidade de Uso de Energia – IUE, kWh/m²/ano, foram necessários para validação das simulações iniciais quanto ao consumo de energia esperado dos modelos. Visto que a calibração dos modelos genéricos não foi possível, pois eles não dispunham de memorial de massa como ferramenta de comparação ao consumo simulado computacionalmente, foram adotados como método de comparação os valores médios registrados no Relatório Final do CBCS (2015), como mostra o Histograma no Gráfico 5. Foi relacionado o consumo de energia das edificações levantadas à frequência de ocorrência da quantidade de pavimentos de edificações comerciais brasileiras e suas respectivas áreas comuns.
+\end{minipage}
     \begin{graph}
         \par \small Gráfico 5 - Consumo energético em edificações de escritório brasileiras.
         \begin{minipage}[ht]{1\textwidth}\centering
@@ -77,42 +78,13 @@ Como o intuito do trabalho foi criar modelos genéricos que representassem minim
     \caption{Padrões de uso e ocupação}
     \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}llll}
         \hline
-        \textbf{Parâmetro}                                & \multicolumn{2}{c}{\textbf{Descrição}}                                                                                             & \textbf{Referências} \\ \hline
-        \multirow{2}{*}{Atividades}                       & \makecell[l]{Escritório:\vspace*{0,2cm}\\Fator metabólico:\vspace*{0,2cm}} & \makecell[l]{Leve\vspace*{0,2cm}\\0,9 met}                  & \makecell[l]{As salas de escritório da cidade\\
-                                                                                                                                                                                        são utilizadas, em sua maioria,\\ para 
-                                                                                                                                                                                        atividades especializadas de\\ âmbito 
-                                                                                                                                                                                        jurídico, relacionadas à \\construção 
-                                                                                                                                                                                        civil, a saúde e atividades\\ financeiras.} \\ \hline
-        \multicolumn{4}{c}{Continua}\\\hline
-    \end{tabular*}
-    \label{tab:tabela5}
-\end{table}\pagebreak
-
-\begin{table}[H]
-        \centering
-        \small
-        \begin{tabular*}{\columnwidth}{@{\extracolsep{\fill}}llll}
-        \hline
-        \multicolumn{4}{c}{Conclusão}\\\hline
-        \multirow{2}{*}{Horário de funcionamento}                          & \makecell[l]{Ocupação\\ total:\vspace*{0,2cm}\\Ocupação \\parcial (50\%):\vspace*{0,6cm}}  & \makecell[l]{8h às 12h; \\13h às 18h \vspace*{0,6cm}\\12h às 13h} & \makecell[l]{Segundo normas e pes-\\quisas
-                                                                                                                                                                                                                                                sobre o horário de\\ funcionamento de 
-                                                                                                                                                                                                                                                escri-\\tórios, o início da ocupa-\\ção se 
-                                                                                                                                                                                                                                                dá às 6h e pode se\\ estender até às 24h.\\ 
-                                                                                                                                                                                                                                                Entretanto, visando a\\ aproximação às 
-                                                                                                                                                                                                                                                condi-\\ções praticadas no\\ mercado brasileiro,\\ 
-                                                                                                                                                                                                                                                adota-se a redução\\ de ocupação durante\\ o 
-                                                                                                                                                                                                                                                horário de almoço, \\denominada ocupação\\ parcial.}  \\ \hline
-        Densidade de ocupação                             & \multicolumn{2}{c}{0,14 pessoas/m²} & \makecell[l]{(CONSELHO BRASILEIRO\\ DE CONSTRUÇÃO 
-                                                                                                  SUS-\\TENTÁVEL - CBCS, 2015;\\ LAMBERTS; 
-                                                                                                  GHISI;\\ RAMOS, 2006; MORAES;\\ PEREIRA, 2014).} \\ \hline
-        Temperatura de controle                           & \multicolumn{2}{c}{24°C}            & \makecell[l]{Temperatura limite de\\ acionamento
-                                                                                                  do sistema de\\ condicionamento de\\ ar (ASHRAE, 
-                                                                                                  2010, 2017a;\\ INMETRO, 2010a).} \\ \hline
-        \makecell[l]{Nível de iluminância\\ de referência}& \multicolumn{2}{c}{500 lux}         & \makecell[l]{Iluminância mínima (entor-\\no de 
-                                                                                                  trabalho) para ativi-\\dades visuais 
-                                                                                                  (ASHRAE,\\ 2010; ABNT, 2013).} \\ \hline
-        \makecell[l]{Umidade Relativa\\ Interna}          & \multicolumn{2}{c}{40\%-60\%}       & \makecell[l]{Faixa recomentada pela\\
-                                                                                                  ASHRAE 55 (2017a).}\\ \hline
+        \textbf{Parâmetro}                                & \multicolumn{2}{c}{\textbf{Descrição}}                                                                                                                          & \textbf{Referências} \\ \hline
+        \multirow{2}{*}{Atividades}                       & \makecell[l]{Escritório:\vspace*{0,2cm}\\Fator metabólico:\vspace*{0,2cm}} & \makecell[l]{Leve\vspace*{0,2cm}\\0,9 met}                                         & \makecell[{{p{5cm}}}]{As salas de escritório da cidade são utilizadas, em sua maioria, para atividades especializadas de âmbito jurídico, relacionadas à construção civil, a saúde e atividades financeiras.} \\ \hline
+        \multirow{2}{*}{Horário de funcionamento}         & \makecell[l]{Ocupação\\ total:\vspace*{0,2cm}\\Ocupação \\parcial (50\%):\vspace*{0,6cm}}  & \makecell[l]{8h às 12h; \\13h às 18h \vspace*{0,6cm}\\12h às 13h}  & \makecell[{{p{5cm}}}]{Segundo normas e pesquisas sobre o horário de funcionamento de escritórios, o início da ocupação se dá às 6h e pode se estender até às 24h. Entretanto, visando a aproximação às condições praticadas no mercado brasileiro, adota-se a redução de ocupação durante o horário de almoço, denominada ocupação parcial.}  \\ \hline
+        Densidade de ocupação                             & \multicolumn{2}{c}{0,14 pessoas/m²}                                                                                                                             & \makecell[{{p{5cm}}}]{(CONSELHO BRASILEIRO DE CONSTRUÇÃO SUSTENTÁVEL - CBCS, 2015; LAMBERTS; GHISI; RAMOS, 2006; MORAES; PEREIRA, 2014).} \\ \hline
+        Temperatura de controle                           & \multicolumn{2}{c}{24°C}                                                                                                                                        & \makecell[{{p{5cm}}}]{Temperatura limite de acionamento do sistema de condicionamento de ar (ASHRAE, 2010, 2017a; INMETRO, 2010a).} \\ \hline
+        \makecell[l]{Nível de iluminância\\ de referência}& \multicolumn{2}{c}{500 lux}                                                                                                                                     & \makecell[{{p{5cm}}}]{Iluminância mínima (entorno de trabalho) para atividades visuais (ASHRAE, 2010; ABNT, 2013).} \\ \hline
+        \makecell[l]{Umidade Relativa\\ Interna}          & \multicolumn{2}{c}{40\%-60\%}                                                                                                                                   & \makecell[{{p{5cm}}}]{Faixa recomentada pela ASHRAE 55 (2017a).}\\ \hline
     \end{tabular*}
     \begin{flushleft}
         \par \small Fonte: autor (2019).
