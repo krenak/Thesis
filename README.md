@@ -7,7 +7,14 @@ The energy consumption in using a building is growing in constant pace in the la
 
 ## Results
 The energy production results for this model showed the characteristics most important to provide greater energy generation, such as the façade area exposed to solar radiation and the relationship between the number of floors and floor area of the building. These results of energy production in relation to consumption, condensed in Figure 1, were important to indicate the potential of buildings with dimensions such as the model proposed generic.
-![Figure 1](https://github.com/krenak/Thesis/blob/master/figures/result/fig41-consumomod.png?raw=true),
+
+![figure 1](https://github.com/krenak/thesis/blob/master/figures/result/fig41-consumomod.png?raw=true "energy consumption in 8-storey building model")
+
+Also, it was visible the energy efficiency influence in 19-storey building, pictured in Figure 2.
+
+![figure 2](https://github.com/krenak/thesis/blob/master/figures/result/fig42-consumomod.png?raw=true "energy consumption in 19-storey building model")
+
+
 ## Conclusions
 
 ## Getting in touch
