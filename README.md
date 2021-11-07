@@ -16,6 +16,7 @@ Also, it was visible the energy efficiency influence in 19-storey building, pict
 
 
 ## Conclusions
+The Zero Energy concept has been gaining repercussion in the Brazilian scenario in the last few years, as this concept meets the frequent discussion about the need of diversification of the electrical matrix and the significant advance in the generation of solar energy photovoltaic in Brazil. These are realities that are increasingly closer to the consumer common. Symbolizing the importance of the theme about saving electricity Ministry of Mines and Energy, through an ordinance published in December of 2018, launches PROCEL's Annual Resource Application Plan (PAR-2018). In December 2019, the public call was published, as a result of PAR-2018. this call public describes the project “NZEB – Buildings Near Zero Energy Building” project, where the construction of four Near Zero Energy buildings in the territory is proposed in order to monitor and evaluate the applicability of the concept.
 
 ## Getting in touch
-
+In additions to these initial works, I maintain a small blog with miscellanea of data, discoveries and infos about coding and futher research in computational field. You can review my blog [here](https://www.andyfraga.net) or hit me up an [email](mailto:kaspa@onionmail.org).
